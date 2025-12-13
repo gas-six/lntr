@@ -1,438 +1,430 @@
 #--------------------------------       narr
 
 Lona/Group_disbanded
-\narr The group has disbanded.
+\narr กลุ่มได้ยุบไปแล้ว
 
 Lona/Follower_disbanded
-\narr Your companion has left your service.
+\narr เพื่อนร่วมทางของเธอได้จากไป
 
 Lona/FollowerExt_disbanded
-\narr Your follower has left.
+\narr ผู้ติดตามของเธอได้จากไป
 
 Lona/NarrDriveAway
-\narr You were kicked out!
+\narr เธอถูกไล่ออกไป!
 
 #================================     OPT
 
 Lona/Decide_optD
-\m[confused]\c[6]Lona：\c[0]    Mmmm? \optD[Cancel,Accept]
+\m[confused]\c[6]Lona：\c[0]    เอ๋? \optD[ยกเลิก,ยอมรับ]
 
 Lona/Decide_optB
-\m[confused]\c[6]Lona：\c[0]    Ummm? \optB[Cancel,Accept]
+\m[confused]\c[6]Lona：\c[0]    อืมมม? \optB[ยกเลิก,ยอมรับ]
 
 Lona/CompCommand
-\m[confused]\c[6]Lona：\c[0]    Huh?
+\m[confused]\c[6]Lona：\c[0]    ห๊ะ?
 
 Lona/EnterSub
-\m[confused]\c[6]Lona：\c[0]    Should I enter? \optB[Leave,Enter]
+\m[confused]\c[6]Lona：\c[0]    ฉันควรเข้าไปไหม? \optB[ออกไป,เข้าไป]
 
 Lona/SkipEv
-Skip event? \optD[Skip,Play it]
+ข้ามอีเวนต์ไหม? \optD[ข้าม,เล่นต่อ]
 
 ###################################################################     COMMON NAP RAPE
 #------------------------------------------------- Human
 
 Noer/NapRape_Human0
-\c[4]Passerby：\c[0]    The hell's a kid lying here for?
+\c[4]คนผ่านทาง：\c[0]    เหี้ยอะไรเนี่ย เด็กตัวแค่นี้มานอนตรงนี้ได้ไง?
 
 Noer/NapRape_Human1
-\c[4]Passerby：\c[0]    Heh heh, why is this little cutie just lying here?
+\c[4]คนผ่านทาง：\c[0]    เฮ่เฮ่ ทำไมเด็กน่ารัก ๆ แบบนี้ถึงมานอนทิ้งตัวอยู่ตรงนี้ล่ะ?
 
 Noer/NapRape1_Human
-\c[4]Passerby：\c[0]    Eh-heh...
+\c[4]คนผ่านทาง：\c[0]    เอ๊ะ-เฮ่...
 
 Noer/NapRape2_Human
-\narr Lona was carried away...
+\narr Lona ถูกอุ้มไป...
 
 Noer/NapRape3_Human0
-\c[4]Passerby：\c[0]    It's alright, I'm only askin' ya to help me clean my cock! Ain't ya able do this?!
+\c[4]คนผ่านทาง：\c[0]    ไม่เป็นไรหรอก กูแค่อยากให้มึงช่วยทำความสะอาดควยกูหน่อย! มึงทำไม่ได้เหรอ?!
 
 Noer/NapRape3_Human1
-\c[4]Passerby：\c[0]    You awake now? Why not help uncle here have a good time?!
+\c[4]คนผ่านทาง：\c[0]    ตื่นแล้วเหรอ? มาช่วยลุงหาความสุขหน่อยสิ!
 
 Noer/NapRape3_Human2
-\c[4]Passerby：\c[0]    Stop fuckin' around! I'm gonna fuck da shit outta ya!
-
-
+\c[4]คนผ่านทาง：\c[0]    เลิกเถียงซะ! กูจะเย็ดมึงให้เละเลย!
 
 Noer/NapRape_Moot0
-\c[4]Passerby：\c[0]    The fuck's a kid lying around 'ere for?
+\c[4]คนผ่านทาง：\c[0]    เหี้ยเอ๊ย เด็กนี่มานอนตรงนี้ได้ไงวะ?
 
 Noer/NapRape_Moot1
-\c[4]Passerby：\c[0]    Hehehe! Why's a lil' cutie lying here all alone?
+\c[4]คนผ่านทาง：\c[0]    เฮ่เฮ่เฮ่! ทำไมเด็กน้อยน่ารักถึงมานอนคนเดียวแบบนี้ล่ะ?
 
 Noer/NapRape1_Moot
-\c[4]Passerby：\c[0]    Ah-Haha! Haaff...
+\c[4]คนผ่านทาง：\c[0]    อ๊า-ฮ่าฮ่า! ฮ๊าฟฟฟ...
 
 Noer/NapRape2_Moot
-\narr Lona was carried away...
+\narr Lona ถูกอุ้มไป...
 
 Noer/NapRape3_Moot0
-\c[4]Passerby：\c[0]    Such a cute girlie! My cock's gonna fuck you up! Stupid whore!!
+\c[4]คนผ่านทาง：\c[0]    เด็กผู้หญิงน่ารักขนาดนี้! ควยกูจะเย็ดมึงให้พังเลย อีกระหรี่โง่ๆ!!
 
 Noer/NapRape3_Moot1
-\c[4]Passerby：\c[0]    Oh? The bitch is just now waking up?
+\c[4]คนผ่านทาง：\c[0]    โอ้? อีตัวนี้เพิ่งตื่นเหรอ?
 
 Noer/NapRape3_Moot2
-\c[4]Passerby：\c[0]    Can't wait... Real pussy... Rape! Rape dis stupid bitch!
-
-
-
+\c[4]คนผ่านทาง：\c[0]    รอไม่ไหวแล้ว... รูหีจริง ๆ ... ข่มขืน! ข่มขืนอีตัวโง่ ๆ นี้ซะ!
 
 Noer/NapRape_withSta_Fight2_Human0
-\c[4]Passerby：\c[0]    Looks like ya wanna fuckin' die! Huh?!
+\c[4]คนผ่านทาง：\c[0]    ดูเหมือนมึงอยากตายชัด ๆ เลยนะ?!
 
 Noer/NapRape_withSta_Fight2_Human1
-\c[4]Passerby：\c[0]    \{This bitch fuckin' serious?!
+\c[4]คนผ่านทาง：\c[0]    \{อีตัวนี้มันจริงจังเหรอ?!
 
 Noer/NapRape_withSta_Fight2_Human2
-\c[4]Passerby：\c[0]    \{You seriously tryin' ta escape?!
+\c[4]คนผ่านทาง：\c[0]    \{มึงพยายามหนีจริง ๆ เหรอ?!
 
 Noer/NapRape_withSta_NoFight2_Human0
-\m[sad]\c[4]Passerby：\c[0]    Huh! Huh! Huh! ♥
+\m[sad]\c[4]คนผ่านทาง：\c[0]    ฮะ! ฮะ! ฮะ! ♥
 
 Noer/NapRape_withSta_NoFight2_Human1
-\m[sad]\c[4]Passerby：\c[0]    Hah... Hah... Hah...♥
+\m[sad]\c[4]คนผ่านทาง：\c[0]    ฮ่า... ฮ่า... ฮ่า...♥
 
 Noer/NapRape_withSta_NoFight2_Human2
-\m[sad]\c[4]Passerby：\c[0]    Good girl! ♥
-
-#moot.   same like human,  but nibba
+\m[sad]\c[4]คนผ่านทาง：\c[0]    เด็กดี! ♥
 
 Noer/NapRape_withSta_Fight2_Moot0
-\c[4]Passerby：\c[0]    You fackin' WHORE! YA WANNA DIE?!
+\c[4]คนผ่านทาง：\c[0]    มึงอีกระหรี่! อยากตายเหรอ?!
 
 Noer/NapRape_withSta_Fight2_Moot1
-\c[4]Passerby：\c[0]    \{YA WANT ME TO FUCK YOU UP?! HUH?!
+\c[4]คนผ่านทาง：\c[0]    \{มึงอยากให้กูเย็ดมึงให้เละเหรอ?! ห๊ะ?!
 
 Noer/NapRape_withSta_Fight2_Moot2
-\c[4]Passerby：\c[0]    \{DA HELL ARE YER DOING?! FACK!
+\c[4]คนผ่านทาง：\c[0]    \{ทำเหี้ยอะไรเนี่ย?! เหี้ยเอ๊ย!
 
 Noer/NapRape_withSta_NoFight2_Moot0
-\m[sad]\c[4]Passerby：\c[0]    Hoo heehee... ♥
+\m[sad]\c[4]คนผ่านทาง：\c[0]    ฮู้ ฮี่ฮี่ฮี่... ♥
 
 Noer/NapRape_withSta_NoFight2_Moot1
-\m[sad]\c[4]Passerby：\c[0]    Ah hahaha! ♥
+\m[sad]\c[4]คนผ่านทาง：\c[0]    อ๊า ฮ่าฮ่าฮ่า! ♥
 
 Noer/NapRape_withSta_NoFight2_Moot2
-\m[sad]\c[4]Passerby：\c[0]    Dat's right bitch... ♥
+\m[sad]\c[4]คนผ่านทาง：\c[0]    ใช่เลยอีตัว... ♥
 
 #------------------------------------------------- Fishkind
 
 Noer/NapRape_Fishkind0
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Geeeh? A female!
+\SndLib[FishkindSmSpot]\c[4]มนุษย์ปลา：\c[0]    กี๊ะ? ผู้หญิง!
 
 Noer/NapRape_Fishkind1
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Gooh gooh... A female... Breeding...
+\SndLib[FishkindSmSpot]\c[4]มนุษย์ปลา：\c[0]    กู๊ กู๊... ผู้หญิง... ผสมพันธุ์...
 
 Noer/NapRape1_Fishkind
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Guah?!
+\SndLib[FishkindSmSpot]\c[4]มนุษย์ปลา：\c[0]    กว๊า?!
 
 Noer/NapRape2_Fishkind
-\narr Lona was dragged away...
+\narr Lona ถูกฉุดลากไป...
 
 Noer/NapRape3_Fishkind0
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    A female...! I want to... Mate!!!
+\SndLib[FishkindSmSpot]\c[4]มนุษย์ปลา：\c[0]    ผู้หญิง...! กูอยาก... ผสมพันธุ์!!!
 
 Noer/NapRape3_Fishkind1
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Girl...! Fuck her pussy!
+\SndLib[FishkindSmSpot]\c[4]มนุษย์ปลา：\c[0]    เด็กผู้หญิง...! เย็ดรูหีเธอ!
 
 Noer/NapRape3_Fishkind2
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Lay eggs inside...! Pregnant!
+\SndLib[FishkindSmSpot]\c[4]มนุษย์ปลา：\c[0]    วางไข่ข้างใน...! ตั้งท้อง!
 
 Noer/NapRape_withSta_Fight2_Fishkind0
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    \{Resisting...? Graah! Kill her!!!
+\SndLib[FishkindSmSpot]\c[4]มนุษย์ปลา：\c[0]    \{ขัดขืน...? กร๊า! ฆ่าเธอ!!!
 
 Noer/NapRape_withSta_Fight2_Fishkind1
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    \{Guah guu! Hit her! Kill girl!
+\SndLib[FishkindSmSpot]\c[4]มนุษย์ปลา：\c[0]    \{กว๊า กู๊! ตีเธอ! ฆ่าเด็กผู้หญิง!
 
 Noer/NapRape_withSta_Fight2_Fishkind2
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    \{Guah! Mate with dead body!
+\SndLib[FishkindSmSpot]\c[4]มนุษย์ปลา：\c[0]    \{กว๊า! ผสมพันธุ์กับศพ!
 
 Noer/NapRape_withSta_NoFight2_Fishkind0
-\SndLib[FishkindSmSpot]\m[sad]\c[4]Fishman：\c[0]    Goo! Hoo! Hoo! ♥
+\SndLib[FishkindSmSpot]\m[sad]\c[4]มนุษย์ปลา：\c[0]    กู๊! ฮู้! ฮู้! ♥
 
 Noer/NapRape_withSta_NoFight2_Fishkind1
-\SndLib[FishkindSmSpot]\m[sad]\c[4]Fishman：\c[0]    Guah...! Guah! ♥
+\SndLib[FishkindSmSpot]\m[sad]\c[4]มนุษย์ปลา：\c[0]    กว๊า...! กว๊า! ♥
 
 Noer/NapRape_withSta_NoFight2_Fishkind2
-\SndLib[FishkindSmSpot]\m[sad]\c[4]Fishman：\c[0]    Mate...! Pussy! ♥
+\SndLib[FishkindSmSpot]\m[sad]\c[4]มนุษย์ปลา：\c[0]    ผสมพันธุ์...! รูหี! ♥
 
 #------------------------------------------------- Lona
 
 Lona/NapRape3
-\Bon[20]\m[tired]\c[6]Lona：\c[0]    Eeeh?!
-\Bon[20]\m[fear]\Rshake\c[6]Lona：\c[0]    Stop! What are you doing?!
+\Bon[20]\m[tired]\c[6]Lona：\c[0]    เอ๋?!
+\Bon[20]\m[fear]\Rshake\c[6]Lona：\c[0]    หยุด! นายกำลังทำอะไร?!
 
 Lona/NapRape_withSta
-\optD[Submit<t=3>,Resist]
+\optD[ยอม<t=3>,ขัดขืน]
 
 Lona/NapRape_withSta_Fight1_typical
-\Bon[5]\m[shocked]\Rshake\c[6]Lona：\c[0]    Get away from me!
+\Bon[5]\m[shocked]\Rshake\c[6]Lona：\c[0]    อย่ามาใกล้ฉัน!
 
 Lona/NapRape_withSta_Fight1_slut
-\Bon[8]\m[flirty]\c[6]Lona：\c[0]    Ara ara...~ Not in the mood right nooow...
+\Bon[8]\m[flirty]\c[6]Lona：\c[0]    อารา อารา...~ ตอนนี้ไม่ค่อยอยากนะ...
 
 Lona/NapRape_withSta_Fight1_tsundere
-\Bon[20]\m[irritated]\Rshake\c[6]Lona：\c[0]    No! Don't fucking touch me!!
+\Bon[20]\m[irritated]\Rshake\c[6]Lona：\c[0]    ไม่! อย่าแตะต้องตัวฉันเดี๋ยวนี้!!
 
 Lona/NapRape_withSta_Fight1_gloomy
-\Bon[20]\m[terror]\Rshake\c[6]Lona：\c[0]    Kyaaah!!!
+\Bon[20]\m[terror]\Rshake\c[6]Lona：\c[0]    กรี๊ดดด!!!
 
 Lona/NapRape_withSta_NoFight1_typical
-\Bon[8]\m[sad]\c[6]Lona：\c[0]    N-No...
+\Bon[8]\m[sad]\c[6]Lona：\c[0]    มะ...ไม่...
 
 Lona/NapRape_withSta_NoFight1_slut
-\Bon[4]\m[lewd]\c[6]Lona：\c[0]    I... I submit...~ ♥
+\Bon[4]\m[lewd]\c[6]Lona：\c[0]    ฉัน... ฉันยอม...~ ♥
 
 Lona/NapRape_withSta_NoFight1_tsundere
-\Bon[5]\m[sad]\c[6]Lona：\c[0]    S-Shit...!
+\Bon[5]\m[sad]\c[6]Lona：\c[0]    เชี่ยเอ๊ย...!
 
 Lona/NapRape_withSta_NoFight1_gloomy
-\Bon[6]\m[fear]\c[6]Lona：\c[0]    D-Don't hurt me... *Sob* P...Please...
+\Bon[6]\m[fear]\c[6]Lona：\c[0]    อย่า...ทำร้ายฉัน... *สะอื้น* ขอร้อง...
 
 Lona/NapRape_noSta
-\Bon[8]\m[tired]\c[6]Lona：\c[0]    Nnnighnnn...
+\Bon[8]\m[tired]\c[6]Lona：\c[0]    อื้ดดดด...
 
-#--------             ---寄生蟲
+#--------             ---ปรสิต
 
 Lona/PooMoonWorm
-\narr The larvae wriggles out of her anus! Lona's rectum suffers a lot of damage.
+\narr ตัวอ่อนดิ้นออกมาจากรูตูดเธอ! ทวารหนักของ Lona เสียหายหนัก
 
 Lona/PeePotWorm
-\narr The larvae crawls out of her pee hole! Lona's urethra suffers a lot of damage.
+\narr ตัวอ่อนคลานออกมาจากรูฉี่เธอ! ท่อปัสสาวะของ Lona เสียหายหนัก
 
 Lona/PukeHook
-\narr Lona's vomit was full of hookworms.
+\narr อาเจียนของ Lona เต็มไปด้วยพยาธิปากขอ
 
 Lona/OgrasmPolyp
-\narr Lona's vaginal contractions push out the matured parasite eggs.
+\narr การหดเกร็งของรูหี Lona ดันไข่ปรสิตที่โตแล้วออกมา
 
 Lona/BirthedWorms
-\narr The Newborn Parasite begins looking for new hosts.
+\narr ปรสิตตัวใหม่เริ่มมองหาโฮสต์ใหม่
 
 Lona/ParasiteHit_polyp
-\m[p5shame]\cg[event_PolypWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    It huurts!
-\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{ A-AHHH!
-\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    \{Something crawled inside of me!
+\m[p5shame]\cg[event_PolypWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    เจ็บจี๊ดดด!
+\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{ อ๊า-อ๊ากกก!
+\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    \{มีอะไรคลานเข้าไปข้างในฉัน!
 
 Lona/ParasiteHit_hook
-\m[p5shame]\cg[event_HookWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    \{*sob*
-\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    *sob* *sob* *sob*
-\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{ Ugh... *cough*
+\m[p5shame]\cg[event_HookWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    \{*สะอื้น*
+\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    *สะอื้น* *สะอื้น* *สะอื้น*
+\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{ อึก... *ไอ*
 
 Lona/ParasiteHit_pot
-\m[p5shame]\cg[event_PotWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    NO! Don't go inside! I pee from there!
-\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    Nighahh! I-It's gonna break!!
-\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{KYAAAH!!!
+\m[p5shame]\cg[event_PotWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    ไม่! อย่าเข้าไป! ฉันฉี่จากตรงนั้น!
+\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    อ๊ากกก! มันจะแตกแล้ว!!
+\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{กรี๊ดดดด!!!
 
 Lona/ParasiteHit_moon
-\m[p5shame]\cg[event_MoonWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    STOP! N-Not inside my butthole!
-\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    Nighahh! I-It's gonna break!!
-\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{YIIIAAAH!!
+\m[p5shame]\cg[event_MoonWorm]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    หยุด! มะ-ไม่ใช่รูตูดฉัน!
+\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    อ๊ากกก! มันจะแตกแล้ว!!
+\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{ยี๊ดดดดด!!
 
 Lona/Parasite_Wakeup
-The parasite in Lona's stomach constantly squirms around.
-\m[p5shame]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    N-Nnnoooh! Ninngh... *GASP*!
-\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    KYAAAH!!!
-\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{Guuuh...!
-\m[pain]\c[6]Lona：\c[0]    *Haff*... *Huff*... It's not working.
-\m[sad]\c[6]Lona：\c[0]    Have to hurry... And get it out...
+ปรสิตในท้องของ Lona ดิ้นพล่านตลอดเวลา
+\m[p5shame]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    ม-ไม่นะ! อื้ดดด... *หอบ*!
+\m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    กรี๊ดดด!!!
+\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{กู้ห์...!
+\m[pain]\c[6]Lona：\c[0]    *หอบ*... *หอบ*... มันไม่ยอมออกมา
+\m[sad]\c[6]Lona：\c[0]    ต้องรีบ... แล้วกำจัดมันออกไป...
 
-#---------------------------------------------------------------------------when overweight
+#---------------------------------------------------------------------------เมื่อน้ำหนักเกิน
 
 Lona/overweight
-\m[pain]\c[6]Lona：\c[0]    Ooof! T-Too heavy! I'm carrying way too many items!
-\m[tired]\c[6]Lona：\c[0]    I should throw away anything that I don't need...
+\m[pain]\c[6]Lona：\c[0]    อ๊ะ! หนักเกินไป! ฉันแบกของเยอะเกิน!
+\m[tired]\c[6]Lona：\c[0]    ฉันควรทิ้งของที่ไม่จำเป็นไปบ้าง...
 
-#---------------------------------------------------------------------------When cuff is on
+#---------------------------------------------------------------------------เมื่อใส่กุญแจมือ
 
 Lona/cuff_on_normal
-\m[bereft]\c[6]Lona：\c[0]    Don't do this! Let me go!
+\m[bereft]\c[6]Lona：\c[0]    อย่าทำแบบนี้! ปล่อยฉัน!
 
 Lona/cuff_on_slut
-\m[triumph]\c[6]Lona：\c[0]    This-This must be a joke!
+\m[triumph]\c[6]Lona：\c[0]    นี่-นี่มันต้องล้อเล่นแน่ ๆ !
 
 Lona/cuff_on_tsun
-\m[shocked]\c[6]Lona：\c[0]    Damn it! Won't budge!
+\m[shocked]\c[6]Lona：\c[0]    เชี่ยเอ๊ย! ปลดไม่ออก!
 
 Lona/cuff_on_weak
-\m[sad]\c[6]Lona：\c[0]    Please... N-No! D-Don't do this...
+\m[sad]\c[6]Lona：\c[0]    ขอร้อง... ม-ไม่! อย่าทำแบบนี้...
 
 Lona/cuff_on_mouth_block
-\m[bereft]\c[6]Lona：\c[0]    Mmmph! Mrrmmph!!
+\m[bereft]\c[6]Lona：\c[0]    อืมมม! มรร์มมม!!
 
 Lona/cuff_on_overfatigue
-\m[tired]\c[6]Lona：\c[0]    *Huff*... *Haff*...
+\m[tired]\c[6]Lona：\c[0]    *หอบ*... *หอบ*...
 
-###-------when cuff is on , day passed -----------------
-#--------------------------------------------------------------------------when 穴內放尿
+###-------เมื่อใส่กุญแจมือ แล้วเวลาผ่านไปหนึ่งวัน -----------------
+#--------------------------------------------------------------------------เมื่อฉี่ในรู
 
 narrator/peein_mouth
-\Rshake The thick meat-stick twitched intensely inside Lona's mouth.
-\Rshake The sour urine flows into Lona's throat. Her small mouth could not hold it all in as piss began pouring out of her lips.
-\Rshake The pungent odor traveled straight from her nose to her brain, numbing her thoughts.
+\Rshake หัวควยหนา ๆ ดิ้นกระตุกแรงในปากของ Lona
+\Rshake ปัสสาวะรสเค็มไหลเข้าคอเธอ ปากเล็ก ๆ ของเธอจุไม่หมด ฉี่เลยล้นออกจากริมฝีปาก
+\Rshake กลิ่นฉุนเดินทางตรงจากจมูกไปสมอง ทำให้ความคิดเธอชาไปหมด
 
 narrator/peein_vag
-\Rshake The thick meat-stick penetrated in Lona's vagina began to twitch.
-\Rshake The smelly urine gushes into Lona's womb, the warm liquid inside her vagina causes Lona to tremble all over.
-\Rshake The overflowing urine flows out of her pussy and begins dripping onto the floor.
+\Rshake หัวควยหนา ๆ ที่เสียบในรูหีของ Lona เริ่มกระตุก
+\Rshake ฉี่เหม็น ๆ พุ่งเข้าสู่มดลูกของ Lona ของเหลวอุ่น ๆ ในรูหีทำให้เธอตัวสั่นไปทั้งตัว
+\Rshake ฉี่ที่ล้นออกมาไหลจากรูหีลงพื้น
 
 narrator/peein_anal
-\Rshake The thick meat-stick deep inside Lona's asshole began to twitch.
-\Rshake The putrid urine pours into Lona's intestines, the warm liquid inside her stomach causes her to convulse.
-\Rshake The overflowing urine flows down her groin, forming a puddle on the floor.
+\Rshake หัวควยหนา ๆ ที่ลึกในรูตูดของ Lona เริ่มกระตุก
+\Rshake ฉี่เน่า ๆ เทลงในลำไส้ของ Lona ของเหลวอุ่น ๆ ในท้องทำให้เธอชักกระตุก
+\Rshake ฉี่ที่ล้นไหลลงตามขาหนีบ กลายเป็นแอ่งบนพื้น
 
-#--------------------------------------------------------------------------Orgasm addiction
+#--------------------------------------------------------------------------ติดการเสียวน้ำแตก
 
 Lona/Ograsm_addiction_add_a_level
-\narr\m[shy]\c[4]Lona's body gradually became dependant on the pleasures of orgasm.
+\narr\m[shy]\c[4]ร่างกายของ Lona ค่อย ๆ ติดใจความเสียวตอนน้ำแตก
 
 Lona/Ograsm_addiction_almost
-\narr\m[pain]\c[4]A strong desire for sex prevented Lona from focusing.
-\narrOFF\m[shy]\c[6]Lona：\c[0]    I... I really want to have sex...
+\narr\m[pain]\c[4]ความอยากเย็ดอย่างแรงทำให้ Lona จดจ่ออะไรไม่ได้
+\narrOFF\m[shy]\c[6]Lona：\c[0]    ฉัน... ฉันอยากเย็ดจัง...
 
 Lona/Ograsm_addiction_overLv1
-\narr\m[fear]\Rshake\c[4]Lona's mind is filled with nothing else but the thought of sex.
-\narrOFF\m[sexhurt]\c[6]Lona：\c[0]    Haaah... My body feels sooo hot.~
+\narr\m[fear]\Rshake\c[4]สมองของ Lona เต็มไปด้วยเรื่องเย็ดอย่างเดียว
+\narrOFF\m[sexhurt]\c[6]Lona：\c[0]    ฮ๊า... ร่างกายฉันร้อนไปหมดเลย~
 
 Lona/Ograsm_addiction_overLv2
-\narr\m[sexhurt]\Rshake\c[4]Lona doesn't want to do anything else but have sex now...
-\narrOFF\m[p5shame]\Rshake\c[6]Lona：\c[0]    Mmnnn...~
-\m[sexhurt]\Rshake\c[6]Lona：\c[0]    No way... It feels so hot down there...~ ♥
+\narr\m[sexhurt]\Rshake\c[4]Lona ไม่อยากทำอะไรนอกจากเย็ดแล้ว...
+\narrOFF\m[p5shame]\Rshake\c[6]Lona：\c[0]    อืมมม...~
+\m[sexhurt]\Rshake\c[6]Lona：\c[0]    ไม่ไหวแล้ว... ข้างล่างร้อนผ่าวไปหมด...~ ♥
 
 Lona/Ograsm_addiction_overLv3
-\narr\m[terror]\Rshake\c[4]The desire for the pleasure of flesh overtakes Lona. She feels like she's about to go insane!
-\narrOFF\m[sexhurt]\Rshake\c[6]Lona：\c[0]    Ahhh... *Haff*... Sa-Save me!~
-\m[p5shame]\Rshake\c[6]Lona：\c[0]    AHHHNN!!! Anyone will be fine!~
-\m[hurt]\c[6]Lona：\c[0]    ......Anyone will do!~ ♥
-\m[sexhurt]\c[6]Lona：\c[0]    Please...! Someone p-please hurry and fuck me! Fuck me! I need sex!!!~ ♥
+\narr\m[terror]\Rshake\c[4]ความอยากความเสียวของเนื้อหนังครอบงำ Lona เธอรู้สึกเหมือนจะบ้าตาย!
+\narrOFF\m[sexhurt]\Rshake\c[6]Lona：\c[0]    อ๊า... *หอบ*... ช่วยฉันด้วย!~
+\m[p5shame]\Rshake\c[6]Lona：\c[0]    อ๊ากกก!!! ใครก็ได้!~
+\m[hurt]\c[6]Lona：\c[0]    ......ใครก็ได้!~ ♥
+\m[sexhurt]\c[6]Lona：\c[0]    ขอร้อง...! ใครก็ได้รีบเย็ดฉันที! เย็ดฉัน! ฉันต้องการเย็ด!!!~ ♥
 
-#--------------------------------------------------------------------------Semen addiction
+#--------------------------------------------------------------------------ติดน้ำว่าว
 
 Lona/Semen_addiction_add_a_level
-\narr\m[pain]\c[4]Lona's body gradually became dependant on consuming semen.
+\narr\m[pain]\c[4]ร่างกายของ Lona ค่อย ๆ ติดการกินน้ำว่าว
 
 Lona/Semen_addiction_almost
-\narr\m[pain]\c[4]A strong desire for semen prevented Lona from focusing.
-\narrOFF\m[fear]\c[6]Lona：\c[0]    I... I need semen... Otherwise I won't last much longer...
+\narr\m[pain]\c[4]ความอยากน้ำว่าวอย่างแรงทำให้ Lona จดจ่ออะไรไม่ได้
+\narrOFF\m[fear]\c[6]Lona：\c[0]    ฉัน... ฉันต้องการน้ำว่าว... มิฉะนั้นฉันอยู่ไม่ไหวแล้ว...
 
 Lona/Semen_addiction_overLv1
-\narr\m[fear]\Rshake\c[4]Lona's need for semen made it hard for her to swallow.
-\narrOFF\m[sexhurt]\c[6]Lona：\c[0]    *Gulp* Need... I need sperm... Somebody...
+\narr\m[fear]\Rshake\c[4]ความต้องการน้ำว่าวทำให้ Lona กลืนน้ำลายลำบาก
+\narrOFF\m[sexhurt]\c[6]Lona：\c[0]    *กลืน* ต้องการ... ฉันต้องการน้ำควย... ใครสักคน...
 
 Lona/Semen_addiction_overLv2
-\narr\m[sexhurt]\Rshake\c[4]Lona's need for semen made it hard to swallow even her saliva...
-\narrOFF\m[p5shame]\Rshake \c[6]Lona：\c[0]    Nnnigh... *Gasp*
-\m[hurt]\Rshake\c[6]Lona：\c[0]    N-No way... I'm... going to die... If I don't get some cum inside me.
+\narr\m[sexhurt]\Rshake\c[4]ความต้องการน้ำว่าวทำให้ Lona กลืนแม้แต่น้ำลายตัวเองลำบาก...
+\narrOFF\m[p5shame]\Rshake \c[6]Lona：\c[0]    อื้ดด... *หอบ*
+\m[hurt]\Rshake\c[6]Lona：\c[0]    มะ-ไม่ไหว... ฉัน... จะตาย... ถ้าไม่ได้น้ำว่าวเข้าไปในตัว
 
 Lona/Semen_addiction_overLv3
-\narr\m[terror]\Rshake\c[4]Lona's need for semen made it hard to swallow anything at all. She was losing her mind!
-\narrOFF\m[sexhurt]\Rshake\c[6]Lona：\c[0]    Guuuh... *Gasp*
-\m[p5shame]\Rshake\c[6]Lona：\c[0]    AH! AAH! AHHH!
+\narr\m[terror]\Rshake\c[4]ความต้องการน้ำว่าวทำให้ Lona กลืนอะไรไม่ได้เลย เธอกำลังจะเสียสติ!
+\narrOFF\m[sexhurt]\Rshake\c[6]Lona：\c[0]    กู้ห์... *หอบ*
+\m[p5shame]\Rshake\c[6]Lona：\c[0]    อ๊า! อ๊า! อ๊ากก!
 \m[sad]\c[6]Lona：\c[0]    ...
-\m[sexhurt]\c[6]Lona：\c[0]    *Haff*... *Huff*... I-I can't stand it anymore!
+\m[sexhurt]\c[6]Lona：\c[0]    *หอบ*... *หอบ*... ฉัน... ทนไม่ไหวแล้ว!
 
-#--------------------------------------------------------------------------drug_addiction
+#--------------------------------------------------------------------------ติดยา
 
 Lona/Drug_addiction_add_a_level
-\narr\m[pain]\c[4]Taking too much of the medicine, Lona became addicted to the drug...
+\narr\m[pain]\c[4]กินยามากเกินไป Lona ติดยาแล้ว...
 
 Lona/Drug_addiction_almost
-\narr\m[pain]\c[4]Lona's drug addiction was making it harder for her to think.
-\narrOFF\m[fear]\c[6]Lona：\c[0]    I... N-Need some medicine... Or else I'll die.
+\narr\m[pain]\c[4]การติดยาของ Lona ทำให้คิดอะไรยากขึ้น
+\narrOFF\m[fear]\c[6]Lona：\c[0]    ฉัน... ต้อง...การยา... มิฉะนั้นฉันจะตาย
 
 Lona/Drug_addiction_overLv1
-\narr\m[fear]\Rshake\c[4]Lona is starting to feel pain inside her body due to the drug addiction. Her consciousness slowly slips away from her.
-\narrOFF\m[sad]\c[6]Lona：\c[0]   Guuuh... I-I need to f-find... M-M-Medicine......
+\narr\m[fear]\Rshake\c[4]Lona เริ่มเจ็บปวดทั่วตัวเพราะติดยา สติเธอค่อย ๆ เลือนลาง
+\narrOFF\m[sad]\c[6]Lona：\c[0]   กู้ห์... ฉัน-ต้อง...หา...ยา......
 
 Lona/Drug_addiction_overLv2
-\narr\m[pain]\Rshake\c[4]Lona body ached everywhere from her drug addiction, her mind begging her for just one hit...
-\narrOFF\m[p5sta_damage]\Rshake \c[6]Lona：\c[0]    *Gasp* Nnnnigh... GAAAHH!!!
-\m[terror]\Rshake \c[6]Lona：\c[0]    N-N-No... No... N-N-Need m...m...medicine... G-G-Going to... D... Die...
+\narr\m[pain]\Rshake\c[4]ร่างกาย Lona เจ็บปวดไปหมดเพราะติดยา สมองเธอร้องขอโดสเดียว...
+\narrOFF\m[p5sta_damage]\Rshake \c[6]Lona：\c[0]    *หอบ* อื้ดด... ก๊ากกก!!!
+\m[terror]\Rshake \c[6]Lona：\c[0]    มะ-ไม่... ไม่... ต้อง...ยา...ยา... จะ... ตา...ย...
 
 Lona/Drug_addiction_overLv3
-\narr\m[p5sta_damage]\Rshake\c[4]Due to her extreme drug addiction, Lona felt like she's going insane in the membrane from withdrawal!
-\narrOFF\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    *Haff* Uuu... Aah... Mmnnigh... AHH! AAAAH!!!
-\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    *GASP* GUUH! NNNIGH! AHHHAHH!! YIIAHHHH!!!
-\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    I-I'm b-b-begging y...you!!! I www-want m-m-medicine!!! G...-GIMMIE!
-\m[p5health_damage]\Rshake\c[6]Lona：\c[0]     I'll l-l-listen t... to y-y-you... \n I'll du-du-do any-t-t-thing you ttt-tell me...!
-\m[p5sta_damage]\Rshake\c[6]Lona：\c[0]     KYAAAH!!!
+\narr\m[p5sta_damage]\Rshake\c[4]เพราะติดยาอย่างหนัก Lona รู้สึกเหมือนจะบ้าตายเพราะขาดยา!
+\narrOFF\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    *หอบ* อูว... อ๊า... อืมมม... อ๊า! อ๊ากกก!!!
+\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    *หอบ* กู้ห์! อื้ดด! อ๊ากกก!! ยี๊ดดด!!!
+\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    ขอร้องล่ะ...ฉัน... ต้องการยา!!! ให้ฉันที!
+\m[p5health_damage]\Rshake\c[6]Lona：\c[0]     ฉันจะ...เชื่อฟัง...ทุกอย่างที่นายบอก...!
+\m[p5sta_damage]\Rshake\c[6]Lona：\c[0]     กรี๊ดดด!!!
 \m[terror]\c[6]Lona：\c[0]    ......
-\m[sad]\c[6]Lona：\c[0]    Uuunnnhhh... *Sniff* What the h-hell is www-wrong with m-m-me...?
+\m[sad]\c[6]Lona：\c[0]    อูววว... *สะอื้น* ฉัน... เป็นอะไรไปเนี่ย...?
 
-
-#--------------------------------------------------------------------------when Dress is out
+#--------------------------------------------------------------------------เมื่อไม่มีเสื้อผ้า
 
 Lona/Qmsg_dress_out_normal
-Where's my clothes?!
+เสื้อผ้าฉันหายไปไหน?!
 
 Lona/Qmsg_dress_out_tsun
-They took my clothes!
+พวกมันขโมยเสื้อผ้าฉันไป!
 
 Lona/Qmsg_dress_out_weak
-I feel sssooo c-c-cold...
+หนาวจัง...
 
 Lona/Qmsg_dress_out_slut
-I'm not wearing anything...
+ฉันไม่ได้ใส่อะไรเลย...
 
 Lona/Qmsg_dress_out_overfatigue
-Oooh... Ssso c-c-cold...
+โอ๊ย... หนาวจัง...
 
 Lona/Qmsg_dress_out_mouth_block
-Mmmmph!
+อืมมมม!
 
 Lona/dress_out_normal0
 \prh!!!!!!
-\m[pain]\c[6]Lona：\c[0]    It's so cold! My clothes...?
+\m[pain]\c[6]Lona：\c[0]    หนาวมาก! เสื้อผ้าฉัน...?
 
 Lona/dress_out_normal1
 \prh!!!!!!
-\m[fear]\c[6]Lona：\c[0]    I have to get my clothes back quickly!
+\m[fear]\c[6]Lona：\c[0]    ฉันต้องหาเสื้อผ้ากลับมาเร็ว ๆ !
 
 Lona/dress_out_normal2
 \prh!!!!!!
-\m[shocked]\c[6]Lona：\c[0]    Where's my clothes?!
+\m[shocked]\c[6]Lona：\c[0]    เสื้อผ้าฉันหายไปไหน?!
 
 Lona/dress_out_tsun0
 \prh!!!!!!
-\m[angry]\c[6]Lona：\c[0]    What the...? Why am I naked???!!!
+\m[angry]\c[6]Lona：\c[0]    อะไรเนี่ย...? ทำไมฉันถึงเปลือยกายแบบนี้???!!!
 
 Lona/dress_out_tsun1
 \prh!!!!!!
-\m[irritated]\c[6]Lona：\c[0]    They actually took my clothes! Bastards!
+\m[irritated]\c[6]Lona：\c[0]    พวกมันขโมยเสื้อผ้าฉันไปจริง ๆ ! ไอ้เวร!
 
 Lona/dress_out_tsun2
 \prh!!!!!!
-\m[angry]\c[6]Lona：\c[0]    How humiliating! I swear I'll make them pay!
+\m[angry]\c[6]Lona：\c[0]    น่าอายชิบหาย! ฉันจะทำให้พวกมันชดใช้แน่!
 
 Lona/dress_out_weak0
 \prh!!!!!!
-\m[shy]\c[6]Lona：\c[0]    If only I can find some clothes... I should be fine...
+\m[shy]\c[6]Lona：\c[0]    ถ้าฉันหาเสื้อผ้าเจอ... คงดีขึ้น...
 
 Lona/dress_out_weak1
 \prh!!!!!!
-\m[sad]\c[6]Lona：\c[0]    C... Cold... I feel sssooo c-c-cold...
+\m[sad]\c[6]Lona：\c[0]    หนา...ว... หนาวจัง...
 
 Lona/dress_out_weak2
 \prh!!!!!!
-\m[sad]\c[6]Lona：\c[0]    I-If I don't find any clothes soon...
+\m[sad]\c[6]Lona：\c[0]    ถ้าไม่หาเสื้อผ้าเจอเร็ว ๆ ...
 
 Lona/dress_out_slut0
 \prh!!!!!!
-\m[pleased]\c[6]Lona：\c[0]    Guess I'm not wearing anything. Makes me feel kind of naughty...
+\m[pleased]\c[6]Lona：\c[0]    ก็ฉันไม่ได้ใส่อะไรนี่นา มันทำให้รู้สึกซน ๆ ดี...
 
 Lona/dress_out_slut1
 \prh!!!!!!
-\m[triumph]\c[6]Lona：\c[0]    My heart is jumping outta my chest! Ohhh! I'm getting the shivers...
+\m[triumph]\c[6]Lona：\c[0]    หัวใจฉันเต้นตุ้บ ๆ ! โอ๊ย! ตัวสั่นไปหมดเลย...
 
 Lona/dress_out_slut2
 \prh!!!!!!
-\m[triumph]\c[6]Lona：\c[0]    I'm feeling a little bit... Excited! I wonder what's going to happen next?
+\m[triumph]\c[6]Lona：\c[0]    รู้สึก... ตื่นเต้นนิดหน่อย! ไม่รู้จะเกิดอะไรขึ้นต่อไป?
 
 Lona/dress_out_overfatigue0
 \prh!!!!!!
-\m[tired]\c[6]Lona：\c[0]    Guh... Oooh... Ssso c-c-cold...
+\m[tired]\c[6]Lona：\c[0]    กู้ห์... โอ๊ย... หนาวจัง...
 
 Lona/dress_out_overfatigue1
 \prh!!!!!!
@@ -440,736 +432,735 @@ Lona/dress_out_overfatigue1
 
 Lona/dress_out_overfatigue2
 \prh!!!!!!
-\m[tired]\c[6]Lona：\c[0]    No way... Ssso c-c-cold...
+\m[tired]\c[6]Lona：\c[0]    ไม่ไหวแล้ว... หนาวจัง...
 
 Lona/dress_out_mouth_block0
 \prh!!!!!!
-\m[shocked]\c[6]Lona：\c[0]    Mmmmph!
-\m[shy]\c[6]Lona：\c[0]    Mnnnnph!
+\m[shocked]\c[6]Lona：\c[0]    อืมมม!
+\m[shy]\c[6]Lona：\c[0]    มนนนน!
 
 Lona/dress_out_mouth_block1
 \prh!!!!!!
-\m[hurt]\c[6]Lona：\c[0]    Guuuuh!
-\m[tired]\c[6]Lona：\c[0]    Mnnnph!
+\m[hurt]\c[6]Lona：\c[0]    กู้ห์!
+\m[tired]\c[6]Lona：\c[0]    มนนน!
 
 Lona/dress_out_mouth_block2
 \prh!!!!!!
-\m[wtf]\c[6]Lona：\c[0]    Mmmph mmmph!
-\m[shy]\c[6]Lona：\c[0]    Mnnnnn...!
+\m[wtf]\c[6]Lona：\c[0]    มมม มมม!
+\m[shy]\c[6]Lona：\c[0]    มนนนน...!
 
 #------------------------------------- Ext
+
 Lona/Qmsg_dress_out_ext_normal
-Well... Who needs clothes anyways?
+ก็... ใครต้องการเสื้อผ้าด้วยล่ะ?
 
 Lona/Qmsg_dress_out_ext_tsun
-Wearing clothes will only slow me down!
+ใส่เสื้อผ้ามันแค่ถ่วง!
 
 Lona/Qmsg_dress_out_ext_weak
-N-No one will notice me anyways... I hope...
+ม-ไม่มีใครสังเกตเห็นฉันหรอก... หวังว่านะ...
 
 Lona/Qmsg_dress_out_ext_slut
-Being naked is the sexiest a lady can be!
+การเปลือยกายคือความเซ็กซี่ที่สุดของผู้หญิง!
 
 Lona/Qmsg_dress_out_ext_overfatigue
-Phew... Who knew clothes could be sooo heavy...
+ฟู่... ใครจะไปรู้ว่าเสื้อผ้ามันหนักขนาดนี้...
 
 Lona/Qmsg_dress_out_ext_mouth_block
-Mmmmmph... Mmmm...
+อืมมม... มมม...
 
 Lona/dress_out_ext_normal0
-\m[pleased]\c[6]Lona：\c[0]    Well... Who needs clothes anyways?
+\m[pleased]\c[6]Lona：\c[0]    ก็... ใครต้องการเสื้อผ้าด้วยล่ะ?
 
 Lona/dress_out_ext_normal1
-\m[pleased]\c[6]Lona：\c[0]    Feels sooo good to finally be free!
+\m[pleased]\c[6]Lona：\c[0]    รู้สึกดีจังที่ได้เป็นอิสระสักที!
 
 Lona/dress_out_ext_tsun0
-\m[serious]\c[6]Lona：\c[0]    Hmmph, wearing clothes will only slow me down. I'll just beat-up anyone who dares to look at me funny...
+\m[serious]\c[6]Lona：\c[0]    หึ่ม ใส่เสื้อผ้ามันแค่ถ่วง ใครกล้ามองแปลก ๆ ฉันจะซ้อมให้!
 
 Lona/dress_out_ext_tsun1
-\m[serious]\c[6]Lona：\c[0]    To continue being confident without wearing clothes is a sign of having a strong will!
-\m[shy]\c[6]Lona：\c[0]    I think...?
+\m[serious]\c[6]Lona：\c[0]    การมั่นใจโดยไม่ใส่เสื้อผ้าคือสัญญาณของจิตใจที่เข้มแข็ง!
+\m[shy]\c[6]Lona：\c[0]    ฉันคิดว่านะ...?
 
 Lona/dress_out_ext_weak0
-\m[fear]\c[6]Lona：\c[0]    Ummm... Why does t-this feel so wrong... Yet so right...?
+\m[fear]\c[6]Lona：\c[0]    อืมม... ทำไมมันรู้สึกผิด... แต่ก็ถูกในเวลาเดียวกัน...?
 
 Lona/dress_out_ext_weak1
-\m[flirty]\c[6]Lona：\c[0]    N-No one will notice me anyways... I hope...
+\m[flirty]\c[6]Lona：\c[0]    ม-ไม่มีใครสังเกตเห็นฉันหรอก... หวังว่านะ...
 
 Lona/dress_out_ext_slut0
-\m[lewd]\c[6]Lona：\c[0]    Yaaah! Going out like this... I really am a pervert...~ ♥
+\m[lewd]\c[6]Lona：\c[0]    ย๊าห์! ออกไปแบบนี้... ฉันเป็นตัวประหลาดจริง ๆ ...~ ♥
 
 Lona/dress_out_ext_slut1
-\m[lewd]\c[6]Lona：\c[0]    Teehee! Being naked is the sexiest a lady can be!~ ♥
+\m[lewd]\c[6]Lona：\c[0]    ฮิฮิ! การเปลือยกายคือความเซ็กซี่ที่สุดของผู้หญิง!~ ♥
 
 Lona/dress_out_ext_overfatigue0
-\m[tired]\c[6]Lona：\c[0]    M-Maybe my clothes are too heavy... I think I'll be faster being naked...
+\m[tired]\c[6]Lona：\c[0]    ม-บางทีเสื้อผ้าฉันหนักเกินไป... เปลือยกายอาจจะเร็วกว่า...
 
 Lona/dress_out_ext_overfatigue1
-\m[flirty]\c[6]Lona：\c[0]    Phew... Who knew clothes could be sooo heavy...
+\m[flirty]\c[6]Lona：\c[0]    ฟู่... ใครจะไปรู้ว่าเสื้อผ้ามันหนักขนาดนี้...
 
 Lona/dress_out_ext_mouth_block0
-\m[tired]\c[6]Lona：\c[0]    Mmmmmph... Mmmm...
+\m[tired]\c[6]Lona：\c[0]    อืมมม... มมม...
 
 Lona/dress_out_ext_mouth_block1
-\m[tired]\c[6]Lona：\c[0]    Mmmm... Mhmmmmhm...!
+\m[tired]\c[6]Lona：\c[0]    มมม... มหืมมมม...!
 
-
-#--------------------------------------------------------------------------when collar is on
+#--------------------------------------------------------------------------เมื่อใส่ปลอกคอ
 
 Lona/collar_on_normal
-\m[bereft]\c[6]Lona：\c[0]    Don't do this! Take it off!
+\m[bereft]\c[6]Lona：\c[0]    อย่าทำแบบนี้! ถอดออกไป!
 
 Lona/collar_on_slut
-\m[flirty]\c[6]Lona：\c[0]    This thing is so heavy!
+\m[flirty]\c[6]Lona：\c[0]    ของสิ่งนี้มันหนักจัง!
 
 Lona/collar_on_tsun
-\m[shocked]\c[6]Lona：\c[0]    Damn it! I can't get it off!
+\m[shocked]\c[6]Lona：\c[0]    เชี่ยเอ๊ย! ถอดไม่ออก!
 
 Lona/collar_on_weak
-\m[confused]\c[6]Lona：\c[0]    *Whimper*... S-so heavy...
+\m[confused]\c[6]Lona：\c[0]    *ครวญ*... หนักจัง...
 
 Lona/collar_on_mouth_block
-\m[bereft]\c[6]Lona：\c[0]    Mnnnnph! Mrhmnnhnn... Mmmph!
+\m[bereft]\c[6]Lona：\c[0]    มนนน! มรห์มนน... มมม!
 
 Lona/collar_on_overfatigue
-\m[tired]\c[6]Lona：\c[0]    Uhhnnn.......
+\m[tired]\c[6]Lona：\c[0]    อื้ดดด.......
 
-#--------------------------------------------------------------------------when lost her baby
+#--------------------------------------------------------------------------เมื่อสูญเสียลูก
 
 Lona/lost_baby
-\m[shocked]\c[6]Lona：\c[0]    Baby? Where did my baby go?!
-\m[sad]\c[6]Lona：\c[0]    Am I the only one left...?
+\m[shocked]\c[6]Lona：\c[0]    ลูก? ลูกฉันหายไปไหน?!
+\m[sad]\c[6]Lona：\c[0]    เหลือฉันคนเดียวเหรอ...?
 
-#-----------------------------when lost too many babys
+#-----------------------------เมื่อสูญเสียลูกหลายครั้ง
 
 Lona/lost_baby_again
-\m[sad]\c[6]Lona：\c[0]    B-Baby?! Where are you...?
-\m[confused]\c[6]Lona：\c[0]    Sure enough, gone again...
-\m[tired]\c[6]Lona：\c[0]    Forget it... I knew this will happen again... *Sob*...
+\m[sad]\c[6]Lona：\c[0]    ล-ลูก?! ลูกอยู่ไหน...?
+\m[confused]\c[6]Lona：\c[0]    แน่นอน... หายไปอีกแล้ว...
+\m[tired]\c[6]Lona：\c[0]    ช่างมันเถอะ... ฉันรู้อยู่แล้วว่าจะเป็นแบบนี้อีก... *สะอื้น*...
 
-#--------------------------------------------------------------------------when cums too heavy
+#--------------------------------------------------------------------------เมื่อน้ำว่าวเต็มท้องหนัก
 
 Lona/heavy_begin
-\narr Lona's semen-filled belly was at risk from leaking out of her holes at any moment.
+\narr ท้องที่เต็มไปด้วยน้ำว่าวของ Lona เสี่ยงที่จะล้นออกจากรูต่าง ๆ ทุกเมื่อ
 
 Lona/Qmsg_SemenBursting0
-There's too much inside me. I feel so full...
+ข้างในฉันเต็มไปหมด รู้สึกอึดอัดจัง...
 
 Lona/Qmsg_SemenBursting1
-My belly feels so heavy...
+ท้องฉันหนักมาก...
 
 Lona/Qmsg_SemenBursting2
-T-Too heavy... I need to rest soon......
+ห-หนักเกิน... ต้องพักเร็ว ๆ นี้......
 
 Lona/SemenBursting0
-\narrOFF\m[shy]\c[6]Lona：\c[0]    There's too much inside me. I feel so full...
+\narrOFF\m[shy]\c[6]Lona：\c[0]    ข้างในฉันเต็มไปหมด รู้สึกอึดอัดจัง...
 
 Lona/SemenBursting1
-\narrOFF\m[shy]\c[6]Lona：\c[0]    My belly feels so heavy...
+\narrOFF\m[shy]\c[6]Lona：\c[0]    ท้องฉันหนักมาก...
 
 Lona/SemenBursting2
-\narrOFF\m[shy]\c[6]Lona：\c[0]    I can't... T-Too heavy... I need to rest soon......
+\narrOFF\m[shy]\c[6]Lona：\c[0]    ไม่ไหวแล้ว... ห-หนักเกิน... ต้องพักเร็ว ๆ นี้......
 
-#-----------------when cums not heavy anymore
+#-----------------เมื่อน้ำว่าวไม่หนักอีกต่อไป
 
 Lona/SemenBursting_regen_begin
-\narr The bloating sensation caused by semen gradually subsided.
+\narr ความรู้สึกอืดจากน้ำว่าวค่อย ๆ หายไป
 
 Lona/Qmsg_SemenBursting_regen0
-I feel much better!
+รู้สึกดีขึ้นเยอะ!
 
 Lona/Qmsg_SemenBursting_regen1
-My stomach seems to be going back to normal now!
+ท้องฉันดูเหมือนจะกลับมาเป็นปกติแล้ว!
 
 Lona/Qmsg_SemenBursting_regen2
-I should rest a little more so I can fully recover.
+ฉันควรพักอีกนิดเพื่อฟื้นตัวเต็มที่
 
 Lona/SemenBursting_regen0
-\narrOFF\m[shy]\c[6]Lona：\c[0]    I feel much better!
+\narrOFF\m[shy]\c[6]Lona：\c[0]    รู้สึกดีขึ้นเยอะ!
 
 Lona/SemenBursting_regen1
-\narrOFF\m[shy]\c[6]Lona：\c[0]    My stomach seems to be going back to normal now!
+\narrOFF\m[shy]\c[6]Lona：\c[0]    ท้องฉันดูเหมือนจะกลับมาเป็นปกติแล้ว!
 
 Lona/SemenBursting_regen2
-\narrOFF\m[shy]\c[6]Lona：\c[0]    I should rest a little more so I can fully recover.
+\narrOFF\m[shy]\c[6]Lona：\c[0]    ฉันควรพักอีกนิดเพื่อฟื้นตัวเต็มที่
 
-#-------------------------------------------------------------------------when eat cums
+#-------------------------------------------------------------------------เมื่อกินน้ำว่าว
 
 Lona/eat_cums_normal0
-\narr Lona swallowed the semen inside her mouth as a last resort.
-\narrOFF\m[pain]\c[6]Lona：\c[0]    *Gulp*! Y-Yuck! ...What a disgusting taste!
+\narr Lona กลืนน้ำว่าวในปากเธอแบบจำใจ
+\narrOFF\m[pain]\c[6]Lona：\c[0]    *กลืน*! น-น่ารังเกียจ! ...รสชาติเหม็นชิบหาย!
 
 Lona/eat_cums_normal1
-\narr Lona forced herself to swallow the semen inside her mouth.
-\narrOFF\m[shy]\c[6]Lona：\c[0]    *Gulp*! Nnnigh... *Gulp*... *Huff*... My th-throat hurts!
+\narr Lona บังคับตัวเองกลืนน้ำว่าวในปาก
+\narrOFF\m[shy]\c[6]Lona：\c[0]    *กลืน*! อื้ด... *กลืน*... *หอบ*... คอฉันเจ็บ!
 
 Lona/eat_cums_tsun0
-\narr Lona hesitates, before finally forcing herself to swallow whatever was inside her mouth.
-\narrOFF\m[angry]\c[6]Lona：\c[0]    *Gulp*... *RETCH*! S-SO GROSS! ...I can't believe I actually swallowed that!
+\narr Lona ลังเล ก่อนจะบังคับตัวเองกลืนสิ่งที่อยู่ในปาก
+\narrOFF\m[angry]\c[6]Lona：\c[0]    *กลืน*... *อ๊วก*! น-น่ารังเกียจชิบหาย! ...ไม่เชื่อว่าฉันกลืนมันจริง ๆ !
 
 Lona/eat_cums_tsun1
-\narr Lona begins choking on the vile liquid inside her mouth and swallows everything in desperation.
-\narrOFF\m[serious]\c[6]Lona：\c[0]    *Gurgle*... *GULP*! N-... No way. *Gag*! There's no way I'll be doing that again!
+\narr Lona เริ่มสำลักของเหลวเหม็นในปาก แล้วกลืนทุกอย่างด้วยความสิ้นหวัง
+\narrOFF\m[serious]\c[6]Lona：\c[0]    *ครอก*... *กลืน*! มะ-... ไม่มีทาง ฉันจะทำแบบนี้อีกเด็ดขาด!
 
 Lona/eat_cums_weak0
-\narr The semen inside Lona's mouth ran down her throat without any resistance.
-\narrOFF\m[pain]\c[6]Lona：\c[0]    ...*Gulp* No more... *Sniff* Please, n-no more...
+\narr น้ำว่าวในปาก Lona ไหลลงคอโดยไม่ขัดขืน
+\narrOFF\m[pain]\c[6]Lona：\c[0]    ...*กลืน* พอแล้ว... *สะอื้น* ขอร้อง พอแล้ว...
 
 Lona/eat_cums_weak1
-\narr The semen flowed down Lona's throat with ease.
-\narrOFF\m[pain]\c[6]Lona：\c[0]    ...*Gulp*...... *Cough*... *Cough*......
+\narr น้ำว่าวไหลลงคอ Lona อย่างง่ายดาย
+\narrOFF\m[pain]\c[6]Lona：\c[0]    ...*กลืน*...... *ไอ*... *ไอ*......
 
 Lona/eat_cums_slut0
-\narr Lona gleefully chugs the sweet semen inside her mouth!
-\narrOFF\m[lewd]\c[6]Lona：\c[0]    *GULP*! D-Dick juice... *Slurp* Yummy...~
+\narr Lona ดูดกลืนน้ำว่าวหวาน ๆ ในปากอย่างมีความสุข!
+\narrOFF\m[lewd]\c[6]Lona：\c[0]    *กลืน*! น-น้ำควย... *เลีย* อร่อยจัง...~
 
 Lona/eat_cums_slut1
-\narr Lona greedily drinks the gooey semen inside her mouth with joy!
-\narrOFF\m[lewd]\c[6]Lona：\c[0]    *GLUG*! ...*GULP*! M-... More! Please cum more inside my mouth!~
+\narr Lona ดูดกลืนน้ำว่าวเหนียว ๆ ในปากอย่างหิวกระหาย!
+\narrOFF\m[lewd]\c[6]Lona：\c[0]    *ดูด*! ...*กลืน*! ข-... ขอเพิ่ม! ขอแตกในปากฉันเพิ่ม!
 
 Lona/eat_cums_mouth_block0
-\narr Lona tries her best to swallow the liquid inside her mouth.
-\narrOFF\m[shy]\c[6]Lona：\c[0]    *Gulp* Mmmmmmph!
+\narr Lona พยายามอย่างสุดความสามารถกลืนของเหลวในปาก
+\narrOFF\m[shy]\c[6]Lona：\c[0]    *กลืน* อืมมมม!
 
 Lona/eat_cums_mouth_block1
-\narr Lona struggles a bit but manages to gulp down whatever was in her mouth.
-\narrOFF\m[shy]\c[6]Lona：\c[0]    *Gulp* Mmmnnnmmmph!
+\narr Lona ลำบากนิดหน่อยแต่กลืนสิ่งที่อยู่ในปากได้
+\narrOFF\m[shy]\c[6]Lona：\c[0]    *กลืน* มนนนนมมม!
 
 Lona/eat_cums_overfatigue0
-\narr Lona slowly allows the semen to run down her throat...
-\narrOFF\m[shy]\c[6]Lona：\c[0]    *Gulp*... Mmmnnn... *Huff*... *Haff......
+\narr Lona ค่อย ๆ ปล่อยให้น้ำว่าวไหลลงคอ...
+\narrOFF\m[shy]\c[6]Lona：\c[0]    *กลืน*... มนนน... *หอบ*... *หอบ*......
 
 Lona/eat_cums_overfatigue1
-\narr Lona used the little strength she had remaining to force herself to swallow the liquid inside her mouth...
-\narrOFF\m[shy]\c[6]Lona：\c[0]    Gulp*... Guuuh... *COUGH*! *Gasp*... Uuunnngh......
+\narr Lona ใช้แรงที่เหลืออยู่น้อยนิดบังคับตัวเองกลืนของเหลวในปาก...
+\narrOFF\m[shy]\c[6]Lona：\c[0]    *กลืน*... กู้ห์... *ไอ*! *หอบ*... อูววว......
 
-#-------------------------------------------------------------------------WHEN HUNGER
+#-------------------------------------------------------------------------เมื่อหิว
 
 Lona/hunger0
-\narr Lona's well fed stomach allowed her to heal both physically and mentally.
-\narrOFF\m[triumph]\c[6]Lona：\c[0]    Phew! I'm so lucky to be able to eat so well.
+\narr ท้องที่อิ่มของ Lona ช่วยให้เธอฟื้นฟูร่างกายและจิตใจ
+\narrOFF\m[triumph]\c[6]Lona：\c[0]    ฟู่! โชคดีจังที่ได้กินดีขนาดนี้
 
 Lona/hunger1
-\m[confused]\c[6]Lona：\c[0]    I'm not very hungry yet, but I should still eat something...
+\m[confused]\c[6]Lona：\c[0]    ยังไม่ค่อยหิว แต่ฉันควรหาอะไรกินสักหน่อย...
 
 Lona/hunger2
-\narr Lona's desire for food persists in her famished stomach.
-\narrOFF\m[sad]\c[6]Lona：\c[0]    *Stomach growl* Nnnighnnn... So hungry... I... I really need to eat soon.
+\narr ความอยากอาหารยังคงอยู่ในท้องที่หิวโหยของ Lona
+\narrOFF\m[sad]\c[6]Lona：\c[0]    *ท้องร้อง* อื้ดดด... หิวจัง... ฉัน... ต้องกินอะไรเร็ว ๆ นี้
 
 Lona/hunger3
-\narr A sharp pain lingers inside the stomach of a weak and malnourished Lona...
-\narrOFF\m[pain]\c[6]Lona：\c[0]    *Gasp*... *Huff*... If... If I don't eat anything now, I'm going to s-starve to death!
+\narr ความเจ็บปวดแหลมคมยังคงอยู่ในท้องของ Lona ที่อ่อนแอและขาดสารอาหาร...
+\narrOFF\m[pain]\c[6]Lona：\c[0]    *หอบ*... *หอบ*... ถ้า... ถ้าไม่ได้กินอะไรตอนนี้ ฉันจะอดตายแน่!
 
-#-------------------------------------------------------------------------WHEN low sta
+#-------------------------------------------------------------------------เมื่อสแตมิเน่าต่ำ
 
 Lona/lowsta0
-\m[pain]\c[6]Lona：\c[0]    Nnnighnnn... I... I can't move my legs......
+\m[pain]\c[6]Lona：\c[0]    อื้ดดด... ฉัน... ขยับขาไม่ได้......
 
 Lona/lowsta1
-\m[pain]\c[6]Lona：\c[0]    Unnnghnnn...　My body feels too heavy...
+\m[pain]\c[6]Lona：\c[0]    อื้ดดด...　ร่างกายหนักจัง...
 
 Lona/lowsta2
-\m[pain]\c[6]Lona：\c[0]    Mmmnnnigh...　M-My legs hurt, and my body feels so heavy...
+\m[pain]\c[6]Lona：\c[0]    อืมมม...　ขาเจ็บ แล้วร่างกายหนักมาก...
 
 Lona/lowsta3
-\m[pain]\c[6]Lona：\c[0]    Guuuhhh...　I can't stand up any longer, I need to find someplace to rest.
+\m[pain]\c[6]Lona：\c[0]    กู้ห์...　ยืนไม่ไหวแล้ว ต้องหาที่พักผ่อน
 
 Lona/Qmsg_lowsta0
-I... I can't move my legs......
+ฉัน... ขยับขาไม่ได้......
 
 Lona/Qmsg_lowsta1
-My body feels too heavy...
+ร่างกายหนักจัง...
 
 Lona/Qmsg_lowsta2
-M-My legs hurt...
+ขาเจ็บ...
 
 Lona/Qmsg_lowsta3
-I can't stand up any longer.
+ยืนไม่ไหวแล้ว
 
 #------------------------------------------------------------------------NAP
 
 Lona/nap
 \m[tired]\c[6]Lona：\c[0]    ZZZzzz\}zzz\{......
 
-#--------------------------------------------------------------------況張傷害
+#--------------------------------------------------------------------ความเสียหายรู
 
 Lona/vag_damaged
-\m[shy]Lona's pussy was looking like a deformed roast beef and her vagina couldn't stop gaping wide open.
-\m[fear]\c[6]Lona：\c[0]    EH?! W-What's happening to my body?
+\m[shy]รูหีของ Lona ดูเหมือนเนื้อบดย่างเปื่อยๆ รูหีอ้ากว้างหยุดไม่ได้
+\m[fear]\c[6]Lona：\c[0]    เอ๋?! เกิดอะไรขึ้นกับร่างกายฉัน?
 
 Lona/urinary_damaged
-\m[shy]A seemingly endless stream of urine continues to flow out of her pee hole. Lona seems to have lost control of her bladder and urethra.
-\m[fear]\c[6]Lona：\c[0]    Eeyah?! W-Why can't I stop peeing?
+\m[shy]ฉี่ไหลไม่หยุดจากรูหีของ Lona เธอควบคุมกระเพาะปัสสาวะและท่อปัสสาวะไม่ได้แล้ว
+\m[fear]\c[6]Lona：\c[0]    เอ๊ย?! ทำไมฉี่หยุดไม่ได้?
 
 Lona/anal_damaged
-\m[shy]Filth and feces began to flow out from Lona's anus. Lona seems to have lost control of her rectum and bowel movements.
-\m[fear]\c[6]Lona：\c[0]    AHHH! No! NO-NOOOooo! I... *Nnninngh* I c-can't hold it in......!
+\m[shy]อุจจาระและสิ่งสกปรกไหลออกจากรูตูด Lona Lona ควบคุมทวารหนักและการขับถ่ายไม่ได้แล้ว
+\m[fear]\c[6]Lona：\c[0]    อ๊ากก! ไม่! ไม่นะาาา! ฉัน... *อื้ด* กลั้นไม่อยู่......!
 
-#---------------------------------------------------------Urination
+#---------------------------------------------------------การขับถ่าย
 
 Lona/pee_dialog
-\m[confused]\c[6]Lona：\c[0]    Mnnn... I really need to pee.
-\m[shy]\c[6]Lona：\c[0]    I should find a safe place to relieve myself.
+\m[confused]\c[6]Lona：\c[0]    อืมม... อยากฉี่จัง
+\m[shy]\c[6]Lona：\c[0]    ฉันควรหาที่ปลอดภัยปล่อยทุกข์
 
 Lona/scat_dialog
-\m[confused]\c[6]Lona：\c[0]    Nnnighn... I... I think I have to use the toilet.
-\m[shy]\c[6]Lona：\c[0]    I should find a safe place to empty my stomach...
+\m[confused]\c[6]Lona：\c[0]    อื้ด... ฉัน... คิดว่าต้องเข้าห้องน้ำแล้ว
+\m[shy]\c[6]Lona：\c[0]    ฉันควรหาที่ปลอดภัยถ่าย
 
 Lona/Qmsg_pee_dialog
-I really need to pee.
+อยากฉี่จัง
 
 Lona/Qmsg_scat_dialog
-I think I have to use the toilet...
+คิดว่าต้องเข้าห้องน้ำแล้ว...
 
-#---------------------------------泌尿系統受損後
+#---------------------------------ระบบปัสสาวะเสียหาย
 
 Lona/auto_pee
-\m[confused]Urine poured out from Lona's urethra. The sour odor and discomfort soaked Lona's lower body.
-\m[shy]\c[6]Lona：\c[0]    Eeep! I should... find someplace to clean myself.
+\m[confused]ฉี่ไหลออกจากท่อปัสสาวะของ Lona กลิ่นเปรี้ยวและความอับชื้นแช่ขาหนีบเธอ
+\m[shy]\c[6]Lona：\c[0]    เอี๊ยบ! ฉันควร... หาที่ทำความสะอาดตัวเอง
 
 Lona/Qmsg_auto_pee
-Oh no... I'm about to pee...
+โอ๊ยไม่... กำลังจะฉี่...
 
 Lona/auto_pee_nap
-\narr Urine continues to flow out of Lona's urethra while she slept.
-\narr Lona wet the bed.
+\narr ฉี่ไหลออกจากท่อปัสสาวะของ Lona ขณะหลับ
+\narr Lona เยี่ยวรดที่นอน
 
 Lona/auto_poo
-\m[confused]Feces and filth flowed out of Lona's anus uncontrollably. The disgusting smell and stickiness covered her lower body.
-\m[shy]\c[6]Lona：\c[0]    *Whimper* I... I need to find somewhere to clean myself......
+\m[confused]อุจจาระและสิ่งสกปรกไหลออกจากรูตูด Lona โดยไม่ควบคุม กลิ่นเหม็นและความเหนียวปกคลุมขาหนีบ
+\m[shy]\c[6]Lona：\c[0]    *ครวญ* ฉัน... ต้องหาที่ทำความสะอาดตัวเอง......
 
 Lona/Qmsg_auto_poo
-Oh no... My poop... is coming out...
+โอ๊ยไม่... อึกำลังจะออก...
 
 Lona/auto_poo_nap
-\narr Rancid excrement kept being pushed out of Lona's rectum while she was asleep.
+\narr อุจจาระเหม็นเน่าถูกดันออกจากทวารหนักของ Lona ขณะหลับ
 
 ###############################################################COMMON SEX TRAIT/LURE##############################################################
 
 Lona/lure_normal0
-\m[shy]\c[6]Lona：\c[0]    Please... Please use my pussy as much as you like.
+\m[shy]\c[6]Lona：\c[0]    ขอร้อง... ใช้รูหีฉันเท่าที่อยากเลย
 
 Lona/lure_normal1
-\m[shy]\c[6]Lona：\c[0]    I'm just a toy, please fuck me until you're satisfied.
+\m[shy]\c[6]Lona：\c[0]    ฉันเป็นแค่ของเล่น ขอเย็ดฉันจนพอใจเลย
 
 Lona/lure_tsun0
-\m[shy]\c[6]Lona：\c[0]    Tsk... I... P-Please...... Do whatever you want with me.
+\m[shy]\c[6]Lona：\c[0]    เชี่ย... ฉัน... ขอร้อง...... ทำอะไรฉันก็ได้
 
 Lona/lure_tsun1
-\m[shy]\c[6]Lona：\c[0]    Nnnighnnn. H-Here... Feel free to do whatever you want...
+\m[shy]\c[6]Lona：\c[0]    อื้ดดด ตรงนี้... ทำอะไรก็ได้...
 
 Lona/lure_weak0
-\m[shy]\c[6]Lona：\c[0]    I'm your pet, I promise I'll be a good girl...
+\m[shy]\c[6]Lona：\c[0]    ฉันเป็นสัตว์เลี้ยงของนาย ฉันสัญญาว่าจะเป็นเด็กดี...
 
 Lona/lure_weak1
-\m[shy]\c[6]Lona：\c[0]    Here... You can do anything you wish to me...
+\m[shy]\c[6]Lona：\c[0]    ตรงนี้... ทำอะไรฉันก็ได้...
 
 Lona/lure_slut0
-\m[lewd]\c[6]Lona：\c[0]    Please... Please fuck my lewd pussy as much as you want!~ ♥
+\m[lewd]\c[6]Lona：\c[0]    ขอร้อง... เย็ดรูหีเสียว ๆ ของฉันเท่าที่อยากเลย!~ ♥
 
 Lona/lure_slut1
-\m[lewd]\c[6]Lona：\c[0]    Fuck me... Please, f-fuck me! I'm just a slutty bitch in heat!~ ♥
+\m[lewd]\c[6]Lona：\c[0]    เย็ดฉัน... ขอร้อง เย็ดฉัน! ฉันเป็นแค่อีตัวเงี่ยน!~ ♥
 
 Lona/lure_mouth_block0
-Lona stuck out her crotch and revealed her genitals in front of their view.
-\m[shy]\c[6]Lona：\c[0]    Mmmmnmnph.....
+Lona ยื่นสะโพกและโชว์อวัยวะเพศให้พวกมันดู
+\m[shy]\c[6]Lona：\c[0]    มมมมนน.....
 
 Lona/lure_mouth_block1
-Lona stuck out her crotch and revealed her genitals in front of their view.
-\m[shy]\c[6]Lona：\c[0]    Mmmnnnighnnn.....
+Lona ยื่นสะโพกและโชว์อวัยวะเพศให้พวกมันดู
+\m[shy]\c[6]Lona：\c[0]    มนนนน.....
 
 Lona/lure_overfatigue0
-Lona stuck out her crotch and revealed her genitals in front of their view.
+Lona ยื่นสะโพกและโชว์อวัยวะเพศให้พวกมันดู
 \m[shy]\c[6]Lona：\c[0]    ......
 
 Lona/lure_overfatigue1
-Lona stuck out her crotch and revealed her genitals in front of their view.
-\m[shy]\c[6]Lona：\c[0]    *Huff*......
+Lona ยื่นสะโพกและโชว์อวัยวะเพศให้พวกมันดู
+\m[shy]\c[6]Lona：\c[0]    *หอบ*......
 
-############################################333EQUIP WOUNDS########################33
+############################################EQUIP WOUNDS########################
 
 Lona/cuff_wound
-\m[pain]\c[4]Shackles... The metal clamps are tightly wrapped around me......
-\m[fear]\c[4]I need to find a way to remove these restraints! Otherwise, I won't be able to do anything...
+\m[pain]\c[4]กุญแจมือ... ตัวหนีบโลหะรัดแน่นรอบตัวฉัน......
+\m[fear]\c[4]ฉันต้องหาทางถอดมันออก! มิฉะนั้นฉันทำอะไรไม่ได้เลย...
 
 Lona/collar_wound
-\m[pain]\c[4]A collar... The neck collar is choking me, and the rough surface keeps hurting my neck......
-\m[bereft]\c[4]No! I don't want to be a slave!
+\m[pain]\c[4]ปลอกคอ... ปลอกคอรัดคอฉัน หายใจลำบาก และผิวหยาบบาดคอฉัน......
+\m[bereft]\c[4]ไม่! ฉันไม่อยากเป็นทาส!
 
 ###############################################PUKE######################
 
 Lona/puke_cums
-\narr The thick and gooey semen stuck onto Lona's throat and trachea.
-\narr The need to puke hits Lona hard.
+\narr น้ำว่าวเหนียวหนึบติดคอและหลอดลมของ Lona
+\narr ความอยากอาเจียนโจมตี Lona อย่างแรง
 
 Lona/puke_begin1
-\PRF\c[6]Lona：\c[0]    \{*G-GACK*! MmmMMMGLUGH! *RETCH*!!!
+\PRF\c[6]Lona：\c[0]    \{*ก-แก็ก*! มมมมกลื้ด! *อ๊วก*!!!
 
 Lona/puke_begin2
-\narr The contents inside of Lona's stomach began to rise up her throat, forcing her to vomit it out.
+\narr สิ่งที่อยู่ในท้องของ Lona เริ่มดันขึ้นคอ บังคับให้เธออาเจียนออกมา
 
 Lona/puke1
-\c[6]Lona：\c[0]    \{*Huff*... *HAFF*... *GACK*!!!
+\c[6]Lona：\c[0]    \{*หอบ*... *หอบ*... *แก็ก*!!!
 
 Lona/puke2
-\c[6]Lona：\c[0]    \{OOOUGH! *Glurk* UUURRRK! BLUAAAUGH!!!
+\c[6]Lona：\c[0]    \{โอ๊ยก! *กลื้ด* อูวววร์ก! บลัว๊กกก!!!
 
 Lona/puke3
-\c[6]Lona：\c[0]    \{Blugh! *RETCH*! GUH! BLUUURRRUGH!!!
+\c[6]Lona：\c[0]    \{บลือ! *อ๊วก*! กู้ห์! บลูวววร์กก!!!
 
 Lona/puke4
-\c[6]Lona：\c[0]    MMMNNNPH! *BAAARF* BLAAAAUGH!!! *Retch*!
+\c[6]Lona：\c[0]    มมมมนน! *บ๊าอ๊ก* บล๊ากกก!!! *อ๊วก*!
 
 Lona/puke5
-\c[6]Lona：\c[0]    *COUGH*!!! *COUGH! *GAAASP*...! BLAAARUUUGH! *BAAARF*!
+\c[6]Lona：\c[0]    *ไอ*!!! *ไอ! *หอบ*...! บล๊าวววร์ก! *บ๊าอ๊ก*!
 
 Lona/puke_end1
-\c[6]Lona：\c[0]    *Gasp*... *Huff*... *Cough*... *Haff*......
+\c[6]Lona：\c[0]    *หอบ*... *หอบ*... *ไอ*... *หอบ*......
 
 Lona/puke_end2_normal
-\c[6]Lona：\c[0]    Blugh! *Retch*... I... *Huff* Threw up everything......
+\c[6]Lona：\c[0]    บลือ! *อ๊วก*... ฉัน... *หอบ* อาเจียนทุกอย่างออกมาแล้ว......
 
 Lona/puke_end2_preg
-\c[6]Lona：\c[0]    I don't...- *Haff* -feel so good......
+\c[6]Lona：\c[0]    ฉันไม่...- *หอบ* -สบายตัว......
 
 Lona/Qmsg_Oev_Puke
-Uggghnnn... I want to throw up...
+อื้ดดด... อยากอาเจียน...
 
 ###############################################Itch######################
 
 Lona/Qmsg_Oev_Itch0
-S-So itchy...
+ค-คันจัง...
 
 Lona/Qmsg_Oev_Itch1
-It really itches... Down there...
+คันมาก... ข้างล่างนั่น...
 
 Lona/Qmsg_Oev_Itch2
-Uwuu... I-Itchy...
+อุวุ... คัน...
 
 ###########################################SICK################################
 
 Lona/sick
-\m[pain]\c[6]Lona：\c[0]    Urk, unnngh....
-\m[tired]\c[6]Lona：\c[0]    I don't feel good... It's best I don't overdo it and rest soon.
+\m[pain]\c[6]Lona：\c[0]    อึก อื้ด....
+\m[tired]\c[6]Lona：\c[0]    ไม่สบายตัว... ดีที่สุดอย่าหักโหม ควรพักผ่อนเร็ว ๆ นี้
 
-###########################################3# MILK OVERCHARGE################################
+########################################### MILK OVERCHARGE################################
 
 Lona/Milk_feed_notEnough
 \m[confused]\c[6]Lona：\c[0]    \..\..\..
-\m[shocked]\Rshake\c[6]Lona：\c[0]    T-There's not enough milk?!
+\m[shocked]\Rshake\c[6]Lona：\c[0]    น-น้ำนมไม่พอเหรอ?!
 
 Lona/MilkSpray_overcharge
-\narr Lona's breasts felt very swollen. Soon, milk began to gush out from her nipples.
-\narrOFF\m[shy]\c[6]Lona：\c[0]    Mnnngh ohhh... I have to find somewhere to take care of this.
+\narr หน้าอกของ Lona บวมมาก เดี๋ยวนี้ น้ำนมเริ่มพุ่งออกจากหัวนม
+\narrOFF\m[shy]\c[6]Lona：\c[0]    อืมมม โอ๊ย... ต้องหาที่จัดการเรื่องนี้
 
-########################################3####MENSES SYSTEM#######################################
+############################################MENSES SYSTEM#######################################
 
 Lona/menses
-\m[pain]\c[6]Lona：\c[0]    Ow... Ugh... Is it that time of the month again...?
-\m[shy]\c[6]Lona：\c[0]    I better find somewhere with water to wash up.
-\m[tired]\c[6]Lona：\c[0]    Urgh... Blugh... I feel sick.
+\m[pain]\c[6]Lona：\c[0]    โอ๊ย... อึก... มาอีกแล้วเหรอช่วงนั้น...?
+\m[shy]\c[6]Lona：\c[0]    ฉันควรหาที่มีน้ำล้างตัว
+\m[tired]\c[6]Lona：\c[0]    อื้ด... บลือ... รู้สึกคลื่นไส้
 
 Lona/menses_bad
-\m[pain]\c[6]Lona：\c[0]    Blood is still flowing out from down there, and my body feels really heavy...
-\m[tired]\c[6]Lona：\c[0]    I think I should take a break today.
+\m[pain]\c[6]Lona：\c[0]    เลือดยังไหลออกจากข้างล่าง ร่างกายหนักมาก...
+\m[tired]\c[6]Lona：\c[0]    วันนี้ฉันควรพักผ่อนดีกว่า
 
 Lona/menses_ovulate
-\m[confused]\c[6]Lona：\c[0]    I feel it again......
-\m[shy]\c[6]Lona：\c[0]    It feels hot down there... And it's like my body is expecting something.
+\m[confused]\c[6]Lona：\c[0]    รู้สึกอีกแล้ว......
+\m[shy]\c[6]Lona：\c[0]    ข้างล่างร้อนผ่าว... เหมือนร่างกายกำลังรออะไรสักอย่าง
 
 ################################################ PREG DIALOGS ##################################################
 #########LV1
 
 Lona/preglv1_puke_exped
-\m[sad]\c[6]Lona：\c[0]    I've heard of these symptoms before...
-\m[confused]\c[6]Lona：\c[0]    Am...... Am I p-pregnant?
+\m[sad]\c[6]Lona：\c[0]    ฉันเคยได้ยินอาการแบบนี้มาก่อน...
+\m[confused]\c[6]Lona：\c[0]    ฉัน... ฉันท้องเหรอ?
 
 Lona/preglv1_Qmsg_puke_exped0
-I've heard of these symptoms before...
+ฉันเคยได้ยินอาการแบบนี้มาก่อน...
 
 Lona/preglv1_Qmsg_puke_exped1
-Am...... Am I p-pregnant?
+ฉัน... ฉันท้องเหรอ?
 
 #########LV2
 
 Lona/preglv2_puke
-\m[sad]\c[6]Lona：\c[0]    GUH! It's h-happening...-! -Ah-Again!
+\m[sad]\c[6]Lona：\c[0]    กู้ห์! มัน...-! -มาอีกแล้ว!
 
 Lona/preglv2_Qmsg_puke
-GUH! It's- -*RETCH*! C-Coming out!
+กู้ห์! มัน- -*อ๊วก*! ก-กำลังจะออกมา!
 
 Lona/preg_lv2
-\m[confused]\c[6]Lona：\c[0]    My stomach feels weird. And I've been wanting to eat a lot more...
+\m[confused]\c[6]Lona：\c[0]    ท้องฉันแปลก ๆ และฉันอยากกินเยอะขึ้น...
 
 Lona/preg_lv2_Qmsg
-My stomach feels weird.
+ท้องฉันแปลก ๆ
 
 Lona/preg_lv2_exped
-\m[shy]\c[6]Lona：\c[0]    This strange feeling... I've-... -felt this before.
-\m[fear]\c[6]Lona：\c[0]    I think I'm pregnant again...
+\m[shy]\c[6]Lona：\c[0]    ความรู้สึกแปลก ๆ นี้... ฉันเคย... -รู้สึกแบบนี้มาก่อน
+\m[fear]\c[6]Lona：\c[0]    ฉันคิดว่าฉันท้องอีกแล้ว...
 
 Lona/preg_lv2_exped_Qmsg0
-I've-... -felt this before.
+ฉันเคย... -รู้สึกแบบนี้มาก่อน
 
 Lona/preg_lv2_exped_Qmsg1
-I think I'm pregnant again...
+ฉันคิดว่าฉันท้องอีกแล้ว...
 
 Lona/preglv2_pain
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{EEYAAAH!
-\m[tired]\c[6]Lona：\c[0]    Guuughnnn...
-\m[sad]\c[6]Lona：\c[0]    T-This pain is too scary......
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{อี๊ยยยย!
+\m[tired]\c[6]Lona：\c[0]    กู้ห์...
+\m[sad]\c[6]Lona：\c[0]    ความเจ็บแบบนี้มันน่ากลัวจัง......
 
 #########LV3
 
 Lona/preglv3
-\m[shocked]\c[6]Lona：\c[0]    Ugh, phew... When did my belly get so big?!
-\m[fear]\c[6]Lona：\c[0]    *Sigh*... Everyone's definitely going to notice my stomach...
+\m[shocked]\c[6]Lona：\c[0]    อึก ฟู่... ท้องฉันโตตั้งแต่เมื่อไหร่?!
+\m[fear]\c[6]Lona：\c[0]    *ถอนหายใจ*... ทุกคนต้องสังเกตเห็นท้องฉันแน่ ๆ ...
 
 Lona/preglv3_Qmsg0
-When did my belly get so big?!
+ท้องฉันโตตั้งแต่เมื่อไหร่?!
 
 Lona/preglv3_Qmsg1
-Everyone's going to notice my belly...
+ทุกคนต้องสังเกตเห็นท้องฉันแน่ ๆ ...
 
 Lona/preglv3_puke
-\m[sad]\c[6]Lona：\c[0]    UUUGH! *GASP*! N-No! Not again...! BLUGH!
+\m[sad]\c[6]Lona：\c[0]    อูวว! *หอบ*! ม-ไม่! ไม่อีกแล้ว...! บลือ!
 
 Lona/preglv3_pain
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{KYAAAH!!
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{OOOHHH...! NNNIGHnnn...!
-\m[tired]\c[6]Lona：\c[0]    *Haff*... *Huff*...
-\m[sad]\c[6]Lona：\c[0]    Guahhh,.. This kind of pain is sooo scary...
-\m[confused]\c[6]Lona：\c[0]    I can feel the baby moving inside my belly......
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{กรี๊ดดด!!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{โอ๊ยยย...! อื้ดดด...!
+\m[tired]\c[6]Lona：\c[0]    *หอบ*... *หอบ*...
+\m[sad]\c[6]Lona：\c[0]    กู้ห์... ความเจ็บแบบนี้มันน่ากลัวจัง...
+\m[confused]\c[6]Lona：\c[0]    ฉันรู้สึกได้ว่าลูกกำลังดิ้นในท้อง......
 
 Lona/preglv3_Qmsg_pain0
-I can feel the baby moving...
+ฉันรู้สึกได้ว่าลูกกำลังดิ้น...
 
 Lona/preglv3_Qmsg_pain1
-This kind of pain is so scary...
+ความเจ็บแบบนี้มันน่ากลัวจัง...
 
 #########LV4
 
 Lona/preglv4
-\m[pain]\c[6]Lona：\c[0]    This strange feeling is getting stronger everytime the baby moves...
-\m[fear]\c[6]Lona：\c[0]    I'll probably have to give birth soon... What am I going to do......?
+\m[pain]\c[6]Lona：\c[0]    ความรู้สึกแปลก ๆ นี้แรงขึ้นทุกครั้งที่ลูกดิ้น...
+\m[fear]\c[6]Lona：\c[0]    ฉันคงต้องคลอดเร็ว ๆ นี้... ฉันจะทำยังไงดี......?
 
 Lona/preglv4_Qmsg0
-I'll probably have to give birth soon...
+ฉันคงต้องคลอดเร็ว ๆ นี้...
 
 Lona/preglv4_Qmsg1
-What am I going to do...?
+ฉันจะทำยังไงดี...?
 
 Lona/preglv4_weak
-\m[shy]\c[6]Lona：\c[0]    Please... *Huff* Please don't move anymore...
-\m[bereft]\c[6]Lona：\c[0]    I don't want to give birth to you in such a cruel and painful world...
+\m[shy]\c[6]Lona：\c[0]    ขอร้อง... *หอบ* อย่าดิ้นอีกเลย...
+\m[bereft]\c[6]Lona：\c[0]    ฉันไม่อยากคลอดลูกในโลกที่โหดร้ายและเจ็บปวดแบบนี้...
 
 Lona/preglv4_Qmsg_weak0
-Please... Please don't move anymore!
+ขอร้อง... อย่าดิ้นอีกเลย!
 
 Lona/preglv4_Qmsg_weak1
-I don't want to give birth in such a cruel world!
+ฉันไม่อยากคลอดในโลกที่โหดร้ายแบบนี้!
 
 Lona/preglv4_pain
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{EEEEEEP!
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{KYAAAHHH!
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Wuuhhh... *Gasp*! EEEK...! AHHH...!!! Aaah......!
-\m[tired]\c[6]Lona：\c[0]    *HUFF*... *Haff*... *Huff*...
-\m[sad]\c[6]Lona：\c[0]    Nnnigh... T-The baby is kicking again.
-\m[confused]\c[6]Lona：\c[0]    ...Don't be afraid, Mama will protect you...... ♥
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{อี๊ยยยย!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{กรี๊ดดดด!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{วูวว... *หอบ*! อี๊ย...! อ๊ากก...!!! อ๊า......!
+\m[tired]\c[6]Lona：\c[0]    *หอบ*... *หอบ*... *หอบ*...
+\m[sad]\c[6]Lona：\c[0]    อื้ด... ลูกลูกกำลังเตะอีกแล้ว
+\m[confused]\c[6]Lona：\c[0]    ...อย่ากลัวนะ แม่จะปกป้องลูก...... ♥
 
 Lona/preglv4_pain_Qmsg0
-Nnnigh... T-The baby is kicking again.
+อื้ด... ลูกลูกกำลังเตะอีกแล้ว
 
 Lona/preglv4_pain_Qmsg1
-*HUFF*... *Haff*... *Huff*...
+*หอบ*... *หอบ*... *หอบ*...
 
 Lona/preglv4_pain_Qmsg2
-Don't be afraid, Mama will protect you... ♥
+อย่ากลัวนะ แม่จะปกป้องลูก... ♥
 
 #####################birth
 
 Lona/preglv5_ready_to_birth
 !!!!!!
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Water! Water won't stop coming out!
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{My water... My water is broken!
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{It feels like something's coming out soon!
-\m[pain]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    It's trying to push out, I won't be able to hold it in anymore!
-\m[shy]\c[6]Lona：\c[0]    ...I have to find a safe place soon!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{น้ำ! น้ำไหลไม่หยุด!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{น้ำคร่ำ... น้ำคร่ำแตกแล้ว!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{รู้สึกเหมือนอะไรกำลังจะออกมาเร็ว ๆ นี้!
+\m[pain]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    มันกำลังดันออกมา ฉันกลั้นไม่อยู่แล้ว!
+\m[shy]\c[6]Lona：\c[0]    ...ฉันต้องหาที่ปลอดภัยเร็ว ๆ นี้!
 
 Lona/preglv5_ready_birth_shake0
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{It hurts!
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{เจ็บ!
 
 Lona/preglv5_ready_birth_shake1
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{GAH! *Huff* OHHH!
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{ก๊าก! *หอบ* โอ๊ยยย!
 
 Lona/preglv5_ready_birth_shake2
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{AHHH! EEEEEEK!
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{อ๊ากก! อี๊ยยยยย!
 
 Lona/preglv5_birth_start
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{It hurts!\} My stomach... Is moving!\}
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{Nnngah!\}
-\m[p5sta_damage]\Rshake It feels like it's coming out soon!
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    EEEP! I-I feel it a-again!
-\m[p5sta_damage]\Rshake\{UGH!\{ NNAAHHH!\}\}
-\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    IT HURTS- *Haff* -SOOO MUCH!
-\m[p5sta_damage]\Rshake\{*GASP*! AAAHH! GAAAHHH!\}
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{เจ็บ!\} ท้องฉัน... กำลังขยับ!\}
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{อื้ด!\}
+\m[p5sta_damage]\Rshake รู้สึกเหมือนมันกำลังจะออกมาเร็ว ๆ นี้!
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    อี๊ย! ฉันรู้สึกมันอีกแล้ว!
+\m[p5sta_damage]\Rshake\{อูว!\{ อ๊ากกก!\}\}
+\m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    เจ็บ- *หอบ* -มากกก!
+\m[p5sta_damage]\Rshake\{*หอบ*! อ๊ากก! ก๊ากกกก!\}
 
 Lona/preglv5_birth_start_pain0
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{AHHHHUUUUUGHHHH!
-\Rshake\c[6]Lona：\c[0]    \{STOP! *Sob*... P-Please stooop!
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{อ๊ากกกกกกกกก!
+\Rshake\c[6]Lona：\c[0]    \{หยุด! *สะอื้น*... ข-ขอร้องหยุด!
 
 Lona/preglv5_birth_start_pain1
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{OhhhOOOUUUGH!
-\Rshake\c[6]Lona：\c[0]    \{*Gasp*! AUUUUGHHH!
-\Rshake\c[6]Lona：\c[0]    \{GAAAHHHHHH!
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{โอ๊ยยยยยยยยย!
+\Rshake\c[6]Lona：\c[0]    \{*หอบ*! อูววววว!
+\Rshake\c[6]Lona：\c[0]    \{ก๊ากกกกกก!
 
 Lona/preglv5_birth_start_pain2
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{It hurts...! *Huff*! IT HUUURTS!
-\Rshake\c[6]Lona：\c[0]    \{I CAN'T...! *Whimper*... I CCCAAAN'T-!
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{เจ็บ...! *หอบ*! เจ็บมากกก!
+\Rshake\c[6]Lona：\c[0]    \{ฉันไม่ไหว...! *ครวญ*... ฉันไม่ไหวแล้ว-!
 
 Lona/preglv5_birth_start_pain3
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{-EEEEEEAAAAAAHHH!
-\Rshake\c[6]Lona：\c[0]    \{UUUGHHHAHHH! *Sob*! A-AAAAAAHHHHHH!
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{-อี๊ยยยยยยยยยยย!
+\Rshake\c[6]Lona：\c[0]    \{อูววววววว! *สะอื้น*! อ-อ๊ากกกกกกก!
 
 Lona/preglv5_birth_start_pain4
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{IT'S CCCOOMING OUUUUUUT!
-\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{GUUUGH-KKKKKKYYYAAAAAAHHHHHH!!!~
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{มันกำลังออกมาาาาาาา!
+\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{กู้ห์-ก๊ากกกกกกกกกกกก!!!~
 
 ######################################流產
 
 Lona/preg_miscarriage_start
-\narr A huge, throbbing pain suddenly filled Lona's lower abdomen!
+\narr ความเจ็บปวดรุนแรงมหาศาลโจมตีท้องน้อยของ Lona ทันทีทันใด!
 \narrOFF\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{\{!!!!!!!!!
 
 Lona/preg_miscarriage_begin0
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{It hurts...! *Huff*! IT HUUURTS!
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{เจ็บ...! *หอบ*! เจ็บมากกก!
 
 Lona/preg_miscarriage_begin1
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{EEEYYYAAAAAAH!
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{อี๊ยยยยยยย!
 
 Lona/preg_miscarriage_begin2
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{NOOO! F-For-... -give me!
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{ไม่นะ! ข-ขอ... -ให้อภัยฉัน!
 
 Lona/preg_miscarriage_begin3
-\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{GAAAHHH!　\{KYAAAHHH!
+\m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{ก๊ากกก!　\{กรี๊ดดดด!
 
 Lona/preg_miscarriage_end0
-\m[pain]\c[6]Lona：\c[0]    Is this-...... -my baby?
-\m[fear]\c[6]Lona：\c[0]    Baby... M-My baby is dead......
+\m[pain]\c[6]Lona：\c[0]    นี่คือ-...... -ลูกฉันเหรอ?
+\m[fear]\c[6]Lona：\c[0]    ลูก... ล-ลูกฉันตายแล้ว......
 
 Lona/preg_miscarriage_end1
-\m[sad]\c[6]Lona：\c[0]    Uuuuwaaahhh! *Sob*... Mom, I'm so sorry... I'm a failure of a mother......
+\m[sad]\c[6]Lona：\c[0]    อูววววววว! *สะอื้น*... แม่ขอโทษ... ฉันเป็นแม่ที่ล้มเหลว......
 
-##_------------------------------異種強制流產　　使用於ｒａｐｅ　ｌｏｏｐ連鎖事件 本事件僅適用ORKIND
+##_------------------------------異種強制流產　　ใช้ใน rape loop เชนอีเวนต์ ใช้ได้เฉพาะ ORKIND
 
 Lona/MonsterPregCheckbegin1_unexped
-\narr They prepared Lona and held her down.
-\narrOFF\m[p5shame]\c[6]Lona：\c[0]    *Whimpers*... W-What are you doing?
-\narr It was sniffing against Lona's genitals and seemed to be looking for something.
+\narr พวกมันเตรียมตัวและกัก Lona ไว้
+\narrOFF\m[p5shame]\c[6]Lona：\c[0]    *ครวญ*... ท-ทำอะไร?
+\narr มันดมอวัยวะเพศของ Lona เหมือนกำลังหาอะไรสักอย่าง
 
 Lona/MonsterPregCheckbegin1_exped
-\narr It began smelling Lona's genitals and seemed to suspect that Lona was not pregnant with the same race.
-\narrOFF\m[p5shame]\c[6]Lona：\c[0]    *Sniff*... I'm pregnant, really! I'm not lying!
+\narr มันเริ่มดมอวัยวะเพศของ Lona และสงสัยว่า Lona ไม่ได้ท้องกับเผ่าพันธุ์เดียวกัน
+\narrOFF\m[p5shame]\c[6]Lona：\c[0]    *ดม*... ฉันท้องจริง ๆ นะ! ไม่ได้โกหก!
 
 Lona/MonsterPregCheckbegin2_normal
-\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    N-No...! Don't-... -lick there...
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    ม-ไม่...! อย่า-... -เลียตรงนั้น...
 
 Lona/MonsterPregCheckbegin2_tsun
-\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    You monster! Stop! Get your flithy mouth away from me!
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    ไอ้สัตว์ประหลาด! หยุด! เอาปากสกปรกออกไป!
 
 Lona/MonsterPregCheckbegin2_weak
-\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Nooo! *Whimper*... D-Don't hurt me! *Sob* Eeeeeek!
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    ไม่นะาา! *ครวญ*... อย่าทำร้ายฉัน! *สะอื้น* อี๊ยยย!
 
 Lona/MonsterPregCheckbegin2_slut
-\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Kyaaah!~ What are you doing?!
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    กรี๊ดด!~ ทำอะไรเนี่ย?!
 
 Lona/MonsterPregCheckbegin2_mouth_block
-\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Mmmmph! MMMNNNnnnphhh!
+\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    อืมมม! มมนนนนนน!
 
 Lona/MonsterPregCheckbegin2_overfatigue
-\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Nnnighnnn... Ahhhhhh......
+\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    อื้ดดด... อ๊าาาาา......
 
 Lona/MonsterPregCheckbegin3
-\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Nnnnnn...
-\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Eeeeeek...!
-\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    Kyaaaaaah!
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    อืมมมม...
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    อี๊ยยย...!
+\m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    กรี๊ดดดด!
 
 Lona/MonsterPregChecked_pregnant
-\narr They were quite satisfied with the condition in Lona's womb. They decided to breed her again just to make sure.
-\narrOFF\m[fear]\c[6]Lona：\c[0]    What are you... going to do......?
+\narr พวกมันพอใจกับสภาพในครรภ์ของ Lona มาก พวกมันตัดสินใจผสมพันธุ์เธออีกครั้งเพื่อความแน่นอน
+\narrOFF\m[fear]\c[6]Lona：\c[0]    พวกนาย... จะทำอะไร......?
 
 Lona/MonsterPregChecked_no_pregnant
-\narr They sensed that Lona wasn't impregnated with their offspring yet, which means that Lona must be knocked up soon.
-\narrOFF\m[fear]\c[6]Lona：\c[0]    What are you... going to do......?
+\narr พวกมันรู้สึกว่า Lona ยังไม่ได้ถูกผสมพันธุ์ด้วยลูกของพวกมัน ซึ่งหมายความว่า Lona ต้องถูกทำให้ท้องเร็ว ๆ นี้
+\narrOFF\m[fear]\c[6]Lona：\c[0]    พวกนาย... จะทำอะไร......?
 
 Lona/MonsterPregChecked_race_error
-\narr They discovered that Lona wasn't pregnant with their species, and they were furious.
-\narrOFF\m[fear]\c[6]Lona：\c[0]    What are you... going to do......?
-\narr They prepared to abort Lona's baby and have her miscarry with the most primitive method...
-
+\narr พวกมันพบว่า Lona ไม่ได้ท้องกับเผ่าพันธุ์ของพวกมัน และพวกมันโกรธมาก
+\narrOFF\m[fear]\c[6]Lona：\c[0]    พวกนาย... จะทำอะไร......?
+\narr พวกมันเตรียมทำให้ Lona แท้งและคลอดลูกด้วยวิธีดั้งเดิมที่สุด...
 
 #-----------------------------
 
 Lona/use_as_MeatToilet_normal
-\m[shocked]\Rshake\c[6]Lona：\c[0]    NOOO!!! Let me go!!!
-\m[terror]\Rshake\c[6]Lona：\c[0]    \{Somebody, help me!!!
+\m[shocked]\Rshake\c[6]Lona：\c[0]    ไม่นะาา!!! ปล่อยฉัน!!!
+\m[terror]\Rshake\c[6]Lona：\c[0]    \{ใครก็ได้ ช่วยฉันด้วย!!!
 
 Lona/use_as_MeatToilet_tsun
-\m[angry]\Rshake\c[6]Lona：\c[0]    LET GO OF ME! You disgusting pieces of shit!... Nnnighnnn! F-Fuck!
-\m[hurt\Rshake]\c[6]Lona：\c[0]    \{Eeeeeyaaahhhhhh!
+\m[angry]\Rshake\c[6]Lona：\c[0]    ปล่อยฉันเดี๋ยวนี้! ไอ้พวกสกปรก!... อื้ดดด! เ-เชี่ย!
+\m[hurt\Rshake]\c[6]Lona：\c[0]    \{อี๊ยยยยยยยย!
 
 Lona/use_as_MeatToilet_weak
-\m[fear]\Rshake\c[6]Lona：\c[0]    I... I'll be a good girl... *Whimper* P-Please don't hurt me...
-\m[bereft]\Rshake\c[6]Lona：\c[0]    It hurts!! *Sob*! \{KYAAAH!!!
+\m[fear]\Rshake\c[6]Lona：\c[0]    ฉัน... ฉันจะเป็นเด็กดี... *ครวญ* ข-ขอร้องอย่าทำร้ายฉัน...
+\m[bereft]\Rshake\c[6]Lona：\c[0]    เจ็บ!! *สะอื้น*! \{กรี๊ดดด!!!
 
 Lona/use_as_MeatToilet_slut
-\m[flirty]\Rshake\c[6]Lona：\c[0]    Teehee!~ You guys really want my body huh?~
-\m[sexhurt]\Rshake\c[6]Lona：\c[0]   Kyaaah! B-Be gentler!
+\m[flirty]\Rshake\c[6]Lona：\c[0]    ฮิฮิ!~ พวกนายอยากได้ร่างกายฉันมากเลยเหรอ?~
+\m[sexhurt]\Rshake\c[6]Lona：\c[0]   กรี๊ดด! อ-อ่อนโยนกว่านี้หน่อย!
 
 Lona/use_as_MeatToilet_overfatigue
-\m[tired]\Rshake\c[6]Lona：\c[0]    Unnnghnnn......
-\m[hurt]\Rshake\c[6]Lona：\c[0]    L-Let me rest first, please...! \{EEEYAH!!!
+\m[tired]\Rshake\c[6]Lona：\c[0]    อื้ดดด......
+\m[hurt]\Rshake\c[6]Lona：\c[0]    ป-ปล่อยฉันพักก่อน ขอร้อง...! \{อี๊ยยย!!!
 
 Lona/use_as_MeatToilet_mouth_block
-\m[tired]\Rshake\c[6]Lona：\c[0]    Unnnghnnn......
-\m[hurt]\Rshake\c[6]Lona：\c[0]    \{MMMMmmmppphnnnnnn!!!
+\m[tired]\Rshake\c[6]Lona：\c[0]    อื้ดดด......
+\m[hurt]\Rshake\c[6]Lona：\c[0]    \{มมมมมมมมมม!!!
 
 #-----------------------------  BerserkDrug
 
 Lona/BerserkDrug0
-\m[p5sta_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    \{Ahh... AHHH...... AHHHHHH!!!
+\m[p5sta_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    \{อ๊า... อ๊ากก...... อ๊ากกกกก!!!
 
 Lona/BerserkDrug1
-\m[p5health_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    I f-feel......\n\{GAAAAAAH!!!
+\m[p5health_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    ฉันรู้สึก......\n\{ก๊ากกกกกก!!!
 
 Lona/BerserkDrug2
-\cg[event_RipAndTear]\Rflash\SndLib[sound_Heartbeat]They look down at you. And see you as nothing but a maggot...
-\Rflash\SndLib[sound_Heartbeat]...But now you've changed.
-\Rflash\SndLib[sound_Heartbeat]You will be worse... STRONGER!!!
-\Rflash\SndLib[sound_Heartbeat]\{RIP AND TEAR THEIR GUTS OUT!!! FINISH THEM!!!!!!
+\cg[event_RipAndTear]\Rflash\SndLib[sound_Heartbeat]พวกมันมองลงมาที่เธอ และเห็นเธอเป็นแค่ตัวแมลง...
+\Rflash\SndLib[sound_Heartbeat]...แต่ตอนนี้เธอเปลี่ยนไปแล้ว
+\Rflash\SndLib[sound_Heartbeat]เธอจะแย่กว่านั้น... แข็งแกร่งกว่า!!!
+\Rflash\SndLib[sound_Heartbeat]\{ฉีกและขยี้ไส้พวกมัน!!! จบพวกมัน!!!!!!
 
 Lona/BerserkDrug3
-\cgoff\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{RAUGH-AHHAHAHAHA!
+\cgoff\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{ร๊าอ๊ก-อ๊าฮ่าฮ่าฮ่าฮ่า!
 
 Lona/BerserkDrug4
-\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    The only thing they should fear...
-\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{IS ME!
+\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    สิ่งเดียวที่พวกมันควรกลัว...
+\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{คือฉัน!
 
 #-----------------------------  Drunk
 
 Lona/DrunkLv1
-\m[p5sta_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    *HIC*... *HICCUP*...
-\m[pleased]\PRF\c[6]Lona：\c[0]    Kyyyahahah!~
+\m[p5sta_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    *สะอึก*... *สะอึก*...
+\m[pleased]\PRF\c[6]Lona：\c[0]    ฮิฮิฮ่าฮ่า!~
 
 Lona/DrunkLv2
-\m[p5sta_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    *HIC*... Guuugh... *Buuurp*......
+\m[p5sta_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    *สะอึก*... กู้ห์... *เรอ*......
 \m[confused]\PRF\c[6]Lona：\c[0]    ......
-\m[flirty]\PRF\c[6]Lona：\c[0]    Mu-Maaaybe I shhhouldn't dri... drink anymooore...... *Hic*!
+\m[flirty]\PRF\c[6]Lona：\c[0]    บ-บางทีฉันไม่... ควรดื่มอีกแล้ว...... *สะอึก*!
 
 #-----------------------------  Locked , house or dungeon loot.
 
 Lona/PickLock
-\m[confused]It's locked, I should use...#{$story_stats["HiddenOPT1"]}My strength to try to open it
+\m[confused]มันล็อกอยู่ ฉันควรใช้...#{$story_stats["HiddenOPT1"]}พลังของฉันลองเปิดดู
 
 #-----------------------------  Nightmare(PTSD)
 
@@ -1183,21 +1174,21 @@ Lona/PTSD_begin2
 \Rflash\SndLib[sound_Heartbeat]!!!!!!!!!
 
 Lona/PTSD_Common_0
-\m[terror]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    Nnnighnnn...
+\m[terror]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    อื้ดดด...
 
 Lona/PTSD_Common_1
-\m[bereft]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{N-No...\} Go... away...
+\m[bereft]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{ม-ไม่...\} ไป... ซะ...
 
 Lona/PTSD_Common_2
-\m[pain]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{I'm sorry...\} F-Forgive me...
+\m[pain]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{ฉันขอโทษ...\} ข-ให้อภัยฉัน...
 
 Lona/PTSD_Common_3
-\m[hurt]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{I was wrong...\} Please... don't...
+\m[hurt]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{ฉันผิดไปแล้ว...\} ขอร้อง... อย่า...
 
 Lona/PTSD_CecilyBetray
-\SETpl[CecilyAngryAr]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Cecily：\c[0]    How could you do such a thing...?
-\SETpl[CecilyAngryAr]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Cecily：\c[0]    I'LL NEVER FORGIVE YOU!
-\SETpl[CecilyAngryAr]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Cecily：\c[0]    \{DIEEEEEE!!!
+\SETpl[CecilyAngryAr]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Cecily：\c[0]    เธอทำเรื่องแบบนี้ได้ยังไง...?
+\SETpl[CecilyAngryAr]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Cecily：\c[0]    ฉันจะไม่มีวันให้อภัยเธอ!
+\SETpl[CecilyAngryAr]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Cecily：\c[0]    \{ตายซะ!!!
 
 Lona/PTSD_Orkind
 \cg[event_Eyes]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_goblin_spot]!!!
@@ -1225,27 +1216,27 @@ Lona/PTSD_Slave
 \cg[event_Eyes]\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_slap]!!!!!!!!!
 
 Lona/PTSD_begin4
-\cgoff\m[bereft]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{\{NOOOOOO!!!
+\cgoff\m[bereft]\Rshake\Rflash\SndLib[sound_Heartbeat]\c[6]Lona：\c[0]    \{\{ไม่นะาาาาาา!!!
 
 Lona/PTSD_begin5_0
-\m[terror]\c[6]Lona：\c[0]    *Gasp*... *Huff*......
-\m[tired]\c[6]Lona：\c[0]    Another nightmare...?
+\m[terror]\c[6]Lona：\c[0]    *หอบ*... *หอบ*......
+\m[tired]\c[6]Lona：\c[0]    ฝันร้ายอีกแล้วเหรอ...?
 
 Lona/PTSD_begin5_1
-\m[terror]\c[6]Lona：\c[0]    ...*Huff*...*Haff*...
-\m[tired]\c[6]Lona：\c[0]    It was all just a dream...?
+\m[terror]\c[6]Lona：\c[0]    ...*หอบ*...*หอบ*...
+\m[tired]\c[6]Lona：\c[0]    มันเป็นแค่ความฝันเหรอ...?
 
 ######################### Eat hand
 
 Lona/EatHand0
-\m[confused]\c[6]Lona：\c[0]    Nom\..Nom\..Nom\..
-\m[flirty]\c[6]Lona：\c[0]    Um......I'm sure this won't taste good.
+\m[confused]\c[6]Lona：\c[0]    กัด\..กัด\..กัด\..
+\m[flirty]\c[6]Lona：\c[0]    อืม......ฉันแน่ใจว่ามันไม่อร่อยหรอก
 
 Lona/EatHand1
-\m[confused]\c[6]Lona：\c[0]    Nom\..Nom\..Nom\..
-\m[flirty]\c[6]Lona：\c[0]    What am I doing?
-\m[confused]\c[6]Lona：\c[0]    Is this supposed to be funny?
+\m[confused]\c[6]Lona：\c[0]    กัด\..กัด\..กัด\..
+\m[flirty]\c[6]Lona：\c[0]    ฉันกำลังทำอะไรอยู่?
+\m[confused]\c[6]Lona：\c[0]    นี่มันควรตลกเหรอ?
 
 Lona/EatHand2
-\m[confused]\c[6]Lona：\c[0]    Nom\..Nom\..Nom\..
-\m[flirty]\c[6]Lona：\c[0]    Yeah......I better stop that.
+\m[confused]\c[6]Lona：\c[0]    กัด\..กัด\..กัด\..
+\m[flirty]\c[6]Lona：\c[0]    ใช่......ฉันควรหยุดดีกว่า
