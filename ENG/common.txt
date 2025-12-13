@@ -228,7 +228,7 @@ Lona/Parasite_Wakeup
 ปรสิตในท้องของ Lona ดิ้นพล่านตลอดเวลา
 \m[p5shame]\SND[Hevent_CHS/Buchu01.ogg]\Rshake\c[6]Lona：\c[0]    ม-ไม่นะ! อื้ดดด... *หอบ*!
 \m[p5sta_damage]\SND[Hevent_CHS/Buchu02.ogg]\Rshake\c[6]Lona：\c[0]    กรี๊ดดด!!!
-\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{กู้ห์...!
+\m[p5health_damage]\SND[Hevent_CHS/Buchu03.ogg]\Rshake\c[6]Lona：\c[0]    \{อ่าห์...!
 \m[pain]\c[6]Lona：\c[0]    *หอบ*... *หอบ*... มันไม่ยอมออกมา
 \m[sad]\c[6]Lona：\c[0]    ต้องรีบ... แล้วกำจัดมันออกไป...
 
@@ -321,7 +321,7 @@ Lona/Semen_addiction_overLv2
 
 Lona/Semen_addiction_overLv3
 \narr\m[terror]\Rshake\c[4]ความต้องการน้ำว่าวทำให้ Lona กลืนอะไรไม่ได้เลย เธอกำลังจะเสียสติ!
-\narrOFF\m[sexhurt]\Rshake\c[6]Lona：\c[0]    กู้ห์... *หอบ*
+\narrOFF\m[sexhurt]\Rshake\c[6]Lona：\c[0]    อ่าห์... *หอบ*
 \m[p5shame]\Rshake\c[6]Lona：\c[0]    อ๊า! อ๊า! อ๊ากก!
 \m[sad]\c[6]Lona：\c[0]    ...
 \m[sexhurt]\c[6]Lona：\c[0]    *หอบ*... *หอบ*... ฉัน... ทนไม่ไหวแล้ว!
@@ -337,7 +337,7 @@ Lona/Drug_addiction_almost
 
 Lona/Drug_addiction_overLv1
 \narr\m[fear]\Rshake\c[4]Lona เริ่มเจ็บปวดทั่วตัวเพราะติดยา สติเธอค่อย ๆ เลือนลาง
-\narrOFF\m[sad]\c[6]Lona：\c[0]   กู้ห์... ฉัน-ต้อง...หา...ยา......
+\narrOFF\m[sad]\c[6]Lona：\c[0]   อ่าห์... ฉัน-ต้อง...หา...ยา......
 
 Lona/Drug_addiction_overLv2
 \narr\m[pain]\Rshake\c[4]ร่างกาย Lona เจ็บปวดไปหมดเพราะติดยา สมองเธอร้องขอโดสเดียว...
@@ -347,7 +347,7 @@ Lona/Drug_addiction_overLv2
 Lona/Drug_addiction_overLv3
 \narr\m[p5sta_damage]\Rshake\c[4]เพราะติดยาอย่างหนัก Lona รู้สึกเหมือนจะบ้าตายเพราะขาดยา!
 \narrOFF\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    *หอบ* อูว... อ๊า... อืมมม... อ๊า! อ๊ากกก!!!
-\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    *หอบ* กู้ห์! อื้ดด! อ๊ากกก!! ยี๊ดดด!!!
+\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    *หอบ* อ่าห์! อื้ดด! อ๊ากกก!! ยี๊ดดด!!!
 \m[p5health_damage]\Rshake\c[6]Lona：\c[0]    ขอร้องล่ะ...ฉัน... ต้องการยา!!! ให้ฉันที!
 \m[p5health_damage]\Rshake\c[6]Lona：\c[0]     ฉันจะ...เชื่อฟัง...ทุกอย่างที่นายบอก...!
 \m[p5sta_damage]\Rshake\c[6]Lona：\c[0]     กรี๊ดดด!!!
@@ -424,7 +424,7 @@ Lona/dress_out_slut2
 
 Lona/dress_out_overfatigue0
 \prh!!!!!!
-\m[tired]\c[6]Lona：\c[0]    กู้ห์... โอ๊ย... หนาวจัง...
+\m[tired]\c[6]Lona：\c[0]    อ่าห์... โอ๊ย... หนาวจัง...
 
 Lona/dress_out_overfatigue1
 \prh!!!!!!
@@ -437,17 +437,17 @@ Lona/dress_out_overfatigue2
 Lona/dress_out_mouth_block0
 \prh!!!!!!
 \m[shocked]\c[6]Lona：\c[0]    อืมมม!
-\m[shy]\c[6]Lona：\c[0]    มนนนน!
+\m[shy]\c[6]Lona：\c[0]    อืมนนนน!
 
 Lona/dress_out_mouth_block1
 \prh!!!!!!
-\m[hurt]\c[6]Lona：\c[0]    กู้ห์!
-\m[tired]\c[6]Lona：\c[0]    มนนน!
+\m[hurt]\c[6]Lona：\c[0]    อ่าห์!
+\m[tired]\c[6]Lona：\c[0]    อืมนนน!
 
 Lona/dress_out_mouth_block2
 \prh!!!!!!
-\m[wtf]\c[6]Lona：\c[0]    มมม มมม!
-\m[shy]\c[6]Lona：\c[0]    มนนนน...!
+\m[wtf]\c[6]Lona：\c[0]    อืมมม อืมมม!
+\m[shy]\c[6]Lona：\c[0]    อืมนนนน...!
 
 #------------------------------------- Ext
 
@@ -501,10 +501,10 @@ Lona/dress_out_ext_overfatigue1
 \m[flirty]\c[6]Lona：\c[0]    ฟู่... ใครจะไปรู้ว่าเสื้อผ้ามันหนักขนาดนี้...
 
 Lona/dress_out_ext_mouth_block0
-\m[tired]\c[6]Lona：\c[0]    อืมมม... มมม...
+\m[tired]\c[6]Lona：\c[0]    อืมมม... อืมมม...
 
 Lona/dress_out_ext_mouth_block1
-\m[tired]\c[6]Lona：\c[0]    มมม... มหืมมมม...!
+\m[tired]\c[6]Lona：\c[0]    อืมมม... อืมมมม...!
 
 #--------------------------------------------------------------------------เมื่อใส่ปลอกคอ
 
@@ -625,7 +625,7 @@ Lona/eat_cums_mouth_block0
 
 Lona/eat_cums_mouth_block1
 \narr Lona ลำบากนิดหน่อยแต่กลืนสิ่งที่อยู่ในปากได้
-\narrOFF\m[shy]\c[6]Lona：\c[0]    *กลืน* มนนนนมมม!
+\narrOFF\m[shy]\c[6]Lona：\c[0]    *กลืน* อืมนนนนมมม!
 
 Lona/eat_cums_overfatigue0
 \narr Lona ค่อย ๆ ปล่อยให้น้ำว่าวไหลลงคอ...
@@ -633,7 +633,7 @@ Lona/eat_cums_overfatigue0
 
 Lona/eat_cums_overfatigue1
 \narr Lona ใช้แรงที่เหลืออยู่น้อยนิดบังคับตัวเองกลืนของเหลวในปาก...
-\narrOFF\m[shy]\c[6]Lona：\c[0]    *กลืน*... กู้ห์... *ไอ*! *หอบ*... อูววว......
+\narrOFF\m[shy]\c[6]Lona：\c[0]    *กลืน*... อ่าห์... *ไอ*! *หอบ*... อูววว......
 
 #-------------------------------------------------------------------------เมื่อหิว
 
@@ -664,7 +664,7 @@ Lona/lowsta2
 \m[pain]\c[6]Lona：\c[0]    อืมมม...　ขาเจ็บ แล้วร่างกายหนักมาก...
 
 Lona/lowsta3
-\m[pain]\c[6]Lona：\c[0]    กู้ห์...　ยืนไม่ไหวแล้ว ต้องหาที่พักผ่อน
+\m[pain]\c[6]Lona：\c[0]    อ่าห์...　ยืนไม่ไหวแล้ว ต้องหาที่พักผ่อน
 
 Lona/Qmsg_lowsta0
 ฉัน... ขยับขาไม่ได้......
@@ -764,11 +764,11 @@ Lona/lure_slut1
 
 Lona/lure_mouth_block0
 Lona ยื่นสะโพกและโชว์อวัยวะเพศให้พวกมันดู
-\m[shy]\c[6]Lona：\c[0]    มมมมนน.....
+\m[shy]\c[6]Lona：\c[0]    อืมมมมนน.....
 
 Lona/lure_mouth_block1
 Lona ยื่นสะโพกและโชว์อวัยวะเพศให้พวกมันดู
-\m[shy]\c[6]Lona：\c[0]    มนนนน.....
+\m[shy]\c[6]Lona：\c[0]    อืมนนนน.....
 
 Lona/lure_overfatigue0
 Lona ยื่นสะโพกและโชว์อวัยวะเพศให้พวกมันดู
@@ -795,7 +795,7 @@ Lona/puke_cums
 \narr ความอยากอาเจียนโจมตี Lona อย่างแรง
 
 Lona/puke_begin1
-\PRF\c[6]Lona：\c[0]    \{*ก-แก็ก*! มมมมกลื้ด! *อ๊วก*!!!
+\PRF\c[6]Lona：\c[0]    \{*ก-แก็ก*! อืมมมมกลื้ด! *อ๊วก*!!!
 
 Lona/puke_begin2
 \narr สิ่งที่อยู่ในท้องของ Lona เริ่มดันขึ้นคอ บังคับให้เธออาเจียนออกมา
@@ -807,10 +807,10 @@ Lona/puke2
 \c[6]Lona：\c[0]    \{โอ๊ยก! *กลื้ด* อูวววร์ก! บลัว๊กกก!!!
 
 Lona/puke3
-\c[6]Lona：\c[0]    \{บลือ! *อ๊วก*! กู้ห์! บลูวววร์กก!!!
+\c[6]Lona：\c[0]    \{บลือ! *อ๊วก*! อ่าห์! บลูวววร์กก!!!
 
 Lona/puke4
-\c[6]Lona：\c[0]    มมมมนน! *บ๊าอ๊ก* บล๊ากกก!!! *อ๊วก*!
+\c[6]Lona：\c[0]    อืมมมมนน! *บ๊าอ๊ก* บล๊ากกก!!! *อ๊วก*!
 
 Lona/puke5
 \c[6]Lona：\c[0]    *ไอ*!!! *ไอ! *หอบ*...! บล๊าวววร์ก! *บ๊าอ๊ก*!
@@ -885,10 +885,10 @@ Lona/preglv1_Qmsg_puke_exped1
 #########LV2
 
 Lona/preglv2_puke
-\m[sad]\c[6]Lona：\c[0]    กู้ห์! มัน...-! -มาอีกแล้ว!
+\m[sad]\c[6]Lona：\c[0]    อ่าห์! มัน...-! -มาอีกแล้ว!
 
 Lona/preglv2_Qmsg_puke
-กู้ห์! มัน- -*อ๊วก*! ก-กำลังจะออกมา!
+อ่าห์! มัน- -*อ๊วก*! ก-กำลังจะออกมา!
 
 Lona/preg_lv2
 \m[confused]\c[6]Lona：\c[0]    ท้องฉันแปลก ๆ และฉันอยากกินเยอะขึ้น...
@@ -908,7 +908,7 @@ Lona/preg_lv2_exped_Qmsg1
 
 Lona/preglv2_pain
 \m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{อี๊ยยยย!
-\m[tired]\c[6]Lona：\c[0]    กู้ห์...
+\m[tired]\c[6]Lona：\c[0]    อ่าห์...
 \m[sad]\c[6]Lona：\c[0]    ความเจ็บแบบนี้มันน่ากลัวจัง......
 
 #########LV3
@@ -930,7 +930,7 @@ Lona/preglv3_pain
 \m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{กรี๊ดดด!!
 \m[p5sta_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{โอ๊ยยย...! อื้ดดด...!
 \m[tired]\c[6]Lona：\c[0]    *หอบ*... *หอบ*...
-\m[sad]\c[6]Lona：\c[0]    กู้ห์... ความเจ็บแบบนี้มันน่ากลัวจัง...
+\m[sad]\c[6]Lona：\c[0]    อ่าห์... ความเจ็บแบบนี้มันน่ากลัวจัง...
 \m[confused]\c[6]Lona：\c[0]    ฉันรู้สึกได้ว่าลูกกำลังดิ้นในท้อง......
 
 Lona/preglv3_Qmsg_pain0
@@ -1025,7 +1025,7 @@ Lona/preglv5_birth_start_pain3
 
 Lona/preglv5_birth_start_pain4
 \m[p5health_damage]\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{มันกำลังออกมาาาาาาา!
-\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{กู้ห์-ก๊ากกกกกกกกกกกก!!!~
+\call[Data/Batch/common_stats_damage_sta.rb]\c[6]Lona：\c[0]    \{อ่าห์-ก๊ากกกกกกกกกกกก!!!~
 
 ######################################流產
 
@@ -1076,7 +1076,7 @@ Lona/MonsterPregCheckbegin2_slut
 \m[p5shame]\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    กรี๊ดด!~ ทำอะไรเนี่ย?!
 
 Lona/MonsterPregCheckbegin2_mouth_block
-\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    อืมมม! มมนนนนนน!
+\call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    อืมมม! อืมมนนนนนน!
 
 Lona/MonsterPregCheckbegin2_overfatigue
 \call[Data/Batch/harassment_frame_VagLick.rb]\c[6]Lona：\c[0]    อื้ดดด... อ๊าาาาา......
@@ -1123,7 +1123,7 @@ Lona/use_as_MeatToilet_overfatigue
 
 Lona/use_as_MeatToilet_mouth_block
 \m[tired]\Rshake\c[6]Lona：\c[0]    อื้ดดด......
-\m[hurt]\Rshake\c[6]Lona：\c[0]    \{มมมมมมมมมม!!!
+\m[hurt]\Rshake\c[6]Lona：\c[0]    \{อืมมมมมมมมมม!!!
 
 #-----------------------------  BerserkDrug
 
@@ -1153,7 +1153,7 @@ Lona/DrunkLv1
 \m[pleased]\PRF\c[6]Lona：\c[0]    ฮิฮิฮ่าฮ่า!~
 
 Lona/DrunkLv2
-\m[p5sta_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    *สะอึก*... กู้ห์... *เรอ*......
+\m[p5sta_damage]\SndLib[sound_Heartbeat]\Rshake\c[6]Lona：\c[0]    *สะอึก*... อ่าห์... *เรอ*......
 \m[confused]\PRF\c[6]Lona：\c[0]    ......
 \m[flirty]\PRF\c[6]Lona：\c[0]    บ-บางทีฉันไม่... ควรดื่มอีกแล้ว...... *สะอึก*!
 
