@@ -1,390 +1,392 @@
+XXXXXXXX
+
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 Ded/ded
-\SETpl[SeaWitch_angry]\Lshake\C[4]Sea Witch：\C[0]    NO! D-Damned humans...!\n I c-can't lose... to such... w-weak creatures...
+\SETpl[SeaWitch_angry]\Lshake\C[4]แม่มดทะเล：\C[0]    ไม่! มนุษย์ชั่ว...!\n ฉันไม่สามารถแพ้... สิ่งมีชีวิต... อ่อนแอแบบนี้ได้...
 
 0to1/begin0
-\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    Found... It...!
-\CBmp[GuardM2,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    The Fake... Sea Witch...!
-\CBmp[GuardM3,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    Lying... *Snort*... Sea Witch... You cannot...\n Trick me... And my... Brothers...!
-\CBmp[SeaWitch,8]\C[4]False Sea Witch：\C[0]    Guuugh...
+\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    พบ... มัน...!
+\CBmp[GuardM2,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    แม่มดทะเล... ปลอม...!
+\CBmp[GuardM3,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    โกหก... *ดม*... แม่มดทะเล... คุณไม่สามารถ...\n หลอกลวงฉัน... และพี่น้องของฉัน...!
+\CBmp[SeaWitch,8]\C[4]แม่มดทะเลปลอม：\C[0]    อ่าห์...
 
 0to1/begin1
-\CBmp[GuardM2,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    Kill... *Snort*... HER!
+\CBmp[GuardM2,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    ฆ่า... *ดม*... เธอ!
 
 0to1/begin2
-\CBmp[GuardM3,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    Sacrafice... *Grunt*... HER!
+\CBmp[GuardM3,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    บูชายัญ... *ครวญ*... เธอ!
 
 0to1/begin3
-\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    Deceiving... Fake... Sea Witch...! Say... Your last... *Snort*... Words...
-\CBmp[SeaWitch,8]\C[4]False Sea Witch：\C[0]    S-So hungry......
+\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    หลอกลวง... แม่มดทะเล... ปลอม...! พูด... คำสุดท้าย... *ดม*... ของคุณ...
+\CBmp[SeaWitch,8]\C[4]แม่มดทะเลปลอม：\C[0]    หิว... มาก...
 
 0to1/begin4
-\CBmp[GuardM2,2]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    Hun-... -Gry\..\..\..?
-\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    Take a... Look...! She really is... Fake... Sea Witch... With Limitless... Harvest...!
+\CBmp[GuardM2,2]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    หิว-... -มาก\..\..\..?
+\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    ดู... สิ! เธอจริงๆ คือ... แม่มดทะเล... ปลอม... ที่มี... การเก็บเกี่ยวไม่จำกัด...!
 
 0to1/begin5
-\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    The real... Sea Witch... Cannot starve...! You are... Real fake... Sea Witch...!
-\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    Suffer... *Grunt*... AND... DIE!
-\CBmp[SeaWitch,2]\C[4]False Sea Witch：\C[0]    Unnnghnnn...
+\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    แม่มดทะเล... จริง... ไม่สามารถหิว...! คุณคือ... แม่มดทะเล... ปลอม... จริงๆ...!
+\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    ทรมาน... *ครวญ*... และ... ตาย!
+\CBmp[SeaWitch,2]\C[4]แม่มดทะเลปลอม：\C[0]    อ่าาาา...
 
 0to1/begin6
-\CBmp[GuardM3,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    Who...?!
-\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    It is... An... Evil Scale!
-\CBmp[GuardM2,20]\SndLib[FishkindSmSpot]\C[4]Fishman Warrior：\C[0]    KILL...!
-\CBmp[SeaWitch,8]\C[4]False Sea Witch：\C[0]    No\..\..\.. W-Wait\..\..\.. Fooood......
+\CBmp[GuardM3,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    ใคร...?!
+\CBmp[GuardM1,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    มันคือ... ขนาดชั่วร้าย!
+\CBmp[GuardM2,20]\SndLib[FishkindSmSpot]\C[4]นักรบคนปลา：\C[0]    ฆ่า...!
+\CBmp[SeaWitch,8]\C[4]แม่มดทะเลปลอม：\C[0]    ไม่\..\..\.. รอ\..\..\.. อาหาร......
 
 0to1/begin7
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    What's that noise?!
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    เสียงอะไรนั่น?!
 
 1to2/begin0
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    EEEH?! W-What happened here?!
-\CBct[20]\m[terror]\Rshake\c[6]Lona：\c[0]    Why are there so many dead... fishes?
-\CBmp[SeaWitch,8]\prf\C[4]False Sea Witch：\C[0]    Sssooo... H-Hungrrry......
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    Eh...?
-\CBmp[SeaWitch,8]\prf\C[4]False Sea Witch：\C[0]    Ssstar-... -Vinnng...
-\CBct[8]\m[fear]\c[6]Lona：\c[0]    ......
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    อี๊?! เกิดอะไรขึ้นที่นี่?!
+\CBct[20]\m[terror]\Rshake\c[6]โลน่า：\c[0]    ทำไมถึงมีปลาตายเยอะแยะ?
+\CBmp[SeaWitch,8]\prf\C[4]แม่มดทะเลปลอม：\C[0]    หิว... มาก...
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    เอ๊ะ...?
+\CBmp[SeaWitch,8]\prf\C[4]แม่มดทะเลปลอม：\C[0]    หิว... โหย...
+\CBct[8]\m[fear]\c[6]โลน่า：\c[0]    ......
 
 2to3/begin0
-\CBct[2]\m[flirty]\c[6]Lona：\c[0]    Ummm... Excuse me...?
-\CBmp[SeaWitch,8]\prf\C[4]False Sea Witch：\C[0]    Hunnn... G-Grrry...
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    You're hungry?
-\CBct[8]\m[flirty]\c[6]Lona：\c[0]    Isn't this temple surrounded with fishes though?
-\CBmp[SeaWitch,8]\prf\C[4]False Sea Witch：\C[0]    Man's j-juice... Need... M-Man......
-\CBct[2]\m[confused]\c[6]Lona：\c[0]    She doesn't look like she's a Fishkind... Could she be the legendary Mermaid?
-\CBct[2]\m[flirty]\c[6]Lona：\c[0]    Maybe she'll be able to grant me a wish?
+\CBct[2]\m[flirty]\c[6]โลน่า：\c[0]    อืม... ขอโทษนะ...?
+\CBmp[SeaWitch,8]\prf\C[4]แม่มดทะเลปลอม：\C[0]    หิว... มาก...
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    คุณหิวหรือเปล่า?
+\CBct[8]\m[flirty]\c[6]โลน่า：\c[0]    วัดนี้ไม่ได้ล้อมรอบด้วยปลาหรอกหรือ?
+\CBmp[SeaWitch,8]\prf\C[4]แม่มดทะเลปลอม：\C[0]    น้ำอสุจิ... ต้องการ... ผู้ชาย...
+\CBct[2]\m[confused]\c[6]โลน่า：\c[0]    เธอไม่ดูเหมือนคนปลา... เธออาจจะเป็นนางเงือกตำนาน?
+\CBct[2]\m[flirty]\c[6]โลน่า：\c[0]    บางทีเธออาจจะสามารถให้พรฉันได้?
 
 3to4/begin_opt
-\CBmp[SeaWitch,8]\prf\C[4]Mermaid?：\C[0]    Need... M-Man...
-\m[confused]\c[6]Lona：\c[0]    Ummm...\optB[Never mind,Show man<r=HiddenOPT0>,Feed semen<r=HiddenOPT1>,Give food]
+\CBmp[SeaWitch,8]\prf\C[4]นางเงือก?：\C[0]    ต้องการ... ผู้ชาย...
+\m[confused]\c[6]โลน่า：\c[0]    อืม...\optB[ไม่เป็นไร,แสดงผู้ชาย<r=HiddenOPT0>,ให้อสุจิ<r=HiddenOPT1>,ให้อาหาร]
 
 3to4/begin_other0
-\CBct[2]\m[flirty]\c[6]Lona：\c[0]    Are you alright? Are you still hungry? Maybe I can bring you some vegetables, or some meat...?
-\CBmp[SeaWitch,8]\prf\C[4]Mermaid?：\C[0]    N-No... I n-need a man... Only the juice- *Gasp* -from a man c-can sustain me...
-\CBct[20]\m[confused]\c[6]Lona：\c[0]    What kind of strange request is this? Are you being serious right now?
-\CBmp[SeaWitch,8]\prf\C[4]Mermaid?：\C[0]    Puh-Please.... I'm... *GASP* bu-begging you... He-Help meee......
-\CBct[8]\m[flirty]\c[6]Lona：\c[0]    Alright...
+\CBct[2]\m[flirty]\c[6]โลน่า：\c[0]    คุณเป็นอะไรไหม? คุณยังหิวอยู่ไหม? บางทีฉันอาจจะนำผักหรือเนื้อมาให้คุณ...?
+\CBmp[SeaWitch,8]\prf\C[4]นางเงือก?：\C[0]    ไม่... ฉันต้องการผู้ชาย... เพียงน้ำ- *หอบ* -จากผู้ชายเท่านั้นที่สามารถ... รักษาฉันได้...
+\CBct[20]\m[confused]\c[6]โลน่า：\c[0]    คำขอแปลกๆ อะไรนี่? คุณพูดจริงๆ หรือเปล่า?
+\CBmp[SeaWitch,8]\prf\C[4]นางเงือก?：\C[0]    ช่วย... ด้วย... ฉัน... *หอบ* ขอร้อง... ช่วยฉัน...
+\CBct[8]\m[flirty]\c[6]โลน่า：\c[0]    ได้...
 
 3to4/begin_other1
-\board[Starving Mermaid]
-Goal：Help this strange woman find men or semen?
-Reward：Ummm...
-Client：Mermaid(?)
-Deadline：None
-Find a hero who's attracted to Mermaids.
-Alternatively, provide 10 Semen or 5 White Sludges to her.
+\board[นางเงือกหิวโหย]
+เป้าหมาย：ช่วยผู้หญิงแปลกๆ คนนี้หาผู้ชายหรืออสุจิ?
+รางวัล：อืม...
+ผู้ว่าจ้าง：นางเงือก(?)
+กำหนดเวลา：ไม่มี
+หาวีรบุรุษที่ชอบนางเงือก
+หรือให้อสุจิ 10 หน่วย หรือสารน้ำขาว 5 หน่วยแก่เธอ
 
 ####################################################### FOOD
 
 3to4/ItemTransfer
-\CBmp[SeaWitch,8]\prf\C[4]Mermaid?：\C[0]    Ughnnn......
+\CBmp[SeaWitch,8]\prf\C[4]นางเงือก?：\C[0]    อ่าห์...
 
 3to4/ItemTransfer_Win
-\CBct[20]\m[shy]\c[6]Lona：\c[0]    Looks like she really ate it...
+\CBct[20]\m[shy]\c[6]โลน่า：\c[0]    ดูเหมือนเธอจะกินจริงๆ...
 
 3to4/ItemTransfer_Failed
-\CBmp[SeaWitch,8]\prf\C[4]Mermaid?：\C[0]    Unnnghnnn...
-\CBct[20]\m[confused]\c[6]Lona：\c[0]    It doesn't like what I gave her helped. Maybe it was the wrong item, or perhaps it wasn't enough?
+\CBmp[SeaWitch,8]\prf\C[4]นางเงือก?：\C[0]    อ่าาาา...
+\CBct[20]\m[confused]\c[6]โลน่า：\c[0]    สิ่งที่ฉันให้ไม่ได้ช่วยเธอเลย บางทีอาจจะเป็นของผิด หรือไม่ก็ไม่พอ?
 
 ####################################################### MAN
 
 3to4/traveler_begin0
-\CBmp[MonsterLover,20]\prf\c[4]Traveler：\c[0]    Do you know anything about Half-Beasts? I've had sex with many other species' females.
-\CBmp[MonsterLover,20]\prf\c[4]Traveler：\c[0]    Some girls were completely covered in fur, while others had really long ears!
-\CBmp[MonsterLover,20]\prf\c[4]Traveler：\c[0]    All that's left are the Fishkinds...\n I bet the Fishkind women are amazing!
-\CBmp[MonsterLover,20]\prf\c[4]Traveler：\c[0]    Mmmm, yep! Just need to check Fishkinds off my bucket list! I can't wait to meet a female Fishkind!
-\CBct[20]\m[flirty]\c[6]Lona：\c[0]    Uhhh...
-\CBmp[MonsterLover,20]\prf\c[4]Traveler：\c[0]    I'm looking forward to meeting one! Have you ever heard of the tales about the Mermaid?
-\CBmp[MonsterLover,20]\prf\c[4]Traveler：\c[0]    I bet you already know! I can't imagine how wet and slippery her fishy cloaca would feel!
-\CBct[20]\m[confused]\c[6]Lona：\c[0]    Mister...
-\CBmp[MonsterLover,20]\prf\c[4]Traveler：\c[0]    I can't take it! I have to cum inside one of them now!
-\CBct[20]\m[flirty]\c[6]Lona：\c[0]    I've actually found a Mermaid. In fact, it sounds like she needs a man's help too. Maybe you can be the one to save her...?
-\CBmp[MonsterLover,20]\prf\c[4]Traveler：\c[0]    W-WHAT?! Wonderful! Where?!\n TAKE ME TO HER!
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    P-Please wait! There's no rush!
+\CBmp[MonsterLover,20]\prf\c[4]นักเดินทาง：\c[0]    คุณรู้อะไรเกี่ยวกับครึ่งสัตว์ไหม? ฉันเคยมีเซ็กซ์กับผู้หญิงหลายสปีชีส์
+\CBmp[MonsterLover,20]\prf\c[4]นักเดินทาง：\c[0]    บางคนปกคลุมด้วยขนทั้งตัว บางคนมีหูยาวมาก!
+\CBmp[MonsterLover,20]\prf\c[4]นักเดินทาง：\c[0]    เหลือแค่คนปลา...\n ฉันเดาว่าผู้หญิงคนปลาจะต้องยอดเยี่ยม!
+\CBmp[MonsterLover,20]\prf\c[4]นักเดินทาง：\c[0]    มมม, ใช่! แค่ต้องตรวจสอบคนปลาให้เสร็จ! ฉันรอไม่ไหวที่จะพบผู้หญิงคนปลา!
+\CBct[20]\m[flirty]\c[6]โลน่า：\c[0]    อือ...
+\CBmp[MonsterLover,20]\prf\c[4]นักเดินทาง：\c[0]    ฉันตั้งตารอที่จะพบ! คุณเคยได้ยินเรื่องราวเกี่ยวกับนางเงือกไหม?
+\CBmp[MonsterLover,20]\prf\c[4]นักเดินทาง：\c[0]    ฉันเดาว่าคุณรู้แล้ว! ฉันจินตนาการไม่ออกว่าช่องคลอดาของเธอจะเปียกและลื่นแค่ไหน!
+\CBct[20]\m[confused]\c[6]โลน่า：\c[0]    คุณ...
+\CBmp[MonsterLover,20]\prf\c[4]นักเดินทาง：\c[0]    ฉันทนไม่ไหว! ฉันต้องเสียในตัวเธอตอนนี้!
+\CBct[20]\m[flirty]\c[6]โลน่า：\c[0]    จริงๆ แล้วฉันเจอนางเงือก แถมดูเหมือนเธอต้องการความช่วยเหลือจากผู้ชายด้วย บางทีคุณอาจจะเป็นคนที่ช่วยเธอได้...?
+\CBmp[MonsterLover,20]\prf\c[4]นักเดินทาง：\c[0]    อะ-อะไรนะ?! ยอดเยี่ยม! ที่ไหน?!\n พาไปหาเธอ!
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ร-รอก่อน! ไม่ต้องรีบ!
 
 3to4/traveler_begin1
-\CBmp[MonsterLover,5]\prf\c[4]Traveler：\c[0]    \{TAKE\. ME\. TO\. HER\. RIGHT\. NOOOW!!!
-\CBct[20]\m[terror]\Rshake\c[6]Lona：\c[0]    \{O-Okay!
+\CBmp[MonsterLover,5]\prf\c[4]นักเดินทาง：\c[0]    \{พา\. ฉัน\. ไป\. หา\. เธอ\. ตอน\. นี้\. เลย!!!
+\CBct[20]\m[terror]\Rshake\c[6]โลน่า：\c[0]    \{โ-โอเค!
 
 3to4/traveler_begin2
-\board[Escort the Traveler]
-Goal：Lead the Traveler to the fabled Mermaid.
-Reward：2 Large Copper Coins
-Client：Traveler
-Deadline：2 Days
-MERMAID!!!
+\board[นำทางนักเดินทาง]
+เป้าหมาย：นำนักเดินทางไปหานางเงือกในตำนาน
+รางวัล：เหรียญทองแดงใหญ่ 2 เหรียญ
+ผู้ว่าจ้าง：นักเดินทาง
+กำหนดเวลา：2 วัน
+นางเงือก!!!
 
 3to4/CommonConvoyTarget0
-\CBfE[20]\c[4]Traveler：\c[0]    Hurry up and introduce me to the Fishkind lady! Quickly!
+\CBfE[20]\c[4]นักเดินทาง：\c[0]    รีบแนะนำฉันให้รู้จักกับผู้หญิงคนปลา! เร็วๆ!
 
 3to4/CommonConvoyTarget1
-\CBfE[20]\c[4]Traveler：\c[0]    Take a look at the monster in my crouch! My little fella can't stand it any longer!
+\CBfE[20]\c[4]นักเดินทาง：\c[0]    ดูสัตว์ประหลาดในกางเกงฉันสิ! น้องชายของฉันทนไม่ไหวแล้ว!
 
 3to4/CommonConvoyTarget2
-\CBfE[20]\c[4]Traveler：\c[0]    Where is she? Where is the Mermaid?!
+\CBfE[20]\c[4]นักเดินทาง：\c[0]    เธออยู่ที่ไหน? นางเงือกอยู่ที่ไหน?!
 
 3to4/QmsgTar
-Hurry up and take me to the Mermaid!
+รีบพาไปหานางเงือก!
 
 3to4/ManSucker_closer
-\CBct[2]\m[flirty]\c[6]Lona：\c[0]    Ummm... Are you still okay? I've brought a man with me.
-\CBmp[SeaWitch,8]\prf\C[4]Mermaid?：\C[0]    C-Closer... Bring... h-him... Over *Cough* here... I can... smell his... scent... H-Hurry......
-\CBct[2]\m[confused]\c[6]Lona：\c[0]    Alright.
+\CBct[2]\m[flirty]\c[6]โลน่า：\c[0]    อืม... คุณยังโอเคไหม? ฉันพาผู้ชายมาด้วย
+\CBmp[SeaWitch,8]\prf\C[4]นางเงือก?：\C[0]    ใกล้... พา... เขา... มา *ไอ* ที่นี่... ฉันสามารถ... ได้กลิ่น... ของเขา... รีบ...
+\CBct[2]\m[confused]\c[6]โลน่า：\c[0]    ได้
 
 3to4/ManSucker_win0
-\CBfE[20]\c[4]Traveler：\c[0]    \..\..\..
-\CBfE[20]\c[4]Traveler：\c[0]    This... This isn't a Mermaid!
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    Huh? She's not-...?
+\CBfE[20]\c[4]นักเดินทาง：\c[0]    \..\..\..
+\CBfE[20]\c[4]นักเดินทาง：\c[0]    นี่... นี่ไม่ใช่นางเงือก!
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    อะไรนะ? เธอไม่ใช่-...?
 
 3to4/ManSucker_win1
-\CBfE[20]\prf\c[4]Traveler：\c[0]    -She's not JUST a Mermaid!\n SHE'S ALSO AN OCTOPUS GIRL!!!
+\CBfE[20]\prf\c[4]นักเดินทาง：\c[0]    -เธอไม่ใช่แค่นางเงือก!\n เธอยังเป็นสาวปลาหมึกด้วย!!!
 
 3to4/ManSucker_win2
-\CBfE[20]\prf\c[4]Traveler：\c[0]    This is excellent! Just look at my lil' man! He's grown so big!
-\CBct[8]\m[flirty]\c[6]Lona：\c[0]    Ahaha?
+\CBfE[20]\prf\c[4]นักเดินทาง：\c[0]    ยอดเยี่ยม! ดูน้องชายของฉันสิ! เขาโตขึ้นมาก!
+\CBct[8]\m[flirty]\c[6]โลน่า：\c[0]    อะฮ่า?
 
 3to4/ManSucker_win3
-\CBfE[20]\prf\c[4]Traveler：\c[0]    Thank you so much! Here, you deserve this!
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    Ummm... Thank you?
+\CBfE[20]\prf\c[4]นักเดินทาง：\c[0]    ขอบคุณมาก! นี่ คุณสมควรได้รับนี้!
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    อืม... ขอบคุณ?
 
 3to4/ManSucker_win4
-\CBmp[SeaWitch,4]\prf\C[4]Mermaid?：\C[0]    Man...! ♥♥♥ It's a... man.~ ♥
-\CBfE[4]\prf\c[4]Traveler：\c[0]    Hoho! ♥ There's no need to rush! ♥ I'll be ready to satisfy you soon...
+\CBmp[SeaWitch,4]\prf\C[4]นางเงือก?：\C[0]    ผู้ชาย...! ♥♥♥ เป็น... ผู้ชาย.~ ♥
+\CBfE[4]\prf\c[4]นักเดินทาง：\c[0]    โฮโฮ! ♥ ไม่ต้องรีบ! ♥ ฉันจะพร้อมที่จะทำให้คุณพอใจเร็วๆ นี้...
 
 3to4/ManSucker_win5
-\CBfE[4]\prf\c[4]Traveler：\c[0]    Ooouuungh! ♥♥
-\CBfE[4]\prf\c[4]Traveler：\c[0]    This moist hole... ♥\n S-So good...!~ ♥
+\CBfE[4]\prf\c[4]นักเดินทาง：\c[0]    อู้น! ♥♥
+\CBfE[4]\prf\c[4]นักเดินทาง：\c[0]    ช่องนี้ชุ่มชื้น... ♥\n ด-ดีมาก...!~ ♥
 
 3to4/ManSucker_win6
-\CBct[2]\m[flirty]\c[6]Lona：\c[0]    Ew... 
-\CBct[2]\m[confused]\c[6]Lona：\c[0]    Are they really d-doing it without hesitation...?
-\CBct[2]\m[shy]\c[6]Lona：\c[0]    Should I even be watching them...?
-\narr Lona decides she shouldn't be watching the two... copulate. She looks away and covers her ears.
+\CBct[2]\m[flirty]\c[6]โลน่า：\c[0]    อ๊วก... 
+\CBct[2]\m[confused]\c[6]โลน่า：\c[0]    พวกเขาจะทำกันจริงๆ โดยไม่ลังเล...?
+\CBct[2]\m[shy]\c[6]โลน่า：\c[0]    ฉันควรจะดูพวกเขาไหม...?
+\narr โลน่าตัดสินใจว่าเธอไม่ควรดูสองคนนี้... ร่วมรัก เธอหันหน้าหนีและปิดหู
 
 3to4/ManSucker_win7
-\CBfE[4]\c[4]Traveler：\c[0]    Unnghnnf! Ooough! ♥\n Gonna cum! ♥ C-CUMMIN'!!!~ ♥♥♥
+\CBfE[4]\c[4]นักเดินทาง：\c[0]    อ่าาา! อู้! ♥\n จะเสีย! ♥ จ-จะเสีย!!!~ ♥♥♥
 
 3to4/ManSucker_win8
-\CBfE[4]\c[4]Traveler：\c[0]    *Puff*... *Haff*... ♥ Octopussy... ♥ T-Too good... ♥
+\CBfE[4]\c[4]นักเดินทาง：\c[0]    *ฟู่*... *หอบ*... ♥ ปลาหมึก... ♥ ด-ดีเกินไป... ♥
 
 3to4/ManSucker_win9
-\CBmp[SeaWitch,4]\C[4]Mermaid?：\C[0]    Want-... *Huff* -more...♥\n Give me... more...~ ♥
-\CBfE[1]\c[4]Traveler：\c[0]    Hold... hold on! My cock head is really sensitive right now! Wait for just a minute!
+\CBmp[SeaWitch,4]\C[4]นางเงือก?：\C[0]    ต้องการ-... *หอบ* -เพิ่ม...♥\n ให้ฉัน... เพิ่ม...~ ♥
+\CBfE[1]\c[4]นักเดินทาง：\c[0]    รอ... รอก่อน! หัวควยของฉันไวมากตอนนี้! รอแค่นาทีเดียว!
 
 3to4/ManSucker_win10
-\CBfE[2]\c[4]Traveler：\c[0]    Whu?! My waist? Why is it moving on its own?! WAIT A SEC'!
-\CBmp[SeaWitch,4]\C[4]Mermaid?：\C[0]    Even more... ♥\n Need... MORE!~ ♥
+\CBfE[2]\c[4]นักเดินทาง：\c[0]    อะไร?! เอวของฉัน? ทำไมมันเคลื่อนไหวเอง?! รอสักครู่!
+\CBmp[SeaWitch,4]\C[4]นางเงือก?：\C[0]    เพิ่มขึ้น... ♥\n ต้องการ... เพิ่ม!~ ♥
 
 3to4/ManSucker_win11
-\CBfE[1]\c[4]Traveler：\c[0]    I'm cummin' again! G-GONNA COOM!!!
+\CBfE[1]\c[4]นักเดินทาง：\c[0]    ฉันจะเสียอีก! จ-จะเสีย!!!
 
 3to4/ManSucker_win12
-\CBfE[20]\c[4]Traveler：\c[0]    I...?! I CAN'T STOP CUMMIN'?!
-\CBfE[20]\c[4]Traveler：\c[0]    NO! I'LL BE SUCKED DRY!
-\CBfE[20]\c[4]Traveler：\c[0]    I WAS WRONG! L-LEMME GO!
+\CBfE[20]\c[4]นักเดินทาง：\c[0]    ฉัน...?! ฉันหยุดเสียไม่ได้?!
+\CBfE[20]\c[4]นักเดินทาง：\c[0]    ไม่! ฉันจะถูกดูดแห้ง!
+\CBfE[20]\c[4]นักเดินทาง：\c[0]    ฉันผิด! ป-ปล่อยฉัน!
 
 3to4/ManSucker_win12_1
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    \..\..\..
-\CBct[20]\m[flirty]\c[6]Lona：\c[0]    I guess they should be finished by now...?
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    \..\..\..
+\CBct[20]\m[flirty]\c[6]โลน่า：\c[0]    ฉันคิดว่าพวกเขาคงเสร็จแล้ว...?
 
 3to4/ManSucker_win13
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    \..\..\..
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    EH?! W-What happened here? And Mister is dead?!
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    \..\..\..
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    อี๊?! เกิดอะไรขึ้นที่นี่? แล้วคุณตายแล้ว?!
 
 ####################################################### live again
 
 3to4/Done0
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\C[4]Mermaid?：\C[0]    I RISE FROM THE OCEAN ONCE AGAIN!
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    EEEYAH!!!
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]Mermaid?：\C[0]    ...Was it you? Tsk... An pathetic pest like you? You are the one who fed and saved me?
-\CBct[20]\m[fear]\plf\PRF\c[6]Lona：\c[0]    \..\..\..I-I think so?
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Mermaid?：\C[0]    It seems that the nutrients of a man's juices can only allow me to move.
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm... Are you a Fishkind? And you're able to speak properly? Just like us?
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    HOW DARE YOU!!! Are you a fool?!\n I am the \c[6]SEA WITCH\c[0]! Goddess of Harvest and the Seas!
-\CBct[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    G-Goddess?!
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]Sea Witch：\C[0]    So you're the one who has nourished me with a man's juice? I shall grant you a single wish! Name your desire!
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm\..\..\.. 
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    I wish for everything to be back to normal, before the disasters started?
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    ...This is your wish?
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    \..\..\..
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Is it not possible?
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\prf\C[4]Sea Witch：\C[0]    That's EXACTLY what I'm working on right now! Your silly wish shall be denied!
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]Sea Witch：\C[0]    Once I've regain my full powers, I will listen to another one of your silly wishes!
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Oh, really?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\C[4]นางเงือก?：\C[0]    ฉันกลับมาจากทะเลอีกครั้ง!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อี๊ย่า!!!
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]นางเงือก?：\C[0]    ...เป็นคุณหรือเปล่า? ทส... แมลงน้อยนิดแบบคุณ? คุณเป็นคนที่ให้อาหารและช่วยฉัน?
+\CBct[20]\m[fear]\plf\PRF\c[6]โลน่า：\c[0]    \..\..\..ฉ-ฉันคิดว่าใช่?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]นางเงือก?：\C[0]    ดูเหมือนว่าสารอาหารจากน้ำอสุจิของผู้ชายจะทำให้ฉันเคลื่อนไหวได้
+\CBct[20]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม... คุณเป็นคนปลา? และคุณพูดได้เหมือนเรา?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    คุณกล้ามาก!!! คุณโง่หรือไง?!\n ฉันคือ \c[6]แม่มดทะเล\c[0]! เทพีแห่งการเก็บเกี่ยวและทะเล!
+\CBct[1]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    เ-เทพี?!
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ดังนั้นคุณเป็นคนที่ให้น้ำอสุจิของผู้ชายแก่ฉัน? ฉันจะให้พรคุณหนึ่งครั้ง! บอกความปรารถนาของคุณ!
+\CBct[20]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม\..\..\.. 
+\CBct[20]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    ฉันอยากให้ทุกอย่างกลับมาเป็นปกติ ก่อนที่ภัยพิบัติจะเริ่ม?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ...นี่คือความปรารถนาของคุณ?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    \..\..\..
+\CBct[20]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    ไม่ได้หรือ?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    นั่นคือสิ่งที่ฉันกำลังทำอยู่ตอนนี้! ความปรารถนาโง่ๆ ของคุณจะถูกปฏิเสธ!
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    เมื่อฉันได้พลังเต็มที่กลับมา ฉันจะฟังความปรารถนาโง่ๆ อีกครั้งของคุณ!
+\CBct[20]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อ๋อ จริงเหรอ?
 
 4to5/Question_beginNormal
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\C[4]Sea Witch：\C[0]    What do you want? Sinking, weak land-walker...
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\C[4]แม่มดทะเล：\C[0]    คุณต้องการอะไร? คนเดินดินอ่อนแอ...
 
 4to5/Question_beginDeepone
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\C[4]Sea Witch：\C[0]    My daughter, what is it you seek?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\C[4]แม่มดทะเล：\C[0]    ลูกสาวของฉัน คุณต้องการอะไร?
 
 4to5/Question
-\CBct[20]\m[normal]\plf\PRF\c[6]Lona：\c[0]    Mmmm...\optB[Never mind,About you,Fake Sea Witch?,Someone is looking for you<r=HiddenOPT0>,Your daughter?<r=HiddenOPT1>]
+\CBct[20]\m[normal]\plf\PRF\c[6]โลน่า：\c[0]    มมม...\optB[ไม่เป็นไร,เกี่ยวกับคุณ,แม่มดทะเลปลอม?,มีคนกำลังมองหาคุณ<r=HiddenOPT0>,ลูกสาวของคุณ?<r=HiddenOPT1>]
 
 4to5/Question_BloodLine0
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Your... daughter?
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\prf\C[4]Sea Witch：\C[0]    Indeed, you are a child of the seas. Therefore, a daughter of mine.
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]Sea Witch：\C[0]    Do you not wish to return home to the depths of the ocean? Return back to the Mother of the Seas?
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm, not really.
-\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    \..\..\..
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    How strange.
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    At this age, you're still a human? Is there something wrong with you?
-\CBmp[SeaWitch,2]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]Sea Witch：\C[0]    Have you truly never had the desire to jump into the ocean and swim away?
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    I've never had much reason to. Why would I want to jump into the sea?
-\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    \..\..\..
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    Have you never felt like you're different from everyone else?
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    Like you're something more than just an inferior, land-loving insect?
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Mmmm... I don't really think so.
-\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    Wait a moment, let me try something...
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    ลูกสาว... ของคุณ?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ใช่ คุณเป็นลูกของทะเล ดังนั้น ลูกสาวของฉัน
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    คุณไม่อยากกลับบ้านที่ใต้ทะเลหรอกหรือ? กลับไปหาแม่แห่งทะเล?
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม ไม่ค่อย
+\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    \..\..\..
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    แปลกจัง
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ในวัยนี้ คุณยังเป็นมนุษย์? มีอะไรผิดปกติกับคุณหรือเปล่า?
+\CBmp[SeaWitch,2]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    คุณไม่เคยอยากกระโดดลงทะเลแล้วว่ายน้ำหนีไปเลยหรือ?
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    ฉันไม่เคยมีเหตุผลที่จะทำแบบนั้น ทำไมฉันถึงอยากกระโดดลงทะเล?
+\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    \..\..\..
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    คุณไม่เคยรู้สึกว่าตัวเองต่างจากคนอื่นเลยหรือ?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    เหมือนคุณเป็นอะไรที่มากกว่าแค่แมลงรักดินที่ด้อยกว่า?
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    มมม... ฉันไม่คิดว่าอย่างนั้น
+\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    รอสักครู่ ฉันจะลองทำอะไรสักอย่าง...
 
 4to5/Question_BloodLine1
-\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    \..\..\..
-\CBmp[SeaWitch,2]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    Did it not work at all?
-\CBmp[SeaWitch,2]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    So? Do you feel anything different?
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm... N-Not really...
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    Damn it...! Have my powers really been weakened to such a degree?
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Are you alright? Maybe you're just hungry again?
-\CBmp[SeaWitch,5]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    Tsk, don't bother me! Go away!
+\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    \..\..\..
+\CBmp[SeaWitch,2]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    มันไม่ได้ผลเลยหรือ?
+\CBmp[SeaWitch,2]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    แล้ว? คุณรู้สึกอะไรต่างไปไหม?
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม... ไ-ไม่ค่อย...
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ชิบหาย...! พลังของฉันอ่อนแอลงถึงขนาดนี้เลยหรือ?
+\CBct[6]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    คุณโอเคไหม? บางทีคุณอาจจะหิวอีกแล้ว?
+\CBmp[SeaWitch,5]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ทส, อย่ามารบกวน! ไปให้พ้น!
 
 4to5/Question_AboutU
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Are you really a God? Haven't all false Gods been slain by the \c[4]Saint\c[0]?
-\CBmp[SeaWitch,1]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    INSOLENT FOOL!
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    I am the mother of all aquatic creatures of the seas! The great \c[6]Sea Witch\c[0]!
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]Sea Witch：\C[0]    How can the weak and mortal Saint; a land-walker, even compare to me?
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Oh? My apologies.
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    So... This means you're really a God... dess?
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\prf\C[4]Sea Witch：\C[0]    Of course!
-\CBct[2]\m[tired]\plf\PRF\c[6]Lona：\c[0]    If you really are a Goddess, why is the world suffering right now?
-\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\PLF\prf\C[4]Sea Witch：\C[0]    \..\..\..
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\prf\C[4]Sea Witch：\C[0]    I am not the only Goddess. There are other wicked deities in this world.
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    So this was the doing of other evil Gods?
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]Sea Witch：\C[0]    That's correct!
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    คุณเป็นเทพจริงๆ หรือ? เทพปลอมๆ ทั้งหมดไม่ได้ถูกฆ่าโดย \c[4]นักบุญ\c[0] หรอกหรือ?
+\CBmp[SeaWitch,1]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    โง่เง่า!
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ฉันคือแม่ของสิ่งมีชีวิตทั้งหมดในทะเล! แม่มดทะเล\c[6]ที่ยิ่งใหญ่\c[0]!
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    นักบุญที่อ่อนแอและมีชีวิตอยู่ได้; คนเดินดิน จะเทียบกับฉันได้อย่างไร?
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อ๋อ? ขอโทษค่ะ
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    ดังนั้น... นี่หมายความว่าคุณเป็นเทพ... ธิดา?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    แน่นอน!
+\CBct[2]\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    ถ้าคุณเป็นเทพธิดาจริงๆ ทำไมโลกถึงทุกข์ทรมานอยู่ตอนนี้?
+\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\PLF\prf\C[4]แม่มดทะเล：\C[0]    \..\..\..
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_normal]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ฉันไม่ใช่เทพธิดาเพียงคนเดียว มีเทพชั่วร้ายอื่นๆ ในโลกนี้
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    ดังนั้นนี่เป็นการกระทำของเทพชั่วร้ายอื่นๆ?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ถูกต้อง!
 
 4to5/Question_AboutFake
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    I keep hearing the fish people talking about a Fake Sea Witch. What's going on with that?
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    Those JELLYFISH-FOR-BRAINS IDIOTS! There is only ONE SEA WITCH! Not this True or False insolence!
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    I've completely drained my powers fending off the invasion of the evil Gods! For the sake of all marine beings and the seas!
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    I've bestowed more catches for the high tide harvest! Ordered my shoal to defend themselves against the evil Gods!
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    Yet, these sea cucumbers point their fins at me and claim me a FALSE GODDESS?!
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    AND DARE TO TAKE ADVANTAGE OF MY WEAKEST MOMENT TO HARM ME?!
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    THOSE MISERABLE, RIDICULOUS, BLOBFISH-FACED IMBECILES!
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Eeep... S-Such language...
-\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\PLF\prf\C[4]Sea Witch：\C[0]    \..\..\..
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    FUCK!
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    ฉันได้ยินคนปลาพูดถึงแม่มดทะเลปลอมตลอดเวลา มันเกิดอะไรขึ้นกับเรื่องนี้?
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    พวกปลาวาฬสมองปลิง! มีแม่มดทะเลเพียงคนเดียว! ไม่ใช่เรื่องจริงหรือปลอมนี้!
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ฉันใช้พลังทั้งหมดของฉันในการป้องกันการรุกรานของเทพชั่วร้าย! เพื่อสิ่งมีชีวิตทางทะเลทั้งหมดและทะเล!
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ฉันได้ให้การจับปลามากขึ้นสำหรับการเก็บเกี่ยวน้ำขึ้น! สั่งให้ฝูงปลาของฉันปกป้องตัวเองจากเทพชั่วร้าย!
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    แต่ปลาทะเลเหล่านี้กลับชี้ครีบใส่ฉันและอ้างว่าฉันเป็นเทพธิดาปลอม?!
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    และกล้าที่จะใช้ช่วงเวลาที่ฉันอ่อนแอที่สุดมาทำร้ายฉัน?!
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    พวกมันน่าสมเพช, น่าขำ, หน้าตาปลาบล็อบฟิช!
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อี๊... ภาษาอะไรนี่...
+\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\PLF\prf\C[4]แม่มดทะเล：\C[0]    \..\..\..
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ควย!
 
 4to5/Question_Some1Look0
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm...
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]Sea Witch：\C[0]    What is it? Has the inferior land-walker come to worship the mighty\n \C[6]Sea Witch\C[0]?
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    No. Actually, there's someone looking for you. They claim to be your landlord, it seems you owe them the monthly rent?
-\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\PLF\prf\C[4]Sea Witch：\C[0]    \..\..\..
-\CBmp[SeaWitch,2]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    What\..\..\.. What did this being look like?
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Mmmm... He kind of looks like a dead person?
-\CBmp[SeaWitch,2]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    \..\..\..Does this person keep sprewing out the word Justice almost everytime?
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Yes! That's who it is!
-\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\PLF\prf\C[4]Sea Witch：\C[0]    \..\..\..
-\CBmp[SeaWitch,6]\SETpl[SeaWitch_fear]\Lshake\prf\C[4]Sea Witch：\C[0]    F-FFFUUUCK! I'M SCREWED!
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    W-What's wrong?!
-\CBmp[SeaWitch,20]\SETpl[SeaWitch_fear]\Lshake\prf\C[4]Sea Witch：\C[0]    IT'S ALL OVER! OVER! OVER! OOOVEEER!!!
-\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    What the heck is going on?!
-\CBmp[SeaWitch,6]\SETpl[SeaWitch_fear]\Lshake\prf\C[4]Sea Witch：\C[0]    NO! HE-\..\..\..! He's here\..\..\..\n HE'S AN EVIL GOD! SAVE ME!
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?!
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม...
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    อะไร? คนเดินดินที่ด้อยกว่ามากราบไหว้\n \C[6]แม่มดทะเล\C[0] หรือ?
+\CBct[20]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    ไม่ จริงๆ แล้วมีคนกำลังมองหาคุณ เขาอ้างว่าเป็นเจ้าของบ้านของคุณ ดูเหมือนคุณจะเป็นหนี้ค่าเช่ารายเดือน?
+\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\PLF\prf\C[4]แม่มดทะเล：\C[0]    \..\..\..
+\CBmp[SeaWitch,2]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    อะไร\..\..\.. คนนี้หน้าตาเป็นยังไง?
+\CBct[20]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    มมม... เขาดูเหมือนคนตาย?
+\CBmp[SeaWitch,2]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    \..\..\..คนนี้พูดคำว่า Justice ตลอดเวลาหรือเปล่า?
+\CBct[20]\m[pleased]\plf\PRF\c[6]โลน่า：\c[0]    ใช่! นั่นแหละ!
+\CBmp[SeaWitch,8]\SETpl[SeaWitch_confused]\PLF\prf\C[4]แม่มดทะเล：\C[0]    \..\..\..
+\CBmp[SeaWitch,6]\SETpl[SeaWitch_fear]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ค-ควย! ฉันเจ๊งแล้ว!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    เ-เกิดอะไรขึ้น?!
+\CBmp[SeaWitch,20]\SETpl[SeaWitch_fear]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    จบแล้ว! จบ! จบ! จบแล้ว!!!
+\CBct[20]\m[terror]\plf\Rshake\c[6]โลน่า：\c[0]    นี่มันเกิดอะไรขึ้น?!
+\CBmp[SeaWitch,6]\SETpl[SeaWitch_fear]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ไม่! เขา-\..\..\..! เขามาที่นี่\..\..\..\n เขาเป็นเทพชั่วร้าย! ช่วยฉัน!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อะไรนะ?!
 
 4to5/Question_Some1Look1
-\narr\SndLib[sound_UndeadSurprise] Justice suddenly appears and falls from the sky!
-\narrOFF\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    EEEYAH?!
+\narr\SndLib[sound_UndeadSurprise] Justice ปรากฏตัวอย่างกะทันหันและตกลงมาจากท้องฟ้า!
+\narrOFF\CBct[20]\m[terror]\plf\Rshake\c[6]โลน่า：\c[0]    อี๊ย่า?!
 
 4to5/Question_Some1Look2
-\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    JUSSSTICCCE HASSS ARRRIIIVED! EEEVILLL SSSHALLLL BEEEWARRRE! FORRR I AMMM... JUSSSTICCCE!!!
-\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]Sea Witch：\C[0]    NO! T-This isn't m-my fault! You c-c-can't just blame me for everything!
-\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    YOOOU ARRRE WIIICKEEED INNNCARRRNATE!
-\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    JUSSSTICCCE WILLLL NOOOT FORRRGIIIVE YOOOU FOOORRR YOOOURRR SSSINNNSSS!
+\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    ความยุติธรรมมาถึงแล้ว! ความชั่วร้ายจงระวัง! เพราะว่าฉันคือ... ความยุติธรรม!!!
+\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]แม่มดทะเล：\C[0]    ไม่! น-ไม่ใช่ความผิดของฉัน! คุณไม่สามารถโทษฉันได้ทุกอย่าง!
+\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    คุณคือความชั่วร้ายที่เป็นรูปธรรม!
+\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    ความยุติธรรมจะไม่ให้อภัยคุณเพราะความบาปของคุณ!
 
 4to5/Question_Some1Look3
-\CBct[5]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    What are you doing?! Don't hurt her!\n I won't-
-\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Mysterious Stranger：\c[0]    \..\..\..
+\CBct[5]\m[serious]\plf\Rshake\c[6]โลน่า：\c[0]    คุณทำอะไร?! อย่าทำร้ายเธอ!\n ฉันจะไม่-
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]คนลึกลับ：\c[0]    \..\..\..
 
 4to5/Question_Some1Look4
-\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]Sea Witch：\C[0]    EEEP!!!
-\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    DOOON'T PLAAAY THEEE FOOOOLLL!
-\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    I'VVVE ALLLREEEADY ASSSKED HEEERRR!
-\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    DOOO YOOOU KNOOOW HOOOW MUUUCH TRRROOOUBLLLE YOOOU TWOOO FOOOOLLLSSS HAAAVEEE CAAAUSSSED MEEEE?!
-\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]Sea Witch：\C[0]    I-I'M SORRY!
-\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    IFFF WEEE CAAAN'T FFFIXXX THISSS, THEEEN THISSS WHOOOLE ISSSLAAAND MUSSST BEEE DEEEALLLT WITTTH!
-\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    YOOOU THHHIIINK THIIISSS ISSS YOUUUR HOOOME NOOOW?
-\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]Sea Witch：\C[0]    I'M *Sniff* S-SO SORRY!
-\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    Ffforrrget iiit, Ssshesss paaaid forrr all theee damaaagesss yooou haaave dooone.
-\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    ORRR, ARRRE YOOOU PLAAANNNINNNG TOOOO CONNNTINNNUUUE ARRRGUUUINNNG WITTTHHH HERRR?!
-\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]Sea Witch：\C[0]    I'M SORRY *Sob* I'M SORRY!!!!!! I'll- *Hic* I'll apologize t-to *Sniff* her!
-\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    THEE NEXXT PROTAGONISSST SSSHALLLL FEEEATUUURE MEEE!
-\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    ANNND YOOOU MUST ACOMMMPAAANNNY THEEE WHOOOLE JOUURNNNEY!
-\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    UNDERRRSSSTANNND?!
-\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]Sea Witch：\C[0]    Un-Understood!
+\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]แม่มดทะเล：\C[0]    อี๊!!!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    อย่าแกล้งโง่!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    ฉันถามเธอไปแล้ว!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    คุณรู้ไหมว่าคุณสองคนสร้างปัญหาให้ฉันมากแค่ไหน?!
+\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]แม่มดทะเล：\C[0]    ฉ-ฉันขอโทษ!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    ถ้าเราไม่สามารถแก้ไขได้ ทั้งเกาะนี้ต้องถูกจัดการ!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    คุณคิดว่านี่คือบ้านของคุณตอนนี้?
+\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]แม่มดทะเล：\C[0]    ฉัน *สูด* ข-ขอโทษ!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    ลืมมันไป คุณจ่ายค่าเสียหายทั้งหมดที่คุณทำไว้แล้ว
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Justice：\c[0]    หรือว่าคุณจะยังคงโต้เถียงกับเธอต่อไป?!
+\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]แม่มดทะเล：\C[0]    ฉันขอโทษ *สะอึก* ฉันขอโทษ!!!!!! ฉันจะ- *สะอึก* ฉันจะขอโทษ *สูด* เธอ!
+\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    ตัวละครนำคนต่อไปจะเป็นฉัน!
+\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    และคุณต้องติดตามทั้งการเดินทาง!
+\CBmp[DedOne,20]\SETpl[DedOne_angry]\Lshake\prf\c[4]Justice：\c[0]    เข้าใจไหม?!
+\CBmp[SeaWitch,20]\SETpr[SeaWitch_fear]\plf\Rshake\C[4]แม่มดทะเล：\C[0]    เข้า-เข้าใจ!
 
 4to5/Question_Some1Look5
-\CBct[5]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    \..\..\..-let you take her away!
-\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Mysterious Stranger：\c[0]    Gooood hunnnteeer, heeere. Yooou deeessserrrve thiiisss.
+\CBct[5]\m[serious]\plf\Rshake\c[6]โลน่า：\c[0]    \..\..\..-ปล่อยให้คุณพาเธอไป!
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]คนลึกลับ：\c[0]    นักล่าที่ดี ที่นี่ คุณสมควรได้รับนี้
 
 4to5/Question_Some1Look6
-\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Mysterious Stranger：\c[0]    Thiiisss isss a hoooly reeeliiic ooof theee Sssaaaint.
-\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]Mysterious Stranger：\c[0]    Jussst praaay fooor Jussticcce annnd heee wiiill sssmiiite allll eeeviiil!
-\CBct[5]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    ...Eh?
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]คนลึกลับ：\c[0]    นี่คือเครื่องรางศักดิ์สิทธิ์ของนักบุญ
+\CBmp[DedOne,20]\SETpl[DedOne_normal]\Lshake\prf\c[4]คนลึกลับ：\c[0]    เพียงแค่สวดมนต์ขอความยุติธรรม และเขาจะทำลายความชั่วร้ายทั้งหมด!
+\CBct[5]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    ...เอ๊ะ?
 
 4to5/Question_Some1Look7
-\CBct[5]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    HUH?!
-\CBct[5]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    What's going on? What just happened? Where did they go?!
+\CBct[5]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อะไรนะ?!
+\CBct[5]\m[terror]\plf\Rshake\c[6]โลน่า：\c[0]    เกิดอะไรขึ้น? เกิดอะไรขึ้นเมื่อกี้? พวกเขาหายไปไหน?!
 
 ######################################################################################### reverse rape in fishcave3
 
 reverseRape/begin1
-\C[4]Sea Witch：\C[0]    What's wrong? You're acting like you're drowning.~ ♥
+\C[4]แม่มดทะเล：\C[0]    เป็นอะไร? คุณทำเหมือนกำลังจมน้ำ.~ ♥
 
 reverseRape/begin2
-\c[4]Traveler：\c[0]    No! I can't stop c-cooming! Lemme go!
+\c[4]นักเดินทาง：\c[0]    ไม่! ฉันหยุดเสียไม่ได้! ปล่อยฉัน!
 
 reverseRape/begin3
-\C[4]Sea Witch：\C[0]    We're just getting started! ♥\n I haven't eaten my fill...~ ♥
+\C[4]แม่มดทะเล：\C[0]    เราเพิ่งเริ่มต้น! ♥\n ฉันยังไม่ได้กินจนอิ่ม...~ ♥
 
 reverseRape/begin4
-\C[4]Sea Witch：\C[0]    Ahh! It's shooting out again!~ ♥
-\C[4]Sea Witch：\C[0]    Your mouth lies and screams no, but your body tells the truth. ♥
+\C[4]แม่มดทะเล：\C[0]    อ๊ะ! มันพุ่งออกมาอีกแล้ว!~ ♥
+\C[4]แม่มดทะเล：\C[0]    ปากของคุณโกหกและร้องไม่ แต่ร่างกายของคุณบอกความจริง. ♥
 
 reverseRape/begin5
-\c[4]Traveler：\c[0]    S-Spare... *Gasssp* Muh-Me...
+\c[4]นักเดินทาง：\c[0]    ป-ปล่อย... *หอบ* ฉ-ฉัน...
 
 reverseRape/begin6
-\C[4]Sea Witch：\C[0]    Didn't you say you can satisfy me? You can do it...~ ♥
+\C[4]แม่มดทะเล：\C[0]    คุณไม่ได้บอกว่าคุณสามารถทำให้ฉันพอใจได้หรอกหรือ? คุณทำได้...~ ♥
 
 reverseRape/begin7
-\C[4]Sea Witch：\C[0]    You should be thanking me!
-\C[4]Sea Witch：\C[0]    Your pathetic soul shall be returned to the ocean! ♥ Absorbed by the great sea Goddess! ♥
+\C[4]แม่มดทะเล：\C[0]    คุณควรขอบคุณฉัน!
+\C[4]แม่มดทะเล：\C[0]    วิญญาณอันน่าสมเพชของคุณจะถูกส่งกลับไปยังทะเล! ♥ ถูกดูดซึมโดยเทพีแห่งทะเล! ♥
 
 reverseRape/begin8
-\narr After running out of semen, the traveler began to ejaculate blood instead.
-His non-stop orgasms continued on until his demise...
+\narr หลังจากหมดอสุจิ นักเดินทางเริ่มเสียเลือดแทน
+การเสียของเขาไม่หยุดจนกระทั่งเขาเสียชีวิต...
 
 ######################################################################################### FirstMeet Combat UniqueFollower.
 FirstMeet/BothBegin
-\CBct[5]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    Ummm...
+\CBct[5]\m[flirty]\plf\Rshake\c[6]โลน่า：\c[0]    อืม...
 
 FirstMeet/Cocona0
-\CBfB[20]\SETlpr[cocona_confused]\Rshake\c[4]Cocona：\c[0]    \..\..\..
-\CBfB[20]\SETlpr[cocona_shocked]\Rshake\c[4]Cocona：\c[0]    *Sniff* *Sniff*...! SHE'S LIAR! Bad purr-son!
-\CBid[-1,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    Hmmm\..\..\..?
-\CBid[-1,2]\SETpl[SeaWitch_fear]\Lshake\prf\C[4]Sea Witch：\C[0]    This dark, necromantic energy source... You wouldn't have any relations with... HIM?
-\CBid[-1,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    IS HE SPYING ON YOU? WHERE IS HE?!
-\CBfB[5]\SETlpr[cocona_angry]\plf\Rshake\c[4]Cocona：\c[0]    HIIISSSSSS!!!
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr... This is Cocona, she's a good friend of mine.
-\CBid[-1,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    \..\..\..So I was wrong? He's not here?
-\CBid[-1,3]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]Sea Witch：\C[0]    Very good! How wonderful!
-\CBct[6]\m[confused]\plf\PRF\c[6]Lona：\c[0]    W-What...?
+\CBfB[20]\SETlpr[cocona_confused]\Rshake\c[4]โคโคน่า：\c[0]    \..\..\..
+\CBfB[20]\SETlpr[cocona_shocked]\Rshake\c[4]โคโคน่า：\c[0]    *สูด* *สูด*...! เธอโกหก! คนไม่ดี!
+\CBid[-1,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ฮึม\..\..\..?
+\CBid[-1,2]\SETpl[SeaWitch_fear]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    พลังงานมืดนี้... คุณไม่ได้มีความสัมพันธ์กับ... เขา?
+\CBid[-1,20]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    เขาสอดแนมคุณหรือเปล่า? เขาอยู่ที่ไหน?!
+\CBfB[5]\SETlpr[cocona_angry]\plf\Rshake\c[4]โคโคน่า：\c[0]    ฮิสสสสส!!!
+\CBct[6]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อือ... นี่คือโคโคน่า เธอเป็นเพื่อนที่ดีของฉัน
+\CBid[-1,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    \..\..\..ดังนั้นฉันผิด? เขาไม่ได้อยู่ที่นี่?
+\CBid[-1,3]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    ดีมาก! ยอดเยี่ยม!
+\CBct[6]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อ-อะไร...?
 
 FirstMeet/Cecily0
-\CBfB[2]\SETpr[CecilyNormalAr]\Rshake\C[4]Cecily：\C[0]    Is this... A MONSTER?!
-\CBid[-1,5]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]Sea Witch：\C[0]    MONSTER?! Who are you calling a monster?!\n You weak, foolish, land-walking insect!
-\CBfB[5]\SETpr[CecilyWtfAr]\plf\Rshake\C[4]Cecily：\C[0]    INSECT?! Look who's talking!\n You disgusting, fish-faced worm!
-\CBid[-1,5]\CBfB[5]\SETpr[CecilyAngryAr]\SETpl[SeaWitch_angry]\Lshake\Rshake\C[4]Cecily：\C[0]    YOU'RE THE WEAK INSECT!\n\C[4]Sea Witch：\C[0]    YOU'RE AN INFERIOR CREATURE!
-\CBid[-1,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]Sea Witch：\C[0]    \..\..\..\CBid[-1,9]\SETpl[SeaWitch_normal]\Lshake?
-\CBid[-1,3]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]Sea Witch：\C[0]    *Snort* HMMMPH!\n My chest is MUCH bigger than yours, worthless algae!
-\CBfB[6]\SETpr[CecilySadAr]\plf\Rshake\C[4]Cecily：\C[0]    A-AH?!
+\CBfB[2]\SETpr[CecilyNormalAr]\Rshake\C[4]เซซิลี่：\C[0]    นี่... สัตว์ประหลาด?!
+\CBid[-1,5]\SETpl[SeaWitch_angry]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    สัตว์ประหลาด?! คุณเรียกใครว่าสัตว์ประหลาด?!\n คุณคนเดินดินอ่อนแอ โง่เง่า!
+\CBfB[5]\SETpr[CecilyWtfAr]\plf\Rshake\C[4]เซซิลี่：\C[0]    แมลง?! ดูสิใครพูด!\n คุณหน้าปลาสกปรก!
+\CBid[-1,5]\CBfB[5]\SETpr[CecilyAngryAr]\SETpl[SeaWitch_angry]\Lshake\Rshake\C[4]เซซิลี่：\C[0]    คุณคือแมลงที่อ่อนแอ!\n\C[4]แม่มดทะเล：\C[0]    คุณคือสิ่งมีชีวิตที่ด้อยกว่า!
+\CBid[-1,8]\SETpl[SeaWitch_confused]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    \..\..\..\CBid[-1,9]\SETpl[SeaWitch_normal]\Lshake?
+\CBid[-1,3]\SETpl[SeaWitch_triumph]\Lshake\prf\C[4]แม่มดทะเล：\C[0]    *ดม* ฮึม!\n อกของฉันใหญ่กว่าของคุณมาก สาหร่ายไร้ค่า!
+\CBfB[6]\SETpr[CecilySadAr]\plf\Rshake\C[4]เซซิลี่：\C[0]    อ-อ๊ะ?!
 
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

@@ -1,90 +1,90 @@
+XXXXXXXX
+
 NoerBank/OvermapEnter
-\m[confused]Tripartite Stock Exchange (Bank) \optB[Leave,Enter]
+\m[confused]ตลาดหุ้นสามฝ่าย (ธนาคาร) \optB[ออก,เข้า]
 
 NoerBank/OvermapEnter_Slave
-\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    Where did this slave come from?! Go away! Scram!
-\m[sad]\PLF\c[6]Lona：\c[0]    ......
+\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ยาม：\c[0]    ทาสตัวนี้มาจากไหน?! ไปให้พ้น! ไล่ออกไป!
+\m[sad]\PLF\c[6]โลน่า：\c[0]    ......
 
 NoerBank/OvermapEnterClosed
-\m[confused]\c[6]Lona：\c[0]    It looks like they're closed.
+\m[confused]\c[6]โลน่า：\c[0]    ดูเหมือนว่าพวกเขาจะปิดแล้ว
 
 ################################################################################
 
 Maani/begin1_unknow
-\SETpl[MaaniNormal]\c[4]Bank Clerk：\c[0]    Welcome to the Tripartite Stock Exchange, Noer's branch. How may I be of service?
+\SETpl[MaaniNormal]\c[4]พนักงานธนาคาร：\c[0]    ยินดีต้อนรับสู่ตลาดหุ้นสามฝ่าย สาขาโนเออร์ ฉันจะช่วยอะไรได้บ้าง?
 
 Maani/begin1_talked
-\SETpl[MaaniNormal]\c[4]Maani：\c[0]    Hello, we meet again.
+\SETpl[MaaniNormal]\c[4]มาอานี่：\c[0]    สวัสดี พบกันอีกแล้ว
 
 Maani/begin2_about
-\SETpl[MaaniNormal]\m[confused]\plf\c[6]Lona：\c[0]    A branding on the face... Are you... a slave?
-\PLF\prf\CamMP[Maani]\c[4]Maani：\c[0]    Yes.
-\m[wtf]\CamCT\plf\c[6]Lona：\c[0]    Are slaves allowed to do this kind of work?
-\CamMP[Maani]\PLF\prf\c[4]Maani：\c[0]    I am working here at my owner's request. I'm just following orders.
-\CamMP[Maani]\c[4]Maani：\c[0]    Excuse me. If you don't intend on making a transaction of some sort, there are others behind you who require my services.
-\m[flirty]\CamCT\plf\PRF\c[6]Lona：\c[0]    Oh, I'm sorry.
-\m[confused]The name tag on her uniform says Maani.
-\m[confused]A slave with a name? That's amazing.
+\SETpl[MaaniNormal]\m[confused]\plf\c[6]โลน่า：\c[0]    รอยแผลเป็นบนหน้า... แก... เป็นทาสหรือเปล่า?
+\PLF\prf\CamMP[Maani]\c[4]มาอานี่：\c[0]    ใช่
+\m[wtf]\CamCT\plf\c[6]โลน่า：\c[0]    ทาสได้รับอนุญาตให้ทำงานแบบนี้ได้เหรอ?
+\CamMP[Maani]\PLF\prf\c[4]มาอานี่：\c[0]    ฉันทำงานที่นี่ตามคำสั่งของเจ้าของ ฉันแค่ทำตามคำสั่ง
+\CamMP[Maani]\c[4]มาอานี่：\c[0]    ขอโทษนะ ถ้าแกไม่ตั้งใจจะทำธุรกรรมอะไร มีคนอื่นที่อยู่ข้างหลังแกที่ต้องการบริการของฉัน
+\m[flirty]\CamCT\plf\PRF\c[6]โลน่า：\c[0]    โอ้ ขอโทษด้วย
+\m[confused]ป้ายชื่อบนเครื่องแบบของเธอเขียนว่ามาอานี่
+\m[confused]ทาสที่มีชื่อ? น่าทึ่งจริงๆ
 
 ################################################################################
 
 NapBank/talk0
-\SETpl[Mreg_pikeman]\m[shocked]\c[4]Guard：\c[0]    Hey! What do you think you're doing?! \{GET OUT!
+\SETpl[Mreg_pikeman]\m[shocked]\c[4]ยาม：\c[0]    หยุด! แกคิดว่ากำลังทำอะไรอยู่?! \{ออกไป!
 
 NapBank/talk1
-\SETpl[Mreg_pikeman]\m[shocked]\c[4]Guard：\c[0]    Shoo, shoo! Beggars are not welcomed and should stay in the streets!
+\SETpl[Mreg_pikeman]\m[shocked]\c[4]ยาม：\c[0]    ไล่ออก! ไล่ออก! คนขอทานไม่ได้รับการต้อนรับ ควรอยู่บนถนน!
 
 NapBank/talk2
-\SETpl[Mreg_pikeman]\m[shocked]\c[4]Guard：\c[0]    Scram! The Tripartite Stock Exchange is not your home!
+\SETpl[Mreg_pikeman]\m[shocked]\c[4]ยาม：\c[0]    ไล่ออก! ตลาดหุ้นสามฝ่ายไม่ใช่บ้านของแก!
 
 NapBank/talk_end
-\ph\narr Lona was kicked out.
+\ph\narr โลน่าถูกไล่ออก
 
 ################################################################################
 
 gentleman/talk1
-\ph\CamMP[GentlemanA]\c[4]Merchant：\c[0]    What do you think about the recent monster invasion?
-\CamMP[GentlemanB]\c[4]Trader：\c[0]    My Sybaris assets are all gone now, but otherwise...
-\CamMP[GentlemanB]\c[4]Trader：\c[0]    \BonMP[GentlemanB,3]Huge earnings!
-\CamMP[GentlemanA]\c[4]Merchant：\c[0]    \BonMP[GentlemanA,4]Huge earnings!
-\CamMP[GentlemanB]\c[4]Trader：\c[0]    Gotta love the war.
-\CamMP[GentlemanA]\c[4]Merchant：\c[0]    And respect chaos!
-\CamCT\m[confused]Father was also a businessman...
-\m[serious]\Bon[15]But! Father wasn't as shameless as these people.
+\ph\CamMP[GentlemanA]\c[4]พ่อค้า：\c[0]    แกคิดยังไงกับการรุกรานของสัตว์ประหลาดล่าสุด?
+\CamMP[GentlemanB]\c[4]นักค้า：\c[0]    ทรัพย์สินของฉันในไซบาริสหายหมดแล้ว แต่นอกนั้น...
+\CamMP[GentlemanB]\c[4]นักค้า：\c[0]    \BonMP[GentlemanB,3]กำไรมหาศาล!
+\CamMP[GentlemanA]\c[4]พ่อค้า：\c[0]    \BonMP[GentlemanA,4]กำไรมหาศาล!
+\CamMP[GentlemanB]\c[4]นักค้า：\c[0]    ต้องรักสงครามสิ
+\CamMP[GentlemanA]\c[4]พ่อค้า：\c[0]    และต้องเคารพความวุ่นวาย!
+\CamCT\m[confused]พ่อก็เป็นนักธุรกิจ...
+\m[serious]\Bon[15]แต่! พ่อไม่ได้ไร้ยางอายเหมือนคนพวกนี้
 
 GentlemanB/popup0
-I should buy some more assets.
+ฉันควรซื้อทรัพย์สินเพิ่มอีก
 
 GentlemanB/popup1
-Prices can only up. It must!
+ราคาต้องขึ้นแน่ๆ ต้องขึ้น!
 
 ################################################################################
 
 emplyee1/begin
-\CBid[-1,20]\c[4]Bank Clerk：\c[0]    Are you from Sybaris? Please visit the counter second to the far left.
+\CBid[-1,20]\c[4]พนักงานธนาคาร：\c[0]    แกมาจากไซบาริสเหรอ? ไปที่เคาน์เตอร์ที่สองจากซ้ายสุด
 
 emplyee2/begin
-\CBid[-1,20]\c[4]Rude Bank Clerk：\c[0]    No! Not here! Go to the counter on the left!
+\CBid[-1,20]\c[4]พนักงานธนาคารหยาบคาย：\c[0]    ไม่! ไม่ใช่ที่นี่! ไปที่เคาน์เตอร์ซ้าย!
 
 emplyee_busy/begin
-\CBid[-1,20]\c[4]Bank Clerk：\c[0]    There was a coin shortage, and withdrawals were also suspended. The results ended up causing a riot.
+\CBid[-1,20]\c[4]พนักงานธนาคาร：\c[0]    มีการขาดแคลนเหรียญ และการถอนเงินก็ถูกระงับ ผลลัพธ์ทำให้เกิดการจลาจล
 
 guards/begin
-\CBid[-1,20]\c[4]Guard：\c[0]    I'm watching you!
-\CBct[6]\m[flirty]\c[6]Lona：\c[0]    Ah... Hehe...
+\CBid[-1,20]\c[4]ยาม：\c[0]    ฉันจับตามองแกอยู่!
+\CBct[6]\m[flirty]\c[6]โลน่า：\c[0]    อ๋อ... ฮิฮิ...
 
 female/Qmsg0
-I heard the Tripartite is going bankrupt!
+ฉันได้ยินว่าตลาดหุ้นสามฝ่ายกำลังล้มละลาย!
 
 female/Qmsg1
-I must withdraw all my money soon!
+ฉันต้องรีบถอนเงินทั้งหมด!
 
 #####################################################################
 
 AllBuyArt/talk0
-\cg[other_AllBuy]Title： All buy!
-A mysterious artwork painted from the East. So far, no one from the West can understand the meaning of this painting.
-\m[serious]Ummm...?
-\m[confused]I don't get it...
-
-#Translation by a MTL monkey. Edited by Joko Komodo. Full clean-up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+\cg[other_AllBuy]ชื่อ： ซื้อทั้งหมด!
+ภาพวาดลึกลับจากทางตะวันออก จนถึงตอนนี้ ไม่มีใครจากทางตะวันตกที่เข้าใจความหมายของภาพวาดนี้
+\m[serious]อืม...?
+\m[confused]ฉันไม่เข้าใจ...

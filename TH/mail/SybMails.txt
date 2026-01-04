@@ -1,21 +1,22 @@
+XXXXXXXX
 
 Syb_Rename0/Sender
 Sybaris
 
 Syb_Rename0/Title
-name rectification
+การแก้ไขชื่อ
 
 Syb_Rename0/Text
-=The island's name rectification activity=
-\}Citizens already know that Knoll Town is just a rural village attached to us.
-Why is Noel Island still called Noel Island? The city named after the first person to discover the island?
-Look, even their descendants don't live in Knoll. Why is it still called Noel Island?
-Our grand prix, Paris, is already known as the first port capital in the civilized world!
-We are asking to rename our island!
-It will be called Sybaris Island!
+=กิจกรรมการแก้ไขชื่อเกาะ=
+\}พลเมืองทั้งหลายรู้ดีว่าเมือง Knoll เป็นแค่หมู่บ้านชนบทที่ติดกับเรา
+ทำไมเกาะ Noel ยังเรียกว่าเกาะ Noel? เมืองที่ตั้งชื่อตามคนแรกที่ค้นพบเกาะนี้?
+ดูสิ แม้แต่ลูกหลานของพวกเขาก็ไม่ได้อยู่ที่ Knoll ทำไมยังเรียกว่าเกาะ Noel?
+รางวัลใหญ่ของเรา ปารีส ก็เป็นที่รู้จักแล้วว่าเป็นเมืองท่าแรกของโลกอารยธรรม!
+เราขอให้เปลี่ยนชื่อเกาะของเรา!
+มันจะเรียกว่าเกาะ Sybaris!
 \n
 \n
-I____Support the renaming of Nord Island to Sybaris Island.
+ผม____สนับสนุนการเปลี่ยนชื่อเกาะ Nord เป็นเกาะ Sybaris
 
 ################################################
 
@@ -23,21 +24,21 @@ Syb_Barn/Sender
 Sybaris
 
 Syb_Barn/Title
-barn
+คอกวัว
 
 Syb_Barn/Text
-\}Why!
-That woman really thinks there is a way out?
-She just took her child to die with those stupid men!
-She's just a whore who takes adventage of men
-that can only think with their cocks!
-Why don't those men listen to me? 
-No one will come to our rescue!
-We should give our souls to the saints, 
-that is our only salvation!
-I am not wrong!
-I am right!
-I am not wrong!
-It's all your fault!
-You all deserve it!
-I am not wrong!
+\}ทำไม!
+ผู้หญิงคนนั้นคิดว่ามีทางออกจริงๆ เหรอ?
+เธอพาลูกไปตายกับพวกผู้ชายโง่ๆ เหล่านั้น!
+เธอเป็นแค่โสเภณีที่เอาเปรียบผู้ชาย
+ที่คิดได้แค่เรื่องควย!
+ทำไมพวกผู้ชายเหล่านั้นไม่ฟังผม?
+ไม่มีใครจะมาช่วยเรา!
+เราควรมอบวิญญาณของเราให้กับนักบุญ
+นั่นคือความรอดเดียวของเรา!
+ผมไม่ผิด!
+ผมถูกต้อง!
+ผมไม่ผิด!
+เป็นความผิดของพวกคุณทั้งหมด!
+พวกคุณสมควรได้รับ!
+ผมไม่ผิด!

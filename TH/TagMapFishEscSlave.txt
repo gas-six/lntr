@@ -1,105 +1,107 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-\m[confused]fugitive camp\optB[Leave,Enter]
+\m[confused]ค่ายผู้ลี้ภัย\optB[ออก,เข้า]
 
 #################################################################################
 
 ThisCamp/Found
-\CBct[2]\m[confused]\c[4]It looks like a refugee camp here, but there are no refugee owners?
-\CBct[8]\m[confused]\c[4]Are they fleeing refugees?
+\CBct[2]\m[confused]\c[4]ดูเหมือนจะเป็นค่ายผู้ลี้ภัยที่นี่ แต่ไม่มีเจ้าของผู้ลี้ภัย?
+\CBct[8]\m[confused]\c[4]พวกเขาหนีจากการเป็นผู้ลี้ภัยหรือเปล่า?
 
 alert/MainGuard
-\c[4]guard：\c[0]    Who's there!?
-\CBct[2]\m[shocked]\Rshake\c[6]Lona：\c[0]    Who's asking?\optD[pass by,bluff<r=HiddenOPT0>]
+\c[4]ยาม：\c[0]    ใครนั่น!?
+\CBct[2]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ใครถาม?\optD[ผ่านไป,หลอกลวง<r=HiddenOPT0>]
 
 alert/MainGuard_passByAns
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    I... I'm just passing by.
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    หนู... หนูแค่ผ่านไปเฉยๆ
 
 alert/MainGuard_passByWin
-\c[4]guard：\c[0]    Did you escape from the village too?
-\c[4]guard：\c[0]    I get it, it's just another hell.
-\c[4]guard：\c[0]    Come here, we won't hurt you.
-\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    Thanks....
+\c[4]ยาม：\c[0]    แกหนีจากหมู่บ้านมาด้วยเหรอ?
+\c[4]ยาม：\c[0]    กูเข้าใจ มันก็แค่นรกอีกที่
+\c[4]ยาม：\c[0]    มาทางนี้ พวกกูไม่ทำร้ายแกหรอก
+\CBct[8]\m[tired]\PRF\c[6]โลน่า：\c[0]    ขอบคุณ....
 
 alert/MainGuard_passByLose_follower
-\c[4]guard：\c[0]    Who is following you? !
+\c[4]ยาม：\c[0]    ใครตามแกมา!?
 
 alert/MainGuard_passByLose
-\c[4]guard：\c[0]    Can't let her go back! kill her!
-\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    Huh Why??
+\c[4]ยาม：\c[0]    ไม่ได้ ปล่อยให้แกกลับไปไม่ได้! ฆ่าแกเลย!
+\CBct[6]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    อะไรนะ ทำไม??
 
 alert/MainGuard_BluffAns
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    I...
-\CBct[20]\m[serious]\PRF\c[6]Lona：\c[0]    I caught a wild boar! Today's dinner is here!
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    หนู...
+\CBct[20]\m[serious]\PRF\c[6]โลน่า：\c[0]    หนูจับหมูป่าได้! อาหารเย็นวันนี้มีแล้ว!
 
 alert/MainGuard_BluffWin
-\c[4]guard：\c[0]    Very good! You did a great job!
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    \..\..\..Ha ha?
+\c[4]ยาม：\c[0]    ดีมาก! แกทำได้ดีมาก!
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    \..\..\..ฮ่าๆ?
 
 Nap/Friendly
-\narr Someone carried Lona away.
-\narrOFF\c[4]refugee：\c[0]    We have run out of food to take in.
-\c[4]guard：\c[0]    She is like us, a runaway slave from the village, let her stay here.
+\narr ใครบางคนแบกโลน่าไป
+\narrOFF\c[4]ผู้ลี้ภัย：\c[0]    อาหารของพวกเราหมดแล้ว รับเข้ามาไม่ได้
+\c[4]ยาม：\c[0]    เธอเหมือนพวกเรา หนีจากหมู่บ้านมา ปล่อยให้เธออยู่ที่นี่ได้
 
 Nap/Friendly_wake0
-\CBct[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    What's wrong with me? Where am I?
-\CBmp[GuardMas,20]\prf\c[4]guard：\c[0]    You also escaped from the Fishkind's Village, right?
+\CBct[8]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    เกิดอะไรขึ้นกับหนู? หนูอยู่ที่ไหน?
+\CBmp[GuardMas,20]\prf\c[4]ยาม：\c[0]    เธอก็หนีจากหมู่บ้านปลาชนิดนี้มาใช่ไหม?
 
 Nap/Friendly_wake1
-\CBmp[GuardMas,20]\prf\c[4]guard：\c[0]    We are like you, and now you are safe.
-\CBct[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    Thanks...
+\CBmp[GuardMas,20]\prf\c[4]ยาม：\c[0]    พวกเราเหมือนเธอ ตอนนี้เธอปลอดภัยแล้ว
+\CBct[8]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ขอบคุณ...
 
 Nap/Enemy
-\narr Someone carried Lona away.
-\narrOFF\c[4]refugee：\c[0]    Do you really want to eat this kind of thing?
-\c[4]guard：\c[0]    We have no choice, eat or die.
+\narr ใครบางคนแบกโลน่าไป
+\narrOFF\c[4]ผู้ลี้ภัย：\c[0]    แกจะกินของแบบนี้จริงๆ เหรอ?
+\c[4]ยาม：\c[0]    ไม่มีทางเลือก กินหรือตาย
 
 Nap/Enemy_wake0
-\m[tired]\c[4]Sob sob sob...
-\m[confused]\c[4]What's wrong with me? Where am I?
+\m[tired]\c[4]สะอึก สะอึก สะอึก...
+\m[confused]\c[4]เกิดอะไรขึ้นกับหนู? หนูอยู่ที่ไหน?
 
 Nap/Enemy_wake1
-\m[shocked]\Rshake\c[4]Ah?! Why am I tied up?
-\m[terror]\Rshake\c[4]What are those corpses below??
-\m[bereft]\Rshake\c[4]No! Don't eat me!
+\m[shocked]\Rshake\c[4]อะ?! ทำไมหนูถูกมัด?
+\m[terror]\Rshake\c[4]ศพพวกนั้นข้างล่างคืออะไร??
+\m[bereft]\Rshake\c[4]ไม่! อย่ากินหนู!
 
 Nap/Enemy_wake_giveUP
-\m[sad]\Rshake\c[4]Sorry...I'm tired...
-\m[tired]\Rshake\c[4]Just let me go like this.
+\m[sad]\Rshake\c[4]ขอโทษ... หนูเหนื่อยแล้ว...
+\m[tired]\Rshake\c[4]ปล่อยหนูไปแบบนี้เถอะ
 
 Nap/BondageStruggle_opt
-\optD[struggle,give up]
+\optD[ดิ้นรน,ยอมแพ้]
 
 killed/all
-\m[tired]\c[6]Lona：\c[0]    Sorry but I have my reasons...
+\m[tired]\c[6]โลน่า：\c[0]    ขอโทษนะ แต่หนูมีเหตุผลของหนู...
 
 gameOver/nap0
-\narr Lona dedicated his body to starving refugees...
+\narr โลน่ายอมร่างกายให้กับผู้ลี้ภัยที่หิวโหย...
 
 ################################################################################# Common MSG
 
 Commoner/RNG_Dialog0
-\c[4]refugee：\c[0]    I shouldn't have escaped, none of this has changed at all.
+\c[4]ผู้ลี้ภัย：\c[0]    หนูไม่ควรหนี ไม่มีอะไรเปลี่ยนแปลงเลย
 
 Commoner/RNG_Dialog1
-\c[4]refugee：\c[0]    At least there is food to stay inside, why should I escape.
+\c[4]ผู้ลี้ภัย：\c[0]    อย่างน้อยก็มีอาหารให้อยู่ข้างใน ทำไมต้องหนีล่ะ
 
 Commoner/RNG_Dialog2
-\c[4]refugee：\c[0]    I eat less and less, what should I do tomorrow?
+\c[4]ผู้ลี้ภัย：\c[0]    หนูกินน้อยลงทุกวัน พรุ่งนี้จะทำยังไงดี?
 
 Guard/Qmsg0
-Can you find something to eat today?
+วันนี้หาได้อะไรกินมั้ย?
 
 Guard/Qmsg1
-Those who went hunting yesterday did not come back...
+พวกที่ไปล่าเมื่อวานไม่กลับมา...
 
 Guard/Qmsg2
-It won't work like this.
+แบบนี้ไม่ได้หรอก
 
 Commoner/Qmsg0
-I am so hungry...
+หิวมาก...
 
 Commoner/Qmsg1
-Is there anything to eat?...
+มีอะไรกินมั้ย?...
 
 Commoner/Qmsg2
-please... give me something to eat...
+ขอร้อง... ให้อะไรกินหน่อย...

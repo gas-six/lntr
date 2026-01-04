@@ -1,248 +1,250 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-Sunrise Village\optB[Leave,Enter]
+Sunrise Village\optB[ออก,เข้า]
 
 ############################################################################### COMMON
 
 GateKeeper/NormalBegin0
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    Stop! Who goes there?!
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uhm...I'm...
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Are you here to deal with the fish scum?
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Good, then come on in.
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    .....
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    หยุด! ใครมา!?
+\CBct[6]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม...หนูคือ...
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    มึงมาจัดการกับพวกปลาสกปรกหรือเปล่า?
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    ดีแล้ว งั้นเข้ามาเลย
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    .....
 
 GateKeeper/Enter0
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    This is \c[6]Sunrise Village\c[0].
-\CBid[-1,5]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    We're sick of putting up with beggars and fishkind.
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    ที่นี่คือ \c[6]หมู่บ้านซันไรส์\c[0].
+\CBid[-1,5]\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    พวกเราเบื่อที่จะต้องทนกับพวกขอทานและพวกปลา
 
 GateKeeper/AggroAlert
-\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    Intruder!
+\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    คนบุกรุก!
 
 GateKeeper/TooWeakBegin0
-\CBid[-1,5]\SETpl[AnonMale1]\c[4]Villager：\c[0]    Move! Sybaris' beggars aren't welcome here.
-\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Sorry...
-\narr Lona looks too weak
+\CBid[-1,5]\SETpl[AnonMale1]\c[4]ชาวบ้าน：\c[0]    ไป! พวกขอทานจากไซบาริสไม่ต้องการที่นี่
+\CBct[8]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    ขอโทษ...
+\narr โลน่าดูอ่อนแอเกินไป
 
 Archer0/0
-\CBid[-1,20]\c[4]Villager：\c[0]    You said those fish are the most annoying?
-\CBid[-1,20]\c[4]Villager：\c[0]    Wrong, the scum from Sybaris are worse.
-\CBid[-1,20]\c[4]Villager：\c[0]    Do not trust any bastards from the capital.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    มึงบอกว่าพวกปลาเป็นพวกที่น่ารำคาญที่สุด?
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    ผิด พวกสกปรกจากไซบาริสแย่กว่า
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    อย่าไว้ใจพวกหน้าเลวจากเมืองหลวง
 
 Archer0/1
-\CBid[-1,20]\c[4]Villager：\c[0]    Dumb monsters aren't the problem. The Fishman manipulating them is.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    ปัญหาไม่ใช่พวกปีศาจโง่ๆ แต่เป็นพวกปลาที่ควบคุมพวกมัน
 
 Archer0/2
-\CBid[-1,20]\c[4]Villager：\c[0]    It reeks of fish since that day.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    ตั้งแต่วันนั้นมันเหม็นปลา
 
 CommomerM0/Rng0
-\CBid[-1,20]\c[4]Villager：\c[0]    Those swamp monsters must be paid by that Fishman, they're the same kind.
-\CBid[-1,20]\c[4]Villager：\c[0]    If not, why don't the Deepones attack them?
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    พวกปีศาจในหนองน้ำต้องได้เงินจากพวกปลา พวกมันเป็นพวกเดียวกัน
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    ถ้าไม่ใช่ ทำไมพวกดีปวนไม่โจมตีพวกมัน?
 
 CommomerM0/Rng1
-\CBid[-1,20]\c[4]Villager：\c[0]    Sybaris? I hear it's gone to shit.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    ไซบาริส? ได้ยินว่ามันแย่ลง
 
 CommomerM0/Rng2
-\CBid[-1,20]\c[4]Villager：\c[0]    I hear several villages are suffering.
-\CBid[-1,20]\c[4]Villager：\c[0]    They took in beggars, and soon became beggars themselves.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    ได้ยินว่าหลายหมู่บ้านกำลังประสบปัญหา
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    พวกมันรับพวกขอทานเข้ามา แล้วก็กลายเป็นขอทานเอง
 
 CommomerM1/Rng0
-\CBid[-1,20]\c[4]Villager：\c[0]    Who are you? I haven't seen you before.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    มึงเป็นใคร? หน้าไม่คุ้นเลย
 
 CommomerM1/Rng1
-\CBid[-1,20]\c[4]Villager：\c[0]    What do you want? Your kind isn't welcome here.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    มึงต้องการอะไร? พวกมึงไม่ต้องการที่นี่
 
 CommomerM1/Rng2
-\CBid[-1,20]\c[4]Villager：\c[0]    I don't like small tits!
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    กูไม่ชอบหีเล็กๆ!
 
 CommomerF/Rng0
-\CBid[-1,20]\c[4]Villager：\c[0]    I heard the Fishman will kidnap your kids at night.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    ได้ยินว่าพวกปลาจะลักพาตัวลูกๆ ของมึงตอนกลางคืน
 
 CommomerF/Rng1
-\CBid[-1,20]\c[4]Villager：\c[0]    People say outsiders are untrustworthy.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    คนพูดว่าคนนอกไม่น่าไว้ใจ
 
 CommomerKid/Rng0
-\CBid[-1,20]\c[4]Villager：\c[0]    I love executions, they struggle so much.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    กูชอบดูการประหาร พวกมันดิ้นมาก
 
 CommomerKid/Rng1
-\CBid[-1,20]\c[4]Villager：\c[0]    All I eat is fish nowadays, I'm sick of it.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    ตอนนี้กูกินแต่ปลา กูเบื่อมันแล้ว
 
 CommomerKid/Rng2
-\CBid[-1,20]\c[4]Villager：\c[0]    Mom told me not to talk to strangers.
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    แม่บอกว่าอย่าคุยกับคนแปลกหน้า
 
 Ded/Nap
-\SndLib[sound_gore]\SndLib[sound_combat_hit_gore]\c[4]Villager：\c[0]    This one's a troublemaker! Kill her!
+\SndLib[sound_gore]\SndLib[sound_combat_hit_gore]\c[4]ชาวบ้าน：\c[0]    ตัวนี้เป็นพวกก่อกวน! ฆ่ามัน!
 
 ###############################################################################   AriseVillage 0to1_0
 
 AriseVillage/0to1_0
-\ph\c[4]Villager：\c[0]    Get up, you bastard!
+\ph\c[4]ชาวบ้าน：\c[0]    ลุกขึ้นมา พวกหน้าเลว!
 
 AriseVillage/0to1_1
-\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]Fishman：\c[0]    I... can't... breathe...
-\CBmp[GuardL,5]\c[4]Villager：\c[0]    Say! What's a Fishman infidel doing here?
-\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]Fishman：\c[0]    dindu...noffin...
-\CBmp[GuardR,5]\c[4]Villager：\c[0]    Still playing dumb?!
+\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]ปลาคน：\c[0]    กู...หายใจ...ไม่ออก...
+\CBmp[GuardL,5]\c[4]ชาวบ้าน：\c[0]    ว่าไง! พวกปลาคนนอกศาสนาทำอะไรที่นี่?
+\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]ปลาคน：\c[0]    กูไม่ได้...ทำอะไร...
+\CBmp[GuardR,5]\c[4]ชาวบ้าน：\c[0]    ยังจะแกล้งโง่อีกเหรอ?!
 
 AriseVillage/0to1_2
-\CBmp[GuardR,20]\c[4]Villager：\c[0]    Have you seen your partner? That pedestal next to him is reserved for you.
-\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]Fishman：\c[0]    No...Don't kill me... I don't want to die....
+\CBmp[GuardR,20]\c[4]ชาวบ้าน：\c[0]    มึงเห็นคู่หูของมึงไหม? ที่วางศพข้างๆ มันเตรียมไว้ให้มึง
+\SndLib[FishkindSmSpot]\CBmp[FishExplorer,6]\c[4]ปลาคน：\c[0]    ไม่...อย่าฆ่ากู...กูไม่อยากตาย....
 
 AriseVillage/0to1_3
-\CBmp[GuardR,20]\c[4]Villager：\c[0]    Where are the other stinky fish people?!
-\CBmp[GuardR,20]\c[4]Villager：\c[0]    Talk! I'll kill you if you don't.
+\CBmp[GuardR,20]\c[4]ชาวบ้าน：\c[0]    พวกปลาคนเหม็นๆ อื่นๆ อยู่ที่ไหน?!
+\CBmp[GuardR,20]\c[4]ชาวบ้าน：\c[0]    พูด! กูจะฆ่ามึงถ้ามึงไม่พูด
 
 AriseVillage/0to1_Rng0
-\CBid[-1,20]\c[4]Villager：\c[0]    Those infidel fishmen. They're Liars!
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    พวกปลาคนนอกศาสนา พวกมันเป็นพวกโกหก!
 
 AriseVillage/0to1_Rng1
-\CBid[-1,20]\c[4]Villager：\c[0]    The Fishman caused this!
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    พวกปลาคนทำให้เกิดเรื่องนี้!
 
 AriseVillage/0to1_Fishman0
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    What's going on here?!
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    เกิดอะไรขึ้นที่นี่!?
 
 AriseVillage/0to1_Fishman0_0
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    I...Come...Investigate...
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    The Ancestors... the riots...
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    Human... attacks...
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Uh...the riots?
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]ปลาคน：\c[0]    กู...มา...สืบ...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]ปลาคน：\c[0]    บรรพบุรุษ...การจลาจล...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]ปลาคน：\c[0]    มนุษย์...โจมตี...
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    อืม...การจลาจล?
 
 AriseVillage/0to1_Fishman0_1
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    Help...I'm...Innocent...
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    I must get to... the camp in the north...
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    I'll give you money...I have money...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]ปลาคน：\c[0]    ช่วย...กู...บริสุทธิ์...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]ปลาคน：\c[0]    กูต้องไป...ค่ายทางเหนือ...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]ปลาคน：\c[0]    กูจะให้เงินมึง...กูมีเงิน...
 
 AriseVillage/0to1_Fishman0_brd
-\CamCT\board[Help the fishman in trouble]
-Goal：Reach the North Camp
-Reward：4 large copper coins
-Quest Giver：Fishman
-Quest Term： 5 days
-The village seems to want to murder this innocent fishman, but is he really innocent?
-Could such an ugly fish even be innocent?
+\CamCT\board[ช่วยปลาคนที่กำลังลำบาก]
+เป้าหมาย：ไปถึงค่ายทางเหนือ
+รางวัล：เหรียญทองแดงขนาดใหญ่ 4 เหรียญ
+ผู้ให้ภารกิจ：ปลาคน
+เวลาที่กำหนด： 5 วัน
+หมู่บ้านดูเหมือนจะต้องการฆ่าปลาคนบริสุทธิ์ตัวนี้ แต่มันบริสุทธิ์จริงหรือเปล่า?
+ปลาหน้าตาแย่ขนาดนี้จะบริสุทธิ์ได้เหรอ?
 
 AriseVillage/0to1_Fishman1_opt
-\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    Outsider!? Are you his accomplice?
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    What!? \optD[No,Well...,I'm a mercenary<r=HiddenOPT0>,Cecily<r=HiddenOPT1>]
+\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    คนนอก!? มึงเป็นพวกของมันหรือเปล่า?
+\CBct[6]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อะไรนะ!? \optD[ไม่ใช่,อืม...มั้ง,หนูเป็นทหารรับจ้าง<r=HiddenOPT0>,เซซิลี่<r=HiddenOPT1>]
 
 AriseVillage/0to1_Fishman1_opt_Cecily
-\CBfB[20]\SETpr[CecilyNormalAr]\plf\PRF\C[4]Cecily：\C[0]    Hey!
-\CBmp[GuardTop,1]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    A soldier from Noer?!
-\CBfB[2]\SETpr[CecilyWtfAr]\plf\PRF\C[4]Cecily：\C[0]    What crime did this fishman commit?
-\CBmp[GuardTop,6]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    No! Sorry! We caught the wrong guy!
-\CBmp[GuardTop,6]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    We'll let him go.
-\CBfB[5]\SETpr[CecilyAngryAr]\plf\PRF\C[4]Cecily：\C[0]    Do it!
+\CBfB[20]\SETpr[CecilyNormalAr]\plf\PRF\C[4]เซซิลี่：\C[0]    หวัดดี!
+\CBmp[GuardTop,1]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    ทหารจากโนเออร์?!
+\CBfB[2]\SETpr[CecilyWtfAr]\plf\PRF\C[4]เซซิลี่：\C[0]    ปลาคนตัวนี้ทำผิดอะไร?
+\CBmp[GuardTop,6]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    ไม่! ขอโทษ! เราจับคนผิด!
+\CBmp[GuardTop,6]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    เราจะปล่อยมัน
+\CBfB[5]\SETpr[CecilyAngryAr]\plf\PRF\C[4]เซซิลี่：\C[0]    ทำเลย!
 
 AriseVillage/0to1_Fishman1_opt_No
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    No! I just happened to pass by!
-\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Go away! We don't like outsiders!
-\CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    Sorry...
+\CBct[6]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    ไม่! หนูแค่เดินผ่านมา!
+\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    ไปให้พ้น! เราไม่ชอบคนนอก!
+\CBct[8]\m[tired]\plf\Rshake\c[6]โลน่า：\c[0]    ขอโทษ...
 
 AriseVillage/0to1_Fishman1_opt_Yes
-\CBct[8]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    Uh...I...
-\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    This outsider's causing trouble! Kill her!
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    What!?
+\CBct[8]\m[flirty]\plf\Rshake\c[6]โลน่า：\c[0]    อืม...หนู...
+\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    คนนอกตัวนี้ก่อกวน! ฆ่ามัน!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อะไรนะ!?
 
 AriseVillage/0to1_Fishman1_opt_WIS
-\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    I'm a mercenary from Noer, I've come to take this evil fishman
-\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Is that so? Do it fast then, we don't like strangers here.
-\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    I see.
+\CBct[20]\m[serious]\plf\Rshake\c[6]โลน่า：\c[0]    หนูเป็นทหารรับจ้างจากโนเออร์ หนูมาจับปลาคนชั่วร้ายตัวนี้
+\CBmp[GuardTop,5]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    อย่างนั้นเหรอ? ทำเร็วๆ นะ เราไม่ชอบคนแปลกหน้าที่นี่
+\CBct[20]\m[serious]\plf\Rshake\c[6]โลน่า：\c[0]    เข้าใจแล้ว
 
 AriseVillage/0to1_Fishman2_joined
-\SndLib[FishkindSmSpot]\CBfE[20]\c[4]Fishman：\c[0]    Now...the time...
+\SndLib[FishkindSmSpot]\CBfE[20]\c[4]ปลาคน：\c[0]    ตอนนี้...เวลา...
 
 ###############################################################################   Right house
 
 Rho/begin0_weak
-\CBid[-1,20]\SETpl[AnonFemale]\c[4]Woman：\c[0]    We need mercenaries. You're useless!
+\CBid[-1,20]\SETpl[AnonFemale]\c[4]ผู้หญิง：\c[0]    เราต้องการทหารรับจ้าง มึงไร้ประโยชน์!
 
 Rho/begin0
-\CBid[-1,20]\SETpl[AnonFemale]\c[4]Woman：\c[0]    Ah! You're finally here! The mercenary guided by the Saint!
-\CBct[8]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    Wha-? Mercenary guided by what?
+\CBid[-1,20]\SETpl[AnonFemale]\c[4]ผู้หญิง：\c[0]    อ๋อ! มึงมาถึงที่สุดแล้ว! ทหารรับจ้างที่ได้รับการนำทางจากนักบุญ!
+\CBct[8]\m[flirty]\plf\Rshake\c[6]โลน่า：\c[0]    อะไรนะ? ทหารรับจ้างที่ได้รับการนำทางจากอะไร?
 
 Rho/begin1
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Listen. We are in need of your help.
-\CBct[8]\m[confused]\plf\Rshake\c[6]Lona：\c[0]    Uh...what's going on?
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Saint's above, this is too much.
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    There is havoc outside the village and worse yet the village men are taking the chance to steal girls.
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    They are just kids!
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]ผู้หญิง：\c[0]    ฟังนะ เราต้องการความช่วยเหลือจากมึง
+\CBct[8]\m[confused]\plf\Rshake\c[6]โลน่า：\c[0]    อืม...เกิดอะไรขึ้น?
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]ผู้หญิง：\c[0]    นักบุญเหนือสวรรค์ นี่มันมากเกินไป
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]ผู้หญิง：\c[0]    นอกหมู่บ้านมีความวุ่นวาย และที่แย่กว่านั้นคือผู้ชายในหมู่บ้านใช้โอกาสนี้ลักพาตัวผู้หญิง
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]ผู้หญิง：\c[0]    พวกมันเป็นแค่เด็ก!
 
 Rho/begin2_brd
-\CamCT\board[Save the girl in danger]
-Goal：In the house in the west of Sunrise village, save the captive girl.
-Reward：Morale 4, 2000P
-Client：Housewife
-Time Limit：None
-The men of Sunrise village are stealing girls whilst Noer Island devolves into chaos? How despicable.
-Help those kids. Head to the house in the west of the village and release the lost girl and bring her back to this house.
+\CamCT\board[ช่วยเด็กผู้หญิงที่กำลังตกอยู่ในอันตราย]
+เป้าหมาย：ในบ้านทางตะวันตกของหมู่บ้านซันไรส์ ช่วยเด็กผู้หญิงที่ถูกจับ
+รางวัล：ขวัญกำลังใจ 4, 2000P
+ผู้ว่าจ้าง：แม่บ้าน
+เวลาที่กำหนด：ไม่มี
+ผู้ชายในหมู่บ้านซันไรส์ลักพาตัวเด็กผู้หญิงขณะที่เกาะโนเออร์กำลังวุ่นวาย? น่ารังเกียจจริงๆ
+ช่วยเด็กๆ เหล่านั้น ไปที่บ้านทางตะวันตกของหมู่บ้านและปล่อยเด็กผู้หญิงที่หายไปและนำเธอกลับมาที่บ้านนี้
 
 Rho/begin3_yes
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    I beg of you, young mercenary, please save them.
-\CBct[20]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Okay, I'll go save them!
-\CBid[-1,4]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Thank the Saints!
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    I believe they are kept inside the storage on the very west of the village.
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Be careful. Those men dislike being bothered by women, let alone an outsider.
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Besides...I wish to apologize to them in person...
-\CBct[20]\m[pleased]\plf\Rshake\c[6]Lona：\c[0]    You can count on me!
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]ผู้หญิง：\c[0]    ขอร้องล่ะ ทหารรับจ้างหนุ่มสาว ช่วยพวกมันหน่อย
+\CBct[20]\m[serious]\plf\Rshake\c[6]โลน่า：\c[0]    ได้ หนูจะไปช่วยพวกมัน!
+\CBid[-1,4]\SETpl[AnonFemale]\Lshake\prf\c[4]ผู้หญิง：\c[0]    ขอบคุณนักบุญ!
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]ผู้หญิง：\c[0]    หนูเชื่อว่าพวกมันถูกเก็บไว้ในโกดังทางตะวันตกสุดของหมู่บ้าน
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]ผู้หญิง：\c[0]    ระวังนะ พวกผู้ชายเหล่านั้นไม่ชอบให้ผู้หญิงมารบกวน ยิ่งคนนอกด้วยแล้ว
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]ผู้หญิง：\c[0]    นอกจากนี้...หนูอยากขอโทษพวกมันด้วยตัวเอง...
+\CBct[20]\m[pleased]\plf\Rshake\c[6]โลน่า：\c[0]    หนูจะทำให้ได้!
 
 Rho/begin3_no
-\CBct[8]\m[flirty]\plf\PLF\c[6]Lona：\c[0]    Um...I don't think I can do this.
+\CBct[8]\m[flirty]\plf\PLF\c[6]โลน่า：\c[0]    อืม...หนูคิดว่าหนูทำไม่ได้
 
 Rho/RG14_x
-\CBct[2]\m[flirty]\PLF\c[6]Lona：\c[0]    Animal noises? Monkeys?
+\CBct[2]\m[flirty]\PLF\c[6]โลน่า：\c[0]    เสียงสัตว์? ลิง?
 
 Rho/RG14_0
-\c[4]Villager：\c[0]    Oh fuck, this is the tightest thing ever!
-\c[4]Villager：\c[0]    \{Uooooooooooh!
+\c[4]ชาวบ้าน：\c[0]    โอ้ นี่มันแน่นที่สุดเลย!
+\c[4]ชาวบ้าน：\c[0]    \{อู้โอ้!
 
 Rho/RG14_1
-\CBmp[ApeGuard1,5]\c[4]VillagerA：\c[0]    Ah! Blast! This one croaked.
+\CBmp[ApeGuard1,5]\c[4]ชาวบ้านA：\c[0]    อ๊าก! ระเบิด! ตัวนี้ตายแล้ว
 
 Rho/RG14_2
-\CBmp[ApeGuard2,20]\c[4]VillagerB：\c[0]    Felt too damn good. So damn good!
-\CBmp[ApeGuard1,3]\c[4]VillagerA：\c[0]    Didn't think this would be even better than regular women, did ya?
-\CBmp[ApeGuard1,4]\c[4]VillagerA：\c[0]    Plus the holes are more firm, way better than what my wife got going on!
-\CBmp[ApeGuard2,20]\c[4]VillagerB：\c[0]    \{Gonna cum! Cumming!
+\CBmp[ApeGuard2,20]\c[4]ชาวบ้านB：\c[0]    รู้สึกดีมากๆ ดีมากๆ!
+\CBmp[ApeGuard1,3]\c[4]ชาวบ้านA：\c[0]    ไม่คิดว่ามันจะดีกว่าผู้หญิงธรรมดาเลยนะ?
+\CBmp[ApeGuard1,4]\c[4]ชาวบ้านA：\c[0]    แถมรูยังแน่นกว่าของภรรยากูอีก!
+\CBmp[ApeGuard2,20]\c[4]ชาวบ้านB：\c[0]    \{จะเสร็จแล้ว! เสร็จแล้ว!
 
 Rho/RG14_3
-\CBct[8]\m[flirty]\PLF\c[6]Lona：\c[0]    Um...are the girls...monkeys?
-\CBct[8]\m[confused]\PLF\c[6]Lona：\c[0]    No way...
+\CBct[8]\m[flirty]\PLF\c[6]โลน่า：\c[0]    อืม...เด็กผู้หญิง...เป็นลิงหรือเปล่า?
+\CBct[8]\m[confused]\PLF\c[6]โลน่า：\c[0]    ไม่มีทาง...
 
 Rho/RG14_4
-\CBct[8]\m[flirty]\PLF\c[6]Lona：\c[0]    Um...guess I'll pretend I did not see this?
-\CBct[8]\m[confused]\PLF\c[6]Lona：\c[0]    But I did already promise...
+\CBct[8]\m[flirty]\PLF\c[6]โลน่า：\c[0]    อืม...คงต้องทำเป็นไม่เห็นนะ?
+\CBct[8]\m[confused]\PLF\c[6]โลน่า：\c[0]    แต่หนูก็สัญญาไว้แล้ว...
 
 Rho/Ape0_opt
-Poor girl monkey, release her restraints?\optB[Nope,Release]
+เด็กผู้หญิงลิงที่น่าสงสาร ปลดปล่อยพันธนาการของมันหรือไม่?\optB[ไม่,ปล่อย]
 
 Rho/Ape1
-\CBct[3]\m[pleased]\PLF\c[6]Lona：\c[0]    There. You are free!
+\CBct[3]\m[pleased]\PLF\c[6]โลน่า：\c[0]    นี่ มึงอิสระแล้ว!
 \CBmp[Ape1,20]\SndLib[MonkeyLost]....
-\CBct[3]\m[triumph]\PLF\c[6]Lona：\c[0]    Follow me. I can take you somewhere safe.
+\CBct[3]\m[triumph]\PLF\c[6]โลน่า：\c[0]    ตามหนูมา หนูจะพามึงไปที่ปลอดภัย
 \CBmp[Ape1,20]\SndLib[MonkeyLost]....
 
 Rho/Ape2_brd
-\CamCT\board[Rescue the monkey in danger]
-Goal：Lead the monkey back to the house in the east.
-Reward：Morale 4、2000P
-Client：Housewife
-Time Limit：None
+\CamCT\board[ช่วยลิงที่กำลังตกอยู่ในอันตราย]
+เป้าหมาย：นำลิงกลับไปที่บ้านทางตะวันออก
+รางวัล：ขวัญกำลังใจ 4、2000P
+ผู้ว่าจ้าง：แม่บ้าน
+เวลาที่กำหนด：ไม่มี
 
 Rho/QuestDone0
-\CBct[8]\m[confused]\PLF\c[6]Lona：\c[0]    Um...well...anyways...
-\CBct[8]\m[flirty]\PLF\c[6]Lona：\c[0]    I brought...the monkey...no...the girl... she is rescued.
+\CBct[8]\m[confused]\PLF\c[6]โลน่า：\c[0]    อืม...อ๋อ...อย่างไรก็ตาม...
+\CBct[8]\m[flirty]\PLF\c[6]โลน่า：\c[0]    หนูนำ...ลิง...ไม่...เด็กผู้หญิง...มันถูกช่วยแล้ว
 
 Rho/QuestDone1
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Many thanks divine mercenary! Praise the Saint!
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]ผู้หญิง：\c[0]    ขอบคุณมากทหารรับจ้างศักดิ์สิทธิ์! สรรเสริญนักบุญ!
 
 Rho/QuestDone2
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]Woman：\c[0]    Oh poor child. You have endured so much.
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\c[4]ผู้หญิง：\c[0]    โอ้ เด็กน้อยน่าสงสาร เธอต้องทนทุกข์มากมาย
 
 Rho/QuestDone3
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Woman：\c[0]    I will help patch up your injuries and pass on this courageous deed of yours.
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Woman：\c[0]    Bless you, divine mercenary. 
-\CBct[3]\m[pleased]\PLF\c[6]Lona：\c[0]    Okay!
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]ผู้หญิง：\c[0]    หนูจะช่วยรักษาบาดแผลของเธอและส่งต่อความกล้าหาญของมึง
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]ผู้หญิง：\c[0]    ขอพรให้มึง ทหารรับจ้างศักดิ์สิทธิ์
+\CBct[3]\m[pleased]\PLF\c[6]โลน่า：\c[0]    ได้!
 
 Rho/Rng0
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Woman：\c[0]    Saints...forgive me of my sins.
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]ผู้หญิง：\c[0]    นักบุญ...โปรดให้อภัยบาปของหนู
 
 Rho/Rng1
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]Woman：\c[0]    I am sinful...forgive me...
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\c[4]ผู้หญิง：\c[0]    หนูเป็นคนบาป...โปรดให้อภัยหนู...

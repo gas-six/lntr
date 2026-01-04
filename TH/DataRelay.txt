@@ -1,32 +1,30 @@
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
-
 RelayEMP/Welcome0
-\CBid[-1,20]\m[confused]\prf\c[4]Carriage Receptionist：\c[0]    "How may I be of service, Miss?"
+\CBid[-1,20]\m[confused]\prf\c[4]Carriage Receptionist：\c[0]    "จะช่วยอะไรได้ไหมคะ คุณหนู?"
 
 RelayEMP/Welcome1
-\CBid[-1,20]\m[confused]\prf\c[4]Carriage Receptionist：\c[0]    "There's not many places you can travel to. Where do you wish to go?"
+\CBid[-1,20]\m[confused]\prf\c[4]Carriage Receptionist：\c[0]    "ไม่มีที่ไปมากนักหรอกนะ อยากไปไหนคะ?"
 
 RelayEMP/SlaveBlock
-\CBid[-1,20]\prf\c[4]Carriage Receptionist：\c[0]    "Flithy slaves have no right to use my services! Get away and go back to you master!"
-\CBct[6]\m[sad]\c[6]Lona：\c[0]    "Y-Yes..."
+\CBid[-1,20]\prf\c[4]Carriage Receptionist：\c[0]    "ทาสสกปรกไม่มีสิทธิ์ใช้บริการฉันหรอก! ไปให้พ้นแล้วกลับไปหานายเถอะ!"
+\CBct[6]\m[sad]\c[6]Lona：\c[0]    "ค... ค่ะ..."
 
 RelayEMP/NoGold
-\CBid[-1,20]\prf\c[4]Carriage Receptionist：\c[0]    "You have no money?! THEN GET OUT OF MY SIGHT!"
-\CBct[6]\m[flirty]\c[6]Lona：\c[0]    "S... Sorry......"
+\CBid[-1,20]\prf\c[4]Carriage Receptionist：\c[0]    "ไม่มีเงินเลยเหรอ?! แล้วก็ไปให้พ้นสายตาฉัน!"
+\CBct[6]\m[flirty]\c[6]Lona：\c[0]    "ข... ขอโทษ......"
 
 RelayEMPfish/Welcome0
-\CBid[-1,20]\SndLib[FishkindSmSpot]\m[confused]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "Fishtopia... Our home..."
+\CBid[-1,20]\SndLib[FishkindSmSpot]\m[confused]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "ฟิชโทเปีย... บ้านของเรา..."
 
 RelayEMPfish/Welcome1
-\CBid[-1,20]\SndLib[FishkindSmSpot]\m[confused]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "Human... *Snort* Where you... Go...?"
+\CBid[-1,20]\SndLib[FishkindSmSpot]\m[confused]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "มนุษย์... *จาม* ไปไหน...?"
 
 RelayEMPfish/SlaveBlock
-\CBid[-1,20]\SndLib[FishkindSmSpot]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "Slaves... Not allowed... To leave...! Return... To birth... More offsprings...!"
-\CBct[6]\m[sad]\c[6]Lona：\c[0]    "U... Understood......"
+\CBid[-1,20]\SndLib[FishkindSmSpot]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "ทาส... ไม่ได้รับอนุญาต... ให้ออกไป...! กลับไป... ผสมพันธุ์...!"
+\CBct[6]\m[sad]\c[6]Lona：\c[0]    "เ... เข้าใจค่ะ......"
 
 RelayEMPfish/SlaveAccept
-\CBid[-1,20]\SndLib[FishkindSmSpot]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "Slave... Fresh girl... Come on......"
-\CBct[2]\m[flirty]\c[6]Lona：\c[0]    "Ummm...?"
+\CBid[-1,20]\SndLib[FishkindSmSpot]\SETpl[FishBusinessMan]\Lshake\prf\c[4]Ferry Employee：\c[0]    "ทาส... สาวใหม่... มาเลย......"
+\CBct[2]\m[flirty]\c[6]Lona：\c[0]    "อืม...?"
 
 RelayEMP/opt
-\CBct[8]\CamCT\m[flirty]\PRF\c[6]Lona：\c[0]    "Mmmm..."
+\CBct[8]\CamCT\m[flirty]\PRF\c[6]Lona：\c[0]    "อืมมม..."

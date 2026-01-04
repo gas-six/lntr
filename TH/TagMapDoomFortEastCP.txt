@@ -1,104 +1,106 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-Eastern Outpost.\optB[Leave,Enter]
+ด่านตะวันออก.\optB[ออก,เข้า]
 
 ############################################################################### Quest Begin
 
 CPofficer/overrunning_begin0
-\CBmp[cpSGT,2]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    What are you doing here!
-\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?! What???
-\CBmp[cpSGT,1]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    We are under attack! It's dangerous here! Civilians, must leave immediately! Get out!
-\CBct[2]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    Yes!
-\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Fuck!
-\CBct[2]\m[wtf]\plf\Rshake\c[6]Lona：\c[0]     Huh?! What happened again?!
-\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    We can't hold them any longer! You! Go quickly to the \c[4]Doomsday Fortress\c[0] Send us some support!
-\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Tell them we can't hold out anymore! Go now! Immediately!
-\CBct[2]\m[terror]\plf\Rshake\c[6]Lona：\c[0]     Yes!
+\CBmp[cpSGT,2]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    มึงมาทำอะไรที่นี่วะ!
+\CBct[2]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อะไรนะ?! อะไรเหรอ???
+\CBmp[cpSGT,1]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    เราโดนโจมตี! ที่นี่อันตราย! พลเรือน ต้องออกไปทันที! ไปเลย!
+\CBct[2]\m[terror]\plf\Rshake\c[6]โลน่า：\c[0]    ครับ!
+\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    ควย!
+\CBct[2]\m[wtf]\plf\Rshake\c[6]โลน่า：\c[0]     อะไรนะ?! เกิดอะไรขึ้นอีกแล้ว?!
+\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    เรากันพวกมันไม่ไหวแล้ว! มึง! รีบไปที่ \c[4]ป้อมปราการวันสิ้นโลก\c[0] ขอกำลังเสริมมาให้เรา!
+\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    บอกพวกเขาว่าเรากันไม่ไหวแล้ว! ไปเลย! ทันที!
+\CBct[2]\m[terror]\plf\Rshake\c[6]โลน่า：\c[0]     ครับ!
 
 DFOfficer/overrunning_begin1
-\CBmp[cpSGT,2]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]security officer：\c[0]    Um? What's wrong, kid?
-\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    The Eastern Outpost is under attack by meat monsters!
-\CBct[20]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    They want me to come find backup!
-\CBmp[cpSGT,1]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]security officer：\c[0]    Eastern Outpost huh? They are at it again?
-\CBmp[cpSGT,1]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]security officer：\c[0]    Damn it! We don't have enough manpower either!
-\CBmp[cpSGT,1]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]security officer：\c[0]    You! Come with us!
-\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh? Me?!
-\CBmp[cpSGT,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]security officer：\c[0]    Quick! Take up your weapons! Start acting like you're alive!
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    I'm just passing by...
+\CBmp[cpSGT,2]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าหน้าที่รักษาความปลอดภัย：\c[0]    อืม? เกิดอะไรขึ้นหรือเปล่า น้อง?
+\CBct[20]\m[terror]\plf\Rshake\c[6]โลน่า：\c[0]    ด่านตะวันออกโดนสัตว์ประหลาดเนื้อโจมตี!
+\CBct[20]\m[bereft]\plf\Rshake\c[6]โลน่า：\c[0]    พวกเขาบอกให้หนูมาหากำลังเสริม!
+\CBmp[cpSGT,1]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าหน้าที่รักษาความปลอดภัย：\c[0]    ด่านตะวันออกน่ะเหรอ? พวกมันมาอีกแล้วเหรอ?
+\CBmp[cpSGT,1]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าหน้าที่รักษาความปลอดภัย：\c[0]    หีนะ! เราก็ไม่มีกำลังพลพอเหมือนกัน!
+\CBmp[cpSGT,1]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าหน้าที่รักษาความปลอดภัย：\c[0]    มึง! มากับเรา!
+\CBct[2]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อะไรนะ? หนูเหรอ?!
+\CBmp[cpSGT,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าหน้าที่รักษาความปลอดภัย：\c[0]    รีบ! หยิบอาวุธขึ้นมา! เริ่มทำตัวให้เหมือนยังมีชีวิตอยู่!
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    หนูแค่ผ่านมา...
 
 DFOfficer/overrunning_begin1_board
-\board[eastern outpost]
-Goal： Defend the Eastern Outpost
-Reward： Unknown
-Client： Eastern Outpost
-Go back to the eastern outpost and assist the soldiers in the defense.
+\board[ด่านตะวันออก]
+เป้าหมาย： ป้องกันด่านตะวันออก
+รางวัล： ไม่ทราบ
+ผู้ว่าจ้าง： ด่านตะวันออก
+กลับไปที่ด่านตะวันออกและช่วยทหารป้องกัน.
 
 CPofficer/overrunning_begin2
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Reinforcements have arrived! Support is here!
-\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Very good! It's just in time!
-\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    It's time to fight back!
-\CBmp[Cannon1,19]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Brat! You go and load the cannons! Quick!
-\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Yes Sir!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    กำลังเสริมมาถึงแล้ว! มีคนมาช่วยแล้ว!
+\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    ดีมาก! มาทันเวลา!
+\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    ถึงเวลาต้องสู้กลับแล้ว!
+\CBmp[Cannon1,19]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    หนู! ไปช่วยโหลดปืนใหญ่! รีบ!
+\CBct[2]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    ครับนายทหาร!
 
 CPofficer/overrunning_begin3_fireCannon
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Done!!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Fire! Immediately!
-\CBct[20]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    Like this? Don't I need to aim?!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Those monsters are afraid of the smell and flash of gunpowder! Just shoot anywhere!
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Yes Sir!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    เสร็จแล้ว!!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    ยิง! ทันที!
+\CBct[20]\m[bereft]\plf\Rshake\c[6]โลน่า：\c[0]    แบบนี้เหรอ? หนูไม่ต้องเล็งหรอ?!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    พวกสัตว์ประหลาดนั่นกลัวกลิ่นและแสงของดินปืน! ยิงไปได้ทุกที่!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    ครับนายทหาร!
 
 CPofficer/overrunning_begin3_clearNarr0
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    It worked!
-\m[tired]\plf\PRF\c[6]Lona：\c[0]    Close call....
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    The meat monsters in the rear were scared. They ran away!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Get rid of the rest of the bedbugs!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Fuck...\..\..\.. What is that?!
-\m[confused]\plf\PRF\c[6]Lona：\c[0]    What is what?
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    ได้ผล!
+\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    หวุดหวิด....
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    สัตว์ประหลาดเนื้อด้านหลังกลัว พวกมันหนีไปแล้ว!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    กำจัดพวกแมลงสาบที่เหลือให้หมด!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    ควย...\..\..\.. นั่นอะไรวะ?!
+\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อะไรอะไร?
 
 CPofficer/overrunning_begin3_clearNarr1
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    What kind of monster is this?
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Come and help! We must hold them back!
-\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Yes Sir!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    สัตว์ประหลาดตัวนี้คืออะไร?
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    มาช่วย! เราต้องกันพวกมันไว้!
+\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    ครับนายทหาร!
 
 CPofficer/overrunning_begin4
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    We won! We survived!
-\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Is it over?!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Yes, seems like we live to fight another day.
-\m[tired]\plf\PRF\c[6]Lona：\c[0]    call...
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    You've done a good job, but we have nothing to give you in return.
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Well... it does not matter...
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Um\..\..\.. You can have the weapons of our dead comrades! They have no need for them any longer...
-\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    เราชนะ! เรารอดแล้ว!
+\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    จบแล้วเหรอ?!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    ใช่ ดูเหมือนเราจะได้สู้ต่อไปอีกวัน.
+\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    อ่าห์...
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    มึงทำได้ดี แต่เราไม่มีอะไรจะให้ตอบแทน.
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม... ไม่เป็นไร...
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    อืม\..\..\.. มึงเอาอาวุธของเพื่อนทหารที่ตายไปได้เลย! พวกเขาไม่ต้องการมันอีกแล้ว...
+\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อะไรนะ?
 
 CPofficer/overrunning_begin5
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    We have no money, but there are plenty of unused weapons.
-\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    Thank you Sir!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    เราไม่มีเงิน แต่มีอาวุธที่ไม่ได้ใช้เยอะแยะ.
+\m[triumph]\plf\Rshake\c[6]โลน่า：\c[0]    ขอบคุณนายทหาร!
 
 CPofficer/InfoHere
-\CBct[2]\m[sad]\plf\PRF\c[6]Lona：\c[0]    What's going on here?
-\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    First those green-skinned bastards, and then these monsters.
-\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    \c[6]Meat devils\c[0], you can smell the stench of their corpses from a long distance.
-\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Their bodies recover extremely quickly, they are powerful and there are many of them, currently there is no effective way to deal with them.
-\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    I don't know how long we can hold out...
-\CBct[2]\m[sad]\plf\PRF\c[6]Lona：\c[0]    .....
+\CBct[2]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    เกิดอะไรขึ้นที่นี่?
+\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    ก่อนหน้านี้เป็นพวกหน้าเขียว แล้วก็สัตว์ประหลาดพวกนี้.
+\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    \c[6]ปีศาจเนื้อ\c[0], มึงสัมผัสได้ถึงกลิ่นซากของพวกมันได้จากระยะไกล.
+\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    ร่างกายของพวกมันฟื้นตัวได้เร็วมาก พวกมันแข็งแกร่งและมีจำนวนมาก ตอนนี้ยังไม่มีวิธีจัดการที่มีประสิทธิภาพ.
+\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    ไม่รู้ว่าเราจะกันได้นานแค่ไหน...
+\CBct[2]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    .....
 
 CPofficer/QuestFailed
-\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Corporal：\c[0]    Wow!
-\SETpr[Mreg_pikeman]\plf\PRF\c[4]Soldier：\c[0]    Everyone run away! We can't hold them!
+\CBmp[cpSGT,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]สิบโท：\c[0]    ว้าว!
+\SETpr[Mreg_pikeman]\plf\PRF\c[4]ทหาร：\c[0]    ทุกคนหนี! เรากันไม่ไหวแล้ว!
 
 CPofficer/DuringQuprogQmsg
-Go Get outta here fast!
+รีบหนีออกจากที่นี่!
 
 lona/WithAmmoQmsg0
-Ammunition
+กระสุน
 
 lona/WithAmmoQmsg1
-Go reload
+ไปเติมกระสุน
 
 cannon/LoadedQmsg0
-Loaded
+โหลดแล้ว
 
 cannon/FiredQmsg0
-Launched
+ยิงแล้ว
 
 cannon/OOAQmsg0
-No ammo
+ไม่มีกระสุน

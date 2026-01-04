@@ -1,62 +1,62 @@
 overmap/OvermapEnter
-\m[confused]Unknown Camp \optB[Leave,Enter]
+\m[confused]ค่ายที่ไม่รู้จัก \optB[ออก,เข้า]
 
 mec/halp1
-\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Traveller：\c[0]    Help! Help me, please!
-\CamCT\Bon[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Wah?!
+\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]นักเดินทาง：\c[0]    ช่วยด้วย! ช่วยหนูที!
+\CamCT\Bon[1]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อ่าห์?!
 
 mec/halp2
-\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Traveller：\c[0]    Monsters! The Deep Ones! They're coming!
-\CamCT\Bon[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Aieeeee!
+\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]นักเดินทาง：\c[0]    ปีศาจ! พวกดีปวัน! พวกมันกำลังมา!
+\CamCT\Bon[1]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อี๊ยยย!
 
 mec/halp3
-\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Traveller：\c[0]    Help me, please!
+\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]นักเดินทาง：\c[0]    ช่วยหนูที!
 
 mec/halp4
-\CamCT\Bon[6]\m[hurt]\plf\Rshake\c[6]Lona：\c[0]    Stop pushing me!
+\CamCT\Bon[6]\m[hurt]\plf\Rshake\c[6]โลน่า：\c[0]    หยุดผลักหนูสิ!
 
 mec/halp5
-\CamCT\Bon[1]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    Eek!! No way!
+\CamCT\Bon[1]\m[terror]\plf\Rshake\c[6]โลน่า：\c[0]    อี๊ก!! ไม่ได้หรอก!
 
 mec/win
-\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Traveller：\c[0]    Thank you for your great kindness warrior!
-\CamCT\Bon[1]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Huff... You're welcome.
-\CamMP[QuestTar]\BonMP[QuestTar,8]\SETpl[AnonMale1]\Lshake\prf\c[4]Traveller：\c[0]    \..\..\..
-\CamMP[QuestTar]\BonMP[QuestTar,2]\SETpl[AnonMale1]\Lshake\prf\c[4]Traveller：\c[0]    You're a girl?
-\CamCT\Bon[1]\m[confused]\plf\PRF\c[6]Lona：\c[0]    What's wrong with me being a girl?
+\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]นักเดินทาง：\c[0]    ขอบคุณมากนะนักรบ!
+\CamCT\Bon[1]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    หอบ... ไม่เป็นไรค่ะ
+\CamMP[QuestTar]\BonMP[QuestTar,8]\SETpl[AnonMale1]\Lshake\prf\c[4]นักเดินทาง：\c[0]    \..\..\..
+\CamMP[QuestTar]\BonMP[QuestTar,2]\SETpl[AnonMale1]\Lshake\prf\c[4]นักเดินทาง：\c[0]    คุณเป็นผู้หญิง?
+\CamCT\Bon[1]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    มีปัญหาอะไรที่หนูเป็นผู้หญิง?
 
 mec/Quprog_0
-\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Traveller：\c[0]    Listen! I need your help!
-\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Traveller：\c[0]    What I have on hand must be delivered to \C[4]Pirates Bane\C[0].
-\CamCT\Bon[1]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ugh...
+\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]นักเดินทาง：\c[0]    ฟังนะ! หนูต้องการความช่วยเหลือ!
+\CamMP[QuestTar]\BonMP[QuestTar,20]\SETpl[AnonMale1]\Lshake\prf\c[4]นักเดินทาง：\c[0]    สิ่งที่หนูมีอยู่ต้องส่งไปที่ \C[4]Pirates Bane\C[0].
+\CamCT\Bon[1]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม...
 
 mec/Quprog_0_board
-\board[Escort Travelers]
-Goal：Deliver the traveller to Pirate's Bane
-Reward：Large Copper Coin 1, Moral 2
-Contractor：Traveler
-Quest Term：5 Days
-It's all up to you!
+\board[คุ้มกันนักเดินทาง]
+เป้าหมาย：ส่งนักเดินทางไปที่ Pirate's Bane
+รางวัล：เหรียญทองแดงใหญ่ 1, ความดี 2
+ผู้ว่าจ้าง：นักเดินทาง
+ระยะเวลาภารกิจ：5 วัน
+ทุกอย่างขึ้นอยู่กับคุณ!
 
 mec/Quprog_0_decide
-\CamCT\Bon[1]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Hmmm.... \optB[Refuse, Accept]
+\CamCT\Bon[1]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืมมม.... \optB[ปฏิเสธ, ยอมรับ]
 
 mec/QmsgTar
-Go, go, go!
+ไป! ไป! ไป!
 
 mec/Done1
-\SETpl[AnonMale1]\Lshake\prf\c[4]Traveller：\c[0]    Thank you! Thank you so much!
+\SETpl[AnonMale1]\Lshake\prf\c[4]นักเดินทาง：\c[0]    ขอบคุณ! ขอบคุณมากๆ!
 
 mec/Done2
-\SETpl[AnonMale1]\Lshake\prf\c[4]Traveller：\c[0]    These fishman assholes are constantly attacking our convoys carrying supplies, It's only a matter of time before this fortress falls.
-\SETpl[AnonMale1]\Lshake\prf\c[4]Traveller：\c[0]    Take a look at the mercenary guild in the fortress, I'm sure you can help.
-\CamCT\Bon[1]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ha ha.... I hope I can help.
+\SETpl[AnonMale1]\Lshake\prf\c[4]นักเดินทาง：\c[0]    พวกปลาคนพวกนี้กำลังโจมตีขบวนพาเหรดขนส่งของเราตลอดเวลา ไม่นานป้อมปราการนี้ก็จะล่มสลาย
+\SETpl[AnonMale1]\Lshake\prf\c[4]นักเดินทาง：\c[0]    ลองไปดูที่สมาคมจ้างมือปืนในป้อมปราการ หนูแน่ใจว่าคุณช่วยได้
+\CamCT\Bon[1]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    ฮ่าๆ.... หนูหวังว่าจะช่วยได้
 
 mec/CommonConvoyTarget0
-\prf\c[4]Traveller：\c[0]    There's no time!
+\prf\c[4]นักเดินทาง：\c[0]    ไม่มีเวลาแล้ว!
 
 mec/CommonConvoyTarget1
-\prf\c[4]Traveller：\c[0]    Quickly, get us to \C[4]Pirate's Bane\C[0].
+\prf\c[4]นักเดินทาง：\c[0]    รีบพาเราไปที่ \C[4]Pirate's Bane\C[0].
 
 mec/CommonConvoyTarget2
-\prf\c[4]Traveller：\c[0]    Move Quickly!
+\prf\c[4]นักเดินทาง：\c[0]    รีบเคลื่อนที่!

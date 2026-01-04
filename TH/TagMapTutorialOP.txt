@@ -1,188 +1,190 @@
+XXXXXXXX
+
 #Fully translated by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 #note 指路人=beacon
 
 OP/EXIT
-End the tutorial and leave?
+จบการสอนและออกไป?
 
 OP/EXIT_yes
-\CBct[2]\m[confused]\c[6]Lona：\c[0]    \....\....Mmmnnn... Ugh?
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    \{HUH?!\}
-\CBct[8]\m[flirty]\c[6]Lona：\c[0]    \....Was it all...... \....Just a dream?
+\CBct[2]\m[confused]\c[6]โลน่า：\c[0]    \....\....อิมมมม... อ่า?
+\CBct[1]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    \{อะไรนะ!\}
+\CBct[8]\m[flirty]\c[6]โลน่า：\c[0]    \....มันทั้งหมด...... \....เป็นแค่ความฝันเหรอ?
 
 OP/b4Begin0
-The Black Mist took everything from me.
+หมอกดำพรากทุกอย่างไปจากฉัน
 
 OP/b4Begin1
-I lost my home...
+ฉันเสียบ้านไป...
 
 OP/b4Begin2
-My family...
+ครอบครัวของฉัน...
 
 OP/b4Begin3
-I have nothing......
+ฉันไม่มีอะไรเลย......
 
 OP/begin0
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Ahh... You're finally here...!
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    I've been waiting a long time for you to arrive. You were sent by the guild to get rid of the filthy, giant rats. Yes?
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    The vermin have been infesting this area and mutating since January...
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Follow me.
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    อ๊ะ... แกมาถึงที่สุดแล้ว...!
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    รอแกมานานแล้ว แกถูกส่งมาจากสมาคมเพื่อกำจัดหนูยักษ์สกปรก ใช่มั้ย?
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    พวกสัตว์รบกวนนี้แพร่พันธุ์และกลายพันธุ์ในพื้นที่นี้ตั้งแต่เดือนมกราคม...
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ตามมากับฉัน
 
 OP/begin1
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Now... What was that child's name......?
-\CBmp[teacher,8]\c[4]Unknown：\c[0]    \..\..\..That's right! \c[6]Feira\c[0]!
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Such a sweet girl... I wanted her to be my herald, but her rage consumed her and clouded her judgment.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    I thought I could be the one to enlighten her, but it seems I was far too late......
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Now that you're here, I hope you'll be the one to finally help me with my pest problem.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Take a look around.
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ตอนนี้... ชื่อเด็กคนนั้นคืออะไรนะ......?
+\CBmp[teacher,8]\c[4]ไม่ทราบชื่อ：\c[0]    \..\..\..ถูกต้อง! \c[6]เฟร่า\c[0]!
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    เด็กผู้หญิงน่ารักมาก... ฉันอยากให้เธอเป็นผู้นำทางของฉัน แต่ความโกรธของเธอทำให้เธอสูญเสียการตัดสินใจ
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ฉันคิดว่าฉันจะเป็นคนที่ทำให้เธอเข้าใจ แต่ดูเหมือนว่าฉันจะสายเกินไป......
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ตอนนี้ที่แกมาถึง ฉันหวังว่าแกจะเป็นคนที่ช่วยฉันจัดการกับปัญหาหนูได้สักที
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ลองมองรอบๆ ดู
 
 OP/begin2
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    What a sad, cruel world. Yes?
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    These poor souls ran away from \c[6]Sybaris\c[0] and lost their homes, just like you.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    But you're different, you haven't given up and lost hope. Right?
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Come on...
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    โลกนี้น่าเศร้าและโหดร้าย ใช่มั้ย?
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    วิญญาณเหล่านี้หนีจาก \c[6]ซิบาริส\c[0] และสูญเสียบ้านเหมือนแก
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    แต่แกต่างออกไป แกไม่ยอมแพ้และไม่สูญเสียความหวัง ใช่มั้ย?
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    มาเถอะ...
 
 OP/begin3
-\narr Switching directions/the area you're facing is very important for scouting ahead and combat.
-\narr Be sure to always remain vigilant and look around clearly before moving ahead!
+\narr การเปลี่ยนทิศทาง/พื้นที่ที่แกหันหน้าไปมีความสำคัญมากสำหรับการสำรวจและการต่อสู้
+\narr ต้องคอยระวังและมองรอบๆ ให้ชัดเจนก่อนเดินหน้า!
 
 OP/begin4
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    It's really dark in here, huh? Almost reminds you of the \c[6]Black Mist\c[0] that dreadful night...
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Apologies, I didn't mean to bring up such a horrid disaster.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Come, go ahead and light this firepit for me.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Justice will serve as the light shining in the darkness, driving away all evil and sin...
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ที่นี่มืดมากเลยนะ? เกือบจะทำให้แกนึกถึง \c[6]หมอกดำ\c[0] ในคืนนั้นที่น่ากลัว...
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ขอโทษนะ ฉันไม่ได้ตั้งใจจะพูดถึงภัยพิบัติที่น่ากลัวแบบนั้น
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    มาเถอะ ไปจุดไฟในหลุมไฟนี้ให้ฉัน
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ความยุติธรรมจะเป็นแสงสว่างที่ส่องในความมืด ขับไล่ความชั่วร้ายและบาปทั้งหมด...
 
 OP/begin5
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Much better now, yes?
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    I assure you, the darkness of that night won't ever happen again.
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ดีขึ้นมากแล้ว ใช่มั้ย?
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ฉันรับรองว่าความมืดในคืนนั้นจะไม่เกิดขึ้นอีก
 
 OP/begin6
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Hmmm?  Wait a second\....\.... What is this?
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ฮึม? รอสักครู่\....\.... นี่มันอะไร?
 
 OP/begin7
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Seems you forgot some things here.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Go ahead and pick them up, they belong to you after all.
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ดูเหมือนแกจะลืมของบางอย่างไว้ที่นี่
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ไปเก็บมันมาเถอะ มันเป็นของแกนี่
 
 OP/begin8
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    ......I just thought those two had an argument and spilled something in my home.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    I didn't expect to see everything be so miserable and ruined once I returned.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    But, I'm sure I know just who the culprit is...
-\CBmp[teacher,8]\c[4]Unknown：\c[0]    .....Hmmm?
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Have you finished collecting all of your belongings?
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Alright then, follow me.
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ......ฉันคิดว่าคนทั้งสองคนนั้นทะเลาะกันแล้วทำอะไรหล่นในบ้านฉัน
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ฉันไม่คิดว่าจะเห็นทุกอย่างพังพินาศขนาดนี้เมื่อฉันกลับมา
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    แต่ ฉันแน่ใจว่ารู้ว่าใครเป็นคนทำ...
+\CBmp[teacher,8]\c[4]ไม่ทราบชื่อ：\c[0]    .....ฮึม?
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    แกเก็บของทั้งหมดเสร็จแล้วหรือยัง?
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ได้แล้ว ตามฉันมา
 
 OP/begin9
-\narr You must be standing on top of Small objects/obstacles to interact with them.
-\narr While Large objects/obstacles must be stood next to and faced in order to be interacted with.
-\narr All actions in the game; (Such as picking up, dialogue, and trading/bartering), requires the Trigger key to execute.
+\narr แกต้องยืนอยู่บนวัตถุ/สิ่งกีดขวางขนาดเล็กเพื่อโต้ตอบกับมัน
+\narr ส่วนวัตถุ/สิ่งกีดขวางขนาดใหญ่ต้องยืนข้างๆ และหันหน้าไปที่มันเพื่อโต้ตอบ
+\narr ทุกการกระทำในเกม; (เช่น การเก็บของ, การพูดคุย, และการซื้อขาย/ต่อรอง), ต้องใช้ปุ่ม "Trigger" เพื่อทำ
 
 OP/begin10
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Now, where was I...?
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Ah, yes! I just hate it when I'm busy with something and have to deal with another problem.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Why should I be the one to fix the trouble they've created?
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Perhaps they did all of this on purpose...?
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ตอนนี้ ฉันอยู่ที่ไหนนะ...?
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    อ๋อ ใช่! ฉันเกลียดมากเวลาที่ฉันกำลังทำอะไรอยู่แล้วต้องมาจัดการกับปัญหาอื่น
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ทำไมฉันต้องเป็นคนแก้ปัญหาที่พวกเขาสร้างขึ้น?
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    บางทีพวกเขาอาจทำทุกอย่างนี้โดยตั้งใจ...?
 
 OP/begin11
-\CBmp[teacher,8]\c[4]Unknown：\c[0]    \....\....\....
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Are you sure you've collected all of your belongings?
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    It seems you have forgotten about these items as well.
+\CBmp[teacher,8]\c[4]ไม่ทราบชื่อ：\c[0]    \....\....\....
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    แกแน่ใจว่าเก็บของทั้งหมดเสร็จแล้ว?
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ดูเหมือนแกจะลืมของพวกนี้ไว้ด้วย
 
 OP/begin12
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    I know she wants to catch up and be powerful like usss...
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    But you can't just suddenly force something like that to happen so quickly...
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ฉันรู้ว่าเธออยากจะตามทันและมีพลังเหมือนพวกเรา...
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    แต่แกไม่สามารถบังคับให้เกิดขึ้นได้อย่างรวดเร็วแบบนั้น...
 
 OP/begin13
-\narr Press the two keys together to use or equip the item(s) on the floor at once.
+\narr กดปุ่มสองปุ่มพร้อมกันเพื่อใช้หรือสวมใส่ของบนพื้นทันที
 
 OP/begin14
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    They ruined my home and turned it into this wretched world! AND NOW...?!
-\CBmp[teacher,5]\c[4]Unknown：\c[0]    They escaped and ran away! What a joke...!!!
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    พวกเขาทำลายบ้านฉันและทำให้มันกลายเป็นโลกที่น่าเกลียดแบบนี้! แล้วตอนนี้...?!
+\CBmp[teacher,5]\c[4]ไม่ทราบชื่อ：\c[0]    พวกเขาหนีไป! ตลกจริง...!!!
 
 OP/begin15
-\narr The Menu interface contains all of Lona's information and settings.
-\narr Including her health status, equipment, inventory, message archives, and system options.
+\narr หน้าต่างเมนูมีข้อมูลและการตั้งค่าทั้งหมดของโลน่า
+\narr รวมถึงสถานะสุขภาพ, อุปกรณ์, ช่องเก็บของ, ข้อความเก่า, และตัวเลือกระบบ
 
 OP/begin16
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Hey, come take a look at this.
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    มา มาดูอันนี้
 
 OP/begin17
-\CBmp[Atk,19]\c[4]Unknown：\c[0]    It seems this barricade was Feira's work.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    She must have built this to prevent vagrants from entering her territory.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    ...But the irony was that she's a homeless vagrant as well.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    As cruel as it sounds, this was her destiny. But what about you? What does fate have waiting for you...? 
+\CBmp[Atk,19]\c[4]ไม่ทราบชื่อ：\c[0]    ดูเหมือนว่ากำแพงกั้นนี้เป็นฝีมือของเฟร่า
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    เธอคงสร้างมันขึ้นเพื่อป้องกันไม่ให้คนไร้บ้านเข้ามาในดินแดนของเธอ
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ...แต่ที่น่าขำคือเธอก็เป็นคนไร้บ้านเหมือนกัน
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ฟังดูโหดร้าย แต่นี่คือชะตากรรมของเธอ แต่แกล่ะ? ชะตากรรมรอแกอยู่ที่ไหน...?
 
 OP/begin18
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    My child, gooo fooorth.
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    Yooour dessstiny liesss ahead...
-\CBmp[teacher,20]\c[4]Unknown：\c[0]    ...Faaace it......
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ลูกน้อย ไปข้างหน้าเถอะ
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ชะตากรรมของแกอยู่ข้างหน้า...
+\CBmp[teacher,20]\c[4]ไม่ทราบชื่อ：\c[0]    ...เผชิญหน้ากับมัน......
 
 OP/ToTrigger1
-Press the "trigger" key to continue.
+กดปุ่ม "trigger" เพื่อดำเนินการต่อ
 
 OP/ToTrigger2
-Your trigger key is
+ปุ่ม "trigger" ของแกคือ
 
 OP/UX_GOTO0
-Press
+กด
 
 OP/UX_GOTO1
-Move to the designated location.
+เคลื่อนไปยังตำแหน่งที่กำหนด
 
 OP/CHANGE_DIR0
-To change the direction you are facing.
+เพื่อเปลี่ยนทิศทางที่แกหันหน้าไป
 
 OP/FaceFirePitAndPress
-Stand next to the firepit while looking at it and press
+ยืนข้างๆ หลุมไฟและมองไปที่มันแล้วกด
 
 OP/5Times
-to activate it 5 times.
+เพื่อเปิดใช้งาน 5 ครั้ง
 
 OP/StandOnItemAndPress
-Stand on top of the item and press
+ยืนบนวัตถุและกด
 
 OP/ToPickItem
-to pick up the item and store it in your inventory.
+เพื่อเก็บวัตถุและเก็บไว้ในช่องเก็บของ
 
 OP/ToPickAndEquip
-to pick up the item and use/equip it immediately.
+เพื่อเก็บวัตถุและใช้/สวมใส่ทันที
 
 OP/ToMenu0
-Press the "Menu key" to open the Menu,
+กดปุ่ม "Menu key" เพื่อเปิดเมนู,
 
 OP/ToMenu1
-press the "Menu key" again to close the Menu.
+กดปุ่ม "Menu key" อีกครั้งเพื่อปิดเมนู
 
 OP/ToMenu2
-Your "Menu key" button is
+ปุ่ม "Menu key" ของแกคือ
 
 OP/ToEquip1
-navigate to the "Equip" page,
+ไปที่หน้า "Equip",
 
 OP/ToEquip2
-and equip the Lantern in the "S-ARM" slot.
+และสวมใส่โคมไฟในช่อง "S-ARM"
 
 OP/ToSkill1
-and set up your "Ability 1" skill to the
+และตั้งค่าทักษะ "Ability 1" ไปที่
 
 OP/ToSkill2
-Skill Layout key.
+ปุ่ม Skill Layout
 
 OP/ToATK0
-Use "Ability 1" or other offensive Skills
+ใช้ "Ability 1" หรือทักษะโจมตีอื่นๆ
 
 OP/ToATK1
-to destroy the target obstacles.
+เพื่อทำลายสิ่งกีดขวางเป้าหมาย
 
 OP/ToRELAX0
-You're exhausted now!
+แกเหนื่อยแล้ว!
 
 OP/ToRELAX1
-Setup the "Rest" skill in your Skill Layout,
+ตั้งค่าทักษะ "Rest" ใน Skill Layout,
 
 OP/ToRELAX2
-and hold down the key to restore your Stamina.
+และกดค้างปุ่มเพื่อฟื้นฟูพลังงาน
 
 OP/ToEND
-Leave this area...
+ออกจากพื้นที่นี้...
 
 #Fully translated by Sugoi Soy Boy. Fuck off MTLing monkeys.

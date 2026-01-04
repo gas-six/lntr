@@ -1,131 +1,133 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-\SETpl[CecilyWtfAr]\Lshake\C[4]Cecily：\C[0]    Are you sure you're ready? Once you make a decision, there is no going back!
-\m[confused]\plf\PRF\c[6]Lona：\c[0]    Well....\optB[Leave,Enter]
+\SETpl[CecilyWtfAr]\Lshake\C[4]Cecily：\C[0]    แกมั่นใจว่าพร้อมแล้วใช่ไหม? พอตัดสินใจแล้วก็ไม่มีกลับมาได้นะ!
+\m[confused]\plf\PRF\c[6]Lona：\c[0]    อืม....\optB[ออก,เข้า]
 
 QuestQmsg/XY
 located at
 
 QuestStart/Begin0
-\CBfB[2]\SETpl[CecilyWtfAr]\PLF\C[4]Cecily：\C[0]    This is it?
-\CBfF[20]\SETpr[GrayRatNormalAr]\plf\PRF\C[4]Gray Rat：\C[0]    Yes miss.
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    So what to do now?
-\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    I need you to find the way, our people should be waiting ahead.
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Well... All right.
+\CBfB[2]\SETpl[CecilyWtfAr]\PLF\C[4]Cecily：\C[0]    นี่มันอะไร?
+\CBfF[20]\SETpr[GrayRatNormalAr]\plf\PRF\C[4]Gray Rat：\C[0]    ใช่ครับนายหญิง.
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    แล้วต่อไปจะทำอะไร?
+\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    ฉันต้องการให้แกหาทางไป คนของเราควรจะรออยู่ข้างหน้า
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อืม... ได้เลย
 
 region/0_exit
-\CBct[8]\m[flirty]\c[6]Lona：\c[0]    I have to finish what I came here to do, I promised to Cecily.
+\CBct[8]\m[flirty]\c[6]Lona：\c[0]    ฉันต้องทำสิ่งที่มาทำให้เสร็จ ฉันสัญญากับ Cecily ไว้
 
 QuestStart/flash0
-\CBmp[ThunderFlash,20]\prf\C[4]haystack：\C[0]    Thunder...
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    Huh?!
+\CBmp[ThunderFlash,20]\prf\C[4]haystack：\C[0]    ฟ้าผ่า...
+\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    อะไรนะ?!
 
 QuestStart/flash1
-\CBmp[ThunderFlash,20]\prf\C[4]haystack：\C[0]    \{Thunder!
-\CBct[2]\m[confused]\PRF\c[6]Lonna：\c[0]    What?
+\CBmp[ThunderFlash,20]\prf\C[4]haystack：\C[0]    \{ฟ้าผ่า!
+\CBct[2]\m[confused]\PRF\c[6]Lonna：\c[0]    อะไร?
 \CBfF[8]\SETpl[GrayRatConfusedArAr]\PLF\prf\C[4]Gray Rat：\C[0]    ....
 
 QuestStart/flash2
-\CBfF[8]\SETpl[GrayRatNormalAr]\PLF\prh\C[4]Gray Rat：\C[0]    Flash...
+\CBfF[8]\SETpl[GrayRatNormalAr]\PLF\prh\C[4]Gray Rat：\C[0]    แฟลช...
 \CBmp[ThunderFlash,8]\plf\C[4]haystack：\C[0]    ...
 
 ########################################################################################
 
 QuestStart/ShowUp_AdamAlive0_t0
-\CBmp[Adam,1]\SETpr[Adam_angry]\plh\PRF\C[4]Adam：\C[0]    It's you...
+\CBmp[Adam,1]\SETpr[Adam_angry]\plh\PRF\C[4]Adam：\C[0]    เป็นแกนี่...
 \CBfF[8]\SETpl[GrayRatConfusedAr]\PLF\prf\C[4]Gray Rat：\C[0]    .....
-\CBmp[Adam,20]\SETpl[Adam_happy]\PLF\prf\C[4]Adam：\C[0]    This little thief, I have met you before.
-\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Me? Little thief?
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Then you should be...
-\CBfF[8]\SETpl[GrayRatNormalAr]\PLF\prf\C[4]Gray Rat：\C[0]    Have you met her before?
-\CBmp[Adam,20]\SETpl[Adam_happy]\PLF\prf\C[4]Adam：\C[0]    She has done things for me before and is a trustworthy helper.
-\CBmp[Adam,20]\SETpl[Adam_normal]\PLF\prf\C[4]Adam：\C[0]    The one behind that is...
-\CBmp[Adam,20]\SETpl[Adam_sad]\PLF\prf\C[4]Adam：\C[0]    Lady Cecily, it's an honor to meet you.
+\CBmp[Adam,20]\SETpl[Adam_happy]\PLF\prf\C[4]Adam：\C[0]    โจรน้อยตัวนี้ ฉันเคยเจอแกมาก่อน
+\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    ฉัน? โจรน้อย?
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    งั้นแกควรจะเป็น...
+\CBfF[8]\SETpl[GrayRatNormalAr]\PLF\prf\C[4]Gray Rat：\C[0]    แกเคยเจอเธอมาก่อนเหรอ?
+\CBmp[Adam,20]\SETpl[Adam_happy]\PLF\prf\C[4]Adam：\C[0]    เธอเคยทำงานให้ฉันมาก่อนและเป็นผู้ช่วยที่น่าเชื่อถือ
+\CBmp[Adam,20]\SETpl[Adam_normal]\PLF\prf\C[4]Adam：\C[0]    คนที่อยู่ข้างหลังนั่นคือ...
+\CBmp[Adam,20]\SETpl[Adam_sad]\PLF\prf\C[4]Adam：\C[0]    นายหญิง Cecily ยินดีที่ได้พบคุณ
 
 QuestStart/ShowUp_AdamAlive0_t1
-\CBmp[Adam,8]\SETpr[Adam_normal]\plh\PRF\C[4]Adam：\C[0]    It's you...
+\CBmp[Adam,8]\SETpr[Adam_normal]\plh\PRF\C[4]Adam：\C[0]    เป็นแกนี่...
 \CBfF[8]\SETpl[GrayRatConfusedAr]\PLF\prf\C[4]Gray Rat：\C[0]    .....
-\CBmp[Adam,2]\SETpl[Adam_angry]\m[confused]\PLF\prf\C[4]Adam：\C[0]    Then this is Lady Cecily next to you?
-\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Who? Me?
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    That's the one behind me! I'm just a follower!
-\CBmp[Adam,20]\SETpl[Adam_sad]\PLF\prf\C[4]Adam：\C[0]    Well......
-\CBmp[Adam,20]\SETpl[Adam_happy]\PLF\prf\C[4]Adam：\C[0]    Lady Cecily, it's an honor to meet you.
+\CBmp[Adam,2]\SETpl[Adam_angry]\m[confused]\PLF\prf\C[4]Adam：\C[0]    งั้นคนที่อยู่ข้างๆ แกคือ นายหญิง Cecily?
+\CBct[2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    ใคร? ฉัน?
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    คนที่อยู่ข้างหลังฉันต่างหาก! ฉันแค่ตามมา!
+\CBmp[Adam,20]\SETpl[Adam_sad]\PLF\prf\C[4]Adam：\C[0]    อืม......
+\CBmp[Adam,20]\SETpl[Adam_happy]\PLF\prf\C[4]Adam：\C[0]    นายหญิง Cecily ยินดีที่ได้พบคุณ
 
 QuestStart/ShowUp_AdamAlive1
-\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    Are you Adam?
-\CBmp[Adam,20]\SETpr[Adam_normal]\plf\PRF\C[4]Adam：\C[0]    Yes.
-\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    How are the slaves?
-\CBmp[Adam,20]\SETpr[Adam_sad]\plf\PRF\C[4]Adam：\C[0]    This time there was more cargo than usual, and so there were more guards.
-\CBmp[Adam,20]\SETpr[Adam_sad]\plf\PRF\C[4]Adam：\C[0]    We are still trying to find a way to approach the convoy.
+\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    แกเป็น Adam ใช่ไหม?
+\CBmp[Adam,20]\SETpr[Adam_normal]\plf\PRF\C[4]Adam：\C[0]    ใช่
+\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    ทาสเป็นยังไงบ้าง?
+\CBmp[Adam,20]\SETpr[Adam_sad]\plf\PRF\C[4]Adam：\C[0]    ครั้งนี้มีสินค้ามากกว่าปกติ ดังนั้นก็มียามมากขึ้น
+\CBmp[Adam,20]\SETpr[Adam_sad]\plf\PRF\C[4]Adam：\C[0]    เรายังพยายามหาทางเข้าใกล้ขบวนรถ
 
 ########################################################################################
 
 QuestStart/ShowUp_AdamDed0
-\CBfF[2]\SETpl[GrayRatNormalAr]\PLF\prf\C[4]Gray Rat：\C[0]    Where is Adam?
-\CBmp[replacer,20]\plf\C[4]Mercenaries：\C[0]    He disappeared, and we haven't heard from him for a few days. It's bad luck.
-\CBfF[8]\SETpl[GrayRatConfusedAr]\PLF\prf\C[4]Gray Rat：\C[0]    Pity...
+\CBfF[2]\SETpl[GrayRatNormalAr]\PLF\prf\C[4]Gray Rat：\C[0]    Adam อยู่ไหน?
+\CBmp[replacer,20]\plf\C[4]Mercenaries：\C[0]    เขาหายตัวไป และเราไม่ได้ข่าวจากเขามาหลายวันแล้ว โชคไม่ดีจริงๆ
+\CBfF[8]\SETpl[GrayRatConfusedAr]\PLF\prf\C[4]Gray Rat：\C[0]    น่าเสียดาย...
 
 QuestStart/ShowUp_AdamDed0_milo
-\CBct[8]\m[tired]\plf\Rshake\c[6]Lonna：\c[0]    Well... that...
-\CBfF[2]\SETpl[GrayRatConfusedAr]\PLF\prf\C[4]Gray Rat：\C[0]    What's wrong?
-\CBct[8]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    Nothing....
+\CBct[8]\m[tired]\plf\Rshake\c[6]Lonna：\c[0]    อืม... นั่น...
+\CBfF[2]\SETpl[GrayRatConfusedAr]\PLF\prf\C[4]Gray Rat：\C[0]    เป็นอะไร?
+\CBct[8]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    ไม่มีอะไร....
 \CBfF[8]\SETpl[GrayRatConfusedAr]\PLF\prf\C[4]Gray Rat：\C[0]    .....
 
 QuestStart/ShowUp_AdamDed1
-\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    How are the slaves?
-\CBmp[replacer,20]\plf\C[4]Mercenaries：\C[0]    This time there was more cargo than usual, and so there were more guards.
-\CBmp[replacer,20]\plf\C[4]Mercenaries：\C[0]    We are still trying to find a way to approach the convoy.
+\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    ทาสเป็นยังไงบ้าง?
+\CBmp[replacer,20]\plf\C[4]Mercenaries：\C[0]    ครั้งนี้มีสินค้ามากกว่าปกติ ดังนั้นก็มียามมากขึ้น
+\CBmp[replacer,20]\plf\C[4]Mercenaries：\C[0]    เรายังพยายามหาทางเข้าใกล้ขบวนรถ
 
 ########################################################################################
 
 QuestStart/ShowUp_Quest0
-\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    Leave it to her!
+\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    ปล่อยให้เธอทำ!
 \CBfB[20]\SETpl[CecilyWtfAr]\Lshake\prf\C[4]Cecily：\C[0]    Lona!
 
 QuestStart/ShowUp_Quest1
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Yes?! I'm here!
-\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    Just like when you rescued me before, help us find a way!\optD[good!,Well...]
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    ครับ?! ฉันอยู่นี่!
+\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    เหมือนตอนที่แกช่วยฉันก่อนหน้านี้ ช่วยเราหาทางสิ!\optD[ดี!,อืม...]
 
 QuestStart/ShowUp_Quest2
 \board[rescue refugees]
-Goal：Scout ahead.
-Investigate the route ahead until you find a way to the slaves.
-Be stealthy if possible.
+เป้าหมาย：สำรวจข้างหน้า
+สำรวจเส้นทางข้างหน้าจนกว่าจะพบทางไปหาทาส
+ถ้าเป็นไปได้ให้แอบไป
 
 QuestStart/ShowUp_Quest3
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Leave it to me!
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    ปล่อยให้ฉันจัดการ!
 
 QuestStart/ShowUp_Quest3_kill
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I think i may not be able to do it...
-\CBfB[20]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    Am I asking too much for a civilian?
-\CBfB[20]\SETpl[CecilyWtfAr]\Lshake\prf\C[4]Cecily：\C[0]    Then we cut a way through them!
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ฉันคิดว่าฉันอาจจะทำไม่ได้...
+\CBfB[20]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    ฉันขอมากเกินไปสำหรับคนธรรมดาหรือเปล่า?
+\CBfB[20]\SETpl[CecilyWtfAr]\Lshake\prf\C[4]Cecily：\C[0]    งั้นเราก็ต้องฝ่าทางไป!
 
 ########################################################################################
 
 Commoner/Qmsg0
-many guards ahead
+ด้านหน้ามียามเยอะ
 
 Commoner/Qmsg1
-careful
+ระวัง
 
 Commoner/Qmsg2
-don't get caught
+อย่าให้จับได้
 
 ########################################################################################
 
 ReachedEnd/Success_NonSpot
-\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    Didn't alert any guards? Good!
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Hey, you know me...
-\CBfB[20]\SETpl[CecilyAngryAr]\Lshake\C[4]Cecily：\C[0]    Cargo carts are ahead, get on with it.
+\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    ไม่ได้ทำให้ยามรู้ตัวเลย? ดีมาก!
+\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    รู้จักฉันดีอยู่แล้ว...
+\CBfB[20]\SETpl[CecilyAngryAr]\Lshake\C[4]Cecily：\C[0]    รถบรรทุกอยู่ข้างหน้า รีบทำต่อไปเลย
 
 ReachedEnd/Success_Spoted
 \CBfB[20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    Lona....
-\CBfB[20]\SETpl[CecilyWtfAr]\Lshake\C[4]Cecily：\C[0]    I find that sometimes you are really unreliable...
+\CBfB[20]\SETpl[CecilyWtfAr]\Lshake\C[4]Cecily：\C[0]    ฉันรู้สึกว่าบางครั้งแกก็ไม่น่าเชื่อถือจริงๆ...
 \CBfF[20]\SETpr[GrayRatConfusedAr]\plf\PRF\C[4]Gray Rat：\C[0]    ....
-\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    I apologize, Lady Cecily...
-\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    Forget it, the cargo carts are ahead, let's move on.
+\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    ขอโทษค่ะ นายหญิง Cecily...
+\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    ลืมมันไปเถอะ รถบรรทุกอยู่ข้างหน้า เราไปกันต่อ
 
 ReachedEnd/FailedWarning
-\m[serious]\Rshake\c[6]Lona：\c[0]    I've been found out and now I have to bring\C[4]Cecily\C[0]and\C[4]Gray Rat\C[0]here!
+\m[serious]\Rshake\c[6]Lona：\c[0]    ฉันถูกจับได้แล้ว ตอนนี้ฉันต้องพา\C[4]Cecily\C[0]และ\C[4]Gray Rat\C[0]มาที่นี่!
 
 ########################################################################################
 ########################################################################################
@@ -134,299 +136,299 @@ ReachedEnd/FailedWarning
 ########################################################################################
 
 Part2/Enter
-\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    It's raining....
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    It's okay, right? The noise we make will be drowned out by the sound of rain.
+\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    ฝนตก....
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ไม่เป็นไรใช่ไหม? เสียงที่เราทำจะถูกเสียงฝนกลบไป
 \CBfB[20]\SETpl[GrayRatConfusedAr]\Lshake\PRF\C[4]Gray Rat：\C[0]    ...
-\CBfB[20]\SETpl[CecilyWtfAr]\Lshake\prh\C[4]Cecily：\C[0]    Hey you!
-\CBmp[Follower1,2]\plf\C[4]Mercenary：\C[0]    Me?
-\CBfB[20]\SETpl[CecilyWtfAr]\Lshake\prh\C[4]Cecily：\C[0]    Go scout around the back! If there is any trouble, report immediately!
-\CBmp[Follower1,20]\plf\C[4]mercenary：\C[0]    Yes M'Lady!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    What now? What do we do?
-\CBfB[20]\SETpl[CecilyWtfAr]\Lshake\prf\C[4]Cecily：\C[0]    The carts should be right up front, just like before, you do what a scout should do!
+\CBfB[20]\SETpl[CecilyWtfAr]\Lshake\prh\C[4]Cecily：\C[0]    แก!
+\CBmp[Follower1,2]\plf\C[4]Mercenary：\C[0]    ผมครับ?
+\CBfB[20]\SETpl[CecilyWtfAr]\Lshake\prh\C[4]Cecily：\C[0]    ไปสำรวจด้านหลัง! ถ้ามีปัญหาให้รายงานทันที!
+\CBmp[Follower1,20]\plf\C[4]mercenary：\C[0]    ครับนายหญิง!
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    แล้วตอนนี้จะทำยังไง? เราจะทำอะไร?
+\CBfB[20]\SETpl[CecilyWtfAr]\Lshake\prf\C[4]Cecily：\C[0]    รถบรรทุกควรจะอยู่ข้างหน้า เหมือนเดิม แกทำหน้าที่ลาดตระเวน!
 
 Part2/SpotQuAcc0
-\CBct[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Look to the front of the convoy!
-\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    Huh?
+\CBct[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    ดูหน้าขบวนรถ!
+\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    อะไรนะ?
 
 Part2/SpotQuAcc0_Maani0
-\CBmp[Maani,20]\SETpr[MaaniNormal]\Rshake\C[4]Maani：\C[0]    ...I'll count them myself. If there's a difference between what I count and the number of people I have on my paper, each will be deducted from the final payment.
-\CBmp[AnonMale1,20]\SETpl[AnonMale1]\Lshake\prf\C[4]merchant：\C[0]    I know! I tried my best! There are almost no living people left in Sybaris!
-\CBmp[Maani,20]\SETpr[MaaniNormal]\plf\Rshake\C[4]Marnie：\C[0]    This is not something my master should worry about, everything must be done according to the contract.
-\CBmp[AnonMale1,20]\SETpl[AnonMale1]\Lshake\prf\C[4]merchant：\C[0]    Damn it!
+\CBmp[Maani,20]\SETpr[MaaniNormal]\Rshake\C[4]Maani：\C[0]    ...ฉันจะนับเอง ถ้าจำนวนที่ฉันนับได้ไม่ตรงกับจำนวนคนที่ฉันมีในกระดาษ แต่ละคนจะถูกหักจากการจ่ายเงินครั้งสุดท้าย
+\CBmp[AnonMale1,20]\SETpl[AnonMale1]\Lshake\prf\C[4]merchant：\C[0]    รู้แล้ว! ผมพยายามทำอย่างดีที่สุดแล้ว! แทบไม่มีคนเหลือใน Sybaris เลย!
+\CBmp[Maani,20]\SETpr[MaaniNormal]\plf\Rshake\C[4]Marnie：\C[0]    นี่ไม่ใช่เรื่องที่นายของฉันควรกังวล ทุกอย่างต้องทำตามสัญญา
+\CBmp[AnonMale1,20]\SETpl[AnonMale1]\Lshake\prf\C[4]merchant：\C[0]    ชิบหาย!
 
 Part2/SpotQuAcc0_Maani1
-\SETpl[AnonMale1]\Lshake\prh\C[4]merchant：\C[0]    Fuck you!
-\SETpl[AnonMale1]\Lshake\prh\C[4]merchant：\C[0]    Bumbling whore!
+\SETpl[AnonMale1]\Lshake\prh\C[4]merchant：\C[0]    ไอ้ควย!
+\SETpl[AnonMale1]\Lshake\prh\C[4]merchant：\C[0]    อีดอกไม่รู้จักอะไรเลย!
 
 part2/SpotQuAcc1
-\CBmp[Guard1,20]\SETpl[MobHumanCommoner]\PLF\prh\C[4]guard：\C[0]    Another one! Damn mosquitoes!
-\CBmp[Guard2,20]\SETpr[AnonMale2]\plf\PRF\C[4]guard：\C[0]    Worst of all, it's still raining.
-\CBmp[Guard3,8]\SETpl[MobHumanWarrior]\PLF\prf\C[4]guard：\C[0]    Well... fewer and fewer people...
+\CBmp[Guard1,20]\SETpl[MobHumanCommoner]\PLF\prh\C[4]guard：\C[0]    อีกตัว! ชิบหายยุง!
+\CBmp[Guard2,20]\SETpr[AnonMale2]\plf\PRF\C[4]guard：\C[0]    ที่แย่ที่สุดคือฝนยังตกอีก
+\CBmp[Guard3,8]\SETpl[MobHumanWarrior]\PLF\prf\C[4]guard：\C[0]    อืม... คนน้อยลงทุกที...
 \CBmp[Guard4,8]\SETpl[AnonMale1]\PLF\prf\C[4]guard：\C[0]    .....
-\CBmp[Story2]\SETpl[CecilyAngryAr]\PLF\prh\C[4]Cecily：\C[0]    Four guards...
-\CBmp[SlaveCart2,19]\SETpl[CecilyWtfAr]\PLF\prh\C[4]Cecily：\C[0]    And the cargo carts are right behind!
-\CBmp[SlaveCart2]\SETpl[CecilyNormalAr]\PLF\prh\C[4]Cecily：\C[0]    Lona, can you fix them?
-\CBmp[SlaveCart2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Who! Me... f-fix them?\optD[knock them out,no]
+\CBmp[Story2]\SETpl[CecilyAngryAr]\PLF\prh\C[4]Cecily：\C[0]    ยามสี่คน...
+\CBmp[SlaveCart2,19]\SETpl[CecilyWtfAr]\PLF\prh\C[4]Cecily：\C[0]    และรถบรรทุกอยู่ด้านหลัง!
+\CBmp[SlaveCart2]\SETpl[CecilyNormalAr]\PLF\prh\C[4]Cecily：\C[0]    Lona แกจัดการพวกเขาได้ไหม?
+\CBmp[SlaveCart2]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    ใคร! ฉัน... จ-จัดการพวกเขา?\optD[ทำให้สลบ,ไม่]
 
 part2/SpotQuAcc1_yes
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Can I try to knock them all out? It should be done, right?
-\CBfB[20]\SETpl[CecilyNormalAr]\PLF\prf\C[4]Cecily：\C[0]    Then I'll leave it to you.
-\CBfB[20]\SETpl[CecilyAngryAr]\PLF\prf\C[4]Cecily：\C[0]    If not, let us do it!
-\CBfF[20]\SETpl[GrayRatConfusedAr]\PLF\prf\C[4]Gray Rat：\C[0]    Be careful. And good luck...
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Thanks!
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ฉันลองทำให้พวกเขาสลบได้ไหม? ควรจะทำได้ใช่ไหม?
+\CBfB[20]\SETpl[CecilyNormalAr]\PLF\prf\C[4]Cecily：\C[0]    งั้นฉันจะปล่อยให้แกจัดการ
+\CBfB[20]\SETpl[CecilyAngryAr]\PLF\prf\C[4]Cecily：\C[0]    ถ้าไม่ได้ เราจะทำเอง!
+\CBfF[20]\SETpl[GrayRatConfusedAr]\PLF\prf\C[4]Gray Rat：\C[0]    ระวังด้วย และขอให้โชคดี...
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    ขอบคุณ!
 
 part2/SpotQuAcc1_no
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    A little difficult...
-\CBfB[20]\SETpl[CecilyShyAr]\PLF\prf\C[4]Cecily：\C[0]    Well....
-\CBfB[20]\SETpl[CecilyAngryAr]\PLF\prf\C[4]Cecily：\C[0]    Simple affair! Kill them all!
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ยากนิดหน่อย...
+\CBfB[20]\SETpl[CecilyShyAr]\PLF\prf\C[4]Cecily：\C[0]    อืม....
+\CBfB[20]\SETpl[CecilyAngryAr]\PLF\prf\C[4]Cecily：\C[0]    เรื่องง่ายๆ! ฆ่าพวกเขาทิ้ง!
 
 part2/SpotQuAcc2_board
 \board[rescue refugees]
-Try knocking out, or annihilating the guards.
-The four guards must be dead or stunned.
+ลองทำให้ยามสลบ หรือฆ่าทิ้ง
+ยามสี่คนต้องตายหรือสลบ
 
 Part2/SpotQuWin
-\CBfB[20]\SETpl[CecilyAngryAr]\Lshake\prh\C[4]Cecily：\C[0]    Well done!
-\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prh\C[4]Cecily：\C[0]    Let them out.
+\CBfB[20]\SETpl[CecilyAngryAr]\Lshake\prh\C[4]Cecily：\C[0]    ทำได้ดี!
+\CBfB[20]\SETpl[CecilyNormalAr]\Lshake\prh\C[4]Cecily：\C[0]    ปล่อยพวกเขาออกมา
 
 ################################################################################################ Quest end  milo
 ################################################################################################ Quest end  milo
 
 Part2/EndMilo_0
-\SETpl[GrayRatShockedAr]\Lshake\C[4]Gray Rat：\C[0]    \{Miss! Look out!
+\SETpl[GrayRatShockedAr]\Lshake\C[4]Gray Rat：\C[0]    \{นายหญิง! ระวัง!
 
 Part2/EndMilo_1
-\SETpr[CecilyShockedAr]\plh\Rshake\C[4]Cecily：\C[0]    What?!
+\SETpr[CecilyShockedAr]\plh\Rshake\C[4]Cecily：\C[0]    อะไร?!
 
 Part2/EndMilo_2
-\CBmp[Cecily,20]\SETpr[CecilyShockedAr]\Rshake\C[4]Cecily：\C[0]    Vineet! No!
-\CBmp[Cecily,20]\SETpr[CecilySadAr]\Rshake\C[4]Cecily：\C[0]    Wake up! Vineete!
+\CBmp[Cecily,20]\SETpr[CecilyShockedAr]\Rshake\C[4]Cecily：\C[0]    Vineet! ไม่!
+\CBmp[Cecily,20]\SETpr[CecilySadAr]\Rshake\C[4]Cecily：\C[0]    ตื่นขึ้นมาสิ! Vineete!
 
 Part2/EndMilo_3
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    What's wrong?! What happened?!
-\CBmp[Cecily,20]\SETpr[CecilySadAr]\Rshake\C[4]Cecily：\C[0]    Wake up!
-\CBmp[Cecily,20]\SETpr[CecilyShockedAr]\Rshake\C[4]Cecily：\C[0]    This can't be true! Wake up!
+\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    เกิดอะไรขึ้น?! เกิดอะไรขึ้น?!
+\CBmp[Cecily,20]\SETpr[CecilySadAr]\Rshake\C[4]Cecily：\C[0]    ตื่นขึ้นมาสิ!
+\CBmp[Cecily,20]\SETpr[CecilyShockedAr]\Rshake\C[4]Cecily：\C[0]    ไม่มีทาง! ตื่นขึ้นมาสิ!
 
 Part2/EndMilo_4
-\BonMP[Milo,3]\SETpr[MiloNormal]\Rshake\C[4]Milo：\C[0]    I'm singing in the rain♫
+\BonMP[Milo,3]\SETpr[MiloNormal]\Rshake\C[4]Milo：\C[0]    ฉันกำลังร้องเพลงในฝน♫
 
 Part2/EndMilo_5
-\CBmp[Cecily,20]\SETpr[CecilyShockedAr]\Rshake\C[4]Cecily：\C[0]    \{Milo\..Milo\..Rudesind\. This is impossible!
+\CBmp[Cecily,20]\SETpr[CecilyShockedAr]\Rshake\C[4]Cecily：\C[0]    \{Milo\..Milo\..Rudesind\. ไม่มีทาง!
 
 Part2/EndMilo_5_1
-\BonMP[Milo,20]\SETpr[MiloNormal]\Rshake\C[4]Milo：\C[0]    I really don't understand you, why don't you like wearing helmets?
-\BonMP[Milo,20]\SETpr[MiloNormal]\Rshake\C[4]Milo：\C[0]    Behold the great saint! He knew the importance of protecting his head!
+\BonMP[Milo,20]\SETpr[MiloNormal]\Rshake\C[4]Milo：\C[0]    ฉันไม่เข้าใจแกจริงๆ ทำไมแกไม่ชอบสวมหมวกกันน็อก?
+\BonMP[Milo,20]\SETpr[MiloNormal]\Rshake\C[4]Milo：\C[0]    ดูนักบุญผู้ยิ่งใหญ่สิ! เขารู้ความสำคัญของการปกป้องศีรษะ!
 
 Part2/EndMilo_6
-\CBmp[FollowerTop1,20]\C[4]mercenaries：\C[0]    Run away! We failed! They are everywhere!
+\CBmp[FollowerTop1,20]\C[4]mercenaries：\C[0]    หนี! เราล้มเหลว! พวกเขาอยู่ทุกที่!
 
 Part2/EndMilo_7
-\CBmp[FollowerTop1,20]\C[4]mercenaries：\C[0]    Run! This is a trap!
+\CBmp[FollowerTop1,20]\C[4]mercenaries：\C[0]    วิ่ง! นี่เป็นกับดัก!
 
 Part2/EndMilo_8_manni
-\BonMP[Milo,20]\SETpr[MiloNormal]\Rshake\C[4]Milo：\C[0]    Good shot!
-\BonMP[MaaniRF,20]\SETpl[MaaniNormal]\Lshake\C[4]Maani：\C[0]    Thank you for the compliment, Master.
+\BonMP[Milo,20]\SETpr[MiloNormal]\Rshake\C[4]Milo：\C[0]    ยิงดีมาก!
+\BonMP[MaaniRF,20]\SETpl[MaaniNormal]\Lshake\C[4]Maani：\C[0]    ขอบคุณสำหรับคำชม นาย
 
 Part2/EndMilo_9
-\CBct[8]\m[shocked]\plh\Rshake\c[6]Lona：\c[0]    Dead?! He died?!
+\CBct[8]\m[shocked]\plh\Rshake\c[6]Lona：\c[0]    ตาย?! เขาตาย?!
 
 Part2/EndMilo_10
-\CBct[20]\m[shocked]\plh\Rshake\c[6]Lona：\c[0]    Lord Milo?!
-\BonMP[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    Oho! Lona the little bug? Are you here too?
-\CBmp[Cecily,20]\SETpl[CecilyShockedAr]\Lshake\prf\C[4]Cecily：\C[0]    You....
-\BonMP[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    You did a great service little bug, it was all thanks to your help that these... filthy bandits were caught.
-\CBmp[Cecily,20]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    Lona... what have you done?!
-\CBct[8]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    I.... I didn't do this....
-\CBmp[Cecily,20]\SETpl[CecilyShockedAr]\Lshake\prf\C[4]Cecily：\C[0]    What in the Saint's name have you done?!
-\BonMP[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    My little Lona! Come here, we won't hurt you.
-\BonMP[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    I promise you! And there are more gold coins for you.
-\BonMP[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    You need money, don't you?
+\CBct[20]\m[shocked]\plh\Rshake\c[6]Lona：\c[0]    ลอร์ด Milo?!
+\BonMP[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    โอโฮ! Lona แมลงน้อย? แกมาด้วยเหรอ?
+\CBmp[Cecily,20]\SETpl[CecilyShockedAr]\Lshake\prf\C[4]Cecily：\C[0]    แก....
+\BonMP[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    แกทำความดีใหญ่หลวงเลยแมลงน้อย ทั้งหมดนี้เป็นเพราะความช่วยเหลือของแกที่ทำให้พวก... โจรสกปรกเหล่านี้ถูกจับ
+\CBmp[Cecily,20]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    Lona... แกทำอะไรไป?!
+\CBct[8]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    ฉัน.... ฉันไม่ได้ทำอย่างนี้....
+\CBmp[Cecily,20]\SETpl[CecilyShockedAr]\Lshake\prf\C[4]Cecily：\C[0]    แกทำอะไรไปในนามของนักบุญ?!
+\BonMP[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    Lona น้อยของฉัน! มาที่นี่สิ เราจะไม่ทำร้ายแก
+\BonMP[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    ฉันสัญญา! และมีเหรียญทองให้แกอีก
+\BonMP[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    แกต้องการเงินใช่ไหม?
 
 Part2/EndMilo_10_opt
-\CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    I....\optD[I...,you liar]
+\CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    ฉัน....\optD[ฉัน...,แกโกหก]
 
 Part2/EndMilo_1_optNo1
-\CBct[20]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    You are a liar! You said you wanted to talk to her! You lied to me!
-\BonMP[Milo,8]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    Well, did you reeeaaally expect me to talk to this obstinate wench?
-\CBct[20]\m[angry]\plf\Rshake\c[6]Lorna：\c[0]    You said you just wanted to make friends! You liar! You will go to hell!
-\BonMP[Milo,8]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    \..\..\..\.. Kill her.
+\CBct[20]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    แกโกหก! แกบอกว่าอยากคุยกับเธอ! แกโกหกฉัน!
+\BonMP[Milo,8]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    อ้าว แกคิดว่าฉันจะคุยกับอีหน้าด้านนี่จริงๆ เหรอ?
+\CBct[20]\m[angry]\plf\Rshake\c[6]Lorna：\c[0]    แกบอกว่าแค่อยากทำความรู้จัก! แกโกหก! แกจะต้องลงนรก!
+\BonMP[Milo,8]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    \..\..\..\.. ฆ่าเธอ
 
 Part2/EndMilo_1_optNo2
-\BonMP[Milo,3]\SETpl[MiloNormal]\Lshake\prh\C[4]Milo：\C[0]    May the saints guide your way home♫
+\BonMP[Milo,3]\SETpl[MiloNormal]\Lshake\prh\C[4]Milo：\C[0]    ขอให้นักบุญนำทางแกกลับบ้าน♫
 
 Part2/EndMilo_11
-\CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    I....
-\CBmp[Cecily,20]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    You traitor!
-\CBmp[Cecily,20]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    You took advantage of our trust in you!
-\CBct[8]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    No! I don't...
-\CBmp[Cecily,20]\SETpl[CecilyShockedAr]\Lshake\prf\C[4]Cecily：\C[0]    Go to hell!
+\CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    ฉัน....
+\CBmp[Cecily,20]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    แกทรยศ!
+\CBmp[Cecily,20]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    แกใช้ความไว้ใจของเรา!
+\CBct[8]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    ไม่! ฉันไม่ได้...
+\CBmp[Cecily,20]\SETpl[CecilyShockedAr]\Lshake\prf\C[4]Cecily：\C[0]    ลงนรกไปเถอะ!
 
 Part2/EndMilo_12
-\CBct[8]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    No! I did not do it on purpose!
+\CBct[8]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    ไม่! ฉันไม่ได้ตั้งใจ!
 
 Part2/EndMilo_13
 \CBmp[Cecily,20]\SETpl[CecilyTrapA_Shocked]\Lshake\prf\C[4]Cecily：\C[0]    ! ! !
-\BonMP[Milo,20]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    Lorna, here's your money.
+\BonMP[Milo,20]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    Lorna นี่เงินของแก
 
 Part2/EndMilo_14
-\CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    I... what did I do....
+\CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    ฉัน... ฉันทำอะไรไป...
 
 Part2/EndMilo_15
-\BonMP[Milo,3]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    You did what you had to do, you kept Noer Island stable, and you made a whole lot of money! You did nothing wrong.
-\CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    Yes, Lord Milo...
+\BonMP[Milo,3]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    แกทำสิ่งที่ต้องทำ แกรักษาเกาะ Noer ให้มั่นคง และแกทำเงินได้เยอะมาก! แกไม่ได้ทำอะไรผิด
+\CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    ใช่ ลอร์ด Milo...
 
 Part2/EndMilo_16
-\CBmp[Milo,3]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    But now you have to watch, to the end.
-\CBmp[Milo,3]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    She is your friend, this is your cause, you must see what happens to renegdes like her, maybe it will persuade you to behave.
-\CBmp[Milo,3]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    Don't think about saving her, don't think about resisting, the gun is pointed at your head.
-\CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    Yes, my Lord...
-\CBmp[RifleR1,4]\ph\C[4]mercenaries：\C[0]    Hehe...
+\CBmp[Milo,3]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    แต่ตอนนี้แกต้องดู จนจบ
+\CBmp[Milo,3]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    เธอเป็นเพื่อนของแก นี่เป็นเหตุผลของแก แกต้องเห็นว่าคนทรยศอย่างเธอจะเป็นยังไง อาจจะทำให้แกคิดทบทวนพฤติกรรม
+\CBmp[Milo,3]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    อย่าคิดจะช่วยเธอ อย่าคิดจะต่อต้าน ปืนกำลังชี้ที่หัวแก
+\CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    ใช่ ลอร์ดของฉัน...
+\CBmp[RifleR1,4]\ph\C[4]mercenaries：\C[0]    ฮ่าๆ...
 \SndLib[sound_DressTear]\CBmp[Cecily,1]\SETpl[CecilyTrapB_Shocked]\Lshake\C[4]Cecily：\C[0]    ! ! !
-\CBmp[RifleR2,3]\ph\C[4]mercenaries：\C[0]    Hee hee hee...
-\CBmp[Cecily,8]\SETpl[CecilyTrapB_Shy]\Lshake\C[4]Cecily：\C[0]    No....
-\CBmp[RifleR3,4]\ph\C[4]mercenaries：\C[0]    Whistle-whistle...
-\CBmp[Cecily,8]\SETpl[CecilyTrapB_Shy]\Lshake\prh\C[4]Cecily：\C[0]    Please don't...
-\CBmp[Cecily,8]\SETpl[CecilyTrapB_Shy]\Lshake\prh\C[4]Cecily：\C[0]    Someone please help me.....
+\CBmp[RifleR2,3]\ph\C[4]mercenaries：\C[0]    ฮีๆๆ...
+\CBmp[Cecily,8]\SETpl[CecilyTrapB_Shy]\Lshake\C[4]Cecily：\C[0]    ไม่....
+\CBmp[RifleR3,4]\ph\C[4]mercenaries：\C[0]    หึ่บ-หึ่บ...
+\CBmp[Cecily,8]\SETpl[CecilyTrapB_Shy]\Lshake\prh\C[4]Cecily：\C[0]    อย่าทำ...
+\CBmp[Cecily,8]\SETpl[CecilyTrapB_Shy]\Lshake\prh\C[4]Cecily：\C[0]    ช่วยด้วยคน.....
 
 Part2/EndMilo_17
-\CBmp[RifleR1,3]\ph\C[4]mercenaries：\C[0]    Boss! Can we fuck her?
-\CBmp[Milo,2]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    Who? You can have the one lying on the ground before you.
-\CBmp[RifleR1,3]\plf\C[4]mercenaries：\C[0]    Uh, I meant the short one, though she might not have enough holes after all...
+\CBmp[RifleR1,3]\ph\C[4]mercenaries：\C[0]    นาย! เราจะข่มขืนเธอได้ไหม?
+\CBmp[Milo,2]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    ใคร? แกจะข่มขืนคนที่นอนอยู่ข้างหน้าแกได้
+\CBmp[RifleR1,3]\plf\C[4]mercenaries：\C[0]    อืม ผมหมายถึงคนตัวเล็ก แต่เธออาจจะไม่มีรูพอหลังจากนี้...
 \CBct[1]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    ! ! !
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    What? Just how dreadfully rude can you get?
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    She is my greatest ally! She just betrayed her friend for me! You will leave her alone.
-\CBmp[RifleR1,6]\plf\C[4]mercenaries：\C[0]    Well... I'm sorry, boss. Consider I said nothing.
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    อะไรนะ? แกหยาบคายได้ขนาดนี้เลยเหรอ?
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    เธอเป็นพันธมิตรที่ยิ่งใหญ่ที่สุดของฉัน! เธอเพิ่งทรยศเพื่อนของเธอเพื่อฉัน! แกจะต้องปล่อยเธอไว้
+\CBmp[RifleR1,6]\plf\C[4]mercenaries：\C[0]    อืม... ขอโทษครับนาย ถือว่าผมไม่ได้พูดอะไร
 
 Part2/EndMilo_18
 \CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    ......
-\CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    What will happen to her, Lord Milo?
+\CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    เธอจะเป็นยังไง ลอร์ด Milo?
 \CBmp[Milo,2]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    Cecily?
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    She killed a lot of people, guards、merchants、citizens. All kinds of people died at her hands.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    All kinds of people, and their families.
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    She has to pay the price.
-\CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    Sir, please have mercy on her.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    How abouuut...
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    No? And you should leave here as well. Or continue to cry here...
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    ...Until I change my mind and unleash these beasts to ravage your body. Your call, little bug.
-\CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    \..\..\.. I will leave, my Lord. Thank you for your generosity...
-\narr\ph Lona left
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    เธอฆ่าคนเยอะมาก ยาม、พ่อค้า、พลเรือน คนทุกประเภทตายที่มือเธอ
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    คนทุกประเภท และครอบครัวของพวกเขา
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\C[4]Milo：\C[0]    เธอต้องจ่ายราคา
+\CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    ท่าน โปรดเมตตาเธอ
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    ลองดู...
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    ไม่ได้เหรอ? แล้วแกก็ควรจะออกไปจากที่นี่ด้วย หรือจะยืนร้องไห้ต่อไป...
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\C[4]Milo：\C[0]    ...จนกว่าฉันจะเปลี่ยนใจและปล่อยสัตว์ร้ายเหล่านี้ให้ข่มขืนร่างกายแก ตัดสินใจเอาเอง แมลงน้อย
+\CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    \..\..\.. ฉันจะออกไป ลอร์ดของฉัน ขอบคุณสำหรับความกรุณาของท่าน...
+\narr\ph Lona ออกไป
 
 ################################################################################################ Quest end  Cecily
 ################################################################################################ Quest end  Cecily
 
 Part2/EndCecily_1
-\CBmp[Slave1,20]\C[4]refugee：\C[0]    Who are you?
-\CBmp[Slave3,20]\C[4]refugee：\C[0]    What about our buyers?
-\CBmp[Slave5,20]\C[4]refugee：\C[0]    So hungry!
-\CBmp[Cecily,20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    You are free.
-\CBmp[Slave2,20]\plf\C[4]refugee：\C[0]    Free?
-\CBmp[Cecily,20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    That's right! We just set you free!
-\CBmp[Slave4,20]\plf\C[4]refugee：\C[0]    So hungry! So do you have something for us to eat?
-\CBmp[Cecily,20]\SETpl[CecilyAngryAr]\Lshake\C[4]Cecily：\C[0]    What?
-\CBmp[Slave6,20]\plf\C[4]refugee：\C[0]    We chose to be slaves so we can eat a meal every day! We chose to work for food!
-\CBmp[Slave2,20]\plf\C[4]refugee：\C[0]    I have kept my children safe with my slave contract! What should we do now?
-\CBmp[Slave4,20]\plf\C[4]refugee：\C[0]    There are monsters everywhere now, can you ensure our safety? Can you get us off the island?
-\CBmp[Slave5,20]\plf\C[4]refugee：\C[0]    They gave me a lot of food! I would have had a chance to get full! What should we do now!?
-\CBmp[Cecily,20]\SETpl[CecilyShockedAr]\Lshake\C[4]Cecily：\C[0]    Don't you have any self-respect? The people of the Kingdom of Ingolend should not be slaves!
-\CBmp[Slave3,20]\plf\C[4]refugee：\C[0]    well... Another noblegirl comes out to play white knight....
-\CBmp[Slave1,20]\plf\C[4]refugee：\C[0]    What are you going to do now?
-\CBmp[Slave5,20]\plf\C[4]refugee：\C[0]    I'm going back to the slave trader to report you! Maybe he'll give me an extra meal! You are sooooo screwed!
+\CBmp[Slave1,20]\C[4]refugee：\C[0]    แกเป็นใคร?
+\CBmp[Slave3,20]\C[4]refugee：\C[0]    คนซื้อเราเป็นยังไงบ้าง?
+\CBmp[Slave5,20]\C[4]refugee：\C[0]    หิวมาก!
+\CBmp[Cecily,20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    แกอิสระแล้ว
+\CBmp[Slave2,20]\plf\C[4]refugee：\C[0]    อิสระ?
+\CBmp[Cecily,20]\SETpl[CecilyNormalAr]\Lshake\C[4]Cecily：\C[0]    ถูกต้อง! เราเพิ่งปล่อยแก!
+\CBmp[Slave4,20]\plf\C[4]refugee：\C[0]    หิวมาก! แล้วแกมีอะไรให้เรากินไหม?
+\CBmp[Cecily,20]\SETpl[CecilyAngryAr]\Lshake\C[4]Cecily：\C[0]    อะไรนะ?
+\CBmp[Slave6,20]\plf\C[4]refugee：\C[0]    เราเลือกที่จะเป็นทาสเพราะเราจะได้กินข้าวทุกวัน! เราเลือกที่จะทำงานเพื่ออาหาร!
+\CBmp[Slave2,20]\plf\C[4]refugee：\C[0]    ฉันเลี้ยงลูกๆ ให้ปลอดภัยด้วยสัญญาทาสของฉัน! เราจะทำยังไงต่อไป?
+\CBmp[Slave4,20]\plf\C[4]refugee：\C[0]    ตอนนี้มีสัตว์ประหลาดทุกที่ แกรับประกันความปลอดภัยของเราได้ไหม? แกจะพาเราออกจากเกาะได้ไหม?
+\CBmp[Slave5,20]\plf\C[4]refugee：\C[0]    พวกเขาให้ฉันกินอาหารเยอะมาก! ฉันจะได้มีโอกาสอิ่ม! เราจะทำยังไงต่อไป!?
+\CBmp[Cecily,20]\SETpl[CecilyShockedAr]\Lshake\C[4]Cecily：\C[0]    แกไม่มีศักดิ์ศรีเลยเหรอ? คนของอาณาจักร Ingolend ไม่ควรเป็นทาส!
+\CBmp[Slave3,20]\plf\C[4]refugee：\C[0]    อืม... อีกหนึ่งสาวขุนนางออกมาเล่นเป็นอัศวินขาว....
+\CBmp[Slave1,20]\plf\C[4]refugee：\C[0]    แกจะทำยังไงต่อไป?
+\CBmp[Slave5,20]\plf\C[4]refugee：\C[0]    ฉันจะกลับไปหาพ่อค้าทาสเพื่อแจ้งเรื่องแก! อาจจะได้อาหารเพิ่ม! แกเจ๊งแน่!
 
 Part2/EndCecily_2
-\CBmp[Cecily,20]\SETpl[CecilySadAr]\Lshake\C[4]Cecily：\C[0]    You! listen to me...Come back!
-\CBmp[GrayRat,8]\SETpr[GrayRatConfusedAr]\plf\Rshake\C[4]Gray Rat：\C[0]    Miss... this is how the commonfolk live and die...
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Well most of them anyway...
+\CBmp[Cecily,20]\SETpl[CecilySadAr]\Lshake\C[4]Cecily：\C[0]    แก! ฟังฉันนะ... กลับมา!
+\CBmp[GrayRat,8]\SETpr[GrayRatConfusedAr]\plf\Rshake\C[4]Gray Rat：\C[0]    นายหญิง... นี่คือชีวิตและความตายของชาวบ้าน...
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ส่วนใหญ่ก็เป็นแบบนี้...
 
 Part2/EndCecily_3
-\CBmp[Cecily,20]\SETpl[CecilySadAr]\Lshake\prf\C[4]Cecily：\C[0]    But... why?!
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Well, that's how we civilians are... Most of us are ready to throw away our freedom for security.
+\CBmp[Cecily,20]\SETpl[CecilySadAr]\Lshake\prf\C[4]Cecily：\C[0]    แต่... ทำไม?!
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    อืม นี่คือชีวิตของพวกเราชาวบ้าน... ส่วนใหญ่เราพร้อมที่จะทิ้งอิสรภาพเพื่อความปลอดภัย
 \CBmp[Cecily,8]\SETpl[CecilyFailedAr]\PLF\prf\C[4]Cecily：\C[0]    ........
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Should we leave?
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    เราควรจะออกไปไหม?
 \CBmp[Cecily,8]\SETpl[CecilyFailedAr]\PLF\prf\C[4]Cecily：\C[0]    .....
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Well....
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อืม....
 \CBmp[Cecily,8]\SETpl[CecilyFailedAr]\PLF\prf\C[4]Cecily：\C[0]    ...
-\CBmp[GrayRat,8]\SETpr[GrayRatConfusedAr]\plf\Rshake\C[4]Gray Rat：\C[0]    Let's go, M'Lady....
+\CBmp[GrayRat,8]\SETpr[GrayRatConfusedAr]\plf\Rshake\C[4]Gray Rat：\C[0]    เราไปกันเถอะ นายหญิง....
 
 Part2/EndCecily_4
-\CBmp[GrayRat,20]\SETpl[GrayRatConfusedAr]\Lshake\prf\C[4]Gray Rat：\C[0]    Miss Eaglemore needs time to process all this.
-\CBmp[GrayRat,20]\SETpl[GrayRatNormalAr]\Lshake\prf\C[4]Gray Rat：\C[0]    This is the amount we agreed upon, I trust you are satisfied with your compensation.
+\CBmp[GrayRat,20]\SETpl[GrayRatConfusedAr]\Lshake\prf\C[4]Gray Rat：\C[0]    นายหญิง Eaglemore ต้องการเวลาในการประมวลผลทั้งหมดนี้
+\CBmp[GrayRat,20]\SETpl[GrayRatNormalAr]\Lshake\prf\C[4]Gray Rat：\C[0]    นี่คือจำนวนที่เราตกลงกันไว้ ฉันเชื่อว่าแกพอใจกับค่าตอบแทนของแก
 
 Part2/EndCecily_5
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Yes, thank you Sir....
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ใช่ ขอบคุณครับท่าน....
 
 ##########################################################################################################   HEV
 
 CecilyRape/rape_scene1
-\C[4]mercenary A：\C[0]    Everyone look! I am riding on a noblegirl!
+\C[4]mercenary A：\C[0]    ทุกคนดู! ฉันกำลังขี่สาวขุนนาง!
 
 CecilyRape/rape_scene2
-\C[4]mercenary B：\C[0]    I achieved a childhood dream today!
+\C[4]mercenary B：\C[0]    วันนี้ฉันทำความฝันวัยเด็กสำเร็จ!
 
 CecilyRape/rape_scene3
-\C[4]Cecily：\C[0]    No... Why!?
+\C[4]Cecily：\C[0]    ไม่... ทำไม!?
 
 CecilyRape/rape_scene4
-\C[4]Cecily：\C[0]    Give me back Vineet!
+\C[4]Cecily：\C[0]    คืน Vineet ให้ฉัน!
 
 CecilyRape/rape_scene5
-\SndLib[sound_chcg_full]\C[4]mercenary B：\C[0]    Aaaw, was he your lover?
+\SndLib[sound_chcg_full]\C[4]mercenary B：\C[0]    อ้าว เขาเป็นคนรักของแกเหรอ?
 
 CecilyRape/rape_scene6
-\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    That bastard is dead! From now on we are your lovers!
+\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    ไอ้ควยนั่นตายแล้ว! ต่อไปเราจะเป็นคนรักของแก!
 
 CecilyRape/rape_scene7
-\SndLib[sound_chcg_full]\C[4]mercenary B：\C[0]    You like it? There's nothing like fucking a woman in front of her lover!
+\SndLib[sound_chcg_full]\C[4]mercenary B：\C[0]    แกชอบไหม? ไม่มีอะไรเท่ากับการข่มขืนผู้หญิงต่อหน้าคนรักของเธอ!
 
 CecilyRape/rape_scene8
-\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    It's a pity he died! He can't see how thoroughly I'll fuck his bitch! Ha ha ha ha!
+\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    น่าเสียดายที่เขาตาย! เขาไม่ได้เห็นว่าฉันจะข่มขืนอีหมาของเขาอย่างไร! ฮ่าๆๆๆ!
 
 CecilyRape/rape_scene9
-\C[4]Cecily：\C[0]    I'm begging you! No! Somebody help me!
+\C[4]Cecily：\C[0]    ฉันขอร้อง! ไม่! ช่วยด้วย!
 
 CecilyRape/rape_scene10
-\SndLib[sound_chcg_full]\C[4]mercenary B：\C[0]    \{Ah-huh-yeah-huh-ahh-fuckyeah-ahh! ! !
+\SndLib[sound_chcg_full]\C[4]mercenary B：\C[0]    \{อ๊ะ-ฮึ-ใช่-ฮึ-อ๊ะ-เยส-อ๊ะ! ! !
 
 CecilyRape/rape_scene11
-\SndLib[sound_chcg_full]\C[4]mercenary B：\C[0]    \{That's right! Take it! Take it all!
+\SndLib[sound_chcg_full]\C[4]mercenary B：\C[0]    \{ใช่! รับไป! รับไปให้หมด!
 
 CecilyRape/rape_scene12
-\C[4]Cecily：\C[0]    \{No! Please! Stop! I'm begging you!
+\C[4]Cecily：\C[0]    \{ไม่! โปรด! หยุด! ฉันขอร้อง!
 
 CecilyRape/rape_scene13
-\C[4]mercenary B：\C[0]    Fuck yeah! She might get pregnant with my kid!
-\C[4]mercenary B：\C[0]    I'll enter her bloodline! I'll become a nobleman!
+\C[4]mercenary B：\C[0]    เยส! เธออาจจะท้องลูกฉัน!
+\C[4]mercenary B：\C[0]    ฉันจะเข้าไปในสายเลือดของเธอ! ฉันจะกลายเป็นขุนนาง!
 
 CecilyRape/rape_scene14
-\SndLib[sound_chcg_full]\C[4]Cecily：\C[0]    \{Pleeease noooo sob-sob-sob...
+\SndLib[sound_chcg_full]\C[4]Cecily：\C[0]    \{โปรดอย่าาาา ฮือ-ฮือ-ฮือ...
 
 CecilyRape/rape_scene15
-\C[4]mercenary A：\C[0]    It's my turn! It's my turn!
+\C[4]mercenary A：\C[0]    ถึงตาฉันแล้ว! ถึงตาฉันแล้ว!
 
 CecilyRape/rape_scene16
-\SndLib[sound_chcg_full]\C[4]Cecily：\C[0]    S-stop! Ple-e-ease stop! Leave me alone!
+\SndLib[sound_chcg_full]\C[4]Cecily：\C[0]    ห-หยุด! โปรดหยุด! ปล่อยฉันไว้!
 
 CecilyRape/rape_scene17
-\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    Do not worry! We will all cum inside you!
-\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    You will give birth to a bunch of bastards who don't know who they are!
+\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    อย่ากังวล! เราจะระบายใส่แกทั้งหมด!
+\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    แกจะคลอดลูกผสมที่ไม่รู้ว่าใครเป็นพ่อ!
 
 CecilyRape/rape_scene18
-\C[4]Cecily：\C[0]    I'm sorry Lord Milo! Forgive me! Please!
+\C[4]Cecily：\C[0]    ขอโทษลอร์ด Milo! ให้อภัยฉัน! โปรด!
 
 CecilyRape/rape_scene19
-\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    \{AIEEEE-EEE-EEE!
+\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    \{อี๊-อี๊-อี๊!
 
 CecilyRape/rape_scene19_1
-\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    \{I'm cumming! Ah-hah!
+\SndLib[sound_chcg_full]\C[4]mercenary A：\C[0]    \{ฉันจะระบาย! อ๊ะ-ฮ่า!
 
 CecilyRape/rape_scene20
-\C[4]mercenary A：\C[0]    So this was the Noble Cave? Doesn't feel any different than a whore in the backstreet...
-\C[4]mercenary A：\C[0]    Who's next?
+\C[4]mercenary A：\C[0]    นี่คือถ้ำขุนนาง? ไม่รู้สึกต่างจากโสเภณีในซอย...
+\C[4]mercenary A：\C[0]    ใครจะไปต่อ?
 
 CecilyRape/rape_scene21
-\SndLib[sound_chcg_full]\C[4]mercenary B：\C[0]    Come on! The whole fucking camp is waiting for you!
+\SndLib[sound_chcg_full]\C[4]mercenary B：\C[0]    มาเลย! ทั้งค่ายกำลังรอแกอยู่!
 
 CecilyRape/rape_scene22
-\C[4]Cecily：\C[0]    Noo... This can't be... sob-sob....
+\C[4]Cecily：\C[0]    ไม่... ไม่มีทาง... ฮือ-ฮือ....
 
 CecilyRape/rape_scene23
-\C[4]Cecily：\C[0]    Help me... Please someone help me....
+\C[4]Cecily：\C[0]    ช่วยฉัน... โปรดใครสักคนช่วยฉัน....

@@ -1,488 +1,488 @@
 overmap/OvermapEnter
-\m[confused]Saint's Monastery \optB[Leave,Enter]
+\m[confused]วัดนักบุญ \optB[ออก,เข้า]
 
 priest/common
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    The Saint guides your path!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    นักบุญนำทางเธอ!
 
 opt/about
-About the Saint
+เกี่ยวกับนักบุญ
 
 opt/moreGrace
-More Grace of the Saint
+ความกรุณาของนักบุญเพิ่มเติม
 
 priest/trade
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    All these things are blessed by the Saint! The Saint will bless you, if you make a purchase!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    สิ่งเหล่านี้ล้วนได้รับพรจากนักบุญ! นักบุญจะให้พรเธอ ถ้าเธอซื้อของ!
 
 priest/about
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\m[confused]\Lshake\prf\C[4]Priest：\C[0]    In the past, the Saint had struck down evil for us!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    He had destroyed hypocrites and liars and sinners!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    He had given peace to the innocent people!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    He gave his flesh and blood to us!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    And today, all of this is the punishment of the Saint!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    It's all because you're ungodly!
-\CamMP[prayer0]\BonMP[prayer0,20]\ph\C[4]Believer：\C[0]    O Saint! We are wrong!
-\CamMP[prayer1]\BonMP[prayer1,20]\ph\C[4]Believer：\C[0]    Punish me, please! Saint!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    The Saint clearly gave enlightenment! Why don't you believe in Him!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Your ungodly faith has brought the return of liars and sinners!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    WHY! How forgetful you are!
-\CamMP[prayer2]\BonMP[prayer2,20]\ph\C[4]Believer：\C[0]    This is my fault! I did’t believe in Him!
-\CamMP[prayer3]\BonMP[prayer3,20]\ph\C[4]Believer：\C[0]    I'll listen to the Saint! Take everything I have!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    You! Why don't you believe in the Saint?
-\CBct[1]\m[shocked]\plf\Rshake\C[6]Lona：\C[0]    EH?! Me?? \optD[I believe!,Pedos?]
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\m[confused]\Lshake\prf\C[4]บาทหลวง：\C[0]    ในอดีต นักบุญได้ต่อสู้กับความชั่วร้ายเพื่อเรา!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ท่านได้ทำลายคนหน้าไหว้หลังหลอก คนโกหก และคนบาป!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ท่านได้มอบสันติภาพให้กับคนบริสุทธิ์!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ท่านได้มอบเนื้อและเลือดให้เรา!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    และวันนี้ ทั้งหมดนี้คือการลงโทษจากนักบุญ!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ทั้งหมดนี้เพราะเธอไม่เคารพนักบุญ!
+\CamMP[prayer0]\BonMP[prayer0,20]\ph\C[4]ผู้เชื่อ：\C[0]    โอ้นักบุญ! เราผิด!
+\CamMP[prayer1]\BonMP[prayer1,20]\ph\C[4]ผู้เชื่อ：\C[0]    ลงโทษฉันเถอะ! นักบุญ!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    นักบุญได้ให้แสงสว่างอย่างชัดเจน! ทำไมเธอไม่เชื่อในท่าน!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ความไม่เคารพนักบุญของเธอทำให้คนโกหกและคนบาปกลับมา!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ทำไม! เธอลืมง่ายจัง!
+\CamMP[prayer2]\BonMP[prayer2,20]\ph\C[4]ผู้เชื่อ：\C[0]    นี่เป็นความผิดของฉัน! ฉันไม่เชื่อในท่าน!
+\CamMP[prayer3]\BonMP[prayer3,20]\ph\C[4]ผู้เชื่อ：\C[0]    ฉันจะฟังนักบุญ! รับทุกสิ่งที่ฉันมีไป!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    เธอ! ทำไมไม่เชื่อในนักบุญ?
+\CBct[1]\m[shocked]\plf\Rshake\C[6]โลน่า：\C[0]    อะ?! ฉัน?? \optD[ฉันเชื่อ!,พวกรักเด็ก?]
 
 priest/about_optY
-\CBct[6]\m[terror]\plf\Rshake\C[6]Lona：\C[0]    I believe! And I'm a devout believer!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Come! Let's give her our blessing!
-\CBct[2]\m[confused]\plf\Rshake\C[0]\C[6]Lona：\C[0]    Ugh?!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Come here! Praise this girl! She will become a believer!
-\CamMP[prayer0]\BonMP[prayer0,20]\ph\C[4]Believer：\C[0]    Holy Saint! Praise this girl!
-\CamMP[prayer1]\BonMP[prayer1,20]\ph\C[4]Believer：\C[0]    Thank you Saint! Give us a new believer!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Come here! I'll do the baptism!
-\CBct[2]\m[flirty]\plf\Rshake\C[0]\C[6]Lona：\C[0]    Ahh? Uhoh??
+\CBct[6]\m[terror]\plf\Rshake\C[6]โลน่า：\C[0]    ฉันเชื่อ! และฉันเป็นผู้เชื่อที่เคร่งครัด!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    มา! มาให้พรเธอ!
+\CBct[2]\m[confused]\plf\Rshake\C[0]\C[6]โลน่า：\C[0]    อ๊าก?!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    มาทางนี้! สรรเสริญหญิงนี้! เธอจะกลายเป็นผู้เชื่อ!
+\CamMP[prayer0]\BonMP[prayer0,20]\ph\C[4]ผู้เชื่อ：\C[0]    นักบุญศักดิ์สิทธิ์! สรรเสริญหญิงนี้!
+\CamMP[prayer1]\BonMP[prayer1,20]\ph\C[4]ผู้เชื่อ：\C[0]    ขอบคุณนักบุญ! ให้เรามีผู้เชื่อใหม่!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    มาทางนี้! ฉันจะทำพิธีบัพติศมา!
+\CBct[2]\m[flirty]\plf\Rshake\C[0]\C[6]โลน่า：\C[0]    อ๊ะ? โอ๊ะ??
 
 priest/about_optN
-\CBct[8]\m[confused]\plf\PRF\C[6]Lona：\C[0]    So.... I've been meaning to ask...
-\CBct[8]\m[flirty]\plf\PRF\C[6]Lona：\C[0]    Is it true? The rumors going around about you being a bunch of pedofiles....
-\CamMP[MainPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    You! You filthy Liar! I'll kill you! For the Saint! \CamCT
+\CBct[8]\m[confused]\plf\PRF\C[6]โลน่า：\C[0]    อืม... ฉันอยากถาม...
+\CBct[8]\m[flirty]\plf\PRF\C[6]โลน่า：\C[0]    จริงหรือเปล่า? ข่าวลือที่ว่าพวกคุณเป็นพวกรักเด็ก...
+\CamMP[MainPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    เธอ! เธอคนโกหกสกปรก! ฉันจะฆ่าเธอ! เพื่อนักบุญ! \CamCT
 
 priest/BaptizePlayer1
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    O Saint, wash away the sins of this sinner!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Sinner! Go away sin!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    โอ้นักบุญ ชำระบาปของคนบาปคนนี้!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    คนบาป! ไปให้พ้นบาป!
 
 priest/BaptizePlayer2
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Sinner! Go away sin!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    คนบาป! ไปให้พ้นบาป!
 
 priest/BaptizePlayer3
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Sinner! Go away sin!
-\CBct[8]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    UGh.....
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    O sinner! Remove your clothes! Abandon your material desires! Only the Saint will cover you!
-\CBct[2]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    AHA?
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Take off your clothes, praise the Saint!
-\CBct[6]\m[shocked]\plf\Rshake\C[0]\C[6]Lona：\C[0]    What?!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Child! This is so the Saint to purify your sinful body! \optD[Disobey,Undress]
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    คนบาป! ไปให้พ้นบาป!
+\CBct[8]\m[confused]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    อ๊าก.....
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    โอ้คนบาป! ถอดเสื้อผ้าออก! ละทิ้งความปรารถนาทางวัตถุ! นักบุญจะคลุมเธอ!
+\CBct[2]\m[flirty]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    อะฮ่า?
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ถอดเสื้อผ้า สรรเสริญนักบุญ!
+\CBct[6]\m[shocked]\plf\Rshake\C[0]\C[6]โลน่า：\C[0]    อะไร?!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ลูก! นี่เพื่อให้นักบุญชำระร่างกายที่บาปของเธอ! \optD[ไม่ยอม,ถอด]
 
 priest/BaptizePlayer3_N
-\CBct[5]\m[wtf]\plf\Rshake\C[0]\C[6]Lona：\C[0]    No! No!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    \{You're a liar! I'll kill you! \CamCT
+\CBct[5]\m[wtf]\plf\Rshake\C[0]\C[6]โลน่า：\C[0]    ไม่! ไม่!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    \{เธอเป็นคนโกหก! ฉันจะฆ่าเธอ! \CamCT
 
 priest/BaptizePlayer3_Y
-\CBct[6]\m[shy]\plf\PRF\C[0]\C[6]Lona：\C[0]    Awwww... Alright...
+\CBct[6]\m[shy]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    อ๊าว... ได้เลย...
 
 priest/BaptizePlayer3_touch0
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\Rshake\C[4]Priest：\C[0]    Look! This sinful body of hers! O Saint! Cleanse her!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\Rshake\C[4]บาทหลวง：\C[0]    ดู! ร่างกายที่บาปของเธอ! โอ้นักบุญ! ชำระเธอ!
 
 priest/BaptizePlayer3_touch1
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\Rshake\C[4]Priest：\C[0]    Look! She seduces men with her curves! What an evil thing!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\Rshake\C[4]บาทหลวง：\C[0]    ดู! เธอล่อลวงผู้ชายด้วยรูปร่างของเธอ! สิ่งชั่วร้าย!
 
 priest/BaptizePlayer3_touch2
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\Rshake\C[4]Priest：\C[0]    Look! She fills her womb with the vile seed of sinners! How degenerate!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\Rshake\C[4]บาทหลวง：\C[0]    ดู! เธอเติมมดลูกของเธอด้วยเมล็ดพันธุ์ของคนบาป! ช่างเสื่อม!
 
 priest/BaptizePlayer3_touch3
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\Rshake\C[4]Priest：\C[0]    Look! She utters filthy words with her mouth! How repulsive!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\Rshake\C[4]บาทหลวง：\C[0]    ดู! เธอพูดคำหยาบด้วยปากของเธอ! ช่างน่ารังเกียจ!
 
 priest/BaptizePlayer4
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    O Saint! Please bless my body! My spirit!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumanPenisHairly]\Lshake\prf\C[4]Priest：\C[0]    I will purify these sins with the grace of the Saint!
-\CBct[1]\m[shocked]\Rshake\C[0]\C[6]Lona：\C[0]    Eeeeee!!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumanPenisHairly]\Lshake\prf\C[4]Priest：\C[0]    Don't be afraid, my child! I'll fill your head with the grace of the Saint! He'll cleanse you of your evil thoughts!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    โอ้นักบุญ! โปรดให้พรแก่ร่างกายของฉัน! จิตวิญญาณของฉัน!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumanPenisHairly]\Lshake\prf\C[4]บาทหลวง：\C[0]    ฉันจะชำระบาปเหล่านี้ด้วยความกรุณาของนักบุญ!
+\CBct[1]\m[shocked]\Rshake\C[0]\C[6]โลน่า：\C[0]    อี๊!!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumanPenisHairly]\Lshake\prf\C[4]บาทหลวง：\C[0]    อย่ากลัว ลูก! ฉันจะเติมหัวของเธอด้วยความกรุณาของนักบุญ! ท่านจะชำระความคิดชั่วร้ายของเธอ!
 
 priest/BaptizePlayer5
-\CBct[2]\m[fear]\plf\PRF\C[0]\C[6]Lona：\C[0]    Awwww... It's not over yet?
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    It's the last step! We'll fill your body with the grace of the saints!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    He'll erase all the lies you've told in the past!
-\CBct[8]\m[sad]\plf\PRF\C[0]\C[6]Lona：\C[0]    ......
+\CBct[2]\m[fear]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    อ๊าว... ยังไม่จบเหรอ?
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    เป็นขั้นตอนสุดท้าย! เราจะเติมร่างกายของเธอด้วยความกรุณาของนักบุญ!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ท่านจะลบคำโกหกทั้งหมดที่เธอเคยพูดในอดีต!
+\CBct[8]\m[sad]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    ......
 
 priest/BaptizePlayer6
-\CBct[8]\m[tired]\plf\PRF\C[0]\C[6]Lona：\C[0]    .........
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    You are clean, you are a disciple recognized by the Saint, you are a believer.
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Come now! Praise the Saint!
-\CBct[20]\m[sad]\plf\PRF\C[0]\C[6]Lona：\C[0]    Praise be the Saint!
+\CBct[8]\m[tired]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    .........
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    เธอสะอาดแล้ว เธอเป็นศิษย์ที่ได้รับการยอมรับจากนักบุญ เธอเป็นผู้เชื่อ
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    มาเถิด! สรรเสริญนักบุญ!
+\CBct[20]\m[sad]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    สรรเสริญนักบุญ!
 
 priest/BaptizePlayer_end
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    O ye, who believe! I've heard the revelations of the Saint!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    This girl has been recognized by the Saint!
-\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    She's one of us! Praise her!
-\CamMP[prayer1]\BonMP[prayer1,20]\ph\C[4]Believer：\C[0]    Praise be the Saint! Thank you Saint!
-\CamMP[prayer2]\BonMP[prayer2,20]\ph\C[4]Believer：\C[0]    O Saint! Praise that girl!
-\CamMP[prayer3]\BonMP[prayer3,20]\ph\C[4]Believer：\C[0]    Thanks be to ye Saint! Give us a new believer!
-\CBct[8]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    Oh, hey... Thank you, guys?
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    โอ้ผู้เชื่อ! ฉันได้ยินการเผยแผนของนักบุญ!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    หญิงนี้ได้รับการยอมรับจากนักบุญ!
+\CBid[-1,20]\SETpl[HumPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    เธอเป็นหนึ่งในเรา! สรรเสริญเธอ!
+\CamMP[prayer1]\BonMP[prayer1,20]\ph\C[4]ผู้เชื่อ：\C[0]    สรรเสริญนักบุญ! ขอบคุณนักบุญ!
+\CamMP[prayer2]\BonMP[prayer2,20]\ph\C[4]ผู้เชื่อ：\C[0]    โอ้นักบุญ! สรรเสริญหญิงนี้!
+\CamMP[prayer3]\BonMP[prayer3,20]\ph\C[4]ผู้เชื่อ：\C[0]    ขอบคุณนักบุญ! ให้เรามีผู้เชื่อใหม่!
+\CBct[8]\m[flirty]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    โอ้ เฮ้... ขอบคุณนะ พวกคุณ?
 
 
 ################################################################# 2nd
 
 priest/GraceAgain_date_block
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Child, greed will only deepen your sins. Even I must rest before I can once again cleanse your corruption. Come back next time.
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ลูก ความโลภจะทำให้บาปของเธอลึกขึ้น แม้แต่ฉันก็ต้องพักก่อนที่จะชำระความเสื่อมของเธอได้อีกครั้ง กลับมาอีกครั้งนะ
 
 priest/GraceAgain0
-\CBid[-1,20]\SETpl[HumPriest]\PLF\prf\C[4]Priest：\C[0]    So you seek more of the Saint's Grace? My child, You mustn't be too greedy, it's evil and you will displease the Saint.
-\CBct[8]\m[sad]\plf\PRF\C[0]\C[6]Lona：\C[0]    I'm sorry, Father...
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    But it doesn't matter, I forgive you, Let me grant you the Saint's Grace.
+\CBid[-1,20]\SETpl[HumPriest]\PLF\prf\C[4]บาทหลวง：\C[0]    เธอต้องการความกรุณาของนักบุญเพิ่มอีกหรือ? ลูก อย่าโลภมากเกินไป มันชั่วร้ายและจะทำให้นักบุญไม่พอใจ
+\CBct[8]\m[sad]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    ขอโทษนะ พ่อ...
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ไม่เป็นไร ฉันให้อภัยเธอ ปล่อยให้ฉันมอบความกรุณาของนักบุญให้เธอ
 
 priest/GraceAgain1
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Cast off the garments of hypocrisy, the Saint can be naked in the face of lies and sins! You can too!
-\CBct[8]\m[shy]\plf\PRF\C[0]\C[6]Lona：\C[0]    Yes....
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ทิ้งเสื้อผ้าของความหน้าไหว้หลังหลอก นักบุญสามารถเปลือยกายต่อหน้าความโกหกและบาป! เธอก็ทำได้!
+\CBct[8]\m[shy]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    ค่ะ...
 
 priest/GraceAgain2
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    The Saint will now bless you with his grace this time! You must suck the grace out by your own power!
-\CBid[-1,20]\SETpl[HumanPenisHairly]\Lshake\prf\C[4]Priest：\C[0]    The Saint will grant us the power to defeat evil! But you! Must do it with your own power!
-\CBct[8]\m[tired]\plf\PRF\C[0]\C[6]Lona：\C[0]    Yes....
-\CBid[-1,20]\SETpl[HumanPenisHairly]\Lshake\prf\C[4]Priest：\C[0]    Rely on your own strength! Bathe in the thoughts of the Saint!
-\CBct[8]\m[shy]\plf\PRF\C[0]\C[6]Lona：\C[0]    Yes..
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    นักบุญจะให้พรเธอด้วยความกรุณาของท่านครั้งนี้! เธอต้องดูดความกรุณาออกด้วยพลังของเธอเอง!
+\CBid[-1,20]\SETpl[HumanPenisHairly]\Lshake\prf\C[4]บาทหลวง：\C[0]    นักบุญจะมอบพลังให้เราเอาชนะความชั่วร้าย! แต่เธอ! ต้องทำด้วยพลังของเธอเอง!
+\CBct[8]\m[tired]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    ค่ะ...
+\CBid[-1,20]\SETpl[HumanPenisHairly]\Lshake\prf\C[4]บาทหลวง：\C[0]    พึ่งพลังของเธอเอง! อาบในความคิดของนักบุญ!
+\CBct[8]\m[shy]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    ค่ะ..
 
 priest/GraceAgain3
-\Lshake\c[6]Priest：\c[0]    \{Oooh!
-\Lshake\c[6]Priest：\c[0]    \{GREAT!! I can feel the Grace coming!
+\Lshake\c[6]บาทหลวง：\c[0]    \{อ๊าว!
+\Lshake\c[6]บาทหลวง：\c[0]    \{ยอดเยี่ยม!! ฉันรู้สึกถึงความกรุณาที่กำลังมา!
 
 priest/GraceAgain4
-\Lshake\c[6]Priest：\c[0]    \{Here it comes! O Saint! I'm jubilating!
+\Lshake\c[6]บาทหลวง：\c[0]    \{มันมาแล้ว! โอ้นักบุญ! ฉันดีใจมาก!
 
 priest/GraceAgain5
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Child! You're doing great! You have defeated evil!
-\CBct[8]\m[tired]\plf\PRF\C[0]\C[6]Lona：\C[0]    Thank you.... Father.
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    The lies in your mind have been erased! But I sense that evil is hiding elsewhere!
-\CBct[6]\m[wtf]\plf\Rshake\C[0]\C[6]Lona：\C[0]    What should I do?! Father, save me!
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Child, I'm not giving up on you! I'll pour more of the Saint's grace into your body!
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Give yourself unto me!
-\CBct[20]\m[shocked]\plf\Rshake\C[0]\C[6]Lona：\C[0]    Yes! Father!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ลูก! เธอทำได้ดี! เธอเอาชนะความชั่วร้าย!
+\CBct[8]\m[tired]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    ขอบคุณ... พ่อ.
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    คำโกหกในใจของเธอถูกลบออกไปแล้ว! แต่ฉันรู้สึกว่าความชั่วร้ายกำลังซ่อนตัวอยู่ที่อื่น!
+\CBct[6]\m[wtf]\plf\Rshake\C[0]\C[6]โลน่า：\C[0]    ฉันควรทำอะไร?! พ่อ ช่วยฉัน!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ลูก ฉันไม่ยอมแพ้กับเธอ! ฉันจะเทความกรุณาของนักบุญเพิ่มเข้าไปในร่างกายของเธอ!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    มอบตัวเธอให้ฉัน!
+\CBct[20]\m[shocked]\plf\Rshake\C[0]\C[6]โลน่า：\C[0]    ค่ะ! พ่อ!
 
 priest/GraceAgain6
-\CBct[8]\m[shy]\plf\C[0]\C[6]Lona：\C[0]    ......
+\CBct[8]\m[shy]\plf\C[0]\C[6]โลน่า：\C[0]    ......
 
 priest/GraceAgain7
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Child, you're doing great. The lies and sins have left your body for now.
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    You must come to me regularly to receive more grace, or else lies and sin will corrupt your body and you will be reduced to filth.
-\CBct[20]\m[terror]\plf\Rshake\C[0]\C[6]Lona：\C[0]    Yes Father!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ลูก เธอทำได้ดี คำโกหกและบาปได้ออกจากร่างกายของเธอไปชั่วคราว
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    เธอต้องมาหาฉันเป็นประจำเพื่อรับความกรุณาเพิ่มเติม ไม่เช่นนั้นคำโกหกและบาปจะทำให้ร่างกายของเธอเสื่อมและเธอจะกลายเป็นสิ่งสกปรก
+\CBct[20]\m[terror]\plf\Rshake\C[0]\C[6]โลน่า：\C[0]    ค่ะ พ่อ!
 
 
 ########################add title
 
 priest/add_title1
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Wait! I heard the word of the Saint! Are you ready?
-\CBct[20]\m[shocked]\plf\Rshake\C[0]\C[6]Lona：\C[0]    Yes!
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    My faith is pure, But the sins of the other male believers and followers in the monastery remain deep!
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    It must be you! Suck out their evil seed!
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    It must be you! Purify their sinful bodies!
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    It must be you! Use your body to erase their lies!
-\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Go on! My child! To defeat lies and sin! Praised be the Saint!
-\CBct[20]\m[serious]\plf\Rshake\C[0]\C[6]Lona：\C[0]    Yes Father! Praise be the Saint!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    รอก่อน! ฉันได้ยินคำของนักบุญ! เธอพร้อมหรือยัง?
+\CBct[20]\m[shocked]\plf\Rshake\C[0]\C[6]โลน่า：\C[0]    พร้อม!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ความเชื่อของฉันบริสุทธิ์ แต่บาปของผู้เชื่อชายและผู้ติดตามในวัดยังลึก!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ต้องเป็นเธอ! ดูดเมล็ดพันธุ์ชั่วร้ายของพวกเขาออก!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ต้องเป็นเธอ! ชำระร่างกายที่บาปของพวกเขา!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ต้องเป็นเธอ! ใช้ร่างกายของเธอลบคำโกหกของพวกเขา!
+\CBid[-1,20]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ไปเถอะ! ลูก! เพื่อเอาชนะคำโกหกและบาป! สรรเสริญนักบุญ!
+\CBct[20]\m[serious]\plf\Rshake\C[0]\C[6]โลน่า：\C[0]    ค่ะ พ่อ! สรรเสริญนักบุญ!
 
 ########################reward
 
 priest/get_sexReward
-\narr Praise the Saint!!!
-\narr Lona masters how to remove the sins of others...
+\narr สรรเสริญนักบุญ!!!
+\narr โลน่าเรียนรู้วิธีชำระบาปของผู้อื่น...
 
 MainNun/begin0
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\C[4]Priestess：\C[0]    The schemes of the Liars reach even this holy place...
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\C[4]นักบวชหญิง：\C[0]    แผนการของพวกโกหกยังคงมาถึงสถานที่ศักดิ์สิทธิ์นี้...
 
 MainNun/begin1
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\C[4]Priestess：\C[0]    A rotten church and its corrupt flock...
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\C[4]นักบวชหญิง：\C[0]    โบสถ์ที่เน่าเฟะและฝูงชนที่เสื่อม...
 
 MainNun/begin2
-\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\C[4]Priestess：\C[0]    The mocking charades of the liars...
+\CBid[-1,20]\SETpl[AnonFemale]\Lshake\prf\C[4]นักบวชหญิง：\C[0]    การแสดงตลกของพวกโกหก...
 
 
 ######################################################################################################################################### QUEST
 
 priest/QuProgScoutCampOrkind2_done
-\CamMP[MainPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Are you a mercenary guided by the Saint?
-\CamCT\plf\PRF\m[flirty]\C[6]Lona：\C[0]    Guided?
-\CamCT\m[confused]\plf\PRF\C[6]Lona：\C[0]    Well, I guess.
-\CamMP[MainPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Thank you for your hard work, these demons have tried to invade the monastery before.
-\CamMP[MainPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Now, They will be guided back to nothingness by the Saint.
-\CamMP[MainPriest]\SETpl[HumPriest]\Lshake\prf\C[4]Priest：\C[0]    Praise the Saint.
-\CamCT\m[flirty]\plf\PRF\C[6]Lona：\C[0]    Praise the Saint.
+\CamMP[MainPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    เธอเป็นทหารรับจ้างที่ได้รับการนำทางจากนักบุญหรือไม่?
+\CamCT\plf\PRF\m[flirty]\C[6]โลน่า：\C[0]    ได้รับการนำทาง?
+\CamCT\m[confused]\plf\PRF\C[6]โลน่า：\C[0]    ก็คงจะใช่นะ
+\CamMP[MainPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ขอบคุณสำหรับความพยายามของเธอ ปีศาจเหล่านี้เคยพยายามบุกเข้าวัดมาก่อน
+\CamMP[MainPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    ตอนนี้ พวกเขาจะถูกนำทางกลับไปสู่ความว่างเปล่าโดยนักบุญ
+\CamMP[MainPriest]\SETpl[HumPriest]\Lshake\prf\C[4]บาทหลวง：\C[0]    สรรเสริญนักบุญ
+\CamCT\m[flirty]\plf\PRF\C[6]โลน่า：\C[0]    สรรเสริญนักบุญ
 
 #########################################################################################################################################
 
 Merit/begin1
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Believer：\C[0]    Money is corporeal, and material desire is your nature.
-\CBid[-1,20]\Lshake\prf\C[4]Believer：\C[0]    The Saint will forgive you your sins, but you must give up your material desires.
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]ผู้เชื่อ：\C[0]    เงินเป็นสิ่งที่เป็นรูปธรรม และความปรารถนาทางวัตถุคือธรรมชาติของเธอ
+\CBid[-1,20]\Lshake\prf\C[4]ผู้เชื่อ：\C[0]    นักบุญจะให้อภัยบาปของเธอ แต่เธอต้องละทิ้งความปรารถนาทางวัตถุ
 
 Merit/Box1
-\board[Donate money for virtue]
-For every 2000 donated, +1 Moral
-Believe in the Saint! He will guide you!
+\board[บริจาคเงินเพื่อคุณธรรม]
+ทุกๆ 2000 ที่บริจาค ได้รับ +1 คุณธรรม
+เชื่อในนักบุญ! ท่านจะนำทางเธอ!
 
 Merit/Box2
-\CBid[-1,5]\prf\C[4]Believer：\C[0]    You refuse to offer? Such miserliness will deepen your sins, and the Saint’s mercy will not wait forever…
+\CBid[-1,5]\prf\C[4]ผู้เชื่อ：\C[0]    เธอปฏิเสธที่จะบริจาค? ความตระหนี่จะทำให้บาปของเธอลึกขึ้น และความเมตตาของนักบุญจะไม่รอตลอดไป...
 
 Merit/END_Good
-\CBid[-1,3]\SETpl[HumPriest2]\Lshake\prf\C[4]Believer：\C[0]    The Saint forgives you of your sins.
+\CBid[-1,3]\SETpl[HumPriest2]\Lshake\prf\C[4]ผู้เชื่อ：\C[0]    นักบุญให้อภัยบาปของเธอ
 
 Merit/END_Bad
-\CBid[-1,5]\SETpl[HumPriest2]\Lshake\prf\C[4]Believer：\C[0]    That's all? Do you expect the Saint to forgive a liar like you?
-\CBct[-1,6]\m[shocked]\plf\Rshake\C[6]Lona：\C[0]    I'm sorry?!
+\CBid[-1,5]\SETpl[HumPriest2]\Lshake\prf\C[4]ผู้เชื่อ：\C[0]    แค่นี้เอง? เธอคิดว่านักบุญจะให้อภัยคนโกหกอย่างเธอหรือ?
+\CBct[-1,6]\m[shocked]\plf\Rshake\C[6]โลน่า：\C[0]    ขอโทษ?!
 
 Merit/Barter_begin1_failed
-\CBid[-1,20]\Lshake\prf\C[4]Believer：\c[0]    You have not shown faith to the Saint; mortals like you are unworthy to exchange sacred relics with us.
+\CBid[-1,20]\Lshake\prf\C[4]ผู้เชื่อ：\c[0]    เธอไม่ได้แสดงความเชื่อในนักบุญ; คนธรรมดาอย่างเธอไม่สมควรแลกเปลี่ยนของศักดิ์สิทธิ์กับเรา
 
 Merit/Barter_begin1_success
-\CBid[-1,20]\Lshake\prf\C[4]Believer：\c[0]    The Saint’s blessing does not come without cost; you must prove yourself to the Saint.
+\CBid[-1,20]\Lshake\prf\C[4]ผู้เชื่อ：\c[0]    พรของนักบุญไม่ได้มาโดยไม่มีค่าใช้จ่าย; เธอต้องพิสูจน์ตัวเองต่อนักบุญ
 
 ################################################################################################################################################
 
 Lona/WhoreJobStart0
-\CBct[8]\m[shy]\plf\PRF\C[6]Lona：\C[0]    The Saint has commanded me to bring out your sins.....
+\CBct[8]\m[shy]\plf\PRF\C[6]โลน่า：\C[0]    นักบุญได้สั่งให้ฉันนำบาปของพวกเขาออกมา.....
 
 MaleBeliever/CommonHuman_begin0
-\PLF\prf\c[4]Follower：\c[0]    O Saint! I'm guilty!
+\PLF\prf\c[4]ผู้ติดตาม：\c[0]    โอ้นักบุญ! ฉันมีความผิด!
 
 MaleBeliever/CommonHuman_begin1
-\PLF\prf\c[4]Follower：\c[0]    O Saint! Forgive me for my lies!
+\PLF\prf\c[4]ผู้ติดตาม：\c[0]    โอ้นักบุญ! ให้อภัยฉันสำหรับคำโกหกของฉัน!
 
 MaleBeliever/CommonHuman_begin2
-\PLF\prf\c[4]Follower：\c[0]    O Saint! I am sinful! Punish me!
+\PLF\prf\c[4]ผู้ติดตาม：\c[0]    โอ้นักบุญ! ฉันบาป! ลงโทษฉัน!
 
 MaleBeliever/CommonHumanWhoreJobStart1
-\PLF\prf\c[4]Follower：\c[0]    O Saint! Thank you!
+\PLF\prf\c[4]ผู้ติดตาม：\c[0]    โอ้นักบุญ! ขอบคุณ!
 
 MaleBeliever/guard
-\PLF\prf\c[4]Guard：\c[0]    .....
+\PLF\prf\c[4]ยาม：\c[0]    .....
 
 MaleBeliever/Prayer_begin0
-\CBid[-1,20]\PLF\prf\C[4]Believer：\C[0]    O Saint! Let's save the world!
+\CBid[-1,20]\PLF\prf\C[4]ผู้เชื่อ：\C[0]    โอ้นักบุญ! มาช่วยโลกนี้!
 
 MaleBeliever/Prayer_begin1
-\CBid[-1,20]\PLF\prf\C[4]Believer：\C[0]    O Saint! We dedicate our lives to you!
+\CBid[-1,20]\PLF\prf\C[4]ผู้เชื่อ：\C[0]    โอ้นักบุญ! เราอุทิศชีวิตให้ท่าน!
 
 MaleBeliever/Prayer_begin2
-\CBid[-1,20]\PLF\prf\C[4]Believer：\C[0]    O Saint! We abandoned the lie!
+\CBid[-1,20]\PLF\prf\C[4]ผู้เชื่อ：\C[0]    โอ้นักบุญ! เราละทิ้งคำโกหก!
 
 MaleBeliever/PrayerWhoreJobStart1
-\CBid[-1,4]\PLF\prf\C[4]Believer：\C[0]    Praise be the Saint! May the Saint bless you.
+\CBid[-1,4]\PLF\prf\C[4]ผู้เชื่อ：\C[0]    สรรเสริญนักบุญ! ขอให้นักบุญให้พรเธอ
 
 Nap/Capture
-\narr The believers of the Saint captured Lona...
+\narr ผู้เชื่อของนักบุญจับโลน่าได้...
 
 Enter/AggroMode
-\cg[map_DarkestDungeon]\SETpr[nil]\SETpl[AnonFemale]\Lshake\C[4]Believer：\C[0]    LIARS! The Liars have come!
-\SETpr[AnonMale2]\plf\Rshake\C[4]Believer：\C[0]    Take note! The Liar is a dirty little brat! With small tits! Easy to find!
+\cg[map_DarkestDungeon]\SETpr[nil]\SETpl[AnonFemale]\Lshake\C[4]ผู้เชื่อ：\C[0]    พวกโกหก! พวกโกหกมาแล้ว!
+\SETpr[AnonMale2]\plf\Rshake\C[4]ผู้เชื่อ：\C[0]    จำไว้! พวกโกหกเป็นเด็กสกปรก! หน้าอกเล็ก! หาตัวง่าย!
 
 #---------------------#-------------------#---------------------  -------------------------------
 
 Healer/Begin1
-\CBid[-1,20]\prf\C[4]Believer：\C[0]    Four hundred years ago, evil ruled over the world, and mankind worshipped all kinds of evil gods.
-\CBid[-1,20]\prf\C[4]Believer：\C[0]    The evil gods were disgusted by the virtue of mankind, and in 1321.5.6, they imposed divine punishment on the innocent.
-\CBid[-1,20]\prf\C[4]Believer：\C[0]    The world should have perished in that catastrophe, except for the Saint! He came! 
-\CBid[-1,20]\prf\C[4]Believer：\C[0]    He protected the innocents with a righteous smite, and cut down the evil gods under his sword one by one.
+\CBid[-1,20]\prf\C[4]ผู้เชื่อ：\C[0]    สี่ร้อยปีก่อน ความชั่วร้ายปกครองโลก และมนุษย์นมัสการเทพเจ้าชั่วร้ายทุกชนิด
+\CBid[-1,20]\prf\C[4]ผู้เชื่อ：\C[0]    เทพเจ้าชั่วร้ายรังเกียจคุณธรรมของมนุษย์ และในปี 1321.5.6 พวกเขาลงโทษทางศาสนาต่อคนบริสุทธิ์
+\CBid[-1,20]\prf\C[4]ผู้เชื่อ：\C[0]    โลกควรจะพินาศในภัยพิบัตินั้น ยกเว้นนักบุญ! ท่านมา!
+\CBid[-1,20]\prf\C[4]ผู้เชื่อ：\C[0]    ท่านปกป้องคนบริสุทธิ์ด้วยการตีสังหารที่ชอบธรรม และตัดเทพเจ้าชั่วร้ายลงใต้ดาบของท่านทีละตัว
 
 #---------------------#-------------------#---------------------  -------------------------------
 
 #by Saintz, remove this line after review.
 
 MIAchildMAMA/prog1
-\CBct[8]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Uh ... would you happen to know \C[4]Timmy\C[0]?
-\CBct[8]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    ...He's a boy, a moot boy.
-\CBid[-1,2]\prf\c[4]Believer：\c[0]    Timmy? ...Moot, you say?
-\CBct[1]\m[triumph]\PRF\C[0]\C[6]Lona：\C[0]   That's right!
-\CBid[-1,20]\prf\c[4]Believer：\c[0]    You should ask that nun over there, she's in charge of those little devils.
-\CBct[1]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Oh!
-\CBid[-1,5]\prf\c[4]Believer：\c[0]    Now, could you stop disturbing me while I pray!?
-\CBct[6]\m[shocked]\Rshake\C[0]\C[6]Lona：\C[0]    Yes... Sorry!
+\CBct[8]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    อืม... คุณรู้จัก \C[4]ทิมมี่\C[0] ไหม?
+\CBct[8]\m[confused]\PRF\C[0]\C[6]โลน่า：\C[0]    ...เขาเป็นเด็กผู้ชาย มูทบอย
+\CBid[-1,2]\prf\c[4]ผู้เชื่อ：\c[0]    ทิมมี่? ...มูท คุณว่า?
+\CBct[1]\m[triumph]\PRF\C[0]\C[6]โลน่า：\C[0]   ถูกต้อง!
+\CBid[-1,20]\prf\c[4]ผู้เชื่อ：\c[0]    คุณควรไปถามนักบวชหญิงคนนั้น ท่านดูแลเด็กๆ พวกนั้น
+\CBct[1]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    โอ้!
+\CBid[-1,5]\prf\c[4]ผู้เชื่อ：\c[0]    ตอนนี้ คุณหยุดรบกวนฉันขณะที่ฉันสวดมนต์ได้ไหม!?
+\CBct[6]\m[shocked]\Rshake\C[0]\C[6]โลน่า：\C[0]    ได้... ขอโทษ!
 
 MIAchildMAMA/prog2
-\CBct[8]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    I was told that you're in charge of children here, I'm looking for \C[4]Timmy\C[0]. He's a moot boy.
-\CBct[8]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    His mother is looking for him.
-\CBid[-1,2]\prf\c[4]Nun：\c[0]    Timmy? \...\...\...Moot.
-\CBid[-1,20]\prf\c[4]Nun：\c[0]    There's so many children here, plenty of moot ones. I've no clue which one of them is your \C[6]Timmy\C[0].
-\CBct[8]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Uh...
+\CBct[8]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    ฉันได้ยินว่าคุณดูแลเด็กๆ ที่นี่ ฉันกำลังหา \C[4]ทิมมี่\C[0] เขาเป็นมูทบอย
+\CBct[8]\m[confused]\PRF\C[0]\C[6]โลน่า：\C[0]    แม่ของเขากำลังหาเขา
+\CBid[-1,2]\prf\c[4]นักบวชหญิง：\c[0]    ทิมมี่? \...\...\...มูท
+\CBid[-1,20]\prf\c[4]นักบวชหญิง：\c[0]    ที่นี่มีเด็กมากมาย เด็กมูทก็เยอะ ฉันไม่รู้ว่าใครคือ \C[6]ทิมมี่\C[0] ของคุณ
+\CBct[8]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    อืม...
 
 MIAchildMAMA/prog3
-\CBct[8]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Maybe you know \C[4]Timmy\C[0]?
-\CBct[8]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    He should be about same size as you are, he's a boy, but moot one.
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    Ah! \C[6]Timmy\C[0]! This little nigga!
-\CBct[2]\m[shocked]\PRF\C[0]\C[6]Lona：\C[0]    Oh, so you do know him? Do you know where I can find him?
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    \C[6]Timmy\C[0] stinks! He's black and he smells like poop! I'm not surprised that his mother sold him.
-\CBct[2]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Stinks? Sold? But his mother said \C[4]Timmy\C[0] was taken away from her.
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    That's how it is! He was sick when he came here. His mother sold him for food and they took him to someone who could cure him.
-\CBct[2]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    Cure him... A doctor?... Or maybe priest?!
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    I don't know!
-\CBct[8]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Uh...
+\CBct[8]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    คุณอาจจะรู้จัก \C[4]ทิมมี่\C[0]?
+\CBct[8]\m[confused]\PRF\C[0]\C[6]โลน่า：\C[0]    เขาควรจะมีขนาดประมาณคุณ เขาเป็นเด็กผู้ชาย แต่เป็นมูท
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    อ๊ะ! \C[6]ทิมมี่\C[0]! เด็กนิโกรตัวนี้!
+\CBct[2]\m[shocked]\PRF\C[0]\C[6]โลน่า：\C[0]    โอ้ คุณรู้จักเขาจริงๆ เหรอ? คุณรู้ไหมว่าฉันจะหาเขาได้ที่ไหน?
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    \C[6]ทิมมี่\C[0] เหม็น! เขาดำและเหม็นกลิ่นอึ! ไม่แปลกใจที่แม่ของเขาขายเขา
+\CBct[2]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    เหม็น? ขาย? แต่แม่ของเขาบอกว่า \C[4]ทิมมี่\C[0] ถูกพรากไปจากเธอ
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    นั่นแหละ! เขาป่วยตอนมาที่นี่ แม่ของเขาขายเขาเพื่อแลกอาหาร และพวกเขาพาเขาไปหาคนที่รักษาเขาได้
+\CBct[2]\m[confused]\PRF\C[0]\C[6]โลน่า：\C[0]    รักษาเขา... หมอ?... หรือบางทีบาทหลวง?!
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    ฉันไม่รู้!
+\CBct[8]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    อืม...
 
 MIAchildMAMA/prog4
-\CBct[8]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Uh... I'm looking for \C[4]Timmy\C[0]! He was sick when he came here.
-\CBid[-1,2]\prf\c[4]Nun：\c[0]    \C[6]Timmy\C[0]?
-\CBct[20]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    That's right! His mother is looking for him. She told me that believers took him away from her.
-\CBid[-1,20]\prf\c[4]Nun：\c[0]    Is he a moot?
-\CBct[20]\m[pleased]\PRF\C[0]\C[6]Lona：\C[0]    Yes, that's him!
-\CBid[-1,20]\prf\c[4]Nun：\c[0]    Just go to the confessional room and ask about him, I often see him over there.
-\CBct[20]\m[triumph]\PRF\C[0]\C[6]Lona：\C[0]    Thank you so much!
+\CBct[8]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    อืม... ฉันกำลังหา \C[4]ทิมมี่\C[0]! เขาป่วยตอนมาที่นี่
+\CBid[-1,2]\prf\c[4]นักบวชหญิง：\c[0]    \C[6]ทิมมี่\C[0]?
+\CBct[20]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    ถูกต้อง! แม่ของเขากำลังหาเขา เธอบอกฉันว่าผู้เชื่อพรากเขาไปจากเธอ
+\CBid[-1,20]\prf\c[4]นักบวชหญิง：\c[0]    เขาเป็นมูทหรือเปล่า?
+\CBct[20]\m[pleased]\PRF\C[0]\C[6]โลน่า：\C[0]    ใช่ นั่นแหละ!
+\CBid[-1,20]\prf\c[4]นักบวชหญิง：\c[0]    ไปที่ห้องสารภาพบาปแล้วถามเกี่ยวกับเขา ฉันมักจะเห็นเขาอยู่ที่นั่น
+\CBct[20]\m[triumph]\PRF\C[0]\C[6]โลน่า：\C[0]    ขอบคุณมาก!
 
 MIAchildMAMA/prog5
-\CBct[8]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Uh... I was told that, I can find \C[4]Timmy\C[0] here.
-\CBct[8]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    He's a moot boy.
-\SETpl[HumPriest2]\Lshake\prf\CBid[-1,8]\c[4]Believer：\c[0]    \C[6]Timmy\C[0]? Yeah, I do know him.
-\CBct[20]\m[pleased]\plf\PRF\C[0]\C[6]Lona：\C[0]    Oh, that's great! Where is he? Is he still in the monastery?
-\CBct[20]\m[triumph]\plf\PRF\C[0]\C[6]Lona：\C[0]    His mother was looking for him all this time.
-\SETpl[HumPriest2]\Lshake\prf\CBid[-1,2]\c[4]Believer：\c[0]    His mother? Wasn't she the one who sold him in the first place?
-\CBct[20]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    So, she really did sell him\..\..\..? \m[shocked]\Rshake\{Huh?!\}
-\SETpl[HumPriest2]\Lshake\prf\CBid[-1,20]\c[4]Believer：\c[0]    Yes, she's a liar! She exchanged her own son for some food.
-\SETpl[HumPriest2]\Lshake\prf\CBid[-1,20]\c[4]Believer：\c[0]    Did she tell you to come here? Don't believe what she says.
-\SETpl[HumPriest2]\Lshake\prf\CBid[-1,20]\c[4]Believer：\c[0]    Just ignore it.
-\SETpl[HumPriest2]\Lshake\prf\CBid[-1,20]\c[4]Believer：\c[0]    Go back and tell her that her \C[6]Timmy\C[0] in the future will become a fine believer of the \C[6]Saint\C[0]!
-\CBct[8]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    Unbelievable...
+\CBct[8]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    อืม... ฉันได้ยินว่า ฉันสามารถหา \C[4]ทิมมี่\C[0] ที่นี่
+\CBct[8]\m[confused]\PRF\C[0]\C[6]โลน่า：\C[0]    เขาเป็นมูทบอย
+\SETpl[HumPriest2]\Lshake\prf\CBid[-1,8]\c[4]ผู้เชื่อ：\c[0]    \C[6]ทิมมี่\C[0]? ใช่ ฉันรู้จักเขา
+\CBct[20]\m[pleased]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    โอ้ ดีจัง! เขาอยู่ที่ไหน? เขายังอยู่ในวัดไหม?
+\CBct[20]\m[triumph]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    แม่ของเขาหาเขามาตลอด
+\SETpl[HumPriest2]\Lshake\prf\CBid[-1,2]\c[4]ผู้เชื่อ：\c[0]    แม่ของเขา? เธอไม่ใช่คนที่ขายเขาไปตั้งแต่แรกหรอกหรือ?
+\CBct[20]\m[flirty]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    ดังนั้น เธอจริงๆ ขายเขา\..\..\..? \m[shocked]\Rshake\{อะ?!\}
+\SETpl[HumPriest2]\Lshake\prf\CBid[-1,20]\c[4]ผู้เชื่อ：\c[0]    ใช่ เธอเป็นคนโกหก! เธอแลกลูกชายของตัวเองเพื่ออาหาร
+\SETpl[HumPriest2]\Lshake\prf\CBid[-1,20]\c[4]ผู้เชื่อ：\c[0]    เธอบอกให้คุณมาที่นี่หรือ? อย่าเชื่อสิ่งที่เธอพูด
+\SETpl[HumPriest2]\Lshake\prf\CBid[-1,20]\c[4]ผู้เชื่อ：\c[0]    ลืมมันไป
+\SETpl[HumPriest2]\Lshake\prf\CBid[-1,20]\c[4]ผู้เชื่อ：\c[0]    กลับไปบอกเธอว่า \C[6]ทิมมี่\C[0] ของเธอในอนาคตจะกลายเป็นผู้เชื่อที่ดีของ \C[6]นักบุญ\C[0]!
+\CBct[8]\m[flirty]\plf\PRF\C[0]\C[6]โลน่า：\C[0]    ไม่น่าเชื่อ...
 
 MIAchildMAMA/prog5_1
-\CBct[8]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    What should I do now? Should I go back to the camp and tell his mother everything?
+\CBct[8]\m[confused]\PRF\C[0]\C[6]โลน่า：\C[0]    ฉันควรทำอะไรต่อไป? ฉันควรกลับไปที่ค่ายและบอกแม่ของเขาทุกอย่างหรือไม่?
 
 #---------------------#-------------------#---------------------  ------------------------------- Nun Quest
 
 nun/keyBegin
-\CBid[-1,20]\prf\C[0]\C[4]Nun：\C[0]    
+\CBid[-1,20]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    
 
 ToMT_crunch/0
-\CBct[8]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    Um...
-\CBid[-1,20]\prf\C[0]\C[4]Nun：\C[0]    Oh, an innocent outsider.
-\CBid[-1,20]\prf\C[0]\C[4]Nun：\C[0]    Would you by chance be heading to the \c[6]Mountain Monastery\c[0] in the east?
-\CBct[2]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    What? Me?
-\CBid[-1,20]\prf\C[0]\C[4]Nun：\C[0]    Yes. You.
-\CBct[2]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    Why?
-\CBid[-1,20]\prf\C[0]\C[4]Nun：\C[0]    As you can see, we are short of helping hands to do so.
-\CBid[-1,20]\prf\C[0]\C[4]Nun：\C[0]    My flock is in need of monks with more medical experience. Do you not wish to contribute to the gospel of the Saint?
-\CBid[-1,20]\prf\C[0]\C[4]Nun：\C[0]    It is time that the brothers and sisters of the \c[6]Mountain Monastery\c[0] returned to us.
+\CBct[8]\m[confused]\PRF\C[0]\C[6]โลน่า：\C[0]    อืม...
+\CBid[-1,20]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    โอ้ คนนอกที่บริสุทธิ์
+\CBid[-1,20]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    คุณโดยบังเอิญจะไป \c[6]วัดภูเขา\c[0] ทางตะวันออกหรือไม่?
+\CBct[2]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    อะไรนะ? ฉัน?
+\CBid[-1,20]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    ใช่ คุณ
+\CBct[2]\m[confused]\PRF\C[0]\C[6]โลน่า：\C[0]    ทำไม?
+\CBid[-1,20]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    อย่างที่คุณเห็น เราขาดแคลนคนช่วยเหลือ
+\CBid[-1,20]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    ฝูงของฉันต้องการพระที่มีประสบการณ์ทางการแพทย์มากขึ้น คุณไม่อยากมีส่วนร่วมในข่าวประเสริฐของนักบุญหรือ?
+\CBid[-1,20]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    ถึงเวลาแล้วที่พี่น้องของ \c[6]วัดภูเขา\c[0] จะกลับมาหาเรา
 
 ToMT_crunch/0_brd
-\board[Head to the Mountain Monastery]
-Goal：Head to the Mountain Monastery
-Reward：None
-Client：Saint's Church
-TIme Limit：Until Completion
-Head east from Saint's Church to reach the Mountain Monastery, then inform the monks there to aid the Church.
+\board[ไปยังวัดภูเขา]
+เป้าหมาย：ไปยังวัดภูเขา
+รางวัล：ไม่มี
+ผู้ว่าจ้าง：โบสถ์นักบุญ
+เวลาที่จำกัด：จนกว่าจะเสร็จสิ้น
+เดินทางไปทางตะวันออกจากโบสถ์นักบุญเพื่อไปถึงวัดภูเขา แล้วแจ้งพระที่นั่นให้ช่วยเหลือโบสถ์
 
 ToMT_crunch/0_accept
-\CBct[20]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Sure. If I pass by I can let the monks know.
-\CBid[-1,20]\prf\C[0]\C[4]Nun：\C[0]    Good. May the Saint guide your path.
+\CBct[20]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    ได้ ถ้าฉันผ่านไป ฉันจะบอกพระที่นั่น
+\CBid[-1,20]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    ดี ขอให้นักบุญนำทางคุณ
 
 ToMT_crunch/1_alreadyDid
-\CBct[20]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Actually... I have been there.
-\CBct[8]\m[tired]\PRF\C[0]\C[6]Lona：\C[0]    The monks with medical experience have all been killed by monsters...
-\CBid[-1,8]\prf\C[0]\C[4]Nun：\C[0]    Oh dear\..\..\.. May the Saint guide their souls.
-\CBct[8]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    ...
+\CBct[20]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    จริงๆ แล้ว... ฉันเคยไปที่นั่น
+\CBct[8]\m[tired]\PRF\C[0]\C[6]โลน่า：\C[0]    พระที่มีประสบการณ์ทางการแพทย์ถูกปีศาจฆ่าหมดแล้ว...
+\CBid[-1,8]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    โอ้เจ้าค่ะ\..\..\.. ขอให้นักบุญนำทางวิญญาณของพวกเขา
+\CBct[8]\m[confused]\PRF\C[0]\C[6]โลน่า：\C[0]    ...
 
 ToMT_crunch/0_weak
-\CBid[-1]\m[confused]\C[0]\C[4]Nun：\C[0]    I have no use for sniveling weaklings like you.
-\CBct[6]\m[sad]\PRF\C[0]\C[6]Lona：\C[0]    Sorry...
-\narr Lona looks too weak.
+\CBid[-1]\m[confused]\C[0]\C[4]นักบวชหญิง：\C[0]    ฉันไม่มีประโยชน์อะไรกับคนอ่อนแออย่างคุณ
+\CBct[6]\m[sad]\PRF\C[0]\C[6]โลน่า：\C[0]    ขอโทษ...
+\narr โลน่าดูอ่อนแอเกินไป
 
 nun/abandom_bb0
-\CBct[6]\m[tired]\PRF\C[0]\C[6]Lona：\C[0]    Um.... Could you please look after my child...
+\CBct[6]\m[tired]\PRF\C[0]\C[6]โลน่า：\C[0]    อืม.... ช่วยดูแลลูกของฉันหน่อยได้ไหม...
 
 nun/abandom_bb1
-\CBid[-1,8]\prf\C[0]\C[4]Nun：\C[0]    Are you also a liar that abandons their children?
-\CBid[-1,8]\prf\C[0]\C[4]Nun：\C[0]    \..\..\..
-\CBid[-1,8]\prf\C[0]\C[4]Nun：\C[0]    Forget it. Hand it over.
-\CBct[6]\m[sad]\PRF\C[0]\C[6]Lona：\C[0]    Sorry...
+\CBid[-1,8]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    คุณก็เป็นคนโกหกที่ทิ้งลูกของตัวเองหรือ?
+\CBid[-1,8]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    \..\..\..
+\CBid[-1,8]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    ลืมมันไป ส่งมา
+\CBct[6]\m[sad]\PRF\C[0]\C[6]โลน่า：\C[0]    ขอโทษ...
 
 nun/abandom_bb2
-\CBct[8]\m[tired]\PRF\C[0]\C[6]Lona：\C[0]    \..\..\..
-\CBct[8]\m[sad]\PRF\C[0]\C[6]Lona：\C[0]    Sorry... Mama's so sorry...
+\CBct[8]\m[tired]\PRF\C[0]\C[6]โลน่า：\C[0]    \..\..\..
+\CBct[8]\m[sad]\PRF\C[0]\C[6]โลน่า：\C[0]    ขอโทษ... แม่ขอโทษมาก...
 
 nun/abandom_bb1_failed
-\CBid[-1,5]\prf\C[0]\C[4]Nun：\C[0]    Yet you have no child to speak of.
-\CBct[20]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Um... Yeah...
+\CBid[-1,5]\prf\C[0]\C[4]นักบวชหญิง：\C[0]    แต่คุณไม่มีลูกที่จะพูดถึง
+\CBct[20]\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    อืม... ใช่...
 
 nun/opt_abandom_bb
-Orphan
+เด็กกำพร้า
 
 nun/opt_abandom_tommy
-Tommy
+ทอมมี่
 
 nun/opt_TagMapMT_crunch
-Um...
+อืม...
 
 #---------------------#-------------------#---------------------  -------------------------------
 
 healer/Qmsg0
-I don't want to touch these filthy liars.
+ฉันไม่อยากสัมผัสพวกโกหกสกปรกเหล่านี้
 
 healer/Qmsg1
-The grace of the Saint!
+ความกรุณาของนักบุญ!
 
 healer/Qmsg2
-This is the fate of liars.
+นี่คือชะตากรรมของพวกโกหก
 
 healer/Qmsg3
-Without the Saint won't survive!
+ไม่มีนักบุญจะไม่รอด!
 
 patient/Qmsg0
-Wuuwuu....
+อู๊วู๊...
 
 patient/Qmsg1
 ......
 
 follower/Qmsg0
-O Great Saint!
+โอ้นักบุญผู้ยิ่งใหญ่!
 
 follower/Qmsg1
-Come onto us!
+มาสู่เรา!
 
 follower/Qmsg2
-Forgive our sins!
+ให้อภัยบาปของเรา!
 
 follower/Qmsg3
-Burn all the evil liars!
+เผาพวกโกหกชั่วร้ายทั้งหมด!
 
 prayer/Qmsg0
-O Saint! Forgive me!
+โอ้นักบุญ! ให้อภัยฉัน!
 
 prayer/Qmsg1
-I have sinned!
+ฉันได้ทำบาป!
 
 prayer/Qmsg2
-Praise the Saint! O Great Saint!
+สรรเสริญนักบุญ! โอ้นักบุญผู้ยิ่งใหญ่!
 
 prayer/Qmsg3
-I'm sorry! Forgive me!
+ขอโทษ! ให้อภัยฉัน!
 
 kid1M/Qmsg0
-My sister's gone!
+พี่สาวของฉันหายไป!
 
 kid1M/Qmsg1
-The Greenskins must have taken her away!
+พวกผิวเขียวต้องพาพี่สาวไป!
 
 kid1M/Qmsg2
-Sister! Where are you?
+พี่สาว! อยู่ไหน?
 
 mom/Qmsg0
-My baby!
+ลูกของฉัน!
 
 mom/Qmsg1
-O Saint! Help me, find her!
+โอ้นักบุญ! ช่วยฉัน หาลูกสาวฉัน!
 
 mom/Qmsg2
-She's missing!
+เธอหายไป!
 
 kid2M/Qmsg0
-You smell bad!
+คุณเหม็น!
 
 kid2M/Qmsg1
-You're shitting your pants!
+คุณถ่ายกางเกง!
 
 kid2M/Qmsg1
-Stinky! Very funny!
+เหม็น! ตลกมาก!
 
 SaintState/begin0
-\board[Anonymous Saint]
-Anonymous Saint said：Materialism symbolizes weakness, and whoever claims to be a Saint, shall face new challenges naked.
-Gospel of the Saint 1：28
+\board[นักบุญนิรนาม]
+นักบุญนิรนามกล่าว：ความเป็นวัตถุหมายถึงความอ่อนแอ และผู้ใดอ้างว่าเป็นนักบุญ จะต้องเผชิญกับความท้าทายใหม่โดยเปลือยกาย
+ข่าวประเสริฐของนักบุญ 1：28
 
 SaintState/begin1
-\board[Anonymous Saint]
-Anonymous Saint said：Saints like me are those who know the dead, No help is needed to fight death.
-Gospel of the Saint 25：6
+\board[นักบุญนิรนาม]
+นักบุญนิรนามกล่าว：นักบุญอย่างฉันคือผู้ที่รู้จักคนตาย ไม่ต้องการความช่วยเหลือในการต่อสู้กับความตาย
+ข่าวประเสริฐของนักบุญ 25：6
 
 SaintState/begin2
-\board[Anonymous Saint]
-Anonymous Saint said：Cowardly hypocrites, I'm waiting at the Naihe Bridge, why do you still hesitate!
-True and False Saints 5：12
+\board[นักบุญนิรนาม]
+นักบุญนิรนามกล่าว：คนหน้าไหว้หลังหลอกที่ขี้ขลาด ฉันรออยู่ที่สะพานไนเหอ ทำไมคุณยังลังเล!
+นักบุญจริงและปลอม 5：12
 
 SaintState/begin3
-\board[Anonymous Saint]
-Anonymous Saint said：If you ask for help, you should not be a Saint.
-True and False Saints 10：24
+\board[นักบุญนิรนาม]
+นักบุญนิรนามกล่าว：ถ้าคุณขอความช่วยเหลือ คุณไม่ควรเป็นนักบุญ
+นักบุญจริงและปลอม 10：24
 
 SaintState/begin4
-\board[Anonymous Saint]
-Anonymous Saint said：Watching the sunset, I wait to praise it.
-Gospel of the Saint 123：456
+\board[นักบุญนิรนาม]
+นักบุญนิรนามกล่าว：มองดูพระอาทิตย์ตก ฉันรอที่จะสรรเสริญมัน
+ข่าวประเสริฐของนักบุญ 123：456

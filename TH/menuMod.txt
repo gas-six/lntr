@@ -1,50 +1,52 @@
+XXXXXXXX
+
 mod/title
 MODS
 
 thumbnail/no_preview
-No preview
+ไม่มีภาพตัวอย่าง
 
 title/status
-UMM mods： loaded %d, enabled %d, found %d
+UMM mods： โหลดแล้ว %d, เปิดใช้งาน %d, พบ %d
 
 achievement/top_text
-Found new mod
+พบ mod ใหม่
 
 setting/show_on_startup
-Show mod manager on startup
+แสดงตัวจัดการ mod เมื่อเริ่มเกม
 
 mod/description
-The best in-game mod manager and dev library
+ตัวจัดการ mod และไลบรารีสำหรับนักพัฒนาที่ดีที่สุดในเกม
 
 top_menu/umm
 Ultra Mod Manager
 
 top_menu/restart
-Restart to apply
+รีสตาร์ทเพื่อใช้งาน
 
 top_menu/restart_failed
-Auto restart failed. Please start game manually.
+การรีสตาร์ทอัตโนมัติล้มเหลว กรุณาเริ่มเกมด้วยตนเอง
 
 top_menu/accept
-Accept
+ยอมรับ
 
 top_menu/save
-Save
+บันทึก
 
 top_menu/revert
-Revert
+ย้อนกลับ
 
 top_menu/show_on_startup_true
-Show on startup： Yes
+แสดงเมื่อเริ่มเกม： ใช่
 
 top_menu/show_on_startup_false
-Show on startup： No
+แสดงเมื่อเริ่มเกม： ไม่
 
 preview/loaded
-[Loaded]
+[โหลดแล้ว]
 
 preview/wait_for_restart
-[Restart to apply]
+[รีสตาร์ทเพื่อใช้งาน]
 
 preview/failed
-[Load failed]
+[โหลดล้มเหลว]

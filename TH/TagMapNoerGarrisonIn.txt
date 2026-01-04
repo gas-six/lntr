@@ -1,2 +1,4 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-Noer Guardsmen Headquarters \optB[Leave,Enter]
+สำนักงานใหญ่ทหารรักษาการณ์นอเอร์ \optB[ออก,เข้า]

@@ -1,28 +1,28 @@
 begin/0
 \board[G8Demon King Challenge]
-Hello, my warriors.
-Welcome to the \C[2]G8Demon King Challenge\C[0].
-I've got two of the toughest kings in the game right now for you.
-Within \C[6]10\C[0] minutes, you must equip yourself and take down the kings.
+สวัสดีนักรบของกู
+ยินดีต้อนรับสู่ \C[2]G8Demon King Challenge\C[0]
+กูมีราชาที่แกร่งที่สุดในเกมสองตัวมาให้แก
+ภายใน \C[6]10\C[0] นาที แกต้องเตรียมตัวและล้มราชาให้ได้
 \n
-Participants will receive a G8 cool card.
-If you successfully defeat the king, you will receive a miniature model of the game character.
+ผู้เข้าร่วมจะได้รับการ์ดเท่ๆ G8
+ถ้าแกล้มราชาได้สำเร็จ แกจะได้รับโมเดลจำลองตัวละครในเกม
 
 begin/1
-\CBmp[Shopper,19] This is the Quartermaster from whom you can request free equipment.
-\CBmp[Healer,19] Strange Doctor can restore your attributes to full.
-\CBmp[Reseter,19] Cute Maid will reset your talent points.
+\CBmp[Shopper,19] นี่คือหัวหน้าคลังที่แกสามารถขออุปกรณ์ฟรีได้
+\CBmp[Healer,19] หมอแปลกๆ สามารถฟื้นฟูค่าพลังของแกให้เต็มได้
+\CBmp[Reseter,19] สาวใช้น่ารักจะรีเซ็ตค่าพรสวรรค์ของแก
 
 begin/2
 \board[ready to start]
-Please ask the Quartermaster for your equipment first and be aware of your carry weight.
-then press\C[6]X\C[0] to enter the menu to set your items, equipment, skills and talents.
+กรุณาขออุปกรณ์จากหัวหน้าคลังก่อนและระวังน้ำหนักที่แกแบก
+จากนั้นกด\C[6]X\C[0] เพื่อเข้าเมนูตั้งค่าของแก อุปกรณ์ ทักษะ และพรสวรรค์
 \n
 \n
-My best wishes and good luck.
+กูขอให้โชคดีและสู้ต่อไป
 
 Pop/resetTrait
-Reset Talents
+รีเซ็ตพรสวรรค์
 
 Pop/HealPlayer
-Restore life and stamina
+ฟื้นฟูชีวิตและพลังงาน

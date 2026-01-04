@@ -1,13 +1,15 @@
+XXXXXXXX
+
 ####################################--------------------- overmap
 this/OvermapEnter
-\m[confused]Lost Temple\optB[Leave,Enter]
+\m[confused]วิหารสาบสูญ\optB[ออก,เข้า]
 
 this/3to4
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    \..\..\..
-\CBct[20]\m[serious]\c[6]Lona：\c[0]    This is the place!
-\CamMP[RapePoint]\m[serious]\c[6]Lona：\c[0]    It looks very dangerous ahead, I'll have to be careful...
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    \..\..\..
+\CBct[20]\m[serious]\c[6]โลน่า：\c[0]    นี่แหละที่ที่ต้องการ!
+\CamMP[RapePoint]\m[serious]\c[6]โลน่า：\c[0]    ดูเหมือนข้างหน้าจะอันตรายมาก หนูต้องระวังตัว...
 
 this/4to5
-\CBct[20]\m[flirty]\c[6]Lona：\c[0]    Success! I should head back to town and get my reward!
+\CBct[20]\m[flirty]\c[6]โลน่า：\c[0]    สำเร็จแล้ว! หนูควรกลับเข้าเมืองและไปรับรางวัลของหนู!
 
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

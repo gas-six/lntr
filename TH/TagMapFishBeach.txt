@@ -1,120 +1,122 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-\m[confused]Broken shell Beach\optB[Leave,Enter]
+\m[confused]หาดเปลือกหอยแตก\optB[ออก,เข้า]
 
 begin/Begin0
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    Um......
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    อืม......
 
 begin/Begin1
-\CBct[2]\m[flirty]\c[6]Lona：\c[0]    What kind of ceremony is this?
+\CBct[2]\m[flirty]\c[6]โลน่า：\c[0]    พิธีแบบนี้คืออะไรนะ?
 
 commoner/Qmsg0
-Quack Quack..! He's dead...!
+คว๊ก คว๊ก..! เขาตายแล้ว...!
 
 commoner/Qmsg1
-My poor...Brother...
+พี่ชายที่น่าสงสารของฉัน...
 
 commoner/Qmsg2
-So sad...
+เศร้าจัง...
 
 guard/Qmsg0
-Go away...!
+ไปให้พ้น...!
 
 guard/Qmsg1
-This is no place for outsiders...!
+ที่นี่ไม่ใช่ที่ของคนนอก...!
 
 guard/Qmsg2
-Move along...!
+เดินผ่านไปเร็วๆ...!
 
 #########################################################################
 
 QuGiver/Begin0_Slave
-\SndLib[FishkindSmSpot]\CBid[-1,5]\SETpl[FrogCommon]\Lshake\c[4]Fishkind：\c[0]    Woman... Go back to breeding...!
+\SndLib[FishkindSmSpot]\CBid[-1,5]\SETpl[FrogCommon]\Lshake\c[4]ฟิชคินด์：\c[0]    ผู้หญิง... กลับไปผสมพันธุ์เถอะ...!
 
 QuGiver/Begin0
-\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\c[4]Fishkind：\c[0]    Outsider...? What is it? \optB[Never mind,Ceremony,Evilscales<r=HiddenOPT0>,Reckless<r=HiddenOPT1>,Help<r=HiddenOPT2>]
+\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\c[4]ฟิชคินด์：\c[0]    คนนอก...? มีอะไร? \optB[ไม่เป็นไร,พิธี,อีวิลสเกลส<r=HiddenOPT0>,ประมาท<r=HiddenOPT1>,ช่วยเหลือ<r=HiddenOPT2>]
 
 QuGiver/Festival0
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Um...What is this ceremony? Is it about the Sea Witch?
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    Sacrifice.....
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    This is... My brother's... Funeral....
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    A return to sea... Ceremony....
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    A funeral?! I'm so sorry!
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    He was murdered...by those Evilscales....
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม... พิธีนี้คืออะไร? เกี่ยวกับแม่มดทะเลหรือเปล่า?
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    การบูชายัญ.....
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    นี่คือ... งานศพ... ของพี่ชายฉัน....
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    พิธี... กลับสู่ทะเล....
+\CBct[6]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    งานศพ?! ขอโทษด้วยนะ!
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    เขาถูกฆ่า... โดยพวกอีวิลสเกลส....
 
 QuGiver/Fragment0
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Evilscales? Who are the Evilscales?
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    They're children...Who are born with no...soul...
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    They are....servants of the Sea Witch....
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    When they're born... We must immediately return them to the Sea Witch...
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Um... I don't quite understand what you mean?
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    But...The Sea Witch is being Reckless....
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    What?
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อีวิลสเกลส? พวกอีวิลสเกลสคือใคร?
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    พวกเขาเป็นเด็ก... ที่เกิดมาไม่มี... วิญญาณ...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    พวกเขาเป็น... ผู้รับใช้ของแม่มดทะเล....
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    เมื่อพวกเขาเกิด... เราต้องส่งกลับไปหาแม่มดทะเลทันที...
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม... หนูไม่ค่อยเข้าใจเลย?
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    แต่... แม่มดทะเลกำลังประมาท....
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อะไรนะ?
 
 QuGiver/tmpOutControl
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    The Evilscales that are sent to the sea witch...Should remain in the temple...And serve the sea witch...
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    But the fake sea witch won...And the Evilscales have gone crazy...
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    Our ancestral spirit...Has returned with the Sea Witch's Evilscales...
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    This doesn't make any sense!
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    อีวิลสเกลสที่ถูกส่งไปหาแม่มดทะเล... ควรอยู่ในวัด... และรับใช้แม่มดทะเล...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    แต่แม่มดทะเลปลอมชนะ... และอีวิลสเกลสก็บ้าไปหมด...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    วิญญาณบรรพบุรุษของเรา... กลับมาพร้อมกับอีวิลสเกลสของแม่มดทะเล...
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    นี่มันไม่มีเหตุผลเลย!
 
 QuGiver/help0
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Do you need help? Maybe there's something I can do?
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    Outsider...? You...? A woman...? Maybe...?
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    My brother and I...We were both potters...
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    Inside of his\c[4]Crusty Crab's Pottery shop\c[0]...There are still...Evilscales lingering...
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    His spirit will not attack us...but the Evilscales will...
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    The false Sea Witch's servants will kill us mercilessly...
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    Bring me his secret formula...I must have it...So that I may, uh, carry on his legacy of course...
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    คุณต้องการความช่วยเหลือไหม? อาจจะมีอะไรที่หนูช่วยได้?
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    คนนอก...? คุณ...? ผู้หญิง...? อาจจะ...?
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    พี่ชายกับฉัน... เราเป็นช่างปั้นทั้งคู่...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    ในร้านปั้นกระถาง\c[4]Crusty Crab's Pottery shop\c[0]... ยังมี... อีวิลสเกลสอยู่...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    วิญญาณของเขาจะไม่โจมตีเรา... แต่อีวิลสเกลสจะโจมตี...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    ผู้รับใช้ของแม่มดทะเลปลอมจะฆ่าเราโดยไม่ปราณี...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    นำสูตรลับของเขามาให้ฉัน... ฉันต้องได้มัน... เพื่อที่จะสืบทอดมรดกของเขาต่อไปแน่นอน...
 
 QuGiver/help_board
-\board[The Secret Formula]
-Goal：Retrieve the Secret Formula\i[227]
-Reward：Unknown
-Client：Fishkind Brother
-Quest Term：Single fulfillment
-Go to the\c[4]Crusty Crab's Pot Shop\c[0] in the east and retrieve the secret pot making formula for his brother.
+\board[สูตรลับ]
+เป้าหมาย：นำสูตรลับกลับมา\i[227]
+รางวัล：ไม่ทราบ
+ผู้ว่าจ้าง：พี่ชายฟิชคินด์
+เงื่อนไขภารกิจ：ทำครั้งเดียว
+ไปที่ร้านปั้นกระถาง\c[4]Crusty Crab's Pot Shop\c[0] ทางตะวันออกและนำสูตรปั้นกระถางลับมาให้พี่ชายของเขา
 
 QuGiver/help_cancel
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uh... Never mind.
+\CBct[20]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม... ไม่เป็นไร
 
 QuGiver/help_accept
-\CBct[20]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    No problem! I can handle it.
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    I will deliver your brother's legacy to you!
+\CBct[20]\m[triumph]\plf\Rshake\c[6]โลน่า：\c[0]    ไม่มีปัญหา! หนูทำได้
+\CBct[20]\m[pleased]\plf\PRF\c[6]โลน่า：\c[0]    หนูจะนำมรดกของพี่ชายคุณมาให้คุณ!
 
 ######################################################################### QuestDone
 
 QuGiver/done0
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uh...
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม...
 
 QuGiver/done1
-\CBct[20]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    I got you the secret formula, now your brother's spirit will be able to rest in peace, right?
-\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    Outsider...? You...? Actually have it...?
-\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    Give it to me, quickly.... I must have it!!!
+\CBct[20]\m[triumph]\plf\Rshake\c[6]โลน่า：\c[0]    หนูเอาสูตรลับมาให้แล้ว ตอนนี้วิญญาณของพี่ชายคุณจะได้พักผ่อนอย่างสงบใช่ไหม?
+\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    คนนอก...? คุณ...? จริงๆ แล้วมีมัน...?
+\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    ให้ฉันเร็วๆ... ฉันต้องได้มัน!!!
 
 QuGiver/done2
-\CBct[20]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    Why are you being so impatient?
-\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    Hehehehe...As soon as I have the formula...
-\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    My Chum Bucket pot shop....Will rule this entire island's....Pottery production....
-\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    Hehahahaha....MUHAHAHAHAHAHA..........
-\CBct[20]\m[confused]\plf\Rshake\c[6]Lona：\c[0]    Uh...?
-\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    A Magic conch\..\..\.....? What is this...?
-\CBct[8]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    I don't understand it either，but I guess that's what it says?
-\SndLib[FishkindSmSpot]\CBid[-1,6]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    The secret formula is....Fake!?
-\SndLib[FishkindSmSpot]\CBid[-1,6]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    Im...Poss...Ible....
-\CBct[20]\m[confused]\plf\Rshake\c[6]Lona：\c[0]    Um...Are you feeling okay?
-\SndLib[FishkindSmSpot]\CBid[-1,6]\SETpl[FrogCommon]\Lshake\prf\c[4]Fishkind：\c[0]    \{Get out of here...!
+\CBct[20]\m[flirty]\plf\Rshake\c[6]โลน่า：\c[0]    ทำไมคุณถึงรีบร้อนขนาดนี้?
+\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    ฮิฮิฮิ... เมื่อฉันได้สูตรแล้ว...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    ร้านปั้นกระถาง Chum Bucket ของฉัน... จะครองการผลิตกระถางทั้งเกาะนี้...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    เฮอะฮ่าฮ่า... มุฮ่าฮ่าฮ่าฮ่า..........
+\CBct[20]\m[confused]\plf\Rshake\c[6]โลน่า：\c[0]    อืม...?
+\SndLib[FishkindSmSpot]\CBid[-1,8]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    หอยสั่งการเวทย์มนต์\..\..\.....? นี่คืออะไร...?
+\CBct[8]\m[flirty]\plf\Rshake\c[6]โลน่า：\c[0]    หนูก็ไม่เข้าใจเหมือนกัน，แต่หนูว่ามันเขียนไว้อย่างนั้น?
+\SndLib[FishkindSmSpot]\CBid[-1,6]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    สูตรลับคือ... ปลอม!?
+\SndLib[FishkindSmSpot]\CBid[-1,6]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    ไม่... มี... ทาง...
+\CBct[20]\m[confused]\plf\Rshake\c[6]โลน่า：\c[0]    อืม... คุณเป็นอะไรไหม?
+\SndLib[FishkindSmSpot]\CBid[-1,6]\SETpl[FrogCommon]\Lshake\prf\c[4]ฟิชคินด์：\c[0]    \{ออกไปจากที่นี่...!
 
 QuGiver/done3
-\SndLib[FishkindSmSpot]\prf\c[4]Detective：\c[0]    \{Wait... Just... A moment...!!
+\SndLib[FishkindSmSpot]\prf\c[4]นักสืบ：\c[0]    \{รอ... แค่... สักครู่...!!
 
 QuGiver/done4
-\SndLib[FishkindSmSpot]\CBmp[Detective,20]\plf\c[4]Detective：\c[0]    I already know everything!
-\SndLib[FishkindSmSpot]\CBmp[Detective,20]\plf\c[4]Detective：\c[0]    You murdered the crusty crab!
-\SndLib[FishkindSmSpot]\CBid[-1,6]\SETpl[FrogCommon]\Lshake\c[4]Fishkind：\c[0]    Haha...The secret formula is fake....
-\SndLib[FishkindSmSpot]\CBmp[Detective,5]\plf\c[4]Detective：\c[0]    You murdered the Crusty Crab!!!
-\SndLib[FishkindSmSpot]\CBmp[Detective,20]\plf\c[4]Detective：\c[0]    You're coming with us... Let's go... Immediately...
-\SndLib[FishkindSmSpot]\CBid[-1,6]\SETpl[FrogCommon]\Lshake\c[4]Fishkind：\c[0]    Ha...Ha...Haha...
+\SndLib[FishkindSmSpot]\CBmp[Detective,20]\plf\c[4]นักสืบ：\c[0]    ฉันรู้ทุกอย่างแล้ว!
+\SndLib[FishkindSmSpot]\CBmp[Detective,20]\plf\c[4]นักสืบ：\c[0]    คุณฆ่าปูแก่!
+\SndLib[FishkindSmSpot]\CBid[-1,6]\SETpl[FrogCommon]\Lshake\c[4]ฟิชคินด์：\c[0]    ฮ่า... สูตรลับเป็นของปลอม....
+\SndLib[FishkindSmSpot]\CBmp[Detective,5]\plf\c[4]นักสืบ：\c[0]    คุณฆ่าปูแก่!!!
+\SndLib[FishkindSmSpot]\CBmp[Detective,20]\plf\c[4]นักสืบ：\c[0]    คุณต้องไปกับเรา... ไปเลย... ทันที...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\SETpl[FrogCommon]\Lshake\c[4]ฟิชคินด์：\c[0]    ฮ่า... ฮ่า... ฮ่า...
 
 QuGiver/done_end
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Uh... What was that all about?
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    อืม... นี่มันเรื่องอะไรกัน?
 
 #DOGE + SYNCED

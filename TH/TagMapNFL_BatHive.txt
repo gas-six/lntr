@@ -1,114 +1,115 @@
+XXXXXXXX
 
 thisMap/OvermapEnter
-\SndLib[AbomBatSpot]Bat Nest\optB[Leave,Enter]
+\SndLib[AbomBatSpot]รังค้างคาว\optB[ออก,เข้า]
 
 ##############################################
 
 begin/Enter
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    I don't remember there being a forest here?
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Um...nevermind.
-\CBct[8]\m[confused]\prf\c[6]Lona：\c[0]    \..\..\..
-\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    I will need to go through here if I plan to make it across...
-\CBct[20]\m[serious]\PRF\c[6]Lona：\c[0]    I must not be scared! I can do this!
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    หนูไม่จำได้ว่าที่นี่มีป่า?
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม...ไม่เป็นไรละ.
+\CBct[8]\m[confused]\prf\c[6]โลน่า：\c[0]    \..\..\..
+\CBct[8]\m[tired]\PRF\c[6]โลน่า：\c[0]    หนูต้องผ่านที่นี่ถ้าหนูจะไปให้ถึง...
+\CBct[20]\m[serious]\PRF\c[6]โลน่า：\c[0]    หนูต้องไม่กลัว! หนูทำได้!
 
 rg29/begin1
-\CBmp[DaHunter,6]\c[4]Mercenary：\c[0]    No! Stay away!
+\CBmp[DaHunter,6]\c[4]ทหารรับจ้าง：\c[0]    ไม่! อย่าเข้ามาใกล้!
 
 rg29/begin2
-\CBmp[DaHunter,20]\c[4]Mercenary：\c[0]    \{Haha!
+\CBmp[DaHunter,20]\c[4]ทหารรับจ้าง：\c[0]    \{ฮ่าๆ!
 
 rg29/begin4
-\CBmp[DaHunter,6]\c[4]Mercenary：\c[0]    \{Aaaaaaaaah!
+\CBmp[DaHunter,6]\c[4]ทหารรับจ้าง：\c[0]    \{อ๊ากกกกก!
 
 DaHunter/begin1
-\CBid[-1,6]\c[4]Mercenary：\c[0]    You...? You're alive?
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Um?
-\CBid[-1,20]\prf\c[4]Mercenary：\c[0]    Save me! They're all dead!
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Dead?... What happened?
-\CBid[-1,20]\prf\c[4]Mercenary：\c[0]    These damn bats are too vicious.
-\CBid[-1,20]\prf\c[4]Mercenary：\c[0]    Please, help me!
-\CBid[-1,20]\prf\c[4]Mercenary：\c[0]    Our camp is close by... A little to the west maybe?
-\CBid[-1,20]\prf\c[4]Mercenary：\c[0]    If you help me get there, I'll give you all my money.
+\CBid[-1,6]\c[4]ทหารรับจ้าง：\c[0]    มึง...? มึงยังมีชีวิตอยู่?
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม?
+\CBid[-1,20]\prf\c[4]ทหารรับจ้าง：\c[0]    ช่วยกูหน่อย! พวกมันตายหมดแล้ว!
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    ตาย?... เกิดอะไรขึ้น?
+\CBid[-1,20]\prf\c[4]ทหารรับจ้าง：\c[0]    ค้างคาวพวกนี้มันดุร้ายเกินไป.
+\CBid[-1,20]\prf\c[4]ทหารรับจ้าง：\c[0]    ช่วยกูหน่อย!
+\CBid[-1,20]\prf\c[4]ทหารรับจ้าง：\c[0]    ค่ายของเราอยู่ใกล้ๆ... อาจจะทางตะวันตกนิดหน่อย?
+\CBid[-1,20]\prf\c[4]ทหารรับจ้าง：\c[0]    ถ้ามึงช่วยกูไปถึงที่นั่น กูจะให้เงินทั้งหมดที่กูมี.
 
 DaHunter/begin1_brd
-\CamCT\board[Help the Mercenary in peril]
-Goal： Head west
-Reward： Everything he owns
-Client： Wounded Mercenary
-Time Limit: Only for now
-Help this mercenary in peril return to his camp.
+\CamCT\board[ช่วยทหารรับจ้างที่กำลังตกที่นั่งลำบาก]
+เป้าหมาย： มุ่งหน้าไปทางตะวันตก
+รางวัล： ทุกอย่างที่เขามี
+ผู้ว่าจ้าง： ทหารรับจ้างที่บาดเจ็บ
+เวลาที่จำกัด: เฉพาะตอนนี้
+ช่วยทหารรับจ้างที่กำลังตกที่นั่งลำบากกลับไปที่ค่ายของเขา.
 
 DaHunter/begin2_OPTyes
-\CBct[20]\m[serious]\PRF\c[6]Lona：\c[0]    No problem. Let me take you there.
+\CBct[20]\m[serious]\PRF\c[6]โลน่า：\c[0]    ไม่มีปัญหา หนูจะพามึงไป.
 
 DaHunter/begin2_OPTno
-\CBct[6]\m[flirty]\PRF\c[6]Lona：\c[0]    Wish you the best, but I have things to do.
+\CBct[6]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ขอให้โชคดี แต่หนูมีธุระต้องทำ.
 
 ########################################################### end hunter qu
 
 DaHunter/Qu_success0
-\CBid[-1,20]\c[4]Mercenary：\c[0]    Thanks. Didn't think I'd make it back.
-\CBid[-1,20]\c[4]Mercenary：\c[0]    Here. This is for you.
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    ขอบคุณ ไม่คิดว่าจะกลับมาได้.
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    นี่ ให้มึง.
 
 DaHunter/Qu_success0_1
-\CBid[-1,20]\c[4]Mercenary：\c[0]    Take care. Goodbye.
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    ดูแลตัวเองด้วย ลาก่อน.
 
 DaHunter/Qu_success1
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Hey... Wait....
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    หนู... รอหน่อย....
 
 DaHunter/Qu_success2
-\CBid[-1,20]\c[4]Mercenary：\c[0]    What?
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Um\..\..\..Just this? Didn't you say I can have all your money?
-\CBid[-1,5]\prf\c[4]Mercenary：\c[0]    Fuck you! What you're holding is all I had on me!
-\CBid[-1,5]\prf\c[4]Mercenary：\c[0]    What? You got something to say？
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    อะไร?
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม\..\..\..แค่นี้เอง? มึงไม่ได้บอกว่าหนูจะได้เงินทั้งหมดของมึงหรอกหรือ?
+\CBid[-1,5]\prf\c[4]ทหารรับจ้าง：\c[0]    ไอ้หี! ที่มึงถืออยู่นี่คือทั้งหมดที่กูมี!
+\CBid[-1,5]\prf\c[4]ทหารรับจ้าง：\c[0]    อะไร? มึงจะพูดอะไรอีก？
 
 DaHunter/Qu_success2_end_tsun0
-\CBct[8]\m[serious]\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBid[-1,5]\c[4]Mercenary：\c[0]    What? Got something to say?
+\CBct[8]\m[serious]\PRF\c[6]โลน่า：\c[0]    \..\..\..
+\CBid[-1,5]\c[4]ทหารรับจ้าง：\c[0]    อะไร? มึงจะพูดอะไรอีก?
 
 DaHunter/Qu_success2_end_tsun1
-\CBid[-1,6]\c[4]Mercenary：\c[0]    You\..\..\..You hit harder than my mother used to... Damn your strength...
-\CBct[5]\m[angry]\PRF\c[6]Lona：\c[0]    \{Want some more? No? Cough up the coin!\}
-\CBid[-1,6]\prf\c[4]Mercenary：\c[0]    Yes\..\..\..Please don't hurt me! I beg of you!
+\CBid[-1,6]\c[4]ทหารรับจ้าง：\c[0]    มึง\..\..\..มึงตีแรงกว่าแม่กูเสียอีก... แม่งแข็งแรงจริงๆ...
+\CBct[5]\m[angry]\PRF\c[6]โลน่า：\c[0]    \{อยากได้อีกไหม? ไม่? คายเงินออกมาเดี๋ยวนี้!\}
+\CBid[-1,6]\prf\c[4]ทหารรับจ้าง：\c[0]    ใช่\..\..\..อย่าทำร้ายกูอีกเลย! กูขอร้อง!
 
 DaHunter/Qu_success2_end_tsun2
-\CBct[5]\m[serious]\PRF\c[6]Lona：\c[0]    Hmph!
+\CBct[5]\m[serious]\PRF\c[6]โลน่า：\c[0]    ฮึ!
 
 DaHunter/Qu_success2_end_other
-\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    I'm... S-sorry.
-\CBid[-1,5]\prf\c[4]Mercenary：\c[0]    Hmph!
+\CBct[6]\m[tired]\PRF\c[6]โลน่า：\c[0]    หนู... ข-ขอโทษ.
+\CBid[-1,5]\prf\c[4]ทหารรับจ้าง：\c[0]    ฮึ!
 
 DaHunter/Qu_success2_end_Cecily1
-\CBct[8]\m[serious]\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBfB[20]\SETpr[CecilyWtfAr]\plf\Rshake\C[4]Cecily：\C[0]    \{Oi!
+\CBct[8]\m[serious]\PRF\c[6]โลน่า：\c[0]    \..\..\..
+\CBfB[20]\SETpr[CecilyWtfAr]\plf\Rshake\C[4]เซซิลี่：\C[0]    \{อ้าว!
 
 DaHunter/Qu_success2_end_Cecily2
-\CBid[-1,2]\prf\c[4]Mercenary：\c[0]    Huh? I already thanked you guys!
-\CBfB[20]\SETpr[CecilyAngryAr]\plf\Rshake\C[4]Cecily：\C[0]    Your life is only worth a single small copper coin?
+\CBid[-1,2]\prf\c[4]ทหารรับจ้าง：\c[0]    หะ? กูขอบคุณพวกมึงไปแล้วนะ!
+\CBfB[20]\SETpr[CecilyAngryAr]\plf\Rshake\C[4]เซซิลี่：\C[0]    ชีวิตของมึงมีค่าแค่เหรียญทองแดงเล็กๆ เหรอ?
 
 DaHunter/Qu_success2_end_Cecily3
-\CBid[-1,8]\prf\c[4]Mercenary：\c[0]    Uh\..\..\..\CBid[-1,20]Oh! My bad... You are real heroes... Please forgive me.
-\CBid[-1,6]\prf\c[4]Mercenary：\c[0]    Take this as well.
+\CBid[-1,8]\prf\c[4]ทหารรับจ้าง：\c[0]    อืม\..\..\..\CBid[-1,20]โอ้! ขอโทษ... พวกมึงเป็นวีรบุรุษจริงๆ... ขอให้อภัยกูด้วย.
+\CBid[-1,6]\prf\c[4]ทหารรับจ้าง：\c[0]    รับอันนี้ไปด้วย.
 
 DaHunter/Qu_success2_end_Cecily4
-\CBfB[5]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]Cecily：\C[0]    Scum! Next time we should just cut down buffoons like that!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uh\..\..\..Sure.
+\CBfB[5]\SETpl[CecilyNormalAr]\Lshake\prf\C[4]เซซิลี่：\C[0]    สัตว์ร้าย! ครั้งหน้าเราควรจะฆ่าคนโง่แบบนี้ทิ้ง!
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม\..\..\..ได้.
 
 ########################################################### common PPL
 
 Commoner/begin0
-\CBid[-1,20]\c[4]Mercenary：\c[0]    Why am I here?
-\CBid[-1,20]\c[4]Mercenary：\c[0]    We're mercenaries. Mercenaries hired to capture these monsters.
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    ทำไมกูถึงมาอยู่ที่นี่?
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    เราเป็นทหารรับจ้าง ทหารรับจ้างที่ถูกจ้างมาจับสัตว์ประหลาดพวกนี้.
 
 Commoner/begin1
-\CBid[-1,20]\c[4]Mercenary：\c[0]    Why are we capturing these bat monsters?
-\CBid[-1,20]\c[4]Mercenary：\c[0]    How am I supposed to know what the folks in Noer are thinking?
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    ทำไมเราถึงจับค้างคาวสัตว์ประหลาดพวกนี้?
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    กูจะรู้ได้ยังไงว่าพวกในโนเออร์คิดอะไรอยู่?
 
 Commoner/begin2
-\CBid[-1,20]\c[4]Mercenary：\c[0]    After this job, I'm going home to get married.
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    หลังจากงานนี้ กูจะกลับบ้านไปแต่งงาน.
 
 Watcher/begin0
-\CBid[-1,20]\c[4]Mercenary：\c[0]    Never seen monsters like these before.
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    ไม่เคยเห็นสัตว์ประหลาดแบบนี้มาก่อน.
 
 Watcher/begin1
-\CBid[-1,20]\c[4]Mercenary：\c[0]    I heard Sybaris got attacked by monsters before I came here. Seems like the whole citie's gone.
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    กูได้ยินว่าซิบาริสถูกสัตว์ประหลาดโจมตีก่อนที่กูจะมาที่นี่ ดูเหมือนเมืองทั้งเมืองจะหายไปแล้ว.

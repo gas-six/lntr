@@ -1,472 +1,447 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-\m[confused]Water Cave\optB[Leave,Enter]
+\m[confused]ถ้ำน้ำ\optB[ออก,เข้า]
 
 ##########################################################################################  Inside
 
 keeper/0_opt
-\CBid[-1,20]\SETpl[AnonMale2]\PLF\c[4]Follower：\c[0]    Who are you?! How did you find this place?!\optB[Just passing by,Nicholas<r=HiddenOPT0>]
+\CBid[-1,20]\SETpl[AnonMale2]\PLF\c[4]ผู้ติดตาม：\c[0]    มึงเป็นใคร?! มึงหาที่นี่ได้ยังไง?!\optB[แค่ผ่านมา,นิโคลัส<r=HiddenOPT0>]
 
 keeper/1_1Passby
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Um...I was just passing by!
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม...หนูแค่ผ่านมาเฉยๆ!
 
 keeper/1_1HerName
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    \c[4]Nicholas\c[0]?
-\CBid[-1,20]\SETpl[AnonMale2]\PLF\prf\c[4]Follower：\c[0]    Oh? Are you new to the church? I've never seen you before.
-\CBid[-1,20]\SETpl[AnonMale2]\PLF\prf\c[4]Follower：\c[0]    Anyway, come on in.
+\CBct[20]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    \c[4]นิโคลัส\c[0]?
+\CBid[-1,20]\SETpl[AnonMale2]\PLF\prf\c[4]ผู้ติดตาม：\c[0]    โอ้? มึงเพิ่งมาที่โบสถ์นี้หรอ? กูไม่เคยเห็นมึงมาก่อนเลย
+\CBid[-1,20]\SETpl[AnonMale2]\PLF\prf\c[4]ผู้ติดตาม：\c[0]    ไม่ว่าไงก็เข้ามาเถอะ
 
 keeper/1_1Passby_cocona
-\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Liar! Eat him!
+\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]โคโคน่า：\c[0]    โกหก! กินมันซะ!
 
 aggro/Cocona0
-\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Good friends! Eat the liar together!
+\SETlpl[cocona_shocked]\Lshake\prf\c[4]โคโคน่า：\c[0]    เพื่อนดีๆ! กินคนโกหกด้วยกันเถอะ!
 
 aggro/Cocona1
-\SETlpl[cocona_angry]\Lshake\prf\c[4]Cocona：\c[0]    Cocona will protect her sis!
+\SETlpl[cocona_angry]\Lshake\prf\c[4]โคโคน่า：\c[0]    โคโคน่าจะปกป้องพี่สาว!
 
 keeper/1_1HerName_cocona
-\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Liar! It's a liar!
-\CBct[8]\m[serious]\Rshake\plf\c[6]Lona：\c[0]    Cocona! stop!
-\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    But... Liars...Are eaten clean...
-\CBct[8]\m[shocked]\Rshake\plf\c[6]Lona：\c[0]    Good girl, give it to your sister.
-\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Woo...meow........
+\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]โคโคน่า：\c[0]    โกหก! มันโกหก!
+\CBct[8]\m[serious]\Rshake\plf\c[6]โลน่า：\c[0]    โคโคน่า! หยุด!
+\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]โคโคน่า：\c[0]    แต่...คนโกหก...ถูกกินให้สะอาด...
+\CBct[8]\m[shocked]\Rshake\plf\c[6]โลน่า：\c[0]    เด็กดี ให้พี่สาวเถอะ
+\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]โคโคน่า：\c[0]    อู...เหมียว........
 
 keeper/Aggro
-\CBid[-1,20]\SETpl[AnonMale2]\PLF\prf\c[4]Follower：\c[0]    \{We're under attack!!
-\CBct[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    \{What?!
+\CBid[-1,20]\SETpl[AnonMale2]\PLF\prf\c[4]ผู้ติดตาม：\c[0]    \{เราถูกโจมตี!!
+\CBct[8]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    \{อะไรนะ?!
 
 keeper/Aggro_captured
-\CBid[-1,20]\SETpl[AnonMale2]\PLF\prf\c[4]Follower：\c[0]    The sacrificie is getting away!
-\CBct[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    \{Huh?!
+\CBid[-1,20]\SETpl[AnonMale2]\PLF\prf\c[4]ผู้ติดตาม：\c[0]    เหยื่อกำลังหนี!
+\CBct[8]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    \{อะไรนะ?!
 
 keeper/Aggro_captured_loop
-\CBid[-1,20]\SETpl[AnonMale2]\PLF\prf\c[4]Follower：\c[0]    .....
+\CBid[-1,20]\SETpl[AnonMale2]\PLF\prf\c[4]ผู้ติดตาม：\c[0]    .....
 
 thisMap/Aggro
-\SETpl[AnonMale2]\PLF\prf\c[4]Follower：\c[0]    Intruder!
-\CBct[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    \{Oh no!
+\SETpl[AnonMale2]\PLF\prf\c[4]ผู้ติดตาม：\c[0]    คนบุกรุก!
+\CBct[8]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    \{โอ้ ไม่!
 
 thisMap/Aggro_captured
-\SETpl[AnonMale2]\PLF\prf\c[4]Follower：\c[0]    Someone betrayed the Mother of Fertility!!
-\CBct[8]\m[terror]\Rshake\c[6]Lona：\c[0]    \{Ehhhhhh!
+\SETpl[AnonMale2]\PLF\prf\c[4]ผู้ติดตาม：\c[0]    มีคนทรยศแม่แห่งความอุดมสมบูรณ์!!
+\CBct[8]\m[terror]\Rshake\c[6]โลน่า：\c[0]    \{เอ๊ะ!
 
 Df_Heresy/rg27_1
-\SETpl[AnonMale2]\PLF\prf\c[4]Follower：\c[0]    Someone betrayed the Mother of Fertility!!!
+\SETpl[AnonMale2]\PLF\prf\c[4]ผู้ติดตาม：\c[0]    มีคนทรยศแม่แห่งความอุดมสมบูรณ์!!!
 
 SexPartyOP/0
-\Rflash\SndLib[sound_Heartbeat]\CBct[6]\m[hurt]\Rshake\c[6]Lona：\c[0]    *cough\..\Rshaked *cough*\..\Rshaked *cough*...!
-\CBct[20]\m[pain]\Rshake\c[6]Lona：\c[0]    Smells fishy.....
+\Rflash\SndLib[sound_Heartbeat]\CBct[6]\m[hurt]\Rshake\c[6]โลน่า：\c[0]    *ไอ\..\Rshaked *ไอ*\..\Rshaked *ไอ*...!
+\CBct[20]\m[pain]\Rshake\c[6]โลน่า：\c[0]    มีกลิ่นคาว.....
 
 SexPartyOP/1
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Huh?
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    อะไรนะ?
 
 SexPartyOP/2_1
-\BonMP[PigMan,20]\c[4]Pighead：\c[0]    Fuck... Yeah...That's it....
-\BonMP[PigMan,20]\c[4]Pighead：\c[0]    Here it comes!! Coming! It's coming!
+\BonMP[PigMan,20]\c[4]หัวหมู：\c[0]    ควย...ใช่...นั่นแหละ....
+\BonMP[PigMan,20]\c[4]หัวหมู：\c[0]    มันมาแล้ว!! มันมา! มันมาแล้ว!
 
 SexPartyOP/2_2
-\BonMP[PigMan,4]\c[4]Pighead：\c[0]    Ohhhhhhhhhhhh!!!
+\BonMP[PigMan,4]\c[4]หัวหมู：\c[0]    โอ้ออออออออออ!!!
 
 SexPartyOP/2_3
-\BonMP[PigMan,4]\c[4]Pighead：\c[0]    Swallow my seed! Let your people enjoy themselves!
+\BonMP[PigMan,4]\c[4]หัวหมู：\c[0]    กลืนเมล็ดของกู! ปล่อยให้คนของมึงสนุกกัน!
 
 SexPartyOP/3
-\BonMP[PigMan,4]\c[4]Pighead：\c[0]    Comfy!!!
-\BonMP[PigMan,20]\c[4]Pighead：\c[0]    Oh! The great \c[6]Mother of Fertility\c[0]!
-\BonMP[PigMan,20]\c[4]Pighead：\c[0]    Hear our call! We offer you this tribute!
-\BonMP[PigMan,20]\c[4]Pighead：\c[0]    Drive away our fears! Bring us joy!
-\BonMP[PigMan,20]\c[4]Pighead：\c[0]    Come, you who have been tricked by false Gods, come face the real God....
+\BonMP[PigMan,4]\c[4]หัวหมู：\c[0]    สบาย!!!
+\BonMP[PigMan,20]\c[4]หัวหมู：\c[0]    โอ้! แม่แห่งความอุดมสมบูรณ์ผู้ยิ่งใหญ่!
+\BonMP[PigMan,20]\c[4]หัวหมู：\c[0]    ได้ยินเสียงเราไหม! เราถวายเครื่องบูชานี้ให้ท่าน!
+\BonMP[PigMan,20]\c[4]หัวหมู：\c[0]    ขับไล่ความกลัวของเรา! นำความสุขมาให้เรา!
+\BonMP[PigMan,20]\c[4]หัวหมู：\c[0]    มาเถอะ คนที่ถูกหลอกลวงโดยพระเจ้าปลอมๆ มาเผชิญหน้ากับพระเจ้าที่แท้จริง....
 
 SexPartyOP/3_1
-\BonMP[PigMan,20]\c[4]Pighead：\c[0]    Brothers and Sisters! Pray for our new sisters!
+\BonMP[PigMan,20]\c[4]หัวหมู：\c[0]    พี่น้อง! สวดภาวนาเพื่อพี่สาวใหม่ของเรา!
 
 SexPartyOP/4
-\BonMP[PPL1,20]\BonMP[PPL2,20]\BonMP[PPL3,20]\BonMP[PPL4,20]\BonMP[PPL5,20]\c[4]Flock：\c[0]    Ia! Ia! \c[6]Nicholas\c[0]!
-\BonMP[PPL1,20]\BonMP[PPL2,20]\BonMP[PPL3,20]\BonMP[PPL4,20]\BonMP[PPL5,20]\c[4]Flock：\c[0]    Ia! Ia! \c[6]Nicholas\c[0]!!
-\BonMP[PPL1,20]\BonMP[PPL2,20]\BonMP[PPL3,20]\BonMP[PPL4,20]\BonMP[PPL5,20]\c[4]Flock：\c[0]    Ia! Ia! \c[6]Nicholas\c[0]!!!
+\BonMP[PPL1,20]\BonMP[PPL2,20]\BonMP[PPL3,20]\BonMP[PPL4,20]\BonMP[PPL5,20]\c[4]ฝูงชน：\c[0]    อิอา! อิอา! \c[6]นิโคลัส\c[0]!
+\BonMP[PPL1,20]\BonMP[PPL2,20]\BonMP[PPL3,20]\BonMP[PPL4,20]\BonMP[PPL5,20]\c[4]ฝูงชน：\c[0]    อิอา! อิอา! \c[6]นิโคลัส\c[0]!!
+\BonMP[PPL1,20]\BonMP[PPL2,20]\BonMP[PPL3,20]\BonMP[PPL4,20]\BonMP[PPL5,20]\c[4]ฝูงชน：\c[0]    อิอา! อิอา! \c[6]นิโคลัส\c[0]!!!
 
 SexPartyOP/4_1
-\c[4]Offering：\c[0]    \{AAAHHHH!!!!
+\c[4]เครื่องบูชา：\c[0]    \{อ๊ากกกกกกกกก!!!
 
 SexPartyOP/4_2
-\BonMP[PPL1,20]\BonMP[PPL2,20]\BonMP[PPL3,20]\BonMP[PPL4,20]\BonMP[PPL5,20]\c[4]Flock：\c[0]    Thank you\c[6]Mother of Fertility\c[0]! Praise the \c[6]Mother of Fertility\c[0]!
+\BonMP[PPL1,20]\BonMP[PPL2,20]\BonMP[PPL3,20]\BonMP[PPL4,20]\BonMP[PPL5,20]\c[4]ฝูงชน：\c[0]    ขอบคุณ\c[6]แม่แห่งความอุดมสมบูรณ์\c[0]! สรรเสริญ\c[6]แม่แห่งความอุดมสมบูรณ์\c[0]!
 
 SexPartyOP/5
-\BonMP[PPL1,20]\BonMP[PPL2,20]\BonMP[PPL3,20]\BonMP[PPL4,20]\BonMP[PPL5,20]\c[4]Flock：\c[0]    Oh! \c[6]Mother of Fertility\c[0] Drive away her fears!
+\BonMP[PPL1,20]\BonMP[PPL2,20]\BonMP[PPL3,20]\BonMP[PPL4,20]\BonMP[PPL5,20]\c[4]ฝูงชน：\c[0]    โอ้! \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] ขับไล่ความกลัวของเธอ!
 
 SexPartyOP/6
-\m[shocked]\Rshake\c[6]Lona：\c[0]    What's that? A demon from the black mist? Flesh demons?
-\m[terror]\Rshake\c[6]Lona：\c[0]    No... Impossible... such a thing can't exist in this world....
+\m[shocked]\Rshake\c[6]โลน่า：\c[0]    อะไรนั่น? ปีศาจจากหมอกดำ? ปีศาจเนื้อ?
+\m[terror]\Rshake\c[6]โลน่า：\c[0]    ไม่...เป็นไปไม่ได้...สิ่งนี้ไม่มีทางมีอยู่ในโลกนี้....
 
 SexPartyOP/end_cocona
 \narr \......\......\......
-\narrOFF\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Big S-Sis...! Wake up Sis...!
-\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    W-Wha...! Nyaow!~ Leave me alone...!
+\narrOFF\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]โคโคน่า：\c[0]    พี่สาว...! ตื่นสิพี่สาว...!
+\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]โคโคน่า：\c[0]    อะ...! เหมียว!~ ปล่อยฉันเถอะ...!
 
 SexPartyOP/end1
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    What....What just happened?!
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    อะไร...เกิดอะไรขึ้น?!
 
 SexPartyOP/end1_cocona
-\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Sister became a good friend...
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Good friend? Dead?
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Don't worry, I'm still here.
-\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Woo...meow........
+\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]โคโคน่า：\c[0]    พี่สาวกลายเป็นเพื่อนดี...
+\CBct[20]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    เพื่อนดี? ตาย?
+\CBct[20]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อย่ากังวล หนูยังอยู่นี่
+\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]โคโคน่า：\c[0]    อู...เหมียว........
 
 SexPartyOP/end2
-\Rflash\SndLib[sound_Heartbeat]\CBct[6]\m[hurt]\Rshake\c[6]Lona：\c[0]    OWWW．．．．
-\CBct[20]\m[pain]\Rshake\c[6]Lona：\c[0]    My belly is burning up\..\..　I want to\...
-\Rflash\SndLib[sound_Heartbeat]\CBct[6]\m[hurt]\Rshake\c[6]Lona：\c[0]    \..\..\..
-\CBct[20]\m[serious]\Rshake\c[6]Lona：\c[0]    No, wait, I can hold it in.
+\Rflash\SndLib[sound_Heartbeat]\CBct[6]\m[hurt]\Rshake\c[6]โลน่า：\c[0]    อ๊าว．．．．
+\CBct[20]\m[pain]\Rshake\c[6]โลน่า：\c[0]    ท้องกูร้อนมาก\..\..　กูอยาก\...
+\Rflash\SndLib[sound_Heartbeat]\CBct[6]\m[hurt]\Rshake\c[6]โลน่า：\c[0]    \..\..\..
+\CBct[20]\m[serious]\Rshake\c[6]โลน่า：\c[0]    ไม่ รอก่อน กูอดทนได้
 
 SexPartyOP/end2_cocona
-\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Sis?
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Don't be scared. I'm fine, really...
+\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]โคโคน่า：\c[0]    พี่สาว?
+\CBct[20]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อย่ากลัว หนูไม่เป็นไร จริงๆ...
 
 ######################################################################  Common Dialog
 
 Df_Heresy/4CommonerF_QuRng0_0
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Do you know who \c[4]Ranran\c[0] is?
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    มึงรู้จัก\c[4]รันรัน\c[0]ไหม?
 
 Df_Heresy/4CommonerF_QuRng0_1
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Do you know where\c[4]Ranran\c[0] is?
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    มึงรู้ไหมว่า\c[4]รันรัน\c[0]อยู่ที่ไหน?
 
 Df_Heresy/4CommonerF_QuRng0_2
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Uh...\c[4]Ranran\c[0]?
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม...\c[4]รันรัน\c[0]?
 
 CommonerF/Rng0
-\CBid[-1,4]\prf\c[4]Follower：\c[0]    I want to fuck so badly! Who wants to fuck me?!
+\CBid[-1,4]\prf\c[4]ผู้ติดตาม：\c[0]    กูอยากเย็ดมาก! ใครอยากเย็ดกู?!
 
 CommonerF/Rng1
-\CBid[-1,4]\prf\c[4]Follower：\c[0]    Fuck me! Use me! Take away my fers!
+\CBid[-1,4]\prf\c[4]ผู้ติดตาม：\c[0]    เย็ดกู! ใช้กู! พาความกลัวของกูไป!
 
 CommonerF/Rng2
-\CBid[-1,4]\prf\c[4]Follower：\c[0]    The Mother of Fertility is watching me! I feel it!
+\CBid[-1,4]\prf\c[4]ผู้ติดตาม：\c[0]    แม่แห่งความอุดมสมบูรณ์กำลังจับตามองกู! กูรู้สึกได้!
 
 Df_Heresy/4CommonerF_QuRngEND
-\CBct[20]\m[confused]\PRF\c[6]Lona：\c[0]    Ugh......
+\CBct[20]\m[confused]\PRF\c[6]โลน่า：\c[0]    อ๊าก......
 
 Priest/Qmsg0
-I feel it!
+กูรู้สึกได้!
 
 Priest/Qmsg1
-Hes coming!
+มันกำลังมา!
 
 Priest/Qmsg2
-Isaac Nicholas!
+ไอแซค นิโคลัส!
 
 Fcommoner/Qmsg0
-Hahahaha...hahaha...
+ฮ่าๆๆ...ฮ่าๆๆ...
 
 Fcommoner/Qmsg1
-hehehe...hoo hoo...
+ฮิๆๆ...ฮูๆ...
 
 Fcommoner/Qmsg2
-Cock...Big cock...
+ควย...ควยใหญ่...
 
 Mcommoner/Qmsg0
-I'm gonna cum!
+กูจะเสีย!
 
 Mcommoner/Qmsg1
-I have to cum!
+กูต้องเสีย!
 
 Mcommoner/Qmsg2
-Ooooohhhhhhh!!
+โอ้อออออออออ!!
 
 Mcommoner/RapeLoopPick_begin
-\CBct[4]\m[lewd]\PRF\c[6]Lona：\c[0]    Master pighead wants me to help you clean the meatsticks....?
-\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    Want to fuck me?
+\CBct[4]\m[lewd]\PRF\c[6]โลน่า：\c[0]    นายหัวหมูอยากให้กูช่วยล้างควย...?
+\CBct[6]\m[tired]\PRF\c[6]โลน่า：\c[0]    อยากเย็ดกูไหม?
 
 Mcommoner/RapeLoopPick_0
-\CBid[-1,4]\prf\c[4]Follower：\c[0]    I want to fuck! I WANNA FUCK!!!
+\CBid[-1,4]\prf\c[4]ผู้ติดตาม：\c[0]    กูอยากเย็ด! กูอยากเย็ด!!!
 
 Mcommoner/RapeLoopPick_1
-\CBid[-1,4]\prf\c[4]Follower：\c[0]    Lick my cock! I need you to lick my cock right now♥
+\CBid[-1,4]\prf\c[4]ผู้ติดตาม：\c[0]    ดูดควยกู! กูต้องการให้มึงดูดควยกูตอนนี้♥
 
 Mcommoner/RapeLoopPick_2
-\CBid[-1,4]\prf\c[4]Follower：\c[0]    I need to pee! Get your mouth over here♥
+\CBid[-1,4]\prf\c[4]ผู้ติดตาม：\c[0]    กูต้องการฉี่! ยกปากมาทางนี้♥
 
 Mcommoner/RapeLoopPick_3
-\CBid[-1,4]\prf\c[4]Follower：\c[0]    I want to cum! Come on, girl♥ Get your head im there♥
+\CBid[-1,4]\prf\c[4]ผู้ติดตาม：\c[0]    กูอยากเสีย! มาเถอะ สาว♥ ยกหัวมาที่นี่♥
 
 Mcommoner/RapeLoopPick_Start
-\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    Yes....
+\CBct[6]\m[tired]\PRF\c[6]โลน่า：\c[0]    ได้ค่ะ....
 
 Mcommoner/RapeLoopPick_END
-\CBid[-1,4]\prf\c[4]Follower：\c[0]    Oooohhhh....♥
-\CBct[3]\m[lewd]\PRF\c[6]Lona：\c[0]    Thank you♥
+\CBid[-1,4]\prf\c[4]ผู้ติดตาม：\c[0]    โอ้ออออออออ....♥
+\CBct[3]\m[lewd]\PRF\c[6]โลน่า：\c[0]    ขอบคุณ♥
 
 Mcommoner/RapeLoopPick_SuckDick1_0
-\CBid[-1,4]\c[4]Follower：\c[0]    Oooohhhh! Good♥
+\CBid[-1,4]\c[4]ผู้ติดตาม：\c[0]    โอ้อออออ! ดี♥
 
 Mcommoner/RapeLoopPick_SuckDick1_1
-\CBid[-1,4]\c[4]Follower：\c[0]    Yes! That's the spot♥
+\CBid[-1,4]\c[4]ผู้ติดตาม：\c[0]    ใช่! ตรงนั้น♥
 
 Mcommoner/RapeLoopPick_SuckDick2
-\CBid[-1,4]\c[4]Follower：\c[0]    \{ooohhhhhh♥♥♥
+\CBid[-1,4]\c[4]ผู้ติดตาม：\c[0]    \{โอ้ออออออออ♥♥♥
 
 ##########################################################################################  rapeloop
 
 NapCapture/0
-\narr Lona was captured, and had all her belongings stolen.
+\narr โลน่าถูกจับตัว และถูกขโมยของทั้งหมด
 
 NapRngRape/0_0
-\c[4]Follower：\c[0]    Pussy!! It's mine!! Thank you Mother of Fertility!
+\c[4]ผู้ติดตาม：\c[0]    รูหี!! เป็นของกู!! ขอบคุณแม่แห่งความอุดมสมบูรณ์!
 
 NapRngRape/0_1
-\c[4]Follower：\c[0]    Pussy! I need to use it!
+\c[4]ผู้ติดตาม：\c[0]    รูหี! กูต้องใช้มัน!
 
 NapRngRape/1_0_NO
-\c[4]Follower：\c[0]    How can my pussy resist! Pussy should be fucked!
+\c[4]ผู้ติดตาม：\c[0]    รูหีของกูจะต้านทานได้ยังไง! รูหีควรถูกเย็ด!
 
 RapeLoop/FirstTime0
-\m[tired]\c[6]Lona：\c[0]    I want to do it.... I'm ready to have children...
+\m[tired]\c[6]โลน่า：\c[0]    กูอยากทำ...กูพร้อมมีลูกแล้ว...
 
 RapeLoop/FirstTime1
-\m[confused]\c[6]Lona：\c[0]     Where am I? What is this?
-\Rflash\SndLib[sound_chcg_full]\Rshake\m[pain]What's that in my mouth?
-\Rflash\SndLib[sound_chcg_full]\Rshake\m[hurt]Ugh...it stinks...
+\m[confused]\c[6]โลน่า：\c[0]     กูอยู่ที่ไหน? นี่มันอะไร?
+\Rflash\SndLib[sound_chcg_full]\Rshake\m[pain]อะไรอยู่ในปากกู?
+\Rflash\SndLib[sound_chcg_full]\Rshake\m[hurt]อ๊าก...มันเหม็น...
 
 RapeLoop/FirstTime2
-\Rflash\SndLib[sound_chcg_full]\CBmp[PigMan,20]\c[4]Pighead：\c[0]    Mother of Fertility! Help drive away her fears!
+\Rflash\SndLib[sound_chcg_full]\CBmp[PigMan,20]\c[4]หัวหมู：\c[0]    แม่แห่งความอุดมสมบูรณ์! ช่วยขับไล่ความกลัวของเธอ!
 
 RapeLoop/FirstTime3
-\CBct[6]\m[hurt]\Rshake\c[6]Lona：\c[0]    Ahh．．．．
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    The mother of fertility has ridden you of your worries and you will no longer feel fear or pain.
-\CBct[6]\m[tired]\Rshake\c[6]Lona：\c[0]    Ahh．．．．Who are you?
+\CBct[6]\m[hurt]\Rshake\c[6]โลน่า：\c[0]    อ๊าก．．．．
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    แม่แห่งความอุดมสมบูรณ์ได้ขจัดความกังวลของเธอแล้ว เธอจะไม่รู้สึกกลัวหรือเจ็บปวดอีก
+\CBct[6]\m[tired]\Rshake\c[6]โลน่า：\c[0]    อ๊าก．．．．มึงเป็นใคร?
 
 RapeLoop/FirstTime3_1
-\CBct[2]\m[tired]\PRF\c[6]Lona：\c[0]    Where am I? What's going on?
+\CBct[2]\m[tired]\PRF\c[6]โลน่า：\c[0]    กูอยู่ที่ไหน? เกิดอะไรขึ้น?
 
 RapeLoop/FirstTime3_2
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    What...Is this?
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    This is the grace of the mother of fertility, who rids you of your fears and worries.
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    Drink it, and become one of us.
-\CBct[2]\m[tired]\PRF\c[6]Lona：\c[0]    Ok...
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    อะไร...นี่มันอะไร?
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    นี่คือพรจากแม่แห่งความอุดมสมบูรณ์ ผู้ขจัดความกลัวและความกังวลของเธอ
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    ดื่มมัน แล้วกลายเป็นหนึ่งเดียวกับเรา
+\CBct[2]\m[tired]\PRF\c[6]โลน่า：\c[0]    ได้ค่ะ...
 
 RapeLoop/FirstTime4
-\CBmp[PigMan,20]\c[4]Pighead：\c[0]    Very good! Very good! You'll be our new meat hole!
-\CBmp[PigMan,20]\c[4]Pighead：\c[0]    You'll become a part of us! Our meat toilet!
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    I'm just...a meat toilet?
-\CBmp[PigMan,20]\c[4]Pighead：\c[0]    Brothers and Sisters! Praise our new sister!
+\CBmp[PigMan,20]\c[4]หัวหมู：\c[0]    ดีมาก! ดีมาก! มึงจะเป็นรูเนื้อใหม่ของเรา!
+\CBmp[PigMan,20]\c[4]หัวหมู：\c[0]    มึงจะกลายเป็นส่วนหนึ่งของเรา! ทาสกามของเรา!
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    กูเป็นแค่...ทาสกาม?
+\CBmp[PigMan,20]\c[4]หัวหมู：\c[0]    พี่น้อง! สรรเสริญพี่สาวใหม่ของเรา!
 
 RapeLoop/FirstTime4_1
-\BonMP[PPL4,20]\BonMP[PPL5,20]\BonMP[PPL6,20]\BonMP[PPL7,20]\c[4]Flock：\c[0]    Hurray!Hurray! \c[6]Nicholas\c[0]!
+\BonMP[PPL4,20]\BonMP[PPL5,20]\BonMP[PPL6,20]\BonMP[PPL7,20]\c[4]ฝูงชน：\c[0]    ฮูเร่!ฮูเร่! \c[6]นิโคลัส\c[0]!
 
 RapeLoop/FirstTime5
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    My child,you are now one of us.
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    Go....Go and take in the love of your brothers. Ease their fears.
-\CBct[6]\m[tired]\Rshake\c[6]Lona：\c[0]    Yes, sir...
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    ลูกของกู เธอเป็นหนึ่งในเราแล้ว
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    ไป...ไปรับความรักจากพี่น้องของเธอ บรรเทาความกลัวของพวกเขา
+\CBct[6]\m[tired]\Rshake\c[6]โลน่า：\c[0]    ค่ะ...
 
 RG27StepOn/0
-\Rflash\SndLib[sound_Heartbeat]\CBct[6]\m[hurt]\Rshake\c[6]Lona：\c[0]    Ahh．．．．
-\CBct[20]\m[lewd]\PRF\c[6]Lona：\c[0]    I want\..\..　I want to\...
-\CBct[20]\m[shy]\Rshake\c[6]Lona：\c[0]    What's wrong with my body?
+\Rflash\SndLib[sound_Heartbeat]\CBct[6]\m[hurt]\Rshake\c[6]โลน่า：\c[0]    อ๊าก．．．．
+\CBct[20]\m[lewd]\PRF\c[6]โลน่า：\c[0]    กูอยาก\..\..　กูอยาก\...
+\CBct[20]\m[shy]\Rshake\c[6]โลน่า：\c[0]    ร่างกายกูเป็นอะไร?
 
 RG27StepOn/0
-\Rflash\SndLib[sound_Heartbeat]\CBct[6]\m[hurt]\Rshake\c[6]Lona：\c[0]    Ahh．．．．
-\CBct[20]\m[lewd]\PRF\c[6]Lona：\c[0]    It's hot...It's so hot!
+\Rflash\SndLib[sound_Heartbeat]\CBct[6]\m[hurt]\Rshake\c[6]โลน่า：\c[0]    อ๊าก．．．．
+\CBct[20]\m[lewd]\PRF\c[6]โลน่า：\c[0]    มันร้อน...มันร้อนมาก!
 
 actionRapeLoop/Wall0_0
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    Wait? Should I leave?!
+\CBct[1]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    รอก่อน? กูควรจะออกไปไหม?!
 
 actionRapeLoop/Wall0_1
-\CBct[1]\m[terror]\Rshake\c[6]Lona：\c[0]    I need to fuck!
+\CBct[1]\m[terror]\Rshake\c[6]โลน่า：\c[0]    กูต้องเย็ด!
 
 actionRapeLoop/Wall0_2
-\CBct[1]\m[serious]\Rshake\c[6]Lona：\c[0]    I have to make my brothers and sisters happy!?
+\CBct[1]\m[serious]\Rshake\c[6]โลน่า：\c[0]    กูต้องทำให้พี่น้องมีความสุข!?
 
 actionRapeLoop/Wall0_3
-\CBct[1]\m[sexhurt]\Rshake\c[6]Lona：\c[0]    I have to make them cum!?
+\CBct[1]\m[sexhurt]\Rshake\c[6]โลน่า：\c[0]    กูต้องทำให้พวกมันเสีย!?
 
 actionRapeLoop/Wall0_NotEnough
-\CBct[6]\m[pain]\Rshake\c[6]Lona：\c[0]    AHH....
+\CBct[6]\m[pain]\Rshake\c[6]โลน่า：\c[0]    อ๊าก....
 
 actionRapeLoop/Wall0_Break
-\CBct[20]\m[serious]\Rshake\c[6]Lona：\c[0]    Oh...Cheer up....Leave...
+\CBct[20]\m[serious]\Rshake\c[6]โลน่า：\c[0]    โอ้...สู้ต่อไป...ออกไป...
 
 actionRapeLoop/commoner_opt
-\CBct[6]\m[lewd]\Rshake\c[6]Lona：\c[0]    I'm... What the hell am I doing?\optB[Never mind,Flirt]
+\CBct[6]\m[lewd]\Rshake\c[6]โลน่า：\c[0]    กู...กูกำลังทำอะไรอยู่?\optB[ไม่เป็นไร,จีบ]
 
 actionRapeLoop/Wall1_opt
-\CBct[6]\m[tired]\Rshake\c[6]Lona：\c[0]    I'm... What the hell am I doing?\optB[Continue,Resist]
+\CBct[6]\m[tired]\Rshake\c[6]โลน่า：\c[0]    กู...กูกำลังทำอะไรอยู่?\optB[ดำเนินต่อ,ต่อต้าน]
 
 actionRapeLoop/Sleep_opt
-\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    No time to rest! There's still work to do!!\optD[Keep going,Rest]
+\CBct[6]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ไม่มีเวลาพัก! ยังมีงานต้องทำ!!\optD[ทำต่อ,พัก]
 
 actionRapeLoop/DidntDoSex_PlusAggroRate0_0
-\narr\cg[event_Eyes]Lorna did not engage in sacred intercourse with other believers...
+\narr\cg[event_Eyes]โลน่าไม่ได้มีเพศสัมพันธ์ศักดิ์สิทธิ์กับผู้เชื่อคนอื่น...
 
 actionRapeLoop/DidntDoSex_PlusAggroRate1_1
-\narr This has made the believers quite unhappy...
+\narr นี่ทำให้ผู้เชื่อไม่พอใจมาก...
 
 actionRapeLoop/DidntDoSex_PlusAggroRate1_2
-\narr The believers began to doubt Lona...
+\narr ผู้เชื่อเริ่มสงสัยโลน่า...
 
 actionRapeLoop/DidntDoSex_PlusAggroRate1_3
-\narr They decided to sacrifice this traitor...
+\narr พวกเขาตัดสินใจที่จะบูชายัญผู้ทรยศคนนี้...
 
 actionRapeLoop/Blocked0
-\CBct[6]\m[terror]\Rshake\c[6]Lona：\c[0]    No! I must ease everyone's fears!
+\CBct[6]\m[terror]\Rshake\c[6]โลน่า：\c[0]    ไม่! กูต้องบรรเทาความกลัวของทุกคน!
 
 actionRapeLoop/Blocked1
-\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]   No! I'm a believer of the Mother of Fertility! I have to fuck!
+\CBct[6]\m[shocked]\Rshake\c[6]โลน่า：\c[0]   ไม่! กูเป็นผู้เชื่อแม่แห่งความอุดมสมบูรณ์! กูต้องเย็ด!
 
 actionRapeLoop/Blocked2
-\CBct[6]\m[bereft]\Rshake\c[6]Lona：\c[0]    No! I have to let someone cum inside me! It's my responsibility!
+\CBct[6]\m[bereft]\Rshake\c[6]โลน่า：\c[0]    ไม่! กูต้องให้ใครสักคนเสียในตัวกู! มันเป็นหน้าที่ของกู!
 
 wakeUp/suckDick-0
-\CBct[6]\m[confused]\Rshake\c[6]Lona：\c[0]    Where am I? What should I do?
-\CBct[6]\m[lewd]\Rshake\c[6]Lona：\c[0]    That's right! I want to eat stinky meat sticks...
+\CBct[6]\m[confused]\Rshake\c[6]โลน่า：\c[0]    กูอยู่ที่ไหน? กูควรทำอะไร?
+\CBct[6]\m[lewd]\Rshake\c[6]โลน่า：\c[0]    ใช่! กูอยากกินควยเหม็นๆ...
 
 wakeUp/suckDick0_0
-\CBct[6]\m[lewd]\Rshake\c[6]Lona：\c[0]    Meat stick... Delicious...
+\CBct[6]\m[lewd]\Rshake\c[6]โลน่า：\c[0]    ควย...อร่อย...
 
 wakeUp/suckDick0_1
-\CBct[6]\m[lewd]\Rshake\c[6]Lona：\c[0]    I must lick it clean...
+\CBct[6]\m[lewd]\Rshake\c[6]โลน่า：\c[0]    กูต้องดูดให้สะอาด...
 
 wakeUp/suckDick0_2
-\CBct[6]\m[lewd]\Rshake\c[6]Lona：\c[0]    It's my duty to clean it.
+\CBct[6]\m[lewd]\Rshake\c[6]โลน่า：\c[0]    เป็นหน้าที่ของกูที่จะล้างมัน
 
 wakeUp/suckDick1_0
-\CBmp[PigMan,4]\c[4]Pighead：\c[0]    Yes, that's good, that's it.
+\CBmp[PigMan,4]\c[4]หัวหมู：\c[0]    ใช่ ดีมาก นั่นแหละ
 
 wakeUp/suckDick1_1
-\CBmp[PigMan,4]\c[4]Pighead：\c[0]    Yes this is the duty given to you by the Mother of Fertility.
+\CBmp[PigMan,4]\c[4]หัวหมู：\c[0]    ใช่ นี่คือหน้าที่ที่แม่แห่งความอุดมสมบูรณ์มอบให้เธอ
 
 wakeUp/suckDick1_2
-\CBmp[PigMan,4]\c[4]Pighead：\c[0]    Impressive! The Mother of Fertility is proud of you!
+\CBmp[PigMan,4]\c[4]หัวหมู：\c[0]    น่าประทับใจ! แม่แห่งความอุดมสมบูรณ์ภูมิใจในตัวเธอ!
 
 wakeUp/suckDick1_pee
-\CBmp[PigMan,4]\c[4]Pighead：\c[0]    Raise your head. You'll receive the essence of fertility.
-\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    Yes, sir....
+\CBmp[PigMan,4]\c[4]หัวหมู：\c[0]    ยกหัวขึ้น เธอจะได้รับสาระสำคัญแห่งความอุดมสมบูรณ์
+\CBct[6]\m[tired]\PRF\c[6]โลน่า：\c[0]    ค่ะ...
 
 wakeUp/suckDick2
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    You're doing a great job. But some of our brothers still live in fear.
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    Go ahead, ease their fears.
-\CBct[4]\m[lewd]\PRF\c[6]Lona：\c[0]    Thank you sir. I will let them fuck me.
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    เธอทำได้ดีมาก แต่พี่น้องบางคนของเรายังคงอยู่ในความกลัว
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    ไปเถอะ บรรเทาความกลัวของพวกเขา
+\CBct[4]\m[lewd]\PRF\c[6]โลน่า：\c[0]    ขอบคุณค่ะ กูจะให้พวกเขาเย็ดกู
 
 wakeUp/suckDick3
-\CBct[2]\m[lewd]\PRF\c[6]Lona：\c[0]    Do I have to let them fuck me? Do I have to eat the meat sticks?
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Whose cock should I take?
+\CBct[2]\m[lewd]\PRF\c[6]โลน่า：\c[0]    กูต้องให้พวกเขาเย็ดกูไหม? กูต้องกินควยไหม?
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    กูควรจะเอาควยของใคร?
 
 wakeUp/GangRape0
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    You're doing great, girl.
-\CBct[3]\m[lewd]\PRF\c[6]Lona：\c[0]    Thank you sir♥
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    But I still feel a great deal of fear among us.
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    Look, over there, those people still live in fear.
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    Free them!
-\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    Okay....?
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    เธอทำได้ดีมาก สาว
+\CBct[3]\m[lewd]\PRF\c[6]โลน่า：\c[0]    ขอบคุณค่ะ♥
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    แต่กูยังรู้สึกถึงความกลัวอย่างมากในหมู่เรา
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    ดูสิ ที่นั่น คนเหล่านั้นยังคงอยู่ในความกลัว
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    ปลดปล่อยพวกเขา!
+\CBct[6]\m[tired]\PRF\c[6]โลน่า：\c[0]    ได้ค่ะ...?
 
 wakeUp/GangRape1
-\CBct[3]\m[lewd]\PRF\c[6]Lona：\c[0]    Brothers...feel free to use me?
+\CBct[3]\m[lewd]\PRF\c[6]โลน่า：\c[0]    พี่น้อง...ใช้กูได้เลย?
 
 wakeUp/Break0
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    You're doing great, girl.
-\CBct[3]\m[lewd]\PRF\c[6]Lona：\c[0]    Thank you sir♥
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    Go and rest, tomorrow you will ease more people's fears.
-\CBmp[PigMan,20]\prf\c[4]Pighead：\c[0]    All for the Mother of Fertility.
-\CBct[3]\m[lewd]\PRF\c[6]Lona：\c[0]    All for the Mother of Fertility♥
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    เธอทำได้ดีมาก สาว
+\CBct[3]\m[lewd]\PRF\c[6]โลน่า：\c[0]    ขอบคุณค่ะ♥
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    ไปพักผ่อน พรุ่งนี้เธอจะบรรเทาความกลัวของคนอื่นๆ ได้อีก
+\CBmp[PigMan,20]\prf\c[4]หัวหมู：\c[0]    ทั้งหมดเพื่อแม่แห่งความอุดมสมบูรณ์
+\CBct[3]\m[lewd]\PRF\c[6]โลน่า：\c[0]    ทั้งหมดเพื่อแม่แห่งความอุดมสมบูรณ์♥
 
 wakeUp/Break1
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    What is this? What am I doing here?
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    นี่มันอะไร? กูกำลังทำอะไรที่นี่?
 
 GameOver/0
-\m[tired]\PRF\c[6]Lona：\c[0]    Huh...?
-\m[confused]\PRF\c[6]Lona：\c[0]    So hot....?
-\m[tired]\PRF\c[6]Lona：\c[0]    ......
+\m[tired]\PRF\c[6]โลน่า：\c[0]    อะไรนะ...?
+\m[confused]\PRF\c[6]โลน่า：\c[0]    ร้อนมาก...?
+\m[tired]\PRF\c[6]โลน่า：\c[0]    ......
 
 GameOver/1
-\BonMP[PigMan,20]\prf\c[4]Pighead：\c[0]    SHE TURNED ON THE MOTHER OF FERTILITY!
-\BonMP[PigMan,20]\prf\c[4]Pighead：\c[0]    SHE DOES NOT DESERVE HAPPINESS!
-\BonMP[PigMan,20]\prf\c[4]Pighead：\c[0]    WE MUST RETURN HER FEAR!
+\BonMP[PigMan,20]\prf\c[4]หัวหมู：\c[0]    เธอหันหลังให้แม่แห่งความอุดมสมบูรณ์!
+\BonMP[PigMan,20]\prf\c[4]หัวหมู：\c[0]    เธอไม่สมควรได้รับความสุข!
+\BonMP[PigMan,20]\prf\c[4]หัวหมู：\c[0]    เราต้องคืนความกลัวให้เธอ!
 
 GameOver/2
 \SndLib[sound_Bubble]\Rflash\m[p5health_damage]\Rshake !!!!
-\SndLib[sound_Bubble]\Rflash\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    It's hot! SO HOT!
-\SndLib[sound_Bubble]\Rflash\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    NO! I DONT WANT TO DIE! PLEASE DONT!!
-\SndLib[sound_Bubble]\Rflash\m[p5crit_damage]\Rshake\c[6]Lona：\c[0]    \{AAAAHHHHH!!
+\SndLib[sound_Bubble]\Rflash\m[p5health_damage]\Rshake\c[6]โลน่า：\c[0]    มันร้อน! ร้อนมาก!
+\SndLib[sound_Bubble]\Rflash\m[p5health_damage]\Rshake\c[6]โลน่า：\c[0]    ไม่! กูไม่อยากตาย! อย่าเลย!!
+\SndLib[sound_Bubble]\Rflash\m[p5crit_damage]\Rshake\c[6]โลน่า：\c[0]    \{อ๊ากกกกกกกกก!!
 
 GameOver/3
-\narr Lona was cooked alive.
-\narr her flesh was divided among the flock.
-\narr her bones were simmered for stock.
-\narr by the end of the day nothing remained of her....
+\narr โลน่าถูกต้มเป็นอาหาร
+\narr เนื้อของเธอถูกแบ่งให้กับฝูงชน
+\narr กระดูกของเธอถูกต้มเป็นน้ำซุป
+\narr ภายในสิ้นวันไม่มีอะไรเหลือจากเธอ....
 
 ######################################################################  BlueBlue #Ranran 
 
 Df_Heresy4/BlueBlue0
-\CBid[-1,2]\prf\c[4]Follower：\c[0]    \c[6]Ranran\c[0]\..\..\..?
-\CBid[-1,5]\prf\c[4]Follower：\c[0]    I'm\c[6]Ranran\c[0]?!
-\CBid[-1,4]\prf\c[4]Follower：\c[0]    I'm\c[6]Ranran\c[0]? I must get fucked by men!
+\CBid[-1,2]\prf\c[4]ผู้ติดตาม：\c[0]    \c[6]รันรัน\c[0]\..\..\..?
+\CBid[-1,5]\prf\c[4]ผู้ติดตาม：\c[0]    กูคือ\c[6]รันรัน\c[0]?!
+\CBid[-1,4]\prf\c[4]ผู้ติดตาม：\c[0]    กูคือ\c[6]รันรัน\c[0]? กูต้องถูกผู้ชายเย็ด!
 
 Df_Heresy4/BlueBlue1
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Uh...
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Your sister's been looking for you, let's go find her, okay?
-\CBid[-1,8]\prf\c[4]Ranran：\c[0]    Sister\..\..\..?
-\CBid[-1,20]\prf\c[4]Ranran：\c[0]    My sister hates me! Everyone looks down on me!
-\CBct[20]\m[confused]\PRF\c[6]Lona：\c[0]    Oh...
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Why would she hate you?
-\CBct[20]\m[confused]\PRF\c[6]Lona：\c[0]    Your sister is very worried about you, she asked me to come here to look for you.
-\CBid[-1,20]\prf\c[4]Ranran：\c[0]    NO! I don't want to go back! This world is too scary!
-\CBid[-1,20]\prf\c[4]Ranran：\c[0]    The world is full of bad people, everyone wants to abuse me!
-\CBid[-1,20]\prf\c[4]Ranran：\c[0]    But there is no fear here! Only happiness!
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    อืม...
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    พี่สาวของมึงกำลังหามึงอยู่ ไปหาพวกเธอด้วยกันไหม?
+\CBid[-1,8]\prf\c[4]รันรัน：\c[0]    พี่สาว\..\..\..?
+\CBid[-1,20]\prf\c[4]รันรัน：\c[0]    พี่สาวของกูเกลียดกู! ทุกคนดูถูกกู!
+\CBct[20]\m[confused]\PRF\c[6]โลน่า：\c[0]    โอ้...
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ทำไมเธอถึงเกลียดมึง?
+\CBct[20]\m[confused]\PRF\c[6]โลน่า：\c[0]    พี่สาวของมึงกังวลเกี่ยวกับมึงมาก เธอขอให้กูมาที่นี่หามึง
+\CBid[-1,20]\prf\c[4]รันรัน：\c[0]    ไม่! กูไม่อยากกลับไป! โลกนี้น่ากลัวเกินไป!
+\CBid[-1,20]\prf\c[4]รันรัน：\c[0]    โลกนี้เต็มไปด้วยคนเลว ทุกคนอยากทำร้ายกู!
+\CBid[-1,20]\prf\c[4]รันรัน：\c[0]    แต่ที่นี่ไม่มีความกลัว! มีแต่ความสุข!
 
 Df_Heresy4/BlueBlue2
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    I think it's even worse here...
-\CBct[20]\m[confused]\PRF\c[6]Lona：\c[0]    You're pregnant, think of your baby.
-\CBid[-1,8]\prf\c[4]Ranran：\c[0]    My child\..\..\..
-\CBid[-1,8]\prf\c[4]Ranran：\c[0]    Ok...I'll go with you...
-\CBct[3]\m[pleased]\PRF\c[6]Lona：\c[0]    Good!
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    กูว่าที่นี่แย่กว่าด้วยซ้ำ...
+\CBct[20]\m[confused]\PRF\c[6]โลน่า：\c[0]    มึงท้องแล้ว คิดถึงลูกของมึงด้วย
+\CBid[-1,8]\prf\c[4]รันรัน：\c[0]    ลูกของกู\..\..\..
+\CBid[-1,8]\prf\c[4]รันรัน：\c[0]    ได้...กูจะไปกับมึง...
+\CBct[3]\m[pleased]\PRF\c[6]โลน่า：\c[0]    ดี!
 
 Df_Heresy4/BlueBlue3
-\CBct[6]\m[serious]\PRF\c[6]Lona：\c[0]    This is really bad, I have to leave right now.
+\CBct[6]\m[serious]\PRF\c[6]โลน่า：\c[0]    นี่มันแย่จริงๆ กูต้องออกไปตอนนี้เลย
 
 Df_Heresy4/BlueBlue4_opt
-\CBmp[BBguard,4]\prf\c[4]Follower：\c[0]    Good sister♥ Let me fuck you♥ ease my fears♥
-\CBct[6]\m[angry]\Rshake\c[6]Lona：\c[0]    Not good...\optD[Ignore him,Lie<r=HiddenOPT1>,Threaten<r=HiddenOPT2>]
+\CBmp[BBguard,4]\prf\c[4]ผู้ติดตาม：\c[0]    พี่สาวดี♥ ให้กูเย็ดมึง♥ บรรเทาความกลัวของกู♥
+\CBct[6]\m[angry]\Rshake\c[6]โลน่า：\c[0]    ไม่ดี...\optD[ไม่สนใจ,โกหก<r=HiddenOPT1>,ขู่<r=HiddenOPT2>]
 
 Df_Heresy4/BlueBlue4_WIS0
-\CBct[5]\m[serious]\PRF\c[6]Lona：\c[0]    Listen! She's mine!
-\CBmp[BBguard,2]\prf\c[4]Follower：\c[0]    Yours\..\..\..But aren't you a woman??
-\CBmp[BBguard,20]\prf\c[4]Follower：\c[0]    Women can't have children with other women!
-\CBmp[BBguard,20]\prf\c[4]Follower：\c[0]    The Mother of Fertility wont allow this!
-\CBct[5]\m[angry]\Rshake\c[6]Lona：\c[0]    How do you know a woman can't have children with a woman?
-\CBct[5]\m[serious]\Rshake\c[6]Lona：\c[0]    Are you a woman? Have you ever been a woman?!
-\CBct[5]\m[angry]\Rshake\c[6]Lona：\c[0]    Did the mother of fertility tell you women can't have children?
-\CBmp[BBguard,6]\prf\c[4]Follower：\c[0]    I...
-\CBct[5]\m[serious]\Rshake\c[6]Lona：\c[0]    You can't even impregnate her! Can't you see she's already pregnant?
-\CBmp[BBguard,6]\prf\c[4]Follower：\c[0]    I was wrong....
-\CBmp[BBguard,20]\prf\c[4]Follower：\c[0]    You're right, she's yours...
+\CBct[5]\m[serious]\PRF\c[6]โลน่า：\c[0]    ฟังนะ! เธอเป็นของกู!
+\CBmp[BBguard,2]\prf\c[4]ผู้ติดตาม：\c[0]    ของมึง\..\..\..แต่มึงไม่ใช่ผู้ชาย??
+\CBmp[BBguard,20]\prf\c[4]ผู้ติดตาม：\c[0]    ผู้หญิงไม่สามารถมีลูกกับผู้หญิงได้!
+\CBmp[BBguard,20]\prf\c[4]ผู้ติดตาม：\c[0]    แม่แห่งความอุดมสมบูรณ์จะไม่ยอมให้ทำแบบนี้!
+\CBct[5]\m[angry]\Rshake\c[6]โลน่า：\c[0]    มึงรู้ได้ยังไงว่าผู้หญิงไม่สามารถมีลูกกับผู้หญิงได้?
+\CBct[5]\m[serious]\Rshake\c[6]โลน่า：\c[0]    มึงเป็นผู้หญิงไหม? มึงเคยเป็นผู้หญิงมาก่อนไหม?!
+\CBct[5]\m[angry]\Rshake\c[6]โลน่า：\c[0]    แม่แห่งความอุดมสมบูรณ์บอกมึงว่าผู้หญิงไม่สามารถมีลูกได้หรอ?
+\CBmp[BBguard,6]\prf\c[4]ผู้ติดตาม：\c[0]    กู...
+\CBct[5]\m[serious]\Rshake\c[6]โลน่า：\c[0]    มึงไม่สามารถท้องเธอได้! มึงไม่เห็นว่าเธอท้องแล้วหรอ?
+\CBmp[BBguard,6]\prf\c[4]ผู้ติดตาม：\c[0]    กูผิด....
+\CBmp[BBguard,20]\prf\c[4]ผู้ติดตาม：\c[0]    มึงพูดถูก เธอเป็นของมึง...
 
 Df_Heresy4/BlueBlue4_WIS1
-\CBct[3]\m[flirty]\PRF\c[6]Lona：\c[0]    Haha...?
+\CBct[3]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ฮ่า...?
 
 Df_Heresy4/BlueBlue4_CB0
-\CBmp[BBguard,6]\c[4]Follower：\c[0]    OOOHHHHH!!!
-\CBmp[BBguard,20]\c[4]Follower：\c[0]    \{My balls aahhhh!!!!
-
-Df_Heresy4/BlueBlue4_CB1
-\CBct[5]\m[irritated]\Rshake\c[6]Lona：\c[0]    We have to get out of here now!
-
-Df_Heresy4/BlueBlue4_AGGRO
-\CBmp[BBguard,2]\c[4]Follower：\c[0]    Hmm? I've never seen you before, who are you?
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uh.....
-\CBmp[BBguard,20]\prf\c[4]Follower：\c[0]    A WORSHIPPER OF THE FALSE GOD! GET HER!
-\CBct[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    \{Oh no!
-
-Df_Heresy4/END
-\board[A mother in need]
-Goal：Find\c[6]Ranran\c[0] and take her back to\c[6]Momo\c[0]
-Duration：2 days
-Client：\c[6]Momo\c[0] of the refugee camp
-Return to the refugee camp as fast as possible.
-
-Df_Heresy4/CompRng0
-\CBid[-1,8]\prf\c[4]Ranran：\c[0]    My sister's not mad at me, is she?
-
-Df_Heresy4/CompRng1
-\CBid[-1,8]\prf\c[4]Ranran：\c[0]    I was wrong....
-
-Df_Heresy4/CompRng2
-\CBid[-1,8]\prf\c[4]Ranran：\c[0]    I'm sorry...
-
-#DOGE + Synced
+\CBmp[BBguard,6]\c[4]ผู้ติดตาม：\c[0]    โอ้ออออออออ!!!
+\CBmp[BBguard,20]\c[4]ผู้ติดตาม：\c[0]    \{ลูกอัณฑะของกูอ๊ากกกกก!!!!

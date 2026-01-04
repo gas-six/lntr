@@ -1,47 +1,47 @@
+XXXXXXXX
+
 #Translated and rewritten (With approval) by Sugoi Soy Boy. Fuck off MTLing monkeys. +5 points if you know the two references.
 #MAIL特殊開頭/使用的Flag/信件編號，避免多封同標題信件混淆，數字，不用補0
 #################################################################################
 
 GodInfo1/Title
-Script of Justice
+บทละครแห่งความยุติธรรม
 
 GodInfo1/Sender
-Transcendence
+ความหลุดพ้น
 
 GodInfo1/Text
-\}It was a dark and stormy night when it began...
-Jimmy's family member had been murdered by
-Dogeshuna.
+\}มันเป็นคืนที่มืดมิดและพายุฝนกำลังตกเมื่อทุกอย่างเริ่มต้น...
+คนในครอบครัวของจิมมี่ถูกฆ่าโดย
+โดเกชูนะ
 \n
-This black-haired protagonist who lost
-his family member also lost the duel when
-fighting Dogeshuna.
-Dogeshuna even stole away and slept with his
-childhood sweetheart.
+พระเอกผมดำที่สูญเสียคนในครอบครัวก็เสียการต่อสู้เมื่อ
+ต่อสู้กับโดเกชูนะ
+โดเกชูนะยังแย่งชิงและนอนกับคนรักวัยเด็กของเขา
 \n
-One day, Master Yarizo told Jimmy that he must avenge
-his lost ones.
-Jimmy hesitated at first.
-But then agreed to go find Dogeshuna so he could
-get revenge and avenge his loved ones.
+วันหนึ่ง อาจารย์ยาริโซบอกกับจิมมี่ว่าเขาต้องแก้แค้น
+ให้กับคนที่สูญเสียไป
+จิมมี่ลังเลในตอนแรก
+แต่แล้วก็ตกลงที่จะไปหาโดเกชูนะเพื่อที่จะ
+แก้แค้นและล้างแค้นให้คนที่เขารัก
 \n
-Battling again, the protagonist uses the power
-of justice that has been honed during his
-period of suffering from Dogeshuna.
+การต่อสู้อีกครั้ง พระเอกใช้พลัง
+แห่งความยุติธรรมที่ถูกฝึกฝนมาตลอดช่วงเวลาที่
+ทนทุกข์จากโดเกชูนะ
 \n
-Jimmy's powers defeated Dogeshuna
-and his evil powers were weakened.
-However... During this ultimate battle,
-Jimmy's left testicle was unfortunately
-blown apart by Dogeshuna.
+พลังของจิมมี่เอาชนะโดเกชูนะ
+และพลังชั่วร้ายของเขาก็อ่อนแอลง
+อย่างไรก็ตาม... ในการต่อสู้ครั้งสุดท้ายนี้
+ลูกอัณฑะซ้ายของจิมมี่โชคร้ายที่
+ถูกโดเกชูนะระเบิดจนแตก
 \n
-But even so, Jimmy decided to forgive Dogeshuna.
-Because Dogeshuna also had a family member.
-Dogeshuna also felt the justice and
-attraction for Jimmy.
+แต่แม้กระนั้น จิมมี่ก็ตัดสินใจที่จะให้อภัยโดเกชูนะ
+เพราะโดเกชูนะก็มีคนในครอบครัวเช่นกัน
+โดเกชูนะก็รู้สึกถึงความยุติธรรมและ
+ความดึงดูดใจต่อจิมมี่
 \n
-Jimmy and Dogeshuna were together
-and found true love at last.
+จิมมี่และโดเกชูนะอยู่ด้วยกัน
+และพบรักแท้ในที่สุด
 \n
 \n
-The end.
+จบ.

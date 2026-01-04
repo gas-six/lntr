@@ -1,8 +1,8 @@
 #====================+============================ DarkPot ===================================================
 
 Lona/DarkPot_begin
-\cg[event_DarkPot]A large and dark cauldron hangs on a stick above the flickering flames.
-\optB[Cancel,Add/Remove ingredients,Cook ingredients!]
+\cg[event_DarkPot]หม้อใหญ่สีดำแขวนอยู่บนไม้เหนือเปลวไฟที่กระพริบ
+\optB[ยกเลิก,เพิ่ม/ลบส่วนผสม,ปรุงส่วนผสม!]
 
 Lona/DarkPot_cooking
 \narr\SND[SE/Bubble1.ogg]\.. \SND[SE/Bubble2.ogg]\.. \SND[SE/Bubble3.ogg]\.. \..
@@ -10,211 +10,211 @@ Lona/DarkPot_cooking
 #====================+============================ SubmitSkill ===================================================
 
 Lona/SubmitSkill_normal
-\m[hurt]\c[6]Lona：\c[0]    Ugh......
+\m[hurt]\c[6]Lona：\c[0]    อ่าห์......
 
 Lona/SubmitSkill_weak
-\m[fear]\c[6]Lona：\c[0]    E-Eeep......
+\m[fear]\c[6]Lona：\c[0]    อี๊-อี๊......
 
 Lona/SubmitSkill_tsun
-\m[angry]\c[6]Lona：\c[0]    EH?!
+\m[angry]\c[6]Lona：\c[0]    เอ๊ะ?!
 
 Lona/SubmitSkill_slut
-\m[lewd]\c[6]Lona：\c[0]    Kyaaah......!~
+\m[lewd]\c[6]Lona：\c[0]    กี๊-......!~
 
 Lona/SubmitSkill_overfatigue
-\m[tired]\c[6]Lona：\c[0]    Guh......
+\m[tired]\c[6]Lona：\c[0]    อ๊าก......
 
 Lona/SubmitSkill_mouth_block
-\m[pain]\c[6]Lona：\c[0]    Mmmnnnph......
+\m[pain]\c[6]Lona：\c[0]    อิมมมมม......
 
 #====================+============================ BreakBondage ===================================================
 Lona/BreakBondage_HCblocked
-\narr (Hell and Doom difficulty does not allow you to do this.)
+\narr (ความยาก Hell และ Doom ไม่อนุญาตให้ทำสิ่งนี้)
 
 Lona/BreakBondage_opt
-\m[confused]\optB[Force it off with all your might,Rely on your strongest Trait]
+\m[confused]\optB[ใช้แรงทั้งหมดฝืนออก,พึ่งพาคุณสมบัติที่แข็งแกร่งที่สุดของคุณ]
 
 Lona/BreakBondageWin1
-\m[triumph]\c[6]Lona：\c[0]    Success! I've managed to remove it!
-\m[tired]\c[6]Lona：\c[0]    But... *Huff* I'm exhausted now...
+\m[triumph]\c[6]Lona：\c[0]    สำเร็จ! หนูทำได้แล้ว!
+\m[tired]\c[6]Lona：\c[0]    แต่... *หอบ* หนูเหนื่อยมากเลย...
 
 Lona/BreakBondageFailed1
-\m[bereft]\c[6]Lona：\c[0]    I can't break free, I'm not strong enough...
-\m[sad]\c[6]Lona：\c[0]    Maybe I should regain my strength before I try again?
+\m[bereft]\c[6]Lona：\c[0]    หนูไม่สามารถหลุดออกมาได้ หนูไม่แข็งแรงพอ...
+\m[sad]\c[6]Lona：\c[0]    อาจจะต้องฟื้นฟูแรงก่อนลองอีกครั้งไหม?
 
 Lona/BreakBondagefailed2_skill
-\narr Requires 78+ Stamina and 15+ points in any single Trait.
+\narr ต้องการความอึด 78+ และ 15+ คะแนนในคุณสมบัติใดๆ
 
 Lona/BreakBondagefailed2_sta
-\narr Requires 100+ Stamina.
+\narr ต้องการความอึด 100+.
 
 #Lona/BreakBondagefailed2_wisdom
-#\narr Requires 78+ Stamina and 15+ points in Wisdom.
+#\narr ต้องการความอึด 78+ และ 15+ คะแนนในปัญญา.
 #
 #Lona/BreakBondagefailed2_combat
-#\narr Requires 78+ Stamina and 15+ points in Combat Skill.
+#\narr ต้องการความอึด 78+ และ 15+ คะแนนในทักษะการต่อสู้.
 
 #====================+============================ Basic Need ===================================================
 
 Lona/CampAction
-\m[normal]\optB[Cancel,Build a camp<r=HiddenOPT1>,Trip and fall...<r=HiddenOPT2>]
+\m[normal]\optB[ยกเลิก,สร้างค่าย<r=HiddenOPT1>,สะดุดล้ม...<r=HiddenOPT2>]
 
 Lona/CampActionBuildCamp1
-\m[pleased]\c[6]Lona：\c[0]    Great! I'll just set up right here!
+\m[pleased]\c[6]Lona：\c[0]    ดีเลย! หนูจะตั้งที่นี่เลย!
 
 Lona/CampActionBuildCamp2
 \narr\..\..\..\..
 
 Lona/CampActionBuildCamp3
-\m[triumph]\c[6]Lona：\c[0]    Finished!
+\m[triumph]\c[6]Lona：\c[0]    เสร็จแล้ว!
 
 Lona/CampActionSlip
-\m[shocked]\Rshake\c[6]Lona：\c[0]    \{KYAAAH!!!
-\m[hurt]\Rshake Lona tripped and was knocked out...
+\m[shocked]\Rshake\c[6]Lona：\c[0]    \{กี๊!!!
+\m[hurt]\Rshake Lona สะดุดและหมดสติ...
 
 Lona/BasicNeeds_begin
-\m[confused]What should I do? 
+\m[confused]หนูควรทำอะไรดี? 
 
 Lona/BasicNeedsOpt_Cancel
-Cancel
+ยกเลิก
 
 Lona/BasicNeedsOpt_Bathe
-Bathe
+อาบน้ำ
 
 Lona/BasicNeedsOpt_Relieve
-Relieve yourself
+ระบาย
 
 Lona/BasicNeedsOpt_Masturbate
-Masturbate
+ช่วยตัวเอง
 
 Lona/BasicNeedsOpt_CleanPrivates
-Clean privates
+ทำความสะอาดรูหี
 
 Lona/BasicNeedsOpt_CollectMilk
-Collect breast milk
+รีดนม
 
 Lona/BasicNeedsOpt_Spit
-Spit
+บ้วน
 
 Lona/BasicNeedsOpt_Swallow
-Swallow
+กลืน
 
 Lona/BasicNeedsOpt_CollectWaste
-Collect own body waste
+เก็บของเสียของตัวเอง
 
 Lona/BasicNeedsOpt_BreakRestraints
-Attempt to break your restraints
+พยายามทำลายพันธนาการ
 
 Lona/BasicNeedsOpt_Sleep
-Sleep
+นอน
 
 Lona/BasicNeedsOpt_Gameover
-Give up...
+ยอมแพ้...
 
 Lona/BasicNeedsOpt_DigPeePoo
-Clean up
+ทำความสะอาด
 
 Lona/BasicNeedsOpt_DressOn
-Dress up
+ใส่เสื้อผ้า
 
 Lona/BasicNeedsOpt_DressOff
-Undress
+ถอดเสื้อผ้า
 
 Lona/BasicNeedsOpt_ShavePubicHair
-Shave
+โกนขนหมอย
 
 Lona/BasicNeedsOpt_All
-All
+ทั้งหมด
 
 Lona/LoanPrincipal
-Capital
+เงินต้น
 
 Lona/LoanInterest
-Interest
+ดอกเบี้ย
 
 Lona/LoanServiceFee
-Service Fee
+ค่าบริการ
 
 Lona/LoanWhorePrincipal
-Extra protection fee
+ค่าคุ้มครองพิเศษ
 
 #================================================ NAP ===================================================
 Lona/Nap_begin
-\m[normal]\c[4]Looks like a place to rest...
+\m[normal]\c[4]ดูเหมือนจะเป็นที่พักผ่อน...
 
 Inn/GetInnKey
-\m[normal]Looks like a place to rest... \n\i[#{$story_stats["HiddenOPT0"]}] \{ #{$story_stats["HiddenOPT1"]}
+\m[normal]ดูเหมือนจะเป็นที่พักผ่อน... \n\i[#{$story_stats["HiddenOPT0"]}] \{ #{$story_stats["HiddenOPT1"]}
 
 Lona/Nap_RapeLoop_begin1
-\narr Lona curled up and eventually fell asleep.
-\narr But they refused to Lona rest...
+\narr Lona ม้วนตัวและหลับไปในที่สุด
+\narr แต่พวกเขาไม่ยอมให้ Lona พักผ่อน...
 
 Lona/Nap_RapeLoop_begin2_opt_normal
-\m[sad]\c[6]Lona：\c[0]    What should I do......? \optB[Don't give up hope!,Give up...]
+\m[sad]\c[6]Lona：\c[0]    หนูควรทำอะไรดี......? \optB[สู้ต่อไป!,ยอมแพ้...]
 
 Lona/Nap_RapeLoop_begin2_opt_tsun
-\m[hurt]\c[6]Lona：\c[0]    I... I have to...... \optB[Be strong and keep going!,Accept my destiny...]
+\m[hurt]\c[6]Lona：\c[0]    หนู... หนูต้อง...... \optB[เข้มแข็งและสู้ต่อ!,ยอมรับชะตากรรม...]
 
 Lona/Nap_RapeLoop_begin2_opt_weak
-\m[tired]\c[6]Lona：\c[0]    I should just...... \optB[Keep waiting until I'm rescued!,Become a meat toilet...]
+\m[tired]\c[6]Lona：\c[0]    หนูควรจะ...... \optB[รอจนกว่าจะได้รับการช่วยเหลือ!,กลายเป็นทาสกาม...]
 
 Lona/Nap_RapeLoop_begin2_opt_slut
-\m[normal]\c[6]Lona：\c[0]    Maybe I should...... \optB[Reconsider and still find a way out!,Get settled in my new home...]
+\m[normal]\c[6]Lona：\c[0]    อาจจะ...... \optB[คิดใหม่และยังหาทางออก!,จัดการกับบ้านใหม่ของหนู...]
 
 Lona/Nap_RapeLoop_begin2_opt_overfatigue
-\m[tired]\c[6]Lona：\c[0]    I... ne-... need... to...... \optB[Regain my strength and energy!,Just live like this from now on...]
+\m[tired]\c[6]Lona：\c[0]    หนู... ต้อ-... ต้อง... ทำ...... \optB[ฟื้นฟูแรงและพลังงาน!,ใช้ชีวิตแบบนี้ต่อไป...]
 
 Lona/Nap_RapeLoop_begin2_opt_mouth_block
-\m[tired]\c[6]Lona：\c[0]    (I must......) \optB[Find a way to get this out of my mouth!,Forget it and just give up...]
+\m[tired]\c[6]Lona：\c[0]    (หนูต้อง......) \optB[หาทางเอาออกจากปาก!,ลืมมันไปแล้วยอมแพ้...]
 
 Lona/Nap_RapeLoop_begin2_normal
-\m[terror]\Rshake\c[6]Lona：\c[0]    *Sob*... Why me?!
-\m[bereft]\Rshake\c[6]Lona：\c[0]    I can't take it anymore...
+\m[terror]\Rshake\c[6]Lona：\c[0]    *สะอึก*... ทำไมต้องเป็นหนู?!
+\m[bereft]\Rshake\c[6]Lona：\c[0]    หนูทนไม่ไหวแล้ว...
 
 Lona/Nap_RapeLoop_begin2_tsun
-\m[terror]\Rshake\c[6]Lona：\c[0]    Nnnighnnn... *Sniff*... *Sob*... D-Damn you all!!!
-\m[pain]\Rshake\c[6]Lona：\c[0]    ...Why me?!
+\m[terror]\Rshake\c[6]Lona：\c[0]    อ่า... *ดม*... *สะอึก*... อีกระหรี่ทั้งหลาย!!!
+\m[pain]\Rshake\c[6]Lona：\c[0]    ...ทำไมต้องเป็นหนู?!
 
 Lona/Nap_RapeLoop_begin2_weak
-\m[hurt]\Rshake\c[6]Lona：\c[0]    *Whimper*......
-\m[sad](Maybe the suffering will stop if I just accept it...?)
+\m[hurt]\Rshake\c[6]Lona：\c[0]    *ร้องเจี๊ยก*......
+\m[sad](อาจจะหยุดทรมานถ้าหนูยอมรับมัน...?)
 
 Lona/Nap_RapeLoop_begin2_slut
-\m[hurt]\Rshake\c[6]Lona：\c[0]    Uwuu... *Sniff*... It hurts all over......
-\m[pain]\Rshake\c[6]Lona：\c[0]    Can't they just be a bit more gentler?
-\m[flirty]\c[6]Lona：\c[0]    But... I'm kind of looking forward to what will happen to me next!~
-\m[lewd](Perhaps this is where I belong?)
+\m[hurt]\Rshake\c[6]Lona：\c[0]    อู๊... *ดม*... เจ็บทั่วตัว......
+\m[pain]\Rshake\c[6]Lona：\c[0]    พวกเขาไม่สามารถอ่อนโยนกว่านี้ได้หรอ?
+\m[flirty]\c[6]Lona：\c[0]    แต่... หนูก็รอคอยว่าจะเกิดอะไรขึ้นกับหนูต่อไป!~
+\m[lewd](อาจจะนี่แหละที่หนูควรอยู่?)
 
 Lona/Nap_RapeLoop_begin2_overfatigue
-\m[tired]\c[6]Lona：\c[0]    *Pant*... *Haff*......
-\m[sad](I can't move my body at all...)
+\m[tired]\c[6]Lona：\c[0]    *หอบ*... *หอบ*......
+\m[sad](หนูไม่สามารถขยับตัวได้เลย...)
 
 Lona/Nap_RapeLoop_begin2_mouth_block
-\m[pain]\c[6]Lona：\c[0]    Nnnighnnnmmmph......
-\m[sad](My restraints prevent me from saying anything...)
+\m[pain]\c[6]Lona：\c[0]    อ่า... อิมมมมม......
+\m[sad](พันธนาการของหนูทำให้หนูพูดอะไรไม่ได้...)
 
 #================================================ Action_CHSH_Masturbation.rb ===================================================
 Lona/Masturbation_begin1
 \m[lewd]\c[6]Lona：\c[0]    ...
 
 Lona/Masturbation_begin2
-\m[shy]\c[6]Lona：\c[0]    *Huff*... *Haff*......
+\m[shy]\c[6]Lona：\c[0]    *หอบ*... *หอบ*......
 
 #================================================ BATH ===================================================
 Lona/Bath_tooClearn
-\m[confused]\c[6]Lona：\c[0]    Mmmm... I don't feel or look dirty... *Sniff* *Sniff* No body odor either!
+\m[confused]\c[6]Lona：\c[0]    มมม... หนูไม่รู้สึกหรือดูสกปรก... *ดม* *ดม* ไม่มีกลิ่นตัวด้วย!
 
 Lona/Bath_EndDirtLvl1
-\m[confused]\c[6]Lona：\c[0]    I still feel like I have dirt on me...
+\m[confused]\c[6]Lona：\c[0]    หนูยังรู้สึกว่ามีสิ่งสกปรกติดตัวอยู่...
 
 Lona/Bath_EndDirtLvl2
-\m[flirty]\c[6]Lona：\c[0]    Well, I did my best...
+\m[flirty]\c[6]Lona：\c[0]    ก็ทำได้ดีที่สุดแล้ว...
 
 Lona/Bath_EndDirtLvl3
-\m[tired]\c[6]Lona：\c[0]    Ugh... Gross, gross, gross...
+\m[tired]\c[6]Lona：\c[0]    อ่าห์... สกปรก สกปรก สกปรก...
 
 Lona/Bath_begin
-\m[flirty](It looks like you can clean your body here.) \optB[Cancel,Bathe,Clean privates<r=HiddenOPT1>,Collect breast milk<r=HiddenOPT2>]
+\m[flirty](ดูเหมือนคุณสามารถทำความสะอาดร่างกายที่นี่ได้) \optB[ยกเลิก,อาบน้ำ,ทำความสะอาดรูหี<r=HiddenOPT1>,รีดนม<r=HiddenOPT2>]
 
 Lona/Bath_Undress1
 \m[shy]\c[6]Lona：\c[0]    ...............
@@ -229,7 +229,7 @@ Lona/Bath_Undress4
 \m[tired]\c[6]Lona：\c[0]    ...
 
 Lona/Bath_cuffed
-\narr Lona tries her to best to bathe herself while being restrained.
+\narr Lona พยายามอาบน้ำให้ดีที่สุดขณะถูกพันธนาการ
 
 Lona/Bath_washing
 \m[shy]\cg[event_bath]\c[6]Lona：\c[0]    ............
@@ -241,170 +241,168 @@ Lona/Bath_washing_IfWounds0
 \m[shy]\cg[event_bath]\c[6]Lona：\c[0]    ............
 \m[flirty]\c[6]Lona：\c[0]    .........
 \m[normal]\c[6]Lona：\c[0]    ......?!
-\cgoff Lona's wounds were irritated by the water.
+\cgoff แผลของ Lona ถูกน้ำกระตุ้น
 
 Lona/Bath_washing_IfWounds1
-\m[pain]\Rflash\c[6]Lona：\c[0]    Gah!
-\m[hurt]\Rflash\c[6]Lona：\c[0]    ...It hurts!
+\m[pain]\Rflash\c[6]Lona：\c[0]    อ๊าก!
+\m[hurt]\Rflash\c[6]Lona：\c[0]    ...เจ็บ!
 
 Lona/Bath_washing_IfWoundsM
-\m[lewd]\c[6]Lona：\c[0]    Eh hee, teehee......~ ♥
+\m[lewd]\c[6]Lona：\c[0]    อิ๊ ฮี๊...~ ♥
 
 Lona/Bath_begin3_NoFuckerSight
-\m[triumph]\c[6]Lona：\c[0]    Haaa...~ Time to relax...!
+\m[triumph]\c[6]Lona：\c[0]    ฮ่า...~ ถึงเวลาผ่อนคลายแล้ว...!
 
 Lona/Bath_begin3_FuckerSight_normal
-\m[shocked]\c[6]Lona：\c[0]    ...Is anyone watching me?
-\m[shy]\c[6]Lona：\c[0]    I should hurry up and finish as fast as I can...
+\m[shocked]\c[6]Lona：\c[0]    ...มีใครดูหนูอยู่ไหม?
+\m[shy]\c[6]Lona：\c[0]    หนูควรรีบทำให้เสร็จเร็วที่สุด...
 
 Lona/Bath_begin3_FuckerSight_tsun
-\m[irritated]\c[6]Lona：\c[0]    Shit... They're going to see me!
-\m[sad]\c[6]Lona：\c[0]    Just w-what the hell am I doing...?
+\m[irritated]\c[6]Lona：\c[0]    กาก... พวกมันจะเห็นหนู!
+\m[sad]\c[6]Lona：\c[0]    หนูกำลังทำอะไรอยู่นี่...?
 
 Lona/Bath_begin3_FuckerSight_weak
-\m[fear]\c[6]Lona：\c[0]    ...S-Sssomeones w-... -watching me......
-\m[shy]\c[6]Lona：\c[0]    Umm... I'll j-just be quick... M-Maybe it's okay.
-\m[tired]\c[6]Lona：\c[0]    ...Maybe......
+\m[fear]\c[6]Lona：\c[0]    ...มี-... มีคนดูหนู......
+\m[shy]\c[6]Lona：\c[0]    อืม... หนูจะรีบๆ... อาจจะไม่เป็นไร
+\m[tired]\c[6]Lona：\c[0]    ...อาจจะ......
 
 Lona/Bath_begin3_FuckerSight_slut
-\m[confused]\c[6]Lona：\c[0]    Out here?! In plain sight...?
-\m[lewd]\c[6]Lona：\c[0]    My heart's beating sooo fast... They're going to see what I'm doing!~
+\m[confused]\c[6]Lona：\c[0]    ข้างนอกนี่?! ในที่โล่ง...?
+\m[lewd]\c[6]Lona：\c[0]    หัวใจหนูเต้นแรงมาก... พวกเขาจะเห็นว่าหนูกำลังทำอะไร!~
 
 Lona/Bath_begin3_FuckerSight_overfatigue
-\m[tired]Lona was so exhasuted that she didn't even care if someone was nearby.
+\m[tired]Lona เหนื่อยมากจนไม่สนใจว่ามีใครอยู่ใกล้ๆ
 \m[tired]\c[6]Lona：\c[0]    ......
 
 Lona/Bath_begin3_FuckerSight_mouth_block
-\m[shy]\c[6]Lona：\c[0]    Mmmnnnph!
-Lona was unable to speak, so she couldn't comment about being seen by others...
+\m[shy]\c[6]Lona：\c[0]    อิมมมมม!
+Lona ไม่สามารถพูดได้ เธอจึงไม่สามารถแสดงความคิดเห็นเกี่ยวกับการถูกเห็นโดยคนอื่น...
 
 Lona/Bath_end
-\m[normal]\c[6]Lona：\c[0]    Mmmm, much cleaner now.
+\m[normal]\c[6]Lona：\c[0]    มมม, สะอาดขึ้นมากแล้ว
 
 #================================================ Groin_clearn ===================================================
-#需先檢測視線 FLAG採用BATH 清理50%+SEXY SKILL的洨 
+#ต้องตรวจสอบสายตา FLAG ใช้ BATH ทำความสะอาด 50%+SEXY SKILL
 
 Lona/GroinClearn_begin1
-\m[shy]\c[6]Lona：\c[0]    I have to clean out all of the dirty stuff inside of me.\n Otherwise, I'll get pregnant...
+\m[shy]\c[6]Lona：\c[0]    หนูต้องทำความสะอาดสิ่งสกปรกที่อยู่ข้างในให้หมด\n ไม่งั้นหนูจะท้อง...
 
 Lona/GroinClearn_begin2_1
-\m[shy]\cg[event_GroinClearn]\c[6]Lona：\c[0]    ...Mmmnnn.........
+\m[shy]\cg[event_GroinClearn]\c[6]Lona：\c[0]    ...มมมมม.........
 
 Lona/GroinClearn_begin2_2
-\m[shy]\cg[event_GroinClearn]\c[6]Lona：\c[0]    ...Ninnnghn...... *Squish*!
+\m[shy]\cg[event_GroinClearn]\c[6]Lona：\c[0]    ...อ่า... *จิ๊ก*!
 
 Lona/GroinClearn_begin2_3
-\m[shy]\cg[event_GroinClearn]\c[6]Lona：\c[0]    ...Nnnph... *Squish*.
+\m[shy]\cg[event_GroinClearn]\c[6]Lona：\c[0]    ...มมม... *จิ๊ก*.
 
 Lona/GroinClearn_begin2_4
-\m[shy]\cg[event_GroinClearn]\c[6]Lona：\c[0]    Ah... *Squish*...
+\m[shy]\cg[event_GroinClearn]\c[6]Lona：\c[0]    อ๊ะ... *จิ๊ก*...
 
 Lona/GroinClearn_cuffed
-Due to her restraints, Lona wasn't able to clean her genitals very well.
+เนื่องจากพันธนาการ Lona ไม่สามารถทำความสะอาดอวัยวะเพศได้ดีนัก
 
 Lona/GroinClearn_failed_typical
 \CBct[8]\m[sad]\cgoff\c[6]Lona：\c[0]    .........
-\CBct[6]\m[fear]\c[6]Lona：\c[0]    It still feels like there's something inside...
-\CBct[6]\m[confused]\c[6]Lona：\c[0]    Maybe I should try to clean it some more......
+\CBct[6]\m[fear]\c[6]Lona：\c[0]    ยังรู้สึกว่ามีอะไรอยู่ข้างใน...
+\CBct[6]\m[confused]\c[6]Lona：\c[0]    อาจจะต้องลองทำความสะอาดเพิ่มอีก......
 
 Lona/GroinClearn_failed_tsundere
 \CBct[8]\m[confused]\cgoff\c[6]Lona：\c[0]    .........
-\CBct[5]\m[irritated]\c[6]Lona：\c[0]    I can still feel something in there...
-\CBct[6]\m[hurt]\c[6]Lona：\c[0]    I shouldn't have to do this in the first place!
+\CBct[5]\m[irritated]\c[6]Lona：\c[0]    หนูยังรู้สึกว่ามีอะไรอยู่ข้างใน...
+\CBct[6]\m[hurt]\c[6]Lona：\c[0]    หนูไม่ควรต้องทำแบบนี้ตั้งแต่แรก!
 
 Lona/GroinClearn_failed_gloomy
 \CBct[8]\m[sad]\cgoff\c[6]Lona：\c[0]    .........
-\CBct[6]\m[confused]\c[6]Lona：\c[0]    It's not coming out all the way...
-\CBct[6]\m[shocked]\c[6]Lona：\c[0]    If I don't get everything out... I'll get pregnant......
+\CBct[6]\m[confused]\c[6]Lona：\c[0]    มันไม่ออกมาทั้งหมด...
+\CBct[6]\m[shocked]\c[6]Lona：\c[0]    ถ้าหนูไม่เอาทุกอย่างออก... หนูจะท้อง......
 
 Lona/GroinClearn_failed_slut
 \CBct[8]\m[sad]\cgoff\c[6]Lona：\c[0]    .........
-\CBct[6]\m[bereft]\c[6]Lona：\c[0]    No matter how much I use my fingers, it's not coming out...
-\CBct[4]\m[hurt]\c[6]Lona：\c[0]    I should find another man's cock to help me clean my pussy...~ ♥
+\CBct[6]\m[bereft]\c[6]Lona：\c[0]    ไม่ว่าหนูจะใช้นิ้วมากแค่ไหน มันก็ไม่ออกมา...
+\CBct[4]\m[hurt]\c[6]Lona：\c[0]    หนูควรหาควยของผู้ชายคนอื่นมาช่วยทำความสะอาดรูหีหนู...~ ♥
 
 Lona/GroinClearn_win
 \m[sad]\cgoff\c[6]Lona：\c[0]    .........
-\m[shy]\c[6]Lona：\c[0]    I think I've managed to get rid of everything inside!\n ...Maybe?
+\m[shy]\c[6]Lona：\c[0]    หนูคิดว่าหนูทำได้เอาทุกอย่างออกมาแล้ว!\n ...อาจจะ?
 
 #================================================ SelfMilking ===================================================
 
 Lona/SelfMilking_HowMuch
-How much breast milk should you collect?
+คุณควรรีดนมเท่าไหร่?
 
 Lona/SelfMilking_begin1
-\narr Lona decided to collect the milk leaking out of her breasts.
+\narr Lona ตัดสินใจรีดนมที่ไหลออกมาจากหน้าอกของเธอ
 
 Lona/SelfMilking_begin2
 \CBct[8]\c[6]Lona：\c[0]    ......
 
 Lona/SelfMilking_begin3
-\CBct[6]\c[6]Lona：\c[0]    Eeep!
+\CBct[6]\c[6]Lona：\c[0]    อี๊!
 
 Lona/SelfMilking_begin4
 \CBct[8]\c[6]Lona：\c[0]    .........
 
 Lona/SelfMilking_begin5
-\CBct[6]\c[6]Lona：\c[0]    Mmmmnnnn...
+\CBct[6]\c[6]Lona：\c[0]    มมมมม...
 
 Lona/SelfMilking_end1
-\CBct[8]\c[6]Lona：\c[0]    Phew......
+\CBct[8]\c[6]Lona：\c[0]    ฟิว......
 
 Lona/SelfMilking_end2
-\narr Lona puts away a jug filled with her breast milk...
-\narrOFF\CBct[6]\c[6]Lona：\c[0]    Mmmm... It doesn't feel as swollen as before.
+\narr Lona เก็บขวดที่เต็มไปด้วยนมของเธอ...
+\narrOFF\CBct[6]\c[6]Lona：\c[0]    มมม... ไม่รู้สึกบวมเหมือนก่อน
 
 Lona/SelfMilking_end2_slut
-\CBct[4]\c[6]Lona：\c[0]    That felt really good! I'm suddenly getting hot down there...~
+\CBct[4]\c[6]Lona：\c[0]    รู้สึกดีมาก! หนูเริ่มร้อนๆ ตรงนั้น...~
 
 #================================================ Excretion ===================================================
 Lona/Excretion_begin
-\CBct[6]\m[normal]\c[6]Lona：\c[0]    Phew......
-\CBct[8]\m[shy]\c[6]Lona：\c[0]    I need to... \optB[Do nothing,Use the bathroom<r=HiddenOPT1>,Clean privates<r=HiddenOPT2>,Collect breast milk<r=HiddenOPT3>]
+\CBct[6]\m[normal]\c[6]Lona：\c[0]    ฟิว......
+\CBct[8]\m[shy]\c[6]Lona：\c[0]    หนูต้อง... \optB[ไม่ทำอะไร,ใช้ห้องน้ำ<r=HiddenOPT1>,ทำความสะอาดรูหี<r=HiddenOPT2>,รีดนม<r=HiddenOPT3>]
 
 Lona/Excretion_begin2
-\CBct[6]\m[shy]\c[6]Lona：\c[0]    Nnnighnnn... *Puff*! Hiiinnngh......
+\CBct[6]\m[shy]\c[6]Lona：\c[0]    อ่า... *ฟู่*! อี๊......
 
 Lona/Excretion_end_NoExcretion
-\CBct[2]\m[normal](Hmmm? ...Am I finished?)
+\CBct[2]\m[normal](ฮมม? ...หนูเสร็จแล้วหรือยัง?)
 
 Lona/Excretion_end
-\CBct[3]\m[shy]\c[6]Lona：\c[0]    Haaah... I feel much more comfortable now......
+\CBct[3]\m[shy]\c[6]Lona：\c[0]    ฮ่า... รู้สึกสบายขึ้นมาก......
 
 Lona/Toilet_ClearnUp
-\CBct[8]\m[tired]\plf\prf\c[4] A clogged up toilet...
-\CBct[6]\m[fear]\plf\Rshake\c[6]Lona：\c[0]    Blegh! It stinks!!!
+\CBct[8]\m[tired]\plf\prf\c[4] ห้องน้ำตัน...
+\CBct[6]\m[fear]\plf\Rshake\c[6]Lona：\c[0]    บล๊าก! มันเหม็น!!!
 
 #================================================ Shave =============================
 
 Lona/ShavePubicHair_0_typical
 \CBct[8]\m[shy]\c[6]Lona：\c[0]    .........
-\CBct[8]\m[flirty]\c[6]Lona：\c[0]    It looks like I've grown too much pubic hair. There must be a lot of dirt hiding underneath... Should I shave it off?
+\CBct[8]\m[flirty]\c[6]Lona：\c[0]    ดูเหมือนหนูจะมีขนหมอยมากเกินไป คงมีสิ่งสกปรกซ่อนอยู่ข้างใต้... หนูควรโกนมันออกไหม?
 
 Lona/ShavePubicHair_0_tsundere
 \CBct[8]\m[tired]\c[6]Lona：\c[0]    \..\..\..
-\CBct[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    WUH-?! When did I grow this much hair down there?!
+\CBct[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    อะไรนะ-?! เมื่อไหร่หนูมีขนมากขนาดนี้ตรงนั้น?!
 
 Lona/ShavePubicHair_0_gloomy
-\CBct[8]\m[sad]\c[6]Lona：\c[0]    Uwuuu...
-\CBct[8]\m[fear]\c[6]Lona：\c[0]    S-Should I remove my... p-pubic hair?
+\CBct[8]\m[sad]\c[6]Lona：\c[0]    อู๊...
+\CBct[8]\m[fear]\c[6]Lona：\c[0]    หนูควรจะเอา... ขนหมอยออกไหม?
 
 Lona/ShavePubicHair_0_slut
 \CBct[8]\m[confused]\c[6]Lona：\c[0]    .........
-\CBct[4]\m[shy]\c[6]Lona：\c[0]    I should probably shave off my bush, it'll make my pussy look much cuter!~ ♥
+\CBct[4]\m[shy]\c[6]Lona：\c[0]    หนูควรโกนป่าใหญ่ออก มันจะทำให้รูหีหนูดูน่ารักขึ้น!~ ♥
 
 Lona/ShavePubicHair_1
-\m[confused] How much more do I have to shave off?
+\m[confused] หนูต้องโกนอีกเท่าไหร่?
 
 Lona/ShavePubicHair_2_typical
-\CBct[20]\m[triumph]\Rshake\c[6]Lona：\c[0]    I feel much better now!
+\CBct[20]\m[triumph]\Rshake\c[6]Lona：\c[0]    หนูรู้สึกดีขึ้นมาก!
 
 Lona/ShavePubicHair_2_tsundere
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    Mmmm... Is there no way to make hair down there disappear forever?
+\CBct[8]\m[confused]\c[6]Lona：\c[0]    มมม... ไม่มีวิธีให้ขนตรงนั้นหายไปตลอดกาลเลยหรือ?
 
 Lona/ShavePubicHair_2_gloomy
-\CBct[3]\m[flirty]\c[6]Lona：\c[0]    It feels more c-comfortable...
+\CBct[3]\m[flirty]\c[6]Lona：\c[0]    รู้สึกสบายขึ้น...
 
 Lona/ShavePubicHair_2_slut
-\CBct[4]\m[pleased]\Rshake\c[6]Lona：\c[0]    Mmmnnn.~ ♥ My next partner is going to be sooo happy when he looks down there.~ ♥
-
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+\CBct[4]\m[pleased]\Rshake\c[6]Lona：\c[0]    มมมมม.~ ♥ คนต่อไปของหนูจะดีใจมากเมื่อเขามองลงไปตรงนั้น.~ ♥

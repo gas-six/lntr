@@ -1,28 +1,30 @@
+XXXXXXXX
+
 #################################################################################
 
 TextLog1/Title
-Text
+ข้อความ
 
 TextLog1/Sender
-TextLog
+บันทึกข้อความ
 
 TextLog1/Text
-None
+ไม่มี
 
 TextLog2/Title
-Narrator
+ผู้เล่าเรื่อง
 
 TextLog2/Sender
-TextLog
+บันทึกข้อความ
 
 TextLog2/Text
-None
+ไม่มี
 
 TextLog3/Title
-Board
+กระดาน
 
 TextLog3/Sender
-TextLog
+บันทึกข้อความ
 
 TextLog3/Text
-None
+ไม่มี

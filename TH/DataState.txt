@@ -1,1368 +1,783 @@
+XXXXXXXX
+
 SacredAegis/item_name
-Sacred Aegis
+เกราะศักดิ์สิทธิ์
 
 SacredAegis/description
 \}\n
-Through discipline and faith, one guards their vestments — a symbol not easily stripped away.\n
+ด้วยวินัยและความเชื่อ คนเราจะปกป้องเสื้อผ้าของตัวเอง — สัญลักษณ์ที่ไม่อาจถูกถอดออกได้ง่ายๆ\n
 \n
-\C[6]Requires 5 points in SUR.\n
-\C[2]When hit by an attack, garments will not be torn off.\n
-\C[2]When caught by a grab skills, if Anal, Vag, and Face remain uncovered, garments will not be removed.\n
+\C[6]ต้องการ 5 คะแนนใน SUR\n
+\C[2]เมื่อถูกโจมตี เสื้อผ้าจะไม่ถูกฉีกขาด\n
+\C[2]เมื่อถูกจับด้วยทักษะการจับ ถ้าบริเวณ Anal, Vag, และ Face ยังไม่ถูกเปิดเผย เสื้อผ้าจะไม่ถูกถอดออก\n
 
 Dizzy/item_name
-Vertigo
+วิงเวียน
 
 Dizzy/description
 \}\n
-*Retch* Don't feel good,\n
-everything's spinning...\n
+*อา* ไม่สบายตัว,\n
+ทุกอย่างหมุนวน...\n
 \n
-\C[1]Decreases maximum STA.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[1]ลดค่า STA สูงสุด\n
+\C[1]เพิ่มค่า Weak\n
+\C[1]ลดค่า SPD\n
 
 ParasitedPolypWorm/item_name
-Polyp
+ตัวตืด
 
 ParasitedPolypWorm/description
 \}\n
-My tummy feels bloated. Hot too\n
+ท้องรู้สึกอืด ร้อนด้วย\n
 \n
-\C[5]Chance to spawn polyp worm every time you orgasm.\n
-\C[5]Increase arousal each rest.\n
-\C[1]Vagina damage each rest.\n
-\C[1]Baby damage each rest.\n
+\C[5]มีโอกาสที่จะเกิดตัวตืดทุกครั้งที่คุณถึงจุดสุดยอด\n
+\C[5]เพิ่มความตื่นเต้นทุกครั้งที่พัก\n
+\C[1]ความเสียหายต่อช่องคลอดทุกครั้งที่พัก\n
+\C[1]ความเสียหายต่อทารกทุกครั้งที่พัก\n
 
 ParasitedHookWorm/item_name
-Hookworm
+ตัวตัวหนอน
 
 ParasitedHookWorm/description
 \}\n
-I want to puke...and I have no appetite.\n
+อยากอาเจียน...และไม่มีความอยากอาหาร\n
 \n
-\C[5]Increase need to vomit over time.\n
-\C[5]Chance to spawn hookworm every time you vomit.\n
-\C[1]Increase Food cost each rest.\n
+\C[5]เพิ่มความต้องการอาเจียนตามเวลา\n
+\C[5]มีโอกาสที่จะเกิดตัวตัวหนอนทุกครั้งที่คุณอาเจียน\n
+\C[1]เพิ่มค่าอาหารที่ต้องการทุกครั้งที่พัก\n
 
 StomachSeedBed/item_name
-Seedbed Stomach
+กระเพาะเป็นแปลงปลูก
 
 StomachSeedBed/description
 \}\n
-My belly is a seedbed for monsters.\n
+ท้องของฉันเป็นแปลงปลูกสำหรับสัตว์ประหลาด\n
 \n
-\C[1]Increase hookworm spawns each rest.\n
+\C[1]เพิ่มการเกิดตัวตัวหนอนทุกครั้งที่พัก\n
 
 NaturalVagGlandsLink/item_name
-Prospermia
+โรคเสื่อมสมรรถภาพทางเพศ
 
 NaturalVagGlandsLink/description
 \}\n
-I've always been unable to resist pleasure for too long...\n
+ฉันไม่สามารถต้านทานความสุขได้นานเกินไป...\n
 \n
-\C[6]Automatically removes gland modifications.\n
-\C[1]Decreases negative effects on WILL.\n
+\C[6]ลบการปรับแต่งต่อมอัตโนมัติ\n
+\C[1]ลดผลกระทบเชิงลบต่อ WILL\n
 
 WaveringResolve/item_name
-Vacillation
+ความลังเล
 
 WaveringResolve/description
 \}\n
-I'm always indecisive.
+ฉันมักจะตัดสินใจไม่ได้
 \n
-\C[2]Decreases negative effects on HP\n
-\C[1]Decrease WILL\n
+\C[2]ลดผลกระทบเชิงลบต่อ HP\n
+\C[1]ลดค่า WILL\n
 
 ADHD/item_name
 ADHD
 
 ADHD/description
 \}\n
-I don't know why I'm always so impulsive.
+ฉันไม่รู้ว่าทำไมฉันถึงชอบกระทำการแบบหุนหันพลันแล่น
 \n
-\C[2]Increase Dodge Frame\n
-\C[2]Increase SPD\n
-\C[1]Decrease WIS\n
+\C[2]เพิ่มเฟรมการหลบ\n
+\C[2]เพิ่มค่า SPD\n
+\C[1]ลดค่า WIS\n
 
 STD_Leukorrhea/item_name
-Vaginitis
+โรคช่องคลอดอักเสบ
 
 STD_Leukorrhea/description
 \}\n
-Some sort of gooey slime keeps leaking out from my vagina.\n
-UGH! And it smells so bad... Am I sick with some sort of disease?\n
+มีสิ่งที่เหนียวเหนอะหนะไหลออกมาจากช่องคลอดของฉันตลอดเวลา\n
+อ๊าก! และมันก็มีกลิ่นเหม็นมาก... ฉันป่วยเป็นโรคอะไรหรือเปล่า?\n
 \n
-\C[1]Decreases Mood.\n
+\C[1]ลดอารมณ์\n
 
 STD_WartAnal/item_name
-Anal Warts
+หูดทวารหนัก
 
 STD_WartAnal/description
 \}\n
-Fleshy bumps circle around my anus and I think inside my rectum as well...\n
-Although painless, they always feel really itchy...\n
+ก้อนเนื้อล้อมรอบทวารหนักของฉันและฉันคิดว่าภายในทวารหนักด้วย...\n
+แม้ว่าจะไม่เจ็บ แต่มันก็คันมาก...\n
 \n
-\C[1]Decreases Mood.\n
+\C[1]ลดอารมณ์\n
 
 STD_WartVag/item_name
-Genital Warts
+หูดอวัยวะเพศ
 
 STD_WartVag/description
 \}\n
-From what I saw, warts are appearing on my vagina now.\n
-The bumps inside my vagina itches nearly all the time too...\n
-The irritation almost makes me want to insert something inside.\n
+จากที่ฉันเห็น หูดเริ่มปรากฏบนช่องคลอดของฉัน\n
+ก้อนเนื้อภายในช่องคลอดก็คันตลอดเวลา...\n
+ความระคายเคืองทำให้ฉันอยากใส่อะไรเข้าไปข้างใน\n
 \n
-\C[1]Decreases Mood.\n
+\C[1]ลดอารมณ์\n
 
 STD_HerpesAnal/item_name
-Anal Herpes
+เริมทวารหนัก
 
 STD_HerpesAnal/description
 \}\n
-Tiny lesions and blisters surround my anus and inner buttocks...\n
-I'm nearly in tears just from sitting down...\n
+รอยโรคเล็กๆ และตุ่มน้ำพองล้อมรอบทวารหนักและก้นด้านในของฉัน...\n
+ฉันเกือบจะร้องไห้เพียงแค่นั่งลง...\n
 \n
-\C[1]Decreases Mood.\n
+\C[1]ลดอารมณ์\n
 
 STD_HerpesVag/item_name
-Genital Herpes
+เริมอวัยวะเพศ
 
 STD_HerpesVag/description
 \}\n
-Small, painful rashes and sores are popping up all over my vagina...\n
-It really hurts when I touch them...\n
+ผื่นเล็กๆ และแผลที่เจ็บปวดปรากฏทั่วช่องคลอดของฉัน...\n
+มันเจ็บมากเมื่อฉันสัมผัส...\n
 \n
-\C[1]Decreases Mood.\n
+\C[1]ลดอารมณ์\n
 
 Freckle/item_name
-Freckles
+กระ
 
 Freckle/description
 \}\n
-Tiny brown dots blot all over my face and skin...\n
-Father said it's because I often played outside under the sun.\n
-I've heard some boys find them cute though!\n
+จุดสีน้ำตาลเล็กๆ กระจายทั่วใบหน้าและผิวของฉัน...\n
+พ่อบอกว่าเพราะฉันมักจะเล่นข้างนอกใต้แสงแดด\n
+ฉันได้ยินว่าบางคนคิดว่ามันน่ารัก!\n
 
 Tail/item_name
-Tail
+หาง
 
 Tail/description
 \}\n
-When I was a child, everyone would always pull on my tail.\n
+ตอนเด็กๆ ทุกคนมักจะดึงหางฉัน\n
 \n
-It was really annoying...\n
+มันน่ารำคาญมาก...\n
 
 PubicHairVag/item_name
-Pubic Hair
+ขนหมอย
 
 PubicHairVag/description
 \}\n
-Having pubic hair is a symbol of adulthood!\n
+การมีขนหมอยเป็นสัญลักษณ์ของความเป็นผู้ใหญ่!\n
 \n
-With this, people should stop laughing at me and treating me like a child!\n
+ด้วยสิ่งนี้ คนควรจะหยุดหัวเราะเยาะฉันและปฏิบัติต่อฉันเหมือนเด็ก!\n
 
 PubicHairAnal/item_name
-Anal Hair
+ขนทวารหนัก
 
 PubicHairAnal/description
 \}\n
-The priests say that the reason hair is grown\n
-near the anus is to prevent too much filth\n
-from being stuck onto your body.\n
+พวกนักบวชบอกว่าเหตุผลที่มีขนขึ้น\n
+ใกล้ทวารหนักคือเพื่อป้องกันไม่ให้สิ่งสกปรก\n
+ติดตัวมากเกินไป\n
 \n
-But, if such an area is seen by others...\n
+แต่ ถ้าบริเวณนี้ถูกเห็นโดยคนอื่น...\n
 
 WeakBladder/item_name
-Weak Bladder
+กระเพาะปัสสาวะอ่อนแอ
 
 WeakBladder/description
 \}\n
-Ugh... I still wet the bed to this day.\n
-Also, if I drink too much water, it'll leak right out of me.\n
+อ๊าก... ฉันยังเปียกที่นอนอยู่เลย\n
+นอกจากนี้ ถ้าฉันดื่มน้ำมากเกินไป มันจะไหลออกมาทันที\n
 
 SaintFieldSupporter/item_name
-The Low Priestess
+นักบวชชั้นต่ำ
 
 SaintFieldSupporter/description
 \}\n
-\}The priests at church told me I had a gift in serving the followers of the Saint. Father stopped me from\n
-visiting church since that day...\n
+\}นักบวชที่โบสถ์บอกฉันว่าฉันมีพรในการรับใช้ผู้ติดตามของนักบุญ พ่อห้ามไม่ให้ฉัน\n
+ไปโบสถ์ตั้งแต่วันนั้น...\n
 \n
-\C[6]Requires 10 points in CON.\n
-\C[6]Requires Trait："Acolyte".\n
-\C[2]The "Mend Soul" skill now heals target's Injury ailments.\n
+\C[6]ต้องการ 10 คะแนนใน CON\n
+\C[6]ต้องการลักษณะ："Acolyte"\n
+\C[2]ทักษะ "Mend Soul" ตอนนี้สามารถรักษาอาการบาดเจ็บของเป้าหมายได้\n
 
 NunKnowledge/item_name
-Acolyte
+นักบวชฝึกหัด
 
 NunKnowledge/description
 \}\n
-\}Church was like a second home to me when I was a little girl.\n
+\}โบสถ์เป็นเหมือนบ้านหลังที่สองของฉันตั้งแต่ฉันยังเด็ก\n
 \n
-\C[6]Requires 5 points in CON.\n
-\C[2]Receive the "Mend Soul" skill.\n
-\C[2]Able to equip "Divine" items.\n
+\C[6]ต้องการ 5 คะแนนใน CON\n
+\C[2]ได้รับทักษะ "Mend Soul"\n
+\C[2]สามารถสวมใส่ไอเท็ม "Divine" ได้\n
 
 AbomSickly/item_name
-Sickly
+ร่างกายอ่อนแอ
 
 AbomSickly/description
-\}I've always been in poor health since childhood.\n
-*Cough* *Cough*......\n
+\}ฉันมีสุขภาพไม่ดีตั้งแต่เด็ก\n
+*ไอ* *ไอ*......\n
 \n
-\C[1]Decreases maximum STA and HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
-\C[1]This ailment returns after sleeping.\n
+\C[1]ลดค่า STA และ HP สูงสุด\n
+\C[1]เพิ่มค่า Weak\n
+\C[1]ลดค่า SPD\n
+\C[1]อาการนี้จะกลับมาหลังจากนอน\n
 
 PreDeepone/item_name
-Body Odor
+กลิ่นตัว
 
 PreDeepone/description
-\}Everyone I've ever met tells me I reek of fish,\n
-especially down there...\n
-I think I smell just fine though......\n
-\C[1]Decreases SCU.\n
-\C[6]Decreases Sexy.\n
+\}ทุกคนที่ฉันเคยพบบอกว่าฉันมีกลิ่นปลา,\n
+โดยเฉพาะตรงนั้น...\n
+แต่ฉันคิดว่าฉันไม่มีกลิ่นเลย......\n
+\C[1]ลดค่า SCU\n
+\C[6]ลดค่า Sexy\n
 
 TrueDeepone/item_name
-Sea Witch's Gift
+ของขวัญจากแม่มดทะเล
 
 TrueDeepone/description
-\}The blood and powers of the ancient\n
-Sea Witch flows through your veins.\n
+\}เลือดและพลังของแม่มดทะเลโบราณ\n
+ไหลเวียนในเส้นเลือดของคุณ\n
 \n
-As a Goddess, your mesmerizing beauty\n
-and oceanic body odor is an aphrodisiac\n
-to the opposite sex.\n
+ในฐานะเทพธิดา ความงามที่น่าหลงใหลของคุณ\n
+และกลิ่นตัวที่เป็นเอกลักษณ์ของทะเลเป็นยากระตุ้น\n
+สำหรับเพศตรงข้าม\n
 \n
-Any males who are lucky enough to be in\n
-your presence will suddenly be driven\n
-mad with lust, and have a desire to\n
-forcefully breed with you...\n
+ผู้ชายทุกคนที่โชคดีพอที่จะอยู่ใกล้คุณ\n
+จะถูกขับเคลื่อนด้วยความใคร่อย่างบ้าคลั่ง\n
+และมีความปรารถนาที่จะ\n
+ข่มขืนคุณ...\n
 
 ShadowMaster/item_name
-Into the Darkness
+เข้าสู่ความมืด
 
 ShadowMaster/description
 \}\n
-\C[6]Requires Trait："From the Shadows".\n
-\C[6]Requires 20 points in SCU.\n
-\C[2]Allows continuous usage of skills\n
-while in Sneak/Stealth mode.\n
+\C[6]ต้องการลักษณะ："From the Shadows"\n
+\C[6]ต้องการ 20 คะแนนใน SCU\n
+\C[2]สามารถใช้ทักษะต่อเนื่อง\n
+ในโหมดซ่อน/ลอบเร้น\n
 
 IntoShadow/item_name
-From the Shadows
+จากความมืด
 
 IntoShadow/description
 \}\n
-\C[6]Requires 10 points in SCU.\n
-\C[2]While in Sneak/Stealth mode\n
-and using a skill, you remain in\n
-Sneak/Stealth mode until the skill\n
-has been activated.\n
+\C[6]ต้องการ 10 คะแนนใน SCU\n
+\C[2]ขณะอยู่ในโหมดซ่อน/ลอบเร้น\n
+และใช้ทักษะ คุณจะยังคงอยู่ใน\n
+โหมดซ่อน/ลอบเร้นจนกว่าทักษะ\n
+จะถูกเปิดใช้งาน\n
 
 TrapImprove/item_name
-Improved Traps
+กับดักที่ดีขึ้น
 
 TrapImprove/description
 \}\n
-\C[6]Requires Trait："Hunter Training".\n
-\C[6]Requires 10 points in SUR.\n
-\C[2]Your traps now stun enemies when\n
-activated.\n
+\C[6]ต้องการลักษณะ："Hunter Training"\n
+\C[6]ต้องการ 10 คะแนนใน SUR\n
+\C[2]กับดักของคุณตอนนี้จะทำให้ศัตรูชาช้ำเมื่อ\n
+ถูกเปิดใช้งาน\n
 
 DailyDrunkLevel/item_name
-Drunk
+เมา
 
 DailyDrunkLevel/description
-\}*Hic*... Burp!\n
-\C[2]Increases ATK.\n
-\C[1]Decreases Will.\n
-\C[1]Decreases WIS.\n
-\C[1]Increases Weak.\n
+\}*เอิ๊ก*... เรอ!\n
+\C[2]เพิ่มค่า ATK\n
+\C[1]ลดค่า Will\n
+\C[1]ลดค่า WIS\n
+\C[1]เพิ่มค่า Weak\n
 
 DailyPlusMood/item_name
-Fun
+สนุก
 
 DailyPlusMood/description
 \}\n
-I hope the excitement never ends!\n
+หวังว่าความตื่นเต้นจะไม่มีวันจบ!\n
 \n
-\C[6]Effects reduces every half-day.\n
-\C[5]Increases minimum Mood.\n
-\C[2]Increases SPD.\n
+\C[6]ผลกระทบลดลงทุกครึ่งวัน\n
+\C[5]เพิ่มค่าอารมณ์ขั้นต่ำ\n
+\C[2]เพิ่มค่า SPD\n
 
 DailyPlusHealthy/item_name
-Joy
+ความสุข
 
 DailyPlusHealthy/description
 \}\n
-Today is going to be a good day!\n
+วันนี้จะเป็นวันที่ดี!\n
 \n
-\C[6]Effects reduces every half-day.\n
-\C[2]Increases Will.\n
-\C[2]Increases ATK.\n
-\C[2]Increases DEF.\n
+\C[6]ผลกระทบลดลงทุกครึ่งวัน\n
+\C[2]เพิ่มค่า Will\n
+\C[2]เพิ่มค่า ATK\n
+\C[2]เพิ่มค่า DEF\n
 
 Pessimist/item_name
-Pessimist
+คนมองโลกในแง่ร้าย
 
 Pessimist/description
 \}\n
-Misery loves company......\n
+ความทุกข์ชอบมีเพื่อน......\n
 \n
-\C[1]Being "Depressed" increases ATK.\n
-\C[0]Being "Happy" decreases ATK.\n
+\C[1]การเป็น "Depressed" เพิ่มค่า ATK\n
+\C[0]การเป็น "Happy" ลดค่า ATK\n
 
 Lactation/item_name
-Lactation
+การผลิตน้ำนม
 
 Lactation/description
 \}\n
-My breasts are producing milk all the time.\n
+เต้านมของฉันผลิตน้ำนมตลอดเวลา\n
 \n
-\C[5]Increases milk volume over time.\n
+\C[5]เพิ่มปริมาณน้ำนมตามเวลา\n
 
 Hitchhiker/item_name
-Hitchhiker
+คนโบกรถ
 
 Hitchhiker/description
 \}\n
-So long and thanks for all the fish.\n
+ขอบคุณมากและขอบคุณสำหรับปลาทั้งหมด\n
 \n
-\C[6]Requires 15 points in SUR.\n
-\C[2]Increases Will.\n
-\C[2]Increases Max Food.\n
-\C[2]Decreases dangerous encounter rate.\n
+\C[6]ต้องการ 15 คะแนนใน SUR\n
+\C[2]เพิ่มค่า Will\n
+\C[2]เพิ่มค่าอาหารสูงสุด\n
+\C[2]ลดอัตราการพบเจออันตราย\n
 
 Lilith/item_name
-Whore of Babylon
+โสเภณีแห่งบาบิโลน
 
 Lilith/description
 \}\n
-Mother of Prostitutes and\n
-Abominations of the Earth.\n
+แม่ของโสเภณีและ\n
+สิ่งน่าสยดสยองของโลก\n
 \n
-\C[6]Requires Trait："Prostitute".\n
-\C[2]Increases Will.\n
-\C[2]Boosts HP and STA when dealing a\n
- critical attack during a sex battle.\n
-\C[2]Increases max Sex ATK.\n
+\C[6]ต้องการลักษณะ："Prostitute"\n
+\C[2]เพิ่มค่า Will\n
+\C[2]เพิ่ม HP และ STA เมื่อทำการโจมตีวิกฤตในการต่อสู้ทางเพศ\n
+\C[2]เพิ่มค่า Sex ATK สูงสุด\n
 
 Succubus/item_name
-Succubus
+ซัคคูบัส
 
 Succubus/description
 \}\n
-All men belong to me! ♥\n
+ผู้ชายทั้งหมดเป็นของฉัน! ♥\n
 \n
-\C[2]Receive the "Juicing" skill.\n
+\C[2]ได้รับทักษะ "Juicing"\n
 
 ImproveThrowRock/item_name
-Improved Throw
+การขว้างที่ดีขึ้น
 
 ImproveThrowRock/description
 \}\n
-Mastering such technique will ensure\n
-victory against scissors.\n
+การฝึกฝนเทคนิคนี้จะรับประกัน\n
+ชัยชนะเหนือกรรไกร\n
 \n
-\C[6]Requires 10 points in SCU.\n
-\C[2]Increases the time creatures,\n
-enemies, and NPCs are distracted.\n
+\C[6]ต้องการ 10 คะแนนใน SCU\n
+\C[2]เพิ่มเวลาที่สัตว์,\n
+ศัตรู และ NPC ถูกเบี่ยงเบนความสนใจ\n
 
 Alchemy/item_name
-Alchemy
+วิชาเล่นแร่แปรธาตุ
 
 Alchemy/description
 \}\n
-Let's throw everything in and see what happens!\n
+มาลองโยนทุกอย่างลงไปแล้วดูว่าจะเกิดอะไรขึ้น!\n
 \n
-\C[6]Requires 10 points in SUR.\n
-\C[2]Receive the "Dark Cauldron" skill.\n
+\C[6]ต้องการ 10 คะแนนใน SUR\n
+\C[2]ได้รับทักษะ "Dark Cauldron"\n
 
 HunterTraining/item_name
-Hunter Training
+การฝึกฝนนักล่า
 
 HunterTraining/description
 \}\n
-A real hunteress always watches\n
-where she steps...\n
+นักล่าที่แท้จริงเสมอ\n
+จะระวังที่เธอก้าว...\n
 \n
-\C[2]Receive the "Create Trap" skill.\n
-\C[2]Receive the "Pick up Rocks" skill.\n
+\C[2]ได้รับทักษะ "Create Trap"\n
+\C[2]ได้รับทักษะ "Pick up Rocks"\n
 
 BloodyMess/item_name
-Bloody Mess
+ความยุ่งเหยิงเลือด
 
 BloodyMess/description
 \}\n
-No matter what I do...\n
-It's always a mess!\n
-\C[2]Any kills by Lona will\n
-count as an "Overkill".\n
+ไม่ว่าฉันจะทำอะไร...\n
+มันก็ยุ่งเหยิงเสมอ!\n
+\C[2]การฆ่าใดๆ โดย Lona จะ\n
+นับเป็น "Overkill"\n
 
 WeaponryKnowledge/item_name
-Weapons Expert
+ผู้เชี่ยวชาญอาวุธ
 
 WeaponryKnowledge/description
 \}\n
-\C[2]Able to equip "High-quality" items.\n
-\C[2]The "Heavy Punch" skill is now uninterruptible by enemy attacks.\n
+\C[2]สามารถสวมใส่ไอเท็ม "High-quality" ได้\n
+\C[2]ทักษะ "Heavy Punch" ตอนนี้ไม่สามารถถูกขัดจังหวะโดยการโจมตีของศัตรูได้\n
 
 ManaKnowledge/item_name
-Mana Knowledge
+ความรู้เรื่องมานา
 
 ManaKnowledge/description
 \}\n
-\C[2]Able to equip "Mana" items.\n
+\C[2]สามารถสวมใส่ไอเท็ม "Mana" ได้\n
 
 Omnivore/item_name
-Omnivore
+ผู้กินทุกอย่าง
 
 Omnivore/description
 \}\n
-Om nom nom!\n
+อร่อยนะ!\n
 \n
-\C[2]Decreases the negative effects\n
-from food items.\n
-\C[2]Can pick up Filth items.\n
+\C[2]ลดผลกระทบเชิงลบ\n
+จากไอเท็มอาหาร\n
+\C[2]สามารถเก็บไอเท็ม Filth ได้\n
 
 Exhibitionism/item_name
-Exhibitionist
+คนชอบโชว์
 
 Exhibitionism/description
 \}\n
-Clothing is heavy, be free!!\n
+เสื้อผ้าหนักเกินไป จงเป็นอิสระ!!\n
 \n
-\C[2]Ignores loss of Mood when naked.\n
-\C[2]Nudity now increases SPD.\n
+\C[2]ไม่สนใจการสูญเสียอารมณ์เมื่อเปลือยกาย\n
+\C[2]การเปลือยกายตอนนี้เพิ่มค่า SPD\n
 
 Prostitute/item_name
-Prostitute
+โสเภณี
 
 Prostitute/description
 \}\n
-The oldest profession in the world...\n
+อาชีพที่เก่าแก่ที่สุดในโลก...\n
 \n
-\C[5]Can trade sex for payment with NPCs.\n
-\C[2]Increases Sex ATK.\n
-\C[2]Decreases the negative effects of\n
-sexual intercourse.\n
+\C[5]สามารถแลกเพศเพื่อรับเงินจาก NPC\n
+\C[2]เพิ่มค่า Sex ATK\n
+\C[2]ลดผลกระทบเชิงลบของ\n
+การมีเพศสัมพันธ์\n
 
 Masturbationed/item_name
-Sage Time
+เวลาของนักปราชญ์
 
 Masturbationed/description
 \}\n
-It's like telling others that I just came.\n
+เหมือนกับการบอกคนอื่นว่าฉันเพิ่งถึงจุดสุดยอด\n
 \n
-\C[6]Increases Sexy\n
+\C[6]เพิ่มค่า Sexy\n
 
 Fatigue/item_name
-Fatigue
+ความเหนื่อยล้า
 
 Fatigue/description
 \}\n
 ......\n
 \n
-\C[1]Decreases ATK.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[1]ลดค่า ATK\n
+\C[1]เพิ่มค่า Weak\n
+\C[1]ลดค่า SPD\n
 
 SemenGulper/item_name
-Semen Demon
+ปีศาจน้ำอสุจิ
 
 SemenGulper/description
 \}\n
-Guys! I like to eat cum!\n
+หนุ่มๆ! ฉันชอบกินน้ำอสุจิ!\n
 \n
-\C[2]Can gather Semen as food items.\n
-\C[2]Prevents and removes the\n
-"Cum Addiction" ailment.\n
+\C[2]สามารถเก็บน้ำอสุจิเป็นไอเท็มอาหาร\n
+\C[2]ป้องกันและรักษา\n
+อาการ "Cum Addiction"\n
 
 Mod_Taste/item_name
-MOD (Taste)
+MOD (รสชาติ)
 
 Mod_Taste/description
 \}\n
-Your appetite matches 2 girls eating out\n
-of 1 cup...\n
+ความอยากอาหารของคุณเทียบเท่ากับผู้หญิงสองคนที่กินอาหาร\n
+จากถ้วยเดียว...\n
 \n
-\C[2]Decreases negative effects on HP and STA.\n
-\C[1]Increases vomiting by food items\n
-other than Filth.\n
+\C[2]ลดผลกระทบเชิงลบต่อ HP และ STA\n
+\C[1]เพิ่มการอาเจียนจากไอเท็มอาหาร\n
+นอกเหนือจาก Filth\n
 
 Cannibal/item_name
-Cannibal
+คนกินคน
 
 Cannibal/description
 \}\n
-How long does it take for a man to\n
-become a monster when driven\n
-by hunger?\n
+ต้องใช้เวลานานแค่ไหนสำหรับคนที่จะ\n
+กลายเป็นสัตว์ประหลาดเมื่อถูกขับเคลื่อน\n
+ด้วยความหิว?\n
 \n
-\C[2]Human Flesh will drop when killing\n
-any humanoid NPCs.\n
-\C[2]Decreases the negative effects from\n
-Human Flesh items.\n
+\C[2]เนื้อมนุษย์จะตกหล่นเมื่อฆ่า\n
+NPC ที่เป็นมนุษย์ใดๆ\n
+\C[2]ลดผลกระทบเชิงลบจาก\n
+ไอเท็มเนื้อมนุษย์\n
 
 Mod_VagGlandsLink/item_name
-Linked Glands
+ต่อมที่เชื่อมต่อ
 
 Mod_VagGlandsLink/description
 \}\n
-I-I I'M COOMING!!!\n
+ฉ-ฉันจะถึงจุดสุดยอด!!!\n
 \n
-\C[5]Able to orgasm at any time.\n
+\C[5]สามารถถึงจุดสุดยอดได้ทุกเมื่อ\n
 
 Mod_VagGlandsSurgical/item_name
-G-spot Removal
+การผ่าตัดจุด G
 
 Mod_VagGlandsSurgical/description
 \}\n
-I can't orgasm anymore...\n
+ฉันไม่สามารถถึงจุดสุดยอดได้อีกแล้ว...\n
 \n
-\C[5]Cannot achieve orgasm under any condition.\n
+\C[5]ไม่สามารถถึงจุดสุดยอดได้ภายใต้สภาวะใดๆ\n
 
 BloodLust/item_name
-Bloodlust
+ความกระหายเลือด
 
 BloodLust/description
 \}\n
-Do you like hurting other people...?\n
+คุณชอบทำร้ายคนอื่น...?\n
 \n
-\C[2]Increases ATK.\n
-\C[2]Overkills now restore STA and Food.\n
+\C[2]เพิ่มค่า ATK\n
+\C[2]การฆ่าเกินจะฟื้นฟู STA และอาหาร\n
 \n
-\C[2]Sex attacks now deal HP damage.\n
-
+\C[2]การโจมตีทางเพศตอนนี้จะทำให้เกิดความเสียหาย HP\n
 
 Masochist/item_name
-Masochist
+คนชอบถูกทำร้าย
 
 Masochist/description
 \}\n
-Being bullied isn't necessarily a\n
-bad thing...\n
+การถูกรังแกไม่ใช่เรื่องเลวร้ายเสมอไป...\n
 \n
-\C[2]Increases DEF.\n
-\C[2]Increases Mood when receiving\n
-HP damage.\n
+\C[2]เพิ่มค่า DEF\n
+\C[2]เพิ่มอารมณ์เมื่อได้รับ\n
+ความเสียหาย HP\n
 
 Mod_MilkGland/item_name
-MOD (Breast A)
+MOD (เต้านม A)
 
 Mod_MilkGland/description
 \}\n
-My breasts are producing milk all the time.\n
+เต้านมของฉันผลิตน้ำนมตลอดเวลา\n
 \n
-\C[5]Increases milk volume over time.\n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[5]เพิ่มปริมาณน้ำนมตามเวลา\n
+\C[2]ลดผลกระทบเชิงลบต่อ HP และ STA\n
 
 Mod_Sterilization/item_name
-Sterilization
+การทำหมัน
 
 Mod_Sterilization/description
 \}\n
-In the current circumstances, this may be the\n
-most logical solution...\n
+ในสถานการณ์ปัจจุบัน นี่อาจเป็น\n
+วิธีแก้ปัญหาที่สมเหตุสมผลที่สุด...\n
 \n
-\C[6]Decreases Sexy.\n
-\C[6]Cannot get pregnant.\n
+\C[6]ลดค่า Sexy\n
+\C[6]ไม่สามารถตั้งครรภ์ได้\n
 
 AsVulva_Esophageal/item_name
-MOD (Mouth)
+MOD (ปาก)
 
 AsVulva_Esophageal/description
 \}\n
-The swallowing process lifts me to heaven.\n
+กระบวนการกลืนทำให้ฉันขึ้นสวรรค์\n
 \n
-\C[5]Any eating behavior increases Arousal.\n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[5]พฤติกรรมการกินใดๆ เพิ่มความตื่นเต้น\n
+\C[2]ลดผลกระทบเชิงลบต่อ HP และ STA\n
 
 AsVulva_Urethra/item_name
-MOD (Urethra)
+MOD (ท่อปัสสาวะ)
 
 AsVulva_Urethra/description
 \}\n
-Peeing is enough to make me unconscious.\n
+การปัสสาวะทำให้ฉันหมดสติได้\n
 \n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[2]ลดผลกระทบเชิงลบต่อ HP และ STA\n
 
 AsVulva_Anal/item_name
-MOD (Rectum)
+MOD (ทวารหนัก)
 
 AsVulva_Anal/description
 \}\n
-I can't stop imagining about something going inside my ass.\n
+ฉันหยุดไม่ได้ที่จะจินตนาการถึงสิ่งที่เข้าไปในก้นฉัน\n
 \n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[2]ลดผลกระทบเชิงลบต่อ HP และ STA\n
 
 AsVulva_Skin/item_name
-MOD (Skin)
+MOD (ผิวหนัง)
 
 AsVulva_Skin/description
 \}\n
-The rubbing of clothes alone was enough to get me to cum.\n
+การถูกเสื้อผ้าก็ทำให้ฉันถึงจุดสุดยอดได้\n
 \n
-\C[5]Any action that consumes STA will increase Arousal.\n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[5]การกระทำใดๆ ที่ใช้ STA จะเพิ่มความตื่นเต้น\n
+\C[2]ลดผลกระทบเชิงลบต่อ HP และ STA\n
 
 AsVulva_MilkGland/item_name
-MOD (Breast B)
+MOD (เต้านม B)
 
 AsVulva_MilkGland/description
 \}\n
-My breasts have become more and more sensitive.\n
+เต้านมของฉันกลายเป็นที่ไวต่อสัมผัสมากขึ้น\n
 \n
-\C[2]Decreases negative effects on HP and STA.\n
+\C[2]ลดผลกระทบเชิงลบต่อ HP และ STA\n
 
 ParasitedMoonWorm/item_name
-Moon Parasited
+ถูกปรสิตดวงจันทร์
 
 ParasitedMoonWorm/description
 \}\n
-The parasites continue to burrow inside my stomach...\n
+ปรสิตยังคงขุดเข้าไปในท้องของฉัน...\n
 \n
-\C[5]Increases bowel movement over time.\n
-\C[5]Chance to spawn a Moon Worm every time you poop.\n
-\C[1]Increases anal damage with each rest.\n
-\C[1]Decreases Food with each rest.\n
+\C[5]เพิ่มการขับถ่ายตามเวลา\n
+\C[5]มีโอกาสที่จะเกิดตัวหนอนดวงจันทร์ทุกครั้งที่คุณถ่าย\n
+\C[1]เพิ่มความเสียหายทวารหนักทุกครั้งที่พัก\n
+\C[1]ลดค่าอาหารทุกครั้งที่พัก\n
 
 ParasitedPotWorm/item_name
-Pot Parasited
+ถูกปรสิตหม้อ
 
 ParasitedPotWorm/description
 \}\n
-I can feel the parasites squirming around in my bladder...\n
+ฉันรู้สึกถึงปรสิตที่กำลังขยับไปมาในกระเพาะปัสสาวะของฉัน...\n
 \n
-\C[5]Increases need to urinate over time.\n
-\C[5]Chance to spawn a Pot Worm every time you pee.\n
-\C[1]Increases urethra damage with each rest.\n
-\C[1]Decreases Food with each rest.\n
+\C[5]เพิ่มความต้องการปัสสาวะตามเวลา\n
+\C[5]มีโอกาสที่จะเกิดตัวหนอนหม้อทุกครั้งที่คุณปัสสาวะ\n
+\C[1]เพิ่มความเสียหายท่อปัสสาวะทุกครั้งที่พัก\n
+\C[1]ลดค่าอาหารทุกครั้งที่พัก\n
 
 AnalSeedBed/item_name
-SB (Bowel)
+SB (ลำไส้)
 
 AnalSeedBed/description
 \}\n
-My bowels became a seedbed for monsters...\n
+ลำไส้ของฉันกลายเป็นแปลงปลูกสำหรับสัตว์ประหลาด...\n
 \n
-\C[1]Increases chance of spawning a parasite with each rest.\n
+\C[1]เพิ่มโอกาสที่จะเกิดปรสิตทุกครั้งที่พัก\n
 
 BladderSeedBed/item_name
-SB (Bladder)
+SB (กระเพาะปัสสาวะ)
 
 BladderSeedBed/description
 \}\n
-My bladder became a seedbed for monsters...\n
+กระเพาะปัสสาวะของฉันกลายเป็นแปลงปลูกสำหรับสัตว์ประหลาด...\n
 \n
-\C[1]Increases chance of spawning a parasite with each rest.\n
+\C[1]เพิ่มโอกาสที่จะเกิดปรสิตทุกครั้งที่พัก\n
 
 WeakSoul/item_name
-Timid
+คนขี้กลัว
 
 WeakSoul/description
 \}\n
-"I am always depressed..."\n
-\C[6]Changes Lona's Personality.\n
-\C[2]Decreases negative effects on HP.\n
-\C[2]Increases DEF.\n
-\C[2]Increases SUR and WIS.\n
-\C[2]Decreases HP loss from hunger.\n
-\C[1]Decreases Will.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
-\C[1]Decreases SPD.\n
+"ฉันเศร้าใจตลอดเวลา..."\n
+\C[6]เปลี่ยนบุคลิกของ Lona\n
+\C[2]ลดผลกระทบเชิงลบต่อ HP\n
+\C[2]เพิ่มค่า DEF\n
+\C[2]เพิ่มค่า SUR และ WIS\n
+\C[2]ลดการสูญเสีย HP จากความหิว\n
+\C[1]ลดค่า Will\n
+\C[1]เพิ่มค่า Weak\n
+\C[1]ลดค่า ATK\n
+\C[1]ลดค่า SPD\n
 
 IronWill/item_name
-Tough
+คนแข็งแกร่ง
 
 IronWill/description
 \}\n
-"My will is strong."\n
-\C[6]Changes Lona's Personality.\n
-\C[2]Increases Will.\n
-\C[2]Decreases Weak.\n
-\C[2]Increases ATK.\n
-\C[2]Increases DEF.\n
-\C[2]Increases SPD.\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Decreases maximum STA.\n
+"ความมุ่งมั่นของฉันแข็งแกร่ง"\n
+\C[6]เปลี่ยนบุคลิกของ Lona\n
+\C[2]เพิ่มค่า Will\n
+\C[2]ลดค่า Weak\n
+\C[2]เพิ่มค่า ATK\n
+\C[2]เพิ่มค่า DEF\n
+\C[2]เพิ่มค่า SPD\n
+\C[6]ลดค่า Sexy\n
+\C[1]ลดค่า HP สูงสุด\n
+\C[1]ลดค่า STA สูงสุด\n
 
 Nymph/item_name
-Nymphomaniac
+คนติดเซ็กซ์
 
 Nymph/description
 \}\n
-"The pleasure of flesh feels so good!" ♥\n
-\C[6]Changes Lona's Personality.\n
-\C[2]Increases Will.\n
-\C[2]Increases Sex ATK.\n
-\C[2]Decreases negative effects on STA.\n
-\C[2]Decreases Weak.\n
-\C[2]Increases DEF.\n
-\C[6]Increases Sexy.\n
-\C[1]Decreases Max Food.\n
+"ความสุขของเนื้อหนังรู้สึกดีมาก!" ♥\n
+\C[6]เปลี่ยนบุคลิกของ Lona\n
+\C[2]เพิ่มค่า Will\n
+\C[2]เพิ่มค่า Sex ATK\n
+\C[2]ลดผลกระทบเชิงลบต่อ STA\n
+\C[2]ลดค่า Weak\n
+\C[2]เพิ่มค่า DEF\n
+\C[6]เพิ่มค่า Sexy\n
+\C[1]ลดค่าอาหารสูงสุด\n
 
 StomachSpasm/item_name
-Gastroenteritis
+โรคกระเพาะอาหารอักเสบ
 
 StomachSpasm/description
 \}\n
-*RETCH* BLUUURRRGH!!!\n
+*อา* อ๊ากกก!!!\n
 \n
-\C[1]Increases vomiting over time.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
+\C[1]เพิ่มการอาเจียนตามเวลา\n
+\C[1]ลดค่า STA สูงสุด\n
+\C[1]เพิ่มค่า Weak\n
+\C[1]ลดค่า SPD\n
 
 SemenAddiction/item_name
-Cum Addiction
+ติดน้ำอสุจิ
 
 SemenAddiction/description
 \}\n
-I can't swallow anything else except semen.\n
+ฉันไม่สามารถกลืนอะไรอื่นนอกจากน้ำอสุจิได้\n
 \n
-\C[2]Decreases negative effects on HP.\n
-\C[1]Chance to cause confusion.\n
-\C[1]Increases vomiting by food items\n
-other than Filth.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases Will.\n
-\C[1]Decreases SPD.\n
+\C[2]ลดผลกระทบเชิงลบต่อ HP\n
+\C[1]มีโอกาสทำให้สับสน\n
+\C[1]เพิ่มการอาเจียนจากไอเท็มอาหาร\n
+นอกเหนือจาก Filth\n
+\C[1]ลดค่า STA สูงสุด\n
+\C[1]ลดค่า Will\n
+\C[1]ลดค่า SPD\n
 
 DrugAddiction/item_name
-Drug Addiction
+ติดยา
 
 DrugAddiction/description
 \}\n
-I'm no different than those sex-slave junkies I look down upon...\n  
+ฉันไม่ต่างจากพวกทาสเซ็กซ์ที่ฉันดูถูก...\n  
 \n
-\C[1]Chance to cause confusion.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases Will.\n
-\C[1]Decreases SPD.\n
+\C[1]มีโอกาสทำให้สับสน\n
+\C[1]ลดค่า HP สูงสุด\n
+\C[1]ลดค่า STA สูงสุด\n
+\C[1]ลดค่า Will\n
+\C[1]ลดค่า SPD\n
 
 OgrasmAddiction/item_name
-Orgasm Addiction
+ติดการถึงจุดสุดยอด
 
 OgrasmAddiction/description
 \}\n
-Fuck me! RAPE ME! I'm begging you!\n
+เย็ดฉัน! ข่มขืนฉัน! ฉันขอร้องเธอ!\n
 \n
-\C[2]Decreases negative effects on HP and STA.\n
-\C[2]Increases SPD.\n
-\C[1]Chance to cause confusion.\n
-\C[1]Decreases Will.\n
+\C[2]ลดผลกระทบเชิงลบต่อ HP และ STA\n
+\C[2]เพิ่มค่า SPD\n
+\C[1]มีโอกาสทำให้สับสน\n
+\C[1]ลดค่า Will\n
 
 MoodBad/item_name
-Depressed
+เศร้า
 
 MoodBad/description
 \}\n
-Why am I still trying to survive this Hell...?\n
-Maybe I should just give up and end my suffering......\n
+ทำไมฉันถึงยังพยายามเอาตัวรอดในนรกนี้...?\n
+บางทีฉันควรจะยอมแพ้และยุติความทุกข์ทรมานของฉัน......\n
 \n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
-\C[1]Decreases WIS.\n
+\C[1]เพิ่มค่า Weak\n
+\C[1]ลดค่า ATK\n
+\C[1]ลดค่า WIS\n
 
 MoodGood/item_name
-Happy
+มีความสุข
 
 MoodGood/description
 \}\n
-I'm just glad to be alive!\n
+ฉันดีใจที่ยังมีชีวิตอยู่!\n
 \n
-\C[2]Decreases Weak.\n
-\C[2]Increases ATK.\n
-\C[6]Increases WIS\n
-
-WoundHead/item_name
-Head Injury
-
-WoundHead/description
-\}\n
-I have a really nasty headache...\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases DEF.\n
-\C[1]Decreases WIS.\n
-
-WoundChest/item_name
-Chest Injury
-
-WoundChest/description
-\}\n
-My tiny breasts are in agony...\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases DEF.\n
-\C[1]Decreases SUR.\n
-
-WoundCuff/item_name
-Wrist Injury
-
-WoundCuff/description
-\}\n
-It feels like something crushed my wrists...\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases DEF.\n
-
-
-WoundSArm/item_name
-Left Arm Injury
-
-WoundSArm/description
-\}\n
-My entire left arm is suffering from the pain...\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
-
-WoundMArm/item_name
-Right Arm Injury
-
-WoundMArm/description
-\}\n
-I can barely lift my right arm due to the pain...\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
-
-WoundCollar/item_name
-Neck Injury
-
-WoundCollar/description
-\}\n
-It feels like something is choking me...\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
-
-WoundBelly/item_name
-Abdomen Injury
-
-WoundBelly/description
-\}\n
-My tummy hurts...\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases ATK.\n
-
-WoundGroin/item_name
-Groin Injury
-
-WoundGroin/description
-\}\n
-It really hurts down there...\n
-......Good thing I'm not a boy.\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
-
-WoundSThigh/item_name
-Left Leg Injury
-
-WoundSThigh/description
-\}\n
-Even standing up properly is like torture...\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
-
-WoundMThigh/item_name
-Right Leg Injury
-
-WoundMThigh/description
-\}\n
-My right leg is in agony whenever I walk...\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases maximum HP.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
-
-CumsCreamPie/item_name
-Creampie
-
-CumsCreamPie/description
-\}\n
-Clean it up, or you'll get pregnant!\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
-
-CumsMoonPie/item_name
-Anal Creampie
-
-CumsMoonPie/description
-\}\n
-Something's dripping out from my anus...\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
-
-CumsHead/item_name
-Bukkake
-
-CumsHead/description
-\}\n
-My face is covered with cum.\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-CumsTop/item_name
-Cum on Tits
-
-CumsTop/description
-\}\n
-My chest feels slimy...\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-CumsMid/item_name
-Cum on Stomach
-
-CumsMid/description
-\}\n
-My stomach feels slimy...\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-CumsBot/item_name
-Cum on Thighs
-
-CumsBot/description
-\}\n
-My legs feel slimy...\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-CumsMouth/item_name
-Cum on Mouth
-
-CumsMouth/description
-\}\n
-Tastes salty...\n
-\n
-\C[6]Increases Sexy.\n
-
-Contraceptived/item_name
-BC Pill eaten
-
-Contraceptived/description
-\}\n
-Maybe I won't get pregnant?\n
-\n
-\C[2]Decreases pregnant rate.\n
-\C[6]Decreases Sexy.\n
-
-SemenBursting/item_name
-Cuminflation
-
-SemenBursting/description
-\}\n
-S-So much... I'm going to burst!\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Decreases maximum STA.\n
-\C[1]Decreases ATK.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
-
-EffectWet/item_name
-Wet
-
-EffectWet/description
-\}\n
-It's soaked down there...\n
-\n
-\C[1]Increases Weak.\n
-
-PregState/item_name
-Pregnant
-
-PregState/description
-\}\n
-I'm pregnant now. Who's the father?\n  
-\n
-\C[1]Requires you to eat more food.\n
-\C[1]Decreases maximum STA.\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
-
-FeelsSick/item_name
-Sick
-
-FeelsSick/description
-\}\n
-I don't feel so good...\n
-\n
-\C[1]Decreases maximum STA.\n
-\C[1]Increases Weak.\n
-\C[1]Decreases SPD.\n
-
-FeelsWarm/item_name
-Horny
-
-FeelsWarm/description
-\}\n
-I want sex...\n
-\n
-\C[5]Increases the regeneration of Arousal.\n
-
-FeelsHorniness/item_name
-Horny (Drugged)
-
-FeelsHorniness/description
-\}\n
-I NEED SEX...!\n
-\n
-\C[2]Decreases negative effects on HP and STA.\n
-\C[5]Increases the regeneration of Arousal.\n
-\C[1]Increases chance of pregnancy.\n
-
-Cummed/item_name
-Horny (Orgasm)
-
-Cummed/description
-\}\n
-Don't touch me down there!\n
-It's very sensitive right now!\n
-\n
-\C[5]Increases the regeneration of Arousal.\n
-
-OverCummed/item_name
-Ahegao
-
-OverCummed/description
-\}\n
-It's hard to control my expression.\n
-\n
-\C[5]Increases the regeneration of Arousal.\n
-
-Dirt/item_name
-Dirt
-
-Dirt/description
-\}\n
-Ick... Yuck! When was the last time I had a bath?!
-\n
-\C[2]Increases SCU.\n
-\C[6]Decreases Sexy.\n
-\C[1]Increases Weak.\n
-
-EffectBleedVag/item_name
-Bleeding (VAG)
-
-EffectBleedVag/description
-\}\n
-It hurts!\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Increases Weak.\n
-
-EffectBleedAnal/item_name
-Bleeding (Anus)
-
-EffectBleedAnal/description
-\}\n
-It hurts!\n
-\n
-\C[6]Decreases Sexy.\n
-\C[1]Increases Weak.\n
-
-EffectScat/item_name
-Diarrhea
-
-EffectScat/description
-\}\n
-Guhhh... My body is covered in my filth!\n
-\n
-\C[6]Decreases Sexy.\n
-\C[6]Increases minimum Dirt.\n
-\C[1]Increases Weak.\n
-
-VaginalDamaged/item_name
-Loose Vagina
-
-VaginalDamaged/description
-\}\n
-It can fit bigger penises now.\n
-\n
-\C[1]Decreases Sex ATK (VAG).\n
-
-UrethralDamaged/item_name
-Loose Urethra
-
-UrethralDamaged/description
-\}\n
-Urine drips down all the time.\n
-\n
-\C[5]Peeing is now passive.\n
-
-SphincterDamaged/item_name
-Loose Anus
-
-SphincterDamaged/description
-\}\n
-It's like I can't hold it in anymore...\n
-\n
-\C[5]Pooping is now passive.\n
-\C[1]Decreases Sex ATK (Anal).\n
-
-SlaveBrand/item_name
-Slave Brand
-
-SlaveBrand/description
-\}\n
-They burned a mark on my face...\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-moot/item_name
-Moot
-
-moot/description
-\}\n
-I have the blood of another race.\n
-\n
-\C[2]Increases steal chance.\n
-\C[2]Increases SCU\n
-\C[6]Decreases Morality.\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-PiercingNose/item_name
-Piercing (Nose)
-
-PiercingNose/description
-\}\n
-Like a cow... Moo?\n
-\n
-\C[6]Decreases Sexy.\n
-\C[5]Increases/Decreases Weak based on Mood.\n
-
-PiercingEar/item_name
-Piercing (Ear)
-
-PiercingEar/description
-\}\n
-I look like a whore...\n
-\n
-\C[6]Decreases Sexy.\n
-\C[5]Increases/Decreases Weak based on Mood.\n
-
-PiercingChest/item_name
-Piercing (TOP)
-
-PiercingChest/description
-\}\n
-The metal kept stimulating my nipples...\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-PiercingBelly/item_name
-Piercing (MID)
-
-PiercingBelly/description
-\}\n
-Like a sex slave.\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-PiercingArms/item_name
-Piercing (Arms)
-
-PiercingArms/description
-\}\n
-Affects the movement of my arms.\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-PiercingAnal/item_name
-Piercing (Butt)
-
-PiercingAnal/description
-\}\n
-The metal kept stimulating my butt.\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-PiercingVag/item_name
-Piercing (Labia)
-
-PiercingVag/description
-\}\n
-The metal kept rubbing against my labia.\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-PiercingBack/item_name
-Piercing (Back)
-
-PiercingBack/description
-\}\n
-Like a piece of meat.\n
-\n
-\C[6]Increases Sexy.\n
-\C[1]Increases Weak.\n
-
-PiercingNoseB/item_name
-Piercing (Nasal)
-
-PiercingNoseB/description
-\}\n
-Proof of being the Fishkind's meat toilet.\n
-Each piercing represents how many owners I've served.\n
-\n
-\C[6]Increases Sexy.\n
-
-PiercingNoseG/item_name
-Piercing (Nose)
-
-PiercingNoseG/description
-\}\n
-Like a cow... Moo?\n
-\n
-\C[6]Increases Sexy.\n
-
-PiercingEarG/item_name
-Piercing (Ear)
-
-PiercingEarG/description
-\}\n
-I look like a whore...\n
-\n
-\C[6]Increases Sexy.\n
-
-PiercingChestG/item_name
-Piercing (TOP)
-
-PiercingChestG/description
-\}\n
-The metal kept stimulating my nipples...\n
-\n
-\C[6]Increases Sexy.\n
-
-PiercingBellyG/item_name
-Piercing (MID)
-
-PiercingBellyG/description
-\}\n
-Like a sex slave.\n
-\n
-\C[6]Increases Sexy.\n
-
-PiercingArmsG/item_name
-Piercing (Arms)
-
-PiercingArmsG/description
-\}\n
-Affects the movement of my arms.\n
-\n
-\C[6]Increases Sexy.\n
-
-PiercingAnalG/item_name
-Piercing (Butt)
-
-PiercingAnalG/description
-\}\n
-The metal kept stimulating my butt.\n
-\n
-\C[6]Increases Sexy.\n
-
-PiercingVagG/item_name
-Piercing (Labia)
-
-PiercingVagG/description
-\}\n
-The metal kept rubbing against my labia.\n
-\n
-\C[6]Increases Sexy.\n
-
-PiercingBackG/item_name
-Piercing (Back)
-
-PiercingBackG/description
-\}\n
-Like a piece of meat.\n
-\n
-\C[6]Increases Sexy.\n
-
-PiercingNoseBG/item_name
-Piercing (NoseB)
-
-PiercingNoseBG/description
-\}\n
-Proof of being the Fishkind's meat toilet.\n
-Each piercing represents how many owners I've served.\n
-\n
-\C[6]Increases Sexy.\n
-
-Mod_WombSeedBed/item_name
-SB (Womb)
-
-Mod_WombSeedBed/description
-\}\n
-My uterus is no longer human...\n
-\n
-\C[2]Decreases negative effects on HP.\n
-\C[6]Increases Sexy.\n
-\C[1]Increases chance of pregnancy.\n
-
-nil/item_name
-
-nil/description
-
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
+\C[2]ลดค่า Weak\n
+\C[2]เพิ่มค่า ATK\n
+\C[6]เพิ่มค่า WIS\n

@@ -1,137 +1,138 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-Abandoned House \optB[Leave,Enter]
+บ้านร้าง \optB[ออก,เข้า]
 
 ######################################################3
 
 mec/QmsgTar
-Hurry up, go.
+รีบไปหน่อย!
 
 mec/Done1
-\CBfE[20]\prf\c[4]Lady Noble：\c[0]    Thank you!
+\CBfE[20]\prf\c[4]Lady Noble：\c[0]    ขอบคุณนะ!
 
 mec/Done2
-\CBfE[20]\prf\c[4]Lady Noble：\c[0]    Maybe there are people in this world you can trust.
-\CBfE[20]\prf\c[4]Lady Noble：\c[0]    Civilian! What's your name?
+\CBfE[20]\prf\c[4]Lady Noble：\c[0]    อาจจะมีคนในโลกนี้ที่เราไว้ใจได้
+\CBfE[20]\prf\c[4]Lady Noble：\c[0]    พลเรือน! ชื่ออะไร?
 \CBct[20]\m[triumph]\PRF\c[6]Lona：\c[0]    \c[6]Lona Falldin.\c[0]
-\CBfE[20]\prf\c[4]Lady Noble：\c[0]    \c[6]Lona\c[0], Is that so? Thank you again.
-\CBfE[20]\prf\c[4]Lady Noble：\c[0]    I'll be leaving this island soon, and we may not see each other again, but I'll always remember you.
-\CBct[20]\m[pleased]\PRF\c[6]Lona：\c[0]    You're welcome!
+\CBfE[20]\prf\c[4]Lady Noble：\c[0]    \c[6]Lona\c[0], ใช่ไหม? ขอบคุณอีกครั้ง
+\CBfE[20]\prf\c[4]Lady Noble：\c[0]    หนูจะออกจากเกาะนี้เร็วๆ นี้ และเราอาจจะไม่ได้เจอกันอีก แต่หนูจะจำแกไว้เสมอ
+\CBct[20]\m[pleased]\PRF\c[6]Lona：\c[0]    ไม่เป็นไร!
 
 mec/CommonConvoyTarget0
-\CBfE[20]\prf\c[4]Lady Noble：\c[0]    Hurry up!
+\CBfE[20]\prf\c[4]Lady Noble：\c[0]    รีบหน่อย!
 
 mec/CommonConvoyTarget1
-\CBfE[20]\prf\c[4]Lady Noble：\c[0]    I want to go to the \C[4]Doom Fortress\C[0].
+\CBfE[20]\prf\c[4]Lady Noble：\c[0]    หนูอยากไป \C[4]ป้อมปราการแห่งความหายนะ\C[0]
 
 mec/CommonConvoyTarget2
-\CBfE[20]\prf\c[4]Lady Noble：\c[0]    Move it!
+\CBfE[20]\prf\c[4]Lady Noble：\c[0]    เร็วๆ!
 
 mec/win
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Sigh!
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    ถอนหายใจ!
 
 mec/Quprog_0
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Are you okay?
-\CBmp[Girl,8]\prf\c[4]Lady Noble：\c[0]    How did this happen...
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Huh?
-\CBmp[Girl,8]\prf\c[4]Lady Noble：\c[0]    Was I wrong to help? Maybe the poor aren't like us after all?
-\CBmp[Girl,20]\prf\c[4]Lady Noble：\c[0]    Civilian, listen! Get me to safety to the \C[4]Doom Fortress\C[0]!
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uh...
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    แกโอเคไหม?
+\CBmp[Girl,8]\prf\c[4]Lady Noble：\c[0]    ทำไมถึงเป็นแบบนี้...
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    หา?
+\CBmp[Girl,8]\prf\c[4]Lady Noble：\c[0]    หนูช่วยเขาแล้วผิดหรือเปล่า? อาจจะคนจนไม่เหมือนเราก็ได้?
+\CBmp[Girl,20]\prf\c[4]Lady Noble：\c[0]    พลเรือน ฟังนะ! พาเราไปที่ปลอดภัยที่ \C[4]ป้อมปราการแห่งความหายนะ\C[0]!
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อืม...
 
 mec/Quprog_0_board
-\board[Escort Travelers]
-Goal：Escort to the Doom Fortress
-Reward：Large Coin 3, Moral 2
-Contractor：Traveler
-Quest Term：5 Days
+\board[คุ้มกันนักเดินทาง]
+เป้าหมาย：คุ้มกันไปยังป้อมปราการแห่งความหายนะ
+รางวัล：เหรียญใหญ่ 3, คุณธรรม 2
+ผู้ว่าจ้าง：นักเดินทาง
+เงื่อนไขภารกิจ：5 วัน
 
 mec/Quprog_0_decide
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Um.... \optB[No Time,Okay]
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อืม.... \optB[ไม่มีเวลา,ตกลง]
 
 ######################################################3
 
 Start/begin_1
-\c[4]Refugee：\c[0]    Kind-hearted lord and Noble lady... Can we have some food...
-\CBmp[Girl,20]\c[4]House Keeper：\c[0]    Miss, we should leave now.
-\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    Give them some extra food.
-\CBmp[Girl,20]\c[4]House Keeper：\c[0]    Yes.
+\c[4]ผู้ลี้ภัย：\c[0]    ท่านเจ้าชายและท่านหญิง... ขออาหารได้ไหม...
+\CBmp[Girl,20]\c[4]ผู้ดูแลบ้าน：\c[0]    คุณหนู เราควรจะออกไปตอนนี้
+\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    ให้อาหารเพิ่มเขาไปหน่อย
+\CBmp[Girl,20]\c[4]ผู้ดูแลบ้าน：\c[0]    ครับ
 
 Start/begin_2
-\CBmp[MainDude,3]\c[4]Refugee：\c[0]    Thank you! I have two other children at home. Can you give more?
-\CBmp[Man,20]\c[4]House Keeper：\c[0]    No! We should really get out of here!
+\CBmp[MainDude,3]\c[4]ผู้ลี้ภัย：\c[0]    ขอบคุณ! ที่บ้านมีลูกอีกสองคน ขอเพิ่มได้ไหม?
+\CBmp[Man,20]\c[4]ผู้ดูแลบ้าน：\c[0]    ไม่ได้! เราควรจะออกไปจริงๆ!
 
 Start/begin_3
-\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    It's all right, Help him out.
-\CBmp[Man,20]\c[4]House Keeper：\c[0]    Miss! Stop it!
-\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    Is the life of a refugee not valuable? We are all living people!
-\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    We should help them, since we still have the strength to do so! My orders are my father's orders!
-\CBmp[Man,8]\c[4]House Keeper：\c[0]    ....
-\CBmp[Man,20]\c[4]House Keeper：\c[0]    Yes!
+\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    ไม่เป็นไร ช่วยเขาไป
+\CBmp[Man,20]\c[4]ผู้ดูแลบ้าน：\c[0]    คุณหนู! หยุดเถอะ!
+\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    ชีวิตของผู้ลี้ภัยไม่มีค่าหรือ? เราทุกคนต่างก็เป็นมนุษย์!
+\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    เราควรช่วยเขา เพราะเรายังมีกำลังที่จะทำได้! คำสั่งของหนูคือคำสั่งของพ่อหนู!
+\CBmp[Man,8]\c[4]ผู้ดูแลบ้าน：\c[0]    ....
+\CBmp[Man,20]\c[4]ผู้ดูแลบ้าน：\c[0]    ครับ!
 
 Start/begin_4
-\CBmp[Man,20]\c[4]House Keeper：\c[0]    This is some extra food for you from our noble lady!
-\CBmp[MainDude,3]\c[4]Refugee：\c[0]    Thank you! You are as kind as the Saint!
-\CBmp[Man,8]\c[4]House Keeper：\c[0]    Remember the great kindness of our family!
+\CBmp[Man,20]\c[4]ผู้ดูแลบ้าน：\c[0]    นี่คืออาหารเพิ่มจากท่านหญิงของเรา!
+\CBmp[MainDude,3]\c[4]ผู้ลี้ภัย：\c[0]    ขอบคุณ! ท่านใจดีเหมือนนักบุญ!
+\CBmp[Man,8]\c[4]ผู้ดูแลบ้าน：\c[0]    จำความกรุณาอันยิ่งใหญ่ของครอบครัวเราไว้!
 
 Start/begin_5
-\CBmp[Girl,2]\c[4]Lady Noble：\c[0]    What? What have you done?!
-\CBmp[HorseKiller,8]\c[4]Refugee：\c[0]    We usually only eat some skinny two-legged sheep, but today...
-\CBmp[GuardKiller,3]\c[4]Refugee：\c[0]    We can eat fresh horse meat!
-\CBmp[MainDude,4]\c[4]Refugee：\c[0]    And women! We can fuck a fresh woman!
-\CBmp[Girl,6]\c[4]Lady Noble：\c[0]    What?!
+\CBmp[Girl,2]\c[4]Lady Noble：\c[0]    อะไร? แกทำอะไรลงไป?!
+\CBmp[HorseKiller,8]\c[4]ผู้ลี้ภัย：\c[0]    เราปกติกินแต่แกะสองขาผอมๆ แต่วันนี้...
+\CBmp[GuardKiller,3]\c[4]ผู้ลี้ภัย：\c[0]    เราจะได้กินเนื้อม้าสด!
+\CBmp[MainDude,4]\c[4]ผู้ลี้ภัย：\c[0]    และผู้หญิง! เราจะได้ยัดหีสด!
+\CBmp[Girl,6]\c[4]Lady Noble：\c[0]    อะไร?!
 
 Start/begin_5_1
-\CBmp[Girl,1]\c[4]Lady Noble：\c[0]    Ahhhhhhhh! No!
+\CBmp[Girl,1]\c[4]Lady Noble：\c[0]    อ๊ากกกก! ไม่!
 
 Start/begin_6
-\CBmp[Girl,6]\c[4]Lady Noble：\c[0]    No! Why are you doing this? Didn't I help you guys?!
+\CBmp[Girl,6]\c[4]Lady Noble：\c[0]    ไม่! ทำไมแกถึงทำแบบนี้? หนูไม่ได้ช่วยแกหรอกเหรอ?!
 
 Start/begin_7
-\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    No!! Let go of me!!
-\CBmp[MainDude,20]\c[4]Refugee：\c[0]    Come on! There's a woman out there!
+\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    ไม่!! ปล่อยหนูเดี๋ยวนี้!!
+\CBmp[MainDude,20]\c[4]ผู้ลี้ภัย：\c[0]    มาเลย! มีผู้หญิงอยู่ข้างนอก!
 
 Start/begin_8
-\CBmp[HorseKiller,8]\c[4]Refugee：\c[0]    Great, today's my lucky day.
+\CBmp[HorseKiller,8]\c[4]ผู้ลี้ภัย：\c[0]    ดีเลย วันนี้โชคดีจริงๆ
 
 Start/begin_9
-\CBmp[GuardKiller,3]\c[4]Refugee：\c[0]    She looks healthy, She'll last a few days, right?
-\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    No! Why are you doing this? Somebody help me!
+\CBmp[GuardKiller,3]\c[4]ผู้ลี้ภัย：\c[0]    เธอดูแข็งแรง เธอจะอยู่ได้อีกหลายวันใช่ไหม?
+\CBmp[Girl,20]\c[4]Lady Noble：\c[0]    ไม่! ทำไมแกถึงทำแบบนี้? ช่วยหนูที!
 
 Start/begin_10
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    What's wrong? Who's calling for help?
+\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    เกิดอะไรขึ้น? ใครกำลังร้องขอความช่วยเหลือ?
 
 Start/begin_11
-\CBmp[GuardKiller,20]\prf\c[4]Refugee：\c[0]    It's a woman! There's another one!
-\CBct[6]\m[terror]\Rshake\c[6]Lona：\c[0]    No! Wait! I was just passing by!
-\CBmp[MainDude,4]\prf\c[4]Refugee：\c[0]    How lucky we are today!
+\CBmp[GuardKiller,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    เป็นผู้หญิง! มีอีกคน!
+\CBct[6]\m[terror]\Rshake\c[6]Lona：\c[0]    ไม่! รอก่อน! หนูแค่ผ่านมา!
+\CBmp[MainDude,4]\prf\c[4]ผู้ลี้ภัย：\c[0]    วันนี้เราโชคดีจริงๆ!
 
 Start/begin_12
-\CBmp[HorseKiller,20]\prf\c[4]Refugee：\c[0]    Wait!
-\CBmp[GuardKiller,2]\prf\c[4]Refugee：\c[0]    What's wrong?
-\CBmp[HorseKiller,20]\prf\c[4]Refugee：\c[0]    It's not right! Look at her!
+\CBmp[HorseKiller,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    รอ!
+\CBmp[GuardKiller,2]\prf\c[4]ผู้ลี้ภัย：\c[0]    เกิดอะไรขึ้น?
+\CBmp[HorseKiller,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    ไม่ถูกต้อง! ดูเธอสิ!
 
 Start/begin_13
-\CBmp[MainDude,2]\prf\c[4]Refugee：\c[0]    What are you looking at?
-\CBmp[HorseKiller,20]\prf\c[4]Refugee：\c[0]    She\..\..\.. She has no breasts!
-\CBmp[MainDude,2]\prf\c[4]Refugee：\c[0]    So what?
-\CBmp[HorseKiller,20]\prf\c[4]Refugee：\c[0]    She's just a kid! We shouldn't... do that... to a kid.
-\CBct[5]\m[flirty]\PRF\c[6]Lona：\c[0]    Huh?
-\CBmp[MainDude,8]\prf\c[4]Refugee：\c[0]    \..\..\..
-\CBmp[GuardKiller,8]\prf\c[4]Refugee：\c[0]    \..\..\..
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Um... \optD[I'm a woman,Orcs<r=HiddenOPT1>]
+\CBmp[MainDude,2]\prf\c[4]ผู้ลี้ภัย：\c[0]    แกมองอะไร?
+\CBmp[HorseKiller,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    เธอ... เธอไม่มีหน้าอก!
+\CBmp[MainDude,2]\prf\c[4]ผู้ลี้ภัย：\c[0]    แล้วไง?
+\CBmp[HorseKiller,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    เธอเป็นแค่เด็ก! เราไม่ควร... ทำอะไรแบบนั้น... กับเด็ก
+\CBct[5]\m[flirty]\PRF\c[6]Lona：\c[0]    หา?
+\CBmp[MainDude,8]\prf\c[4]ผู้ลี้ภัย：\c[0]    \..\..\..
+\CBmp[GuardKiller,8]\prf\c[4]ผู้ลี้ภัย：\c[0]    \..\..\..
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    อืม... \optD[หนูเป็นผู้หญิง,ออร์ค<r=HiddenOPT1>]
 
 Start/begin_13_Adult
-\CBct[5]\m[bereft]\PRF\c[6]Lona：\c[0]    I'm not a kid! I'm a grown woman!
-\CBmp[HorseKiller,8]\prf\c[4]Refugee：\c[0]    So you're a woman?
-\CBmp[MainDude,8]\prf\c[4]Refugee：\c[0]    A woman, huh?
-\CBmp[GuardKiller,20]\prf\c[4]Refugee：\c[0]    Fuck her!
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    What?!
+\CBct[5]\m[bereft]\PRF\c[6]Lona：\c[0]    หนูไม่ใช่เด็ก! หนูเป็นผู้หญิงโตแล้ว!
+\CBmp[HorseKiller,8]\prf\c[4]ผู้ลี้ภัย：\c[0]    งั้นแกเป็นผู้หญิง?
+\CBmp[MainDude,8]\prf\c[4]ผู้ลี้ภัย：\c[0]    ผู้หญิงน่ะเหรอ?
+\CBmp[GuardKiller,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    ยัดหีเธอเลย!
+\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    อะไร?!
 
 Start/begin_13_Orkind
-\CBct[5]\m[terror]\Rshake\c[6]Lona：\c[0]    No! There's no time for this!
-\CBmp[MainDude,8]\prf\c[4]Refugee：\c[0]    What?
-\CBct[5]\m[shocked]\Rshake\c[6]Lona：\c[0]    Orcs! There's a whole herd of orcs after me! Run for it!
-\CBmp[HorseKiller,8]\prf\c[4]Refugee：\c[0]    \..\..\..
-\CBmp[MainDude,8]\prf\c[4]Refugee：\c[0]    This is bad...
-\CBmp[GuardKiller,8]\prf\c[4]Refugee：\c[0]    What should we do?
-\CBct[5]\m[bereft]\Rshake\c[6]Lona：\c[0]    Don't just stand there! Run for it!
-
+\CBct[5]\m[terror]\Rshake\c[6]Lona：\c[0]    ไม่! ไม่มีเวลาสำหรับเรื่องนี้!
+\CBmp[MainDude,8]\prf\c[4]ผู้ลี้ภัย：\c[0]    อะไร?
+\CBct[5]\m[shocked]\Rshake\c[6]Lona：\c[0]    ออร์ค! มีฝูงออร์คตามหนูมา! วิ่งหนีเลย!
+\CBmp[HorseKiller,8]\prf\c[4]ผู้ลี้ภัย：\c[0]    \..\..\..
+\CBmp[MainDude,8]\prf\c[4]ผู้ลี้ภัย：\c[0]    นี่มันแย่เลย...
+\CBmp[GuardKiller,8]\prf\c[4]ผู้ลี้ภัย：\c[0]    เราจะทำยังไงดี?
+\CBct[5]\m[bereft]\Rshake\c[6]Lona：\c[0]    อย่ายืนเฉยๆ! วิ่งหนีเลย!

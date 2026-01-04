@@ -1,293 +1,295 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-\m[confused]Cloud Village\optB[Leave,Enter]
+\m[confused]หมู่บ้านเมฆ\optB[ออก,เข้า]
 
 ############################################################################################## COMMON ALL, ENEMY, RAPELOOP
 
 alert/Captured
-\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Can't believe she just collapsed like that.
-\SETpr[AnonMale2]\plf\Rshake\c[4]Villager：\c[0]    At least put up a little resistance?
-\m[tired]\plf\PRF\c[6]Lona：\c[0]    *Sob*...
+\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    ไม่น่าเชื่อว่าเธอจะล้มลงง่ายๆ ขนาดนี้
+\SETpr[AnonMale2]\plf\Rshake\c[4]ชาวบ้าน：\c[0]    อย่างน้อยก็ต้องต่อสู้บ้างสิ?
+\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    *สะอึก*...
 
 alert/CatchHer
-\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    Get her!
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh? What?
+\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    จับเธอ!
+\CBct[6]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อะไรนะ? อะไรเนี่ย?
 
 alert/CatchEnemy
-\narr Cloud Village is now hostile!
+\narr หมู่บ้านเมฆตอนนี้เป็นศัตรูแล้ว!
 
 alert/ChestLoot
-\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    What was that noise?!
-\SETpr[AnonMale2]\Rshake\c[4]Villager：\c[0]    Intruder!
-\CBct[6]]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Ah?! What?!
+\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    เสียงอะไรน่ะ?!
+\SETpr[AnonMale2]\Rshake\c[4]ชาวบ้าน：\c[0]    คนบุกรุก!
+\CBct[6]]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อ๊ะ?! อะไรเนี่ย?!
 
 ##############################################################################################
 
 #to translator.  first line is "你" mean male  secone "妳" mean female
 BradgeGuard/Begin0
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    Who are you?! Why are you here?!!
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uh... I'm just passing through?
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    A woman\..\..\..
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Wait a tick! I'll go speak with the boss... I mean... The village chief!
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Oh?
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    แกเป็นใคร?! มาทำอะไรที่นี่?!!
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม... หนูแค่ผ่านทางนี้เอง?
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    ผู้หญิง\..\..\..
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    รอแป๊บ! กูจะไปคุยกับเจ้านาย... กูหมายถึง... หัวหน้าหมู่บ้าน!
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อ้อ?
 
 BradgeGuard/Already
-\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    Oh. It's you...
-\CBmp[GateGuard,8]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    \..\..\..
-\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    Whatever. Get in.
+\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    โอ้ แกนี่นา...
+\CBmp[GateGuard,8]\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    \..\..\..
+\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    ช่างมันเถอะ เข้าไปเลย.
 
 BradgeGuard/Begin1
-\CBmp[GateGuard,8]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    What a damn shame...
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Huh?
-\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Nothing. Nothing at all. Come on through.
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Hmm...
+\CBmp[GateGuard,8]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    น่าเสียดายจริงๆ...
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อะไรนะ?
+\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    ไม่มีอะไรหรอก ไม่มีอะไรเลย เข้าไปได้เลย.
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    ฮึม...
 
 BradgeGuard/Begin2
-\CBct[20]\m[shocked]\Rshack\c[6]Lona：\c[0]    Eh?! What are you doing?!
-\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    What's the matter? Keep walking.
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    I... I was just passing by?
-\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Quit yer yappin' and hurry on in. The mayor's got a job for you.
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Oh...?
+\CBct[20]\m[shocked]\Rshack\c[6]โลน่า：\c[0]    อะไรนะ?! แกทำอะไรอยู่?!
+\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    มีปัญหาอะไร? เดินต่อไปสิ.
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    หนู... หนูแค่ผ่านทางนี้เอง?
+\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    อย่าพูดมาก รีบเข้าไปสิ นายกเทศมือมีงานให้แก.
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อ้อ...?
 
 BradgeGuard/Opened
-\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    Aren't you here to help? Get on with it?
+\CBmp[GateGuard,20]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    แกมาช่วยใช่มั้ย? รีบทำไปสิ?
 
 BradgeGuard/letLeave
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Um... Could you please step aside?
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    What? The boss really let you leave?
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    The boss?
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]Villager：\c[0]    All good then! You can leave.
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Oh...
+\CBct[6]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม... ช่วยหลีกทางหน่อยได้มั้ย?
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    อะไรนะ? เจ้านายจริงๆ ให้แกออกได้?
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    เจ้านาย?
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\prf\c[4]ชาวบ้าน：\c[0]    ได้เลย! แกออกได้.
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อ้อ...
 
 BradgeGuard/letLeaveLoop
-\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]Villager：\c[0]    Why are ya still sticking around?
+\CBid[-1,20]\SETpl[AnonMale1]\Lshake\c[4]ชาวบ้าน：\c[0]    ทำไมแกยังอยู่ตรงนี้?
 
 BradgeGuard/CecilyExtra
-\CBfF[8]\SETpr[GrayRatConfusedAr]\plf\Rshake\c[4]Grayrat：\c[0]    ......
-\CBfB[2]\SETpl[CecilyWtfAr]\Lshake\c[4]Cecily：\c[0]    What's wrong?
-\CBfF[8]\SETpr[GrayRatNormalAr]\plf\Rshake\c[4]Grayrat：\c[0]    Careful, something's not right...
-\CBfB[6]\SETpl[CecilyShyAr]\Lshake\c[4]Cecily：\c[0]    ....
+\CBfF[8]\SETpr[GrayRatConfusedAr]\plf\Rshake\c[4]เกรย์แรต：\c[0]    ......
+\CBfB[2]\SETpl[CecilyWtfAr]\Lshake\c[4]เซซิลี่：\c[0]    เป็นอะไร?
+\CBfF[8]\SETpr[GrayRatNormalAr]\plf\Rshake\c[4]เกรย์แรต：\c[0]    ระวังนะ มีอะไรไม่ชอบมาพากล...
+\CBfB[6]\SETpl[CecilyShyAr]\Lshake\c[4]เซซิลี่：\c[0]    ....
 
 BradgeGuard/Anon0
-\CBid[-1,20]\c[4]Villager：\c[0]    More and more monsters are showing up nowadays, maybe we could eat some of them?
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    ปัจจุบันมีสัตว์ประหลาดมากขึ้นเรื่อยๆ อาจจะกินได้บ้างนะ?
 
 BradgeGuard/Anon1
-\CBid[-1,20]\c[4]Villager：\c[0]    There's less and less prey to hunt...
+\CBid[-1,20]\c[4]ชาวบ้าน：\c[0]    เหยื่อล่าสัตว์น้อยลงทุกที...
 
 BradgeGuard/Anon2
-\CBid[-1,2]\c[4]Villager：\c[0]    You're the newcomer? Hehehehe...
+\CBid[-1,2]\c[4]ชาวบ้าน：\c[0]    แกเป็นคนใหม่ใช่มั้ย? ฮิฮิฮิ...
 
 BradgeGuard/DoorGuard0
-\CBid[-1,5]\c[4]Villager：\c[0]    Oi! This place is off limits!
+\CBid[-1,5]\c[4]ชาวบ้าน：\c[0]    ห้ามเข้าที่นี่นะ!
 
 BradgeGuard/DoorGuard1
-\CBid[-1,5]\c[4]Villager：\c[0]    Fuck off! Get lost!
+\CBid[-1,5]\c[4]ชาวบ้าน：\c[0]    ไอ้หี! ไปให้พ้น!
 
 BradgeGuard/DoorGuard2
-\CBid[-1,5]\c[4]Villager：\c[0]    Hey! The fuck are you sneaking about for!?
+\CBid[-1,5]\c[4]ชาวบ้าน：\c[0]    ห้า! แกแอบทำอะไรอยู่!?
 
 BradgeGuard/TreeBad0
-\CBid[-1,5]\c[4]Villager：\c[0]    This bastard's been hiding food. Truly evil.
+\CBid[-1,5]\c[4]ชาวบ้าน：\c[0]    ไอ้นี่แอบซ่อนอาหารไว้ ชั่วจริงๆ.
 
 BradgeGuard/TreeBad1
-\CBid[-1,5]\c[4]Villager：\c[0]    God damnit, can't believe we let their mongrel kin escape.
+\CBid[-1,5]\c[4]ชาวบ้าน：\c[0]    สัส! ไม่น่าเชื่อว่าเราปล่อยพวกมันหนีไปได้.
 
 BradgeGuard/TreeBad2
-\CBid[-1,5]\c[4]Villager：\c[0]    I bet they're all slaves of the false god.
+\CBid[-1,5]\c[4]ชาวบ้าน：\c[0]    กูเดาว่าพวกมันเป็นทาสของเทพเท็จ.
 
 BradgeGuard/TreeSaint0
-\CBid[-1,8]\c[4]Villager：\c[0]    They stole food from us. This was the only option.
+\CBid[-1,8]\c[4]ชาวบ้าน：\c[0]    พวกมันขโมยอาหารจากเรา นี่เป็นทางเลือกเดียว.
 
 BradgeGuard/TreeSaint1
-\CBid[-1,8]\c[4]Villager：\c[0]    The Saint will forgive us...
+\CBid[-1,8]\c[4]ชาวบ้าน：\c[0]    นักบุญจะให้อภัยเรา...
 
 ###################################################################### boss talk
 
 Boss/aggro0
-\CBid[-1,1]\c[4]Village Chief：\c[0]    Who are you!? How did you get in?!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Um...
+\CBid[-1,1]\c[4]หัวหน้าหมู่บ้าน：\c[0]    แกเป็นใคร!? แกเข้ามาได้ยังไง?!
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม...
 
 Boss/aggro1
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    Guards! There's an intruder!
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ยาม! มีคนบุกรุก!
 
 Boss/begin0
-\CBid[-1,3]\c[4]Village Chief：\c[0]    Ah, you must be the mercenary here to help.
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uh... I'm actually just passing through...
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    It's not a big deal. You'll be fine.
+\CBid[-1,3]\c[4]หัวหน้าหมู่บ้าน：\c[0]    อ๋อ แกคงเป็นทหารรับจ้างที่มาช่วย.
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม... จริงๆ หนูแค่ผ่านทางนี้เอง...
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ไม่เป็นไร แกจะไหว.
 
 Boss/beginOPT_KilltheKid
-Help him
+ช่วยเขา
 
 Boss/beginOPT_TheKidSaid
-What the kid told you
+สิ่งที่เด็กบอกคุณ
 
 Boss/beginOPT_TheKidDeadLie
-Griou is dead (Lie)
+กริอูตายแล้ว (โกหก)
 
 Boss/beginOPT_TheKidDead
-Griou is dead
+กริอูตายแล้ว
 
 Boss/KillTheKid1_alreadyAccepted
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    Why are ya still here? Shouldn't you get going?
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ทำไมแกยังอยู่ตรงนี้? ไม่ได้ถึงเวลาไปแล้วเหรอ?
 
 Boss/SMCloudVillage_KillTheKid0_1
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Um... How exactly do you want me to help?
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    อืม... แกอยากให้หนูช่วยยังไง?
 
 Boss/SMCloudVillage_KillTheKid0_2
-\CBid[-1,20]\CamMP[DedTree]\prf\c[4]Village Chief：\c[0]    See the two corpses hanging up there?
-\CBid[-1,20]\CamMP[DedTree]\prf\c[4]Village Chief：\c[0]    These bastards stole food from us.
+\CBid[-1,20]\CamMP[DedTree]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    เห็นศพสองศพที่แขวนอยู่ไหม?
+\CBid[-1,20]\CamMP[DedTree]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    พวกนี้ขโมยอาหารจากเรา.
 
 Boss/SMCloudVillage_KillTheKid0_3
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    My brothers and I captured them and hanged this lecherous couple to death.
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    Sadly, one rascal had gone soft, actually let their filthy brat get away.
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    That little bastard \c[6]Griou\c[0]，word is he has been hiding just outside Noer Town.
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    Can't let that little brat cause trouble.
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    Listen. I want that kid dead. Find him, get rid of him.
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    พี่น้องของกูจับพวกมันมาแล้วแขวนคอคู่รักนี้ตาย.
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    น่าเสียดาย มีคนใจอ่อน ปล่อยลูกของพวกมันหนีไป.
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    เด็กน้อยนั่น \c[6]กริอู\c[0]，มีข่าวว่าเขาซ่อนอยู่นอกเมืองโนเออร์.
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ไม่สามารถปล่อยให้เด็กน้อยนั่นสร้างปัญหาได้.
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ฟังนะ กูอยากให้เด็กนั่นตาย หาเขา แล้วกำจัดเขา.
 
 Boss/SMCloudVillage_KillTheKid0_4_brd
-\board[Kill the little brat]
-Goal：Kill the little brat hiding near Noer Town
-Reward：Large Copper Coin 4
-Client：Cloud Village Chief
-Time Limit：Once
-Stole our food and gettng away with it!
-That family stole from our grannaries.
-My brothers and I caught them, then hanged the bastards.
-Sadly a rascal went soft, ended up letting their kid get away.
-The little bastard is called \c[6]Griou\c[0]，word is he's hiding outside Noer Town
-Listen. I want the kid dead. Find him, get rid of him.
+\board[ฆ่าเด็กน้อย]
+เป้าหมาย：ฆ่าเด็กน้อยที่ซ่อนอยู่ใกล้เมืองโนเออร์
+รางวัล：เหรียญทองแดงขนาดใหญ่ 4
+ผู้ว่าจ้าง：หัวหน้าหมู่บ้านเมฆ
+เวลาที่จำกัด：ครั้งเดียว
+ขโมยอาหารของเราแล้วหนีไป!
+ครอบครัวนั้นขโมยจากคลังของเรา.
+พี่น้องของกูจับพวกมันมา แล้วแขวนคอพวกมันตาย.
+น่าเสียดาย มีคนใจอ่อน ปล่อยลูกของพวกมันหนีไป.
+เด็กน้อยนั่นชื่อ \c[6]กริอู\c[0]，มีข่าวว่าเขาซ่อนอยู่นอกเมืองโนเออร์
+ฟังนะ กูอยากให้เด็กนั่นตาย หาเขา แล้วกำจัดเขา.
 
 Boss/SMCloudVillage_KillTheKid1_A
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Murder? And a kid too?
-\CBct[8]\m[confused]\prf\c[6]Lona：\c[0]    Ugh...
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ฆ่า? แล้วยังเด็กอีก?
+\CBct[8]\m[confused]\prf\c[6]โลน่า：\c[0]    อ๊ะ...
 
 Boss/SMCloudVillage_KillTheKid1_yes
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    I'll do it. At least there's money in it, right?
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    Good. Glad to see mercenaries from the cities are something else.
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    Go. I'll be ready.
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    กูจะทำ อย่างน้อยก็มีเงินให้นะ ใช่มั้ย?
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ดี ดีใจที่เห็นทหารรับจ้างจากเมืองใหญ่เก่งขนาดนี้.
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ไปเถอะ กูจะเตรียมพร้อม.
 
 Boss/SMCloudVillage_KillTheKid1_no
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Nevermind...
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ไม่เป็นไร...
 
 Boss/SMCloudVillage_KillTheKid2_1
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]   Um... I got that kid\..\..\..\c[4]Griou\c[0] killed.
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    Good. Great job. As expected of big city mercenaries!
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]   อืม... หนูฆ่าเด็กนั่น\..\..\..\c[4]กริอู\c[0] แล้ว.
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ดี ทำได้ดี ตามที่คาดไว้จากทหารรับจ้างเมืองใหญ่!
 \CBct[8]\m[confused]\..\..\..
 \CBid[-1,8]\prf\..\..\..
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]   So... What about the reward?
-\CBid[-1,6]\prf\c[4]Village Chief：\c[0]    Right right right! Money! Of course it's yours! We'll definitely pay you!
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    But... My money is hidden in my house.
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    Yet there's some vile greenskins in there, you have got to help us kill them.
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Green\..\..\..
-\CBct[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    Orkind?!
-\CBid[-1,1]\prf\c[4]Village Chief：\c[0]    Orkind\..\..\..? Yes, they're orkind.
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]   แล้ว... รางวัลล่ะ?
+\CBid[-1,6]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ใช่ๆๆ! เงิน! แน่นอนว่าเป็นของแก! เราจะจ่ายให้แน่นอน!
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    แต่... เงินของกูซ่อนอยู่ในบ้าน.
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    แต่มีพวกหน้าเขียวอยู่ในนั้น แกต้องช่วยเราฆ่าพวกมัน.
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    หน้าเขียว\..\..\..
+\CBct[8]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ออร์คินด์?!
+\CBid[-1,1]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ออร์คินด์\..\..\..? ใช่ พวกมันเป็นออร์คินด์.
 
 Boss/TheKidSaid_play
-\CBct[8]\m[angry]\Rshake\c[6]Lona：\c[0]    You liar! \c[4]Griou\c[0] told me you're just a bunch of bandits!
+\CBct[8]\m[angry]\Rshake\c[6]โลน่า：\c[0]    แกโกหก! \c[4]กริอู\c[0] บอกหนูว่าแกเป็นแค่พวกโจร!
 \CBid[-1,8]\prf\..\..\..
 \CBct[8]\m[confused]\..\..\..
 
 Boss/SMCloudVillage_KillTheKid2_2
-\CBid[-1,20]\prf\c[4]Village Chief：\c[0]    Alright. It's up to you.
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]   Uh...
+\CBid[-1,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ได้เลย ขึ้นอยู่กับแก.
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]   อืม...
 
 Boss/Talked0
-\CBid[-1,20]\c[4]Village Chief：\c[0]    What, get in there now.
+\CBid[-1,20]\c[4]หัวหน้าหมู่บ้าน：\c[0]    อะไรนะ เข้าไปเดี๋ยวนี้.
 
 Boss/Talked1
-\CBid[-1,20]\c[4]Village Chief：\c[0]    The future of the village is in your hands.
+\CBid[-1,20]\c[4]หัวหน้าหมู่บ้าน：\c[0]    อนาคตของหมู่บ้านอยู่ในมือแก.
 
 Boss/Talked2
-\CBid[-1,20]\c[4]Village Chief：\c[0]    Hurry up and defeat the monsters. We will reward you handsomely for this.
+\CBid[-1,20]\c[4]หัวหน้าหมู่บ้าน：\c[0]    รีบไปสู้กับสัตว์ประหลาด เราจะให้รางวัลแกอย่างงดงามสำหรับเรื่องนี้.
 
 Boss/CatcheLona
-\CBmp[Boss,20]\c[4]Village Chief：\c[0]    \{Catch her!
-\CBmp[Boss,20]\c[4]Village Chief：\c[0]    \{She knows too much!
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    \{Eh?!
+\CBmp[Boss,20]\c[4]หัวหน้าหมู่บ้าน：\c[0]    \{จับเธอ!
+\CBmp[Boss,20]\c[4]หัวหน้าหมู่บ้าน：\c[0]    \{เธอรู้มากเกินไป!
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    \{อะไรนะ?!
 
 Boss/Trap1
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]   So... Where's the orkinds?
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]   แล้ว... ออร์คินด์อยู่ที่ไหน?
 
 Boss/Trap2
-\CBmp[Boss,20]\prf\c[4]Village Chief：\c[0]    Erm...
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]   So... Where's... The orkind?
-\CBmp[Boss,20]\prf\c[4]Village Chief：\c[0]    There's no orkind, how could some greenskins be tougher than us?
-\CBmp[Boss,20]\prf\c[4]Village Chief：\c[0]    Our business is killing and robbing, especially dumbasses like yourself!
-\CBmp[Boss,20]\prf\c[4]Village Chief：\c[0]    Since you know our secrets, we can't let you leave.
-\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]   \{Eh?!
+\CBmp[Boss,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    อืม...
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]   แล้ว... ออร์คินด์อยู่ที่ไหน...?
+\CBmp[Boss,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ไม่มีออร์คินด์หรอก พวกหน้าเขียวจะเก่งกว่าเราได้ยังไง?
+\CBmp[Boss,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ธุรกิจของเราคือการฆ่าและปล้น โดยเฉพาะพวกโง่ๆ อย่างแก!
+\CBmp[Boss,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    เนื่องจากแกรู้ความลับของเรา เราไม่สามารถปล่อยให้แกออกไปได้.
+\CBct[6]\m[shocked]\Rshake\c[6]โลน่า：\c[0]   \{อะไรนะ?!
 
 Boss/Trap_ATKboss_alive
-\CBmp[BossAtk,4]\prf\c[4]Village Chief：\c[0]    Boss, she looks real fertile, plus she's got no tits, just my type♥
-\CBmp[Boss,3]\prf\c[4]Village Chief：\c[0]    Bro, if ya like her then just have at it♥
+\CBmp[BossAtk,4]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    บอส เธอดูอุดมสมบูรณ์จริงๆ แถมไม่มีหน้าอกด้วย ชอบแบบนี้♥
+\CBmp[Boss,3]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    พี่น้อง ถ้าชอบเธอก็เอาไปเลย♥
 
 Boss/Trap3
-\CBmp[Boss,20]\prf\c[4]Village Chief：\c[0]    Careful ya don't kill her!
-\CBmp[Boss,20]\prf\c[4]Village Chief：\c[0]    The cities been buying up slaves as of late, so right now there's a lack of slaves.
-\CBmp[Boss,20]\prf\c[4]Village Chief：\c[0]    Let's get fucking!
-\CBct[5]\m[serious]\Rshake\c[6]Lona：\c[0]   ...
+\CBmp[Boss,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    ระวังอย่าฆ่าเธอ!
+\CBmp[Boss,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    เมืองซื้อทาสกันเยอะในช่วงนี้ เลยขาดแคลนทาส.
+\CBmp[Boss,20]\prf\c[4]หัวหน้าหมู่บ้าน：\c[0]    มาเย็ดกันเถอะ!
+\CBct[5]\m[serious]\Rshake\c[6]โลน่า：\c[0]   ...
 
 ############################################################# rapeloop
 
 beginEvent/begin
-\CBmp[Raper1,20]\C[4]Villager：\C[0]    You better stay put before we find your buyer!
-\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    What's going to happen to me...
-\CBct[8]\m[fear]\plf\PRF\c[6]Lona：\c[0]    Slave...
-\CBct[20]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    \{No! I don't want to be a slave!
+\CBmp[Raper1,20]\C[4]ชาวบ้าน：\C[0]    อยู่นิ่งๆ ก่อนที่เราจะหาคนซื้อได้!
+\CBct[8]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    จะเกิดอะไรขึ้นกับหนู...
+\CBct[8]\m[fear]\plf\PRF\c[6]โลน่า：\c[0]    ทาส...
+\CBct[20]\m[bereft]\plf\Rshake\c[6]โลน่า：\c[0]    \{ไม่! หนูไม่อยากเป็นทาส!
 
 Common/PlaceFood0
-\C[4]Villager：\C[0]    \{Oi! Dumb bitch! Eat up!
+\C[4]ชาวบ้าน：\C[0]    \{ห้า! ไอ้หี! กินเข้าไป!
 
 Common/WakeUpCall0
-\SndLib[sound_hit_whip]\{Fuck sake! Still sleeping!
+\SndLib[sound_hit_whip]\{สัส! ยังนอนอยู่อีก!
 
 Common/WakeUpCall1
-\SndLib[sound_hit_whip]\{Hey! Trash!
+\SndLib[sound_hit_whip]\{ห้า! ขยะ!
 
 Common/WakeUpCall2
-\SndLib[sound_hit_whip]\{Filthy whore! Wake up!
+\SndLib[sound_hit_whip]\{ไอ้หีสกปรก! ตื่นขึ้นมา!
 
 BossAtk/NightRngRape
-\CBmp[BossAtk,4]\C[4]Lackey：\C[0]    Hehe, boss says I can have you however I like.
-\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    Uwuu... *Whimper*
-\CBmp[BossAtk,20]\prf\C[4]Lackey：\C[0]    \{Now spread those legs!
+\CBmp[BossAtk,4]\C[4]ลูกน้อง：\C[0]    ฮิฮิ บอสบอกว่ากูเอาเธอยังไงก็ได้.
+\CBct[6]\m[tired]\PRF\c[6]โลน่า：\c[0]    อู๊... *เสียงร้อง*
+\CBmp[BossAtk,20]\prf\C[4]ลูกน้อง：\C[0]    \{ตอนนี้แยกขาออก!
 
 BossAtk/NightRng_revenge
-\CBmp[BossAtk,5]\C[4]Lackey：\C[0]    This is vengeance for my brother!
-\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    Uwuu... *Whimper*
-\CBmp[BossAtk,5]\C[4]Lackey：\C[0]    Take this!
+\CBmp[BossAtk,5]\C[4]ลูกน้อง：\C[0]    นี่คือการแก้แค้นให้พี่ชายของกู!
+\CBct[6]\m[tired]\PRF\c[6]โลน่า：\c[0]    อู๊... *เสียงร้อง*
+\CBmp[BossAtk,5]\C[4]ลูกน้อง：\C[0]    รับนี่ไป!
 
 Common/NapRape1
-\C[4]Villager：\C[0]    Hehehe.
+\C[4]ชาวบ้าน：\C[0]    ฮิฮิฮิ.
 
 Common/NapRape3_0
-\C[4]Villager：\C[0]    I could use a little relief.
+\C[4]ชาวบ้าน：\C[0]    กูต้องการความผ่อนคลายนิดหน่อย.
 
 Common/NapRape3_1
-\C[4]Villager：\C[0]    You lying there because you want my cock, right?
+\C[4]ชาวบ้าน：\C[0]    แกนอนอยู่ตรงนี้เพราะอยากได้ควยกู ใช่มั้ย?
 
 Common/NapRape3_2
-\C[4]Villager：\C[0]    I'll tear that cheap cunt up!
+\C[4]ชาวบ้าน：\C[0]    กูจะฉีกรูหีถูกๆ นั่น!
 
 Common/NapRape_withSta_NoFight
-\C[4]Villager：\C[0]    There's a good girl♥
+\C[4]ชาวบ้าน：\C[0]    เด็กดี♥
 
 Common/NapRape_withSta_Fight
-\C[4]Villager：\C[0]    \{Stupid slut! Needs a beating!
+\C[4]ชาวบ้าน：\C[0]    \{ไอ้หีโง่! ต้องการถูกตี!
 
 Common/NapRape
-\CBmp[Raper1,20]\C[4]Villager：\C[0]    Oi, wonder if she's dead.
-\CBmp[Raper2,20]\C[4]Villager：\C[0]    Not dead yet. Let's have a go at her.
-\CBmp[Raper1,20]\C[4]Villager：\C[0]    Don't end up killing her, the boss is still looking for a buyer.
+\CBmp[Raper1,20]\C[4]ชาวบ้าน：\C[0]    ห้า ไม่รู้ว่าเธอตายหรือยัง.
+\CBmp[Raper2,20]\C[4]ชาวบ้าน：\C[0]    ยังไม่ตาย ลองเอากับเธอดู.
+\CBmp[Raper1,20]\C[4]ชาวบ้าน：\C[0]    อย่าฆ่าเธอเลยนะ บอสยังหาคนซื้ออยู่.
 
 Common/NapTorture1
-\CBmp[Raper1,20]\C[4]Villager：\C[0]    Filthy bitch, where do you think you're going?
-\CBmp[Raper2,20]\C[4]Villager：\C[0]    Beat her!
-\CBmp[Raper1,20]\C[4]Villager：\C[0]    \{Hey! Wake up!
+\CBmp[Raper1,20]\C[4]ชาวบ้าน：\C[0]    ไอ้หีสกปรก แกคิดว่าจะไปไหน?
+\CBmp[Raper2,20]\C[4]ชาวบ้าน：\C[0]    ตีเธอ!
+\CBmp[Raper1,20]\C[4]ชาวบ้าน：\C[0]    \{ห้า! ตื่นขึ้นมา!
 
 Common/NapTorture2
-\CBct[2]\m[tired]\C[6]Lona：\C[0]    Eh?
-\CBmp[Raper1,20]\prf\C[4]Villager：\C[0]    I wanna test out my martial arts!
-\CBct[6]\m[terror]\prf\C[6]Lona：\C[0]    \{Eeeeek!!!
+\CBct[2]\m[tired]\C[6]โลน่า：\C[0]    อะไรนะ?
+\CBmp[Raper1,20]\prf\C[4]ชาวบ้าน：\C[0]    กูอยากทดสอบศิลปะการต่อสู้ของกู!
+\CBct[6]\m[terror]\prf\C[6]โลน่า：\C[0]    \{อี๊!!!
 
 Common/NapTorture3
-\CBct[6]\m[pain]\Rshake\C[6]Lona：\C[0]    Stop...please...
-\CBmp[Raper2,20]\prf\C[4]Villager：\C[0]    Boring. Let's find something else to do.
+\CBct[6]\m[pain]\Rshake\C[6]โลน่า：\C[0]    หยุด... ขอร้อง...
+\CBmp[Raper2,20]\prf\C[4]ชาวบ้าน：\C[0]    น่าเบื่อ เราหาอะไรทำอย่างอื่นดีกว่า.

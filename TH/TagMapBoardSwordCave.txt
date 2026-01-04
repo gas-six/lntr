@@ -1,58 +1,59 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-\m[confused]Tomb of the Dark Berserker\optB[Leave,Enter]
+\m[confused]สุสานแห่งนักรบเบอร์เซิร์ก\optB[ออก,เข้า]
 
 BoardWarning/BRD0
-\board[Berserker's Tomb]
-He challenges the Transcendent only physically.
-Unfortunately, he did not complete his journey.
-But he is still the greatest fighter.
-May he continue his battle in another world.
+\board[สุสานนักรบเบอร์เซิร์ก]
+เขาท้าทายผู้ยิ่งใหญ่ด้วยร่างกายเท่านั้น
+น่าเสียดายที่เขาไม่สำเร็จในการเดินทาง
+แต่เขายังคงเป็นนักสู้ที่ยิ่งใหญ่ที่สุด
+ขอให้เขาสู้ต่อไปในโลกอื่น
 \n
-Open the intestines and dissect the belly, and the matter is done.
+เปิดลำไส้และผ่าท้อง แล้วเรื่องก็จบ
 
 BoardSword/0to1_0
-\CBct[2]\m[flirty]\PRF\c[6]Lorna：\c[0]    Tombstone?...\..\..\..\m[confused]
-\BonID[-1,2]\prf\c[4]unknown：\c[0]    Are you a warrior? Want to face a challenge?\optB[No,I am,Good friend<r=HiddenOPT0>]
+\CBct[2]\m[flirty]\PRF\c[6]ลอร์นา：\c[0]    หลุมศพ?.....\..\..\m[confused]
+\BonID[-1,2]\prf\c[4]ไม่ทราบ：\c[0]    แกเป็นนักรบมั้ย? อยากท้าทายมั้ย?\optB[ไม่,ฉันเป็น,เพื่อนดี<r=HiddenOPT0>]
 
 BoardSword/0to1_1_no
-\BonID[-1,20]\prf\c[4]unknown：\c[0]    Leave, this is not the place for you.
+\BonID[-1,20]\prf\c[4]ไม่ทราบ：\c[0]    ออกไปเถอะ ที่นี่ไม่ใช่ที่ของแก
 
 BoardSword/0to1_1_yes0
-\CBct[2]\m[flirty]\PRF\c[6]Lorna：\c[0]    Perhaps...possibly...Maybe?
-\BonID[-1,20]\prf\c[4]unknown：\c[0]    So, face your opponents.
-\CBct[2]\m[confused]\PRF\c[6]Lorna：\c[0]    Um?
+\CBct[2]\m[flirty]\PRF\c[6]ลอร์นา：\c[0]    อาจจะ...บางที...อาจเป็นไปได้?
+\BonID[-1,20]\prf\c[4]ไม่ทราบ：\c[0]    งั้นก็เผชิญหน้ากับคู่ต่อสู้ของแก
+\CBct[2]\m[confused]\PRF\c[6]ลอร์นา：\c[0]    อืม?
 
 BoardSword/0to1_1_yes1
-\CBct[6]\m[shocked]\Rshake\c[6]Lorna：\c[0]    What happened?!
+\CBct[6]\m[shocked]\Rshake\c[6]ลอร์นา：\c[0]    เกิดอะไรขึ้น?!
 
 BoardSword/0to1_1_yes2
-\CBct[6]\m[terror]\Rshake\c[6]Lorna：\c[0]    Undead?!
+\CBct[6]\m[terror]\Rshake\c[6]ลอร์นา：\c[0]    ซอมบี้?!
 
 BoardSword/End
-\BonID[-1,20]\prf\c[4]unknown：\c[0]    O mighty warrior, you have proven yourself.
-\BonID[-1,20]\prf\c[4]unknown：\c[0]    Take this sword, it's a gift for true warriors.
+\BonID[-1,20]\prf\c[4]ไม่ทราบ：\c[0]    นักรบผู้ยิ่งใหญ่ แกพิสูจน์ตัวเองแล้ว
+\BonID[-1,20]\prf\c[4]ไม่ทราบ：\c[0]    รับดาบนี้ไป เป็นของขวัญสำหรับนักรบแท้จริง
 
 BoardSword/Cecily0
-\CBfB[8]\SETpl[CecilyNormalAr]\Lshake\c[4]Cecilie：\c[0]    \..\..\..
-\CBfB[2]\SETpl[CecilyShyAr]\Lshake\c[4]Cecilie：\c[0]    A warrior who challenges the transcendent with his body? Where did I hear it?
-\CBfF[20]\SETpr[GrayRatNormalAr]\plf\Rshake\c[4]Gray Rat：\c[0]    The king of fighters, the dark berserker.
-\CBfB[8]\SETpl[CecilyNormalAr]\Lshake\prf\c[4]Cecilie：\c[0]    This is his grave?
-\CBfF[20]\SETpr[GrayRatConfusedAr]\plf\Rshake\c[4]Gray Rat：\c[0]    This is a cursed land, we better get out of here.
+\CBfB[8]\SETpl[CecilyNormalAr]\Lshake\c[4]เซซิลี：\c[0]    \..\..\..
+\CBfB[2]\SETpl[CecilyShyAr]\Lshake\c[4]เซซิลี：\c[0]    นักรบที่ท้าทายผู้ยิ่งใหญ่ด้วยร่างกาย? ฉันได้ยินจากไหนมา?
+\CBfF[20]\SETpr[GrayRatNormalAr]\plf\Rshake\c[4]หนูเทา：\c[0]    ราชาแห่งนักสู้ เบอร์เซิร์กมืด
+\CBfB[8]\SETpl[CecilyNormalAr]\Lshake\prf\c[4]เซซิลี：\c[0]    นี่เป็นสุสานของเขา?
+\CBfF[20]\SETpr[GrayRatConfusedAr]\plf\Rshake\c[4]หนูเทา：\c[0]    ที่นี่เป็นดินแดนที่ถูกสาป พวกเราควรออกไปจากที่นี่
 
 BoardSword/Cocona0
-\CBfB[20]\SETlpl[cocona_shocked]\Lshake\c[4]Cocona：\c[0]    Sister!!!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lorna：\c[0]    What's wrong?
-\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    He is sad...
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lorna：\c[0]    who?
-\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Big iron plate is very sad...
-\CBct[2]\m[confused]\plf\PRF\c[6]Lorna：\c[0]    Huh? Cocona, I don't understand.
-\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    His master disappeared, and Big Iron Pan felt lonely.
+\CBfB[20]\SETlpl[cocona_shocked]\Lshake\c[4]โคโคน่า：\c[0]    พี่สาว!!!
+\CBct[2]\m[confused]\plf\PRF\c[6]ลอร์นา：\c[0]    เป็นอะไร?
+\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]โคโคน่า：\c[0]    เขาเศร้า...
+\CBct[2]\m[flirty]\plf\PRF\c[6]ลอร์นา：\c[0]    ใคร?
+\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]โคโคน่า：\c[0]    กระทะเหล็กใหญ่เศร้ามาก...
+\CBct[2]\m[confused]\plf\PRF\c[6]ลอร์นา：\c[0]    หา? โคโคน่า หนูไม่เข้าใจ
+\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]โคโคน่า：\c[0]    เจ้านายของเขาหายไป กระทะเหล็กใหญ่รู้สึกเหงา
 
 BoardSword/Cocona1
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lorna：\c[0]    Well....
-\CBfB[20]\SETlpl[cocona_happy]\Lshake\prf\c[4]Cocona：\c[0]    He is fine! Sister take it! This is a good friend of a good friend!
+\CBct[8]\m[flirty]\plf\PRF\c[6]ลอร์นา：\c[0]    อืม....
+\CBfB[20]\SETlpl[cocona_happy]\Lshake\prf\c[4]โคโคน่า：\c[0]    เขาสบายดี! พี่สาวรับไป! นี่เป็นเพื่อนดีของเพื่อนดี!
 
 BoardSword/Cocona2
-\CBct[4]\m[pleased]\plf\PRF\c[6]Lorna：\c[0]    Ok? Thank you Cocona?
-\CBfB[4]\SETlpl[cocona_happy]\Lshake\prf\c[4]Cocona：\c[0]    You're welcome, sister!
-
+\CBct[4]\m[pleased]\plf\PRF\c[6]ลอร์นา：\c[0]    ได้มั้ย? ขอบคุณนะโคโคน่า?
+\CBfB[4]\SETlpl[cocona_happy]\Lshake\prf\c[4]โคโคน่า：\c[0]    ไม่เป็นไรค่ะ พี่สาว!

@@ -1,12 +1,14 @@
+XXXXXXXX
+
 Statue/Basic
-Address： Fishman Town, Lane 10, Alley, Number 4, 2nd Floor
-Send to： Shark, Buladashou
+Address： เมืองคนปลา, ซอย 10, ตรอก, เลขที่ 4, ชั้น 2
+Send to： ฉลาม, บูลาดาชู
 
 Statue/Quest
-\CBmp[8]\m[confused]\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBmp[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Could this be the missing statue?
-\CBmp[8]\m[confused]\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBmp[20]\m[serious]\PRF\c[6]Lona：\c[0]    I should head back and tell him about this. This wasn't stolen by the people of \c[6]Sybaris\c[0].
-\CBmp[20]\m[angry]\Rshake\c[6]Lona：\c[0]    We're just trying to survive as well! I'm not doing anything wrong!
+\CBmp[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    \..\..\..
+\CBmp[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    นี่มันรูปปั้นที่หายไปหรือเปล่า?
+\CBmp[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    \..\..\..
+\CBmp[20]\m[serious]\PRF\c[6]โลน่า：\c[0]    ฉันควรกลับไปบอกเขาเรื่องนี้ มันไม่ได้ถูกขโมยโดยคนของ \c[6]ไซบาริส\c[0]
+\CBmp[20]\m[angry]\Rshake\c[6]โลน่า：\c[0]    พวกเราก็แค่พยายามเอาตัวรอดเหมือนกัน! ฉันไม่ได้ทำอะไรผิด!
 
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

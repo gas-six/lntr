@@ -1,283 +1,285 @@
+XXXXXXXX
+
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 NoerTavern/OvermapEnter
-\m[confused] The Burning Keg\n The famous tavern that's open 24/7, all day and night. \optB[Leave,Enter]
+\m[confused] The Burning Keg\n ร้านเหล้าดังที่เปิด 24 ชั่วโมง ทั้งกลางวันและกลางคืน \optB[ออก,เข้า]
 
 ##########-----------------------------------------------------
 
 Taxidermist/DeepOne
-\cg[other_DeeponeTaxidermist]Deepone Monster
-Hunting date： 1754.3.14
+\cg[other_DeeponeTaxidermist]ปีศาจ Deepone
+วันล่าสัตว์： 1754.3.14
 
 Taxidermist/Hog
-\cg[other_HogTaxidermist]Wild Boar
-Hunting date： 1757.6.11
+\cg[other_HogTaxidermist]หมูป่า
+วันล่าสัตว์： 1757.6.11
 
 ###################################################################     COMMON PPL
 
 CommonPPL/begin0
-\c[4]Drunkard：\c[0]    Liqueur! *Hic* More wine! *Buuurp*
+\c[4]คนเมา：\c[0]    เหล้า! *เอิ๊ก* เหล้าอีก! *เรอ*
 
 CommonPPL/begin1
-\c[4]Drunkard：\c[0]    A girl! Hahaaah! A giiirl!
+\c[4]คนเมา：\c[0]    ผู้หญิง! ฮ่าๆ! ผู้หญิง!
 
 CommonPPL/begin2
-\c[4]Drunkard：\c[0]    Boobs! *Burp* Don't *hic* sheeeh annny! *Burp*
+\c[4]คนเมา：\c[0]    หน้าอก! *เรอ* ไม่ *เอิ๊ก* เห็นเลย! *เรอ*
 
 CommonPPL/begin3
-\c[4]Drunkard：\c[0]    Hoo hee! More UUURP beer! *Hic*
+\c[4]คนเมา：\c[0]    ฮูฮี! เบียร์อีก UUURP! *เอิ๊ก*
 
 CommonPPL/begin4
-\c[4]Drunkard：\c[0]    Raaaugh! Ahahah! Oooooh!
+\c[4]คนเมา：\c[0]    ร้าว! อะฮ่ะฮ่ะ! โอ้!
 
 ###################################################################     COMMON NAP RAPE
 
 CommonPPL/NapRape
-\c[4]Drunkard：\c[0]    He-he-hee! *Hic* Why's a liiil' cutie lying here fooor? *Burp*
+\c[4]คนเมา：\c[0]    ฮี-ฮี-ฮี! *เอิ๊ก* ทำไมน้องน่ารักนอนอยู่ตรงนี้ล่ะ? *เรอ*
 
 CommonPPL/NapRape1
-\c[4]Drunkard：\c[0]    Hee hee! *Hic* Eehee hee!
+\c[4]คนเมา：\c[0]    ฮีฮี! *เอิ๊ก* อีฮีฮี!
 
 CommonPPL/NapRape2
-\narr Lona was dragged away to another place...
+\narr โลน่าถูกลากไปที่อื่น...
 
 CommonPPL/NapRape3
-\c[4]Drunkard：\c[0]    It's *Hic* It'sho'kay... Whhhy nooot *Burp* help Uncle 'ere have a goooood time?! *Buuurp*
+\c[4]คนเมา：\c[0]    ไม่ *เอิ๊ก* ไม่เป็นไร... ทำไมไม่ *เรอ* ช่วยลุงสนุกสักหน่อยล่ะ?! *เรอ*
 
 CommonPPL/NapRape_withSta_Fight2
-\c[4]Drunkard：\c[0]    Looks like ya *Burp* wanna fuuuckin' *Hic* die! Huuunnnh?!
+\c[4]คนเมา：\c[0]    ดูเหมือนมึง *เรอ* อยาก *เอิ๊ก* ตายนะ! ฮึ่น?!
 
 CommonPPL/NapRape_withSta_NoFight2
-\m[sad]\c[4]Drunkard：\c[0]    Thaaat's... *Hic* Thaat's eeeet...... *Burp*!
+\m[sad]\c[4]คนเมา：\c[0]    นั่น... *เอิ๊ก* นั่นแหละ...... *เรอ*!
 
 ##########-----------------------------------------------------NoerTavern        Hazubendo 
 
 Hazubendo/FearWaifu0
-Don't talk to me...
+อย่าคุยกับฉัน...
 
 Hazubendo/FearWaifu1
-C-Can't talk to other women.
+ค-คุยกับผู้หญิงคนอื่นไม่ได้
 
 Hazubendo/FearWaifu2
-She'll kill me if we talk more!
+เธอจะฆ่าฉันถ้าเราคุยกันต่อ!
 
 Hazubendo/FearWaifu3
-She used to be so sweet... *Sigh*
+เธอเคยน่ารักมาก... *ถอนหายใจ*
 
 Hazubendo/begin
-\CBid[-1,20]\c[4]Boss Mama's Husband：\c[0]    I'm free! Sweet, precious FREEDOM! We must all fight for freedom ourselves!!! \optB[Never mind,Barter]
+\CBid[-1,20]\c[4]สามีของแม่เจ้าของร้าน：\c[0]    ฉันอิสระแล้ว! อิสรภาพที่หวงแหน! เราต้องต่อสู้เพื่ออิสรภาพของตัวเองทุกคน!!! \optB[ไม่เป็นไร,ต่อรอง]
 
 
 ##########-----------------------------------------------------                WAIFU
 
 Waifu/begin1_RecQuestCocona_win
-\CBid[-1,5]\SETpl[BigMama_happy]\Lshake\c[4]Boss Mama：\c[0]    I didn’t expect that I could lose to you...
+\CBid[-1,5]\SETpl[BigMama_happy]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    ฉันไม่คิดว่าฉันจะแพ้เธอได้...
 
 Waifu/begin1_RecQuestCocona_loser
-\CBid[-1,5]\SETpl[BigMama_confused]\Lshake\c[4]Boss Mama：\c[0]    Don't let me down, you shit.
+\CBid[-1,5]\SETpl[BigMama_confused]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    อย่าทำให้ฉันผิดหวังนะ อีกระหรี่
 
 Waifu/begin1_RecQuestCocona_28_0
-\CBid[-1,5]\SETpl[BigMama_confused]\Lshake\c[4]Boss Mama：\c[0]    Hey! Why are you still here?
+\CBid[-1,5]\SETpl[BigMama_confused]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    หวัดดี! ทำไมยังอยู่ที่นี่?
 
 Waifu/begin1_RecQuestCocona_28_1
-\CBid[-1,5]\SETpl[BigMama_confused]\Lshake\c[4]Boss Mama：\c[0]    You haven't left yet?
+\CBid[-1,5]\SETpl[BigMama_confused]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    ยังไม่ได้กลับเหรอ?
 
 Waifu/begin1_slave
-\CBid[-1,5]\SETpl[BigMama_angry]\Lshake\c[4]Boss Mama：\c[0]    \{What are slaves doin' in here? GET OUT!!!
+\CBid[-1,5]\SETpl[BigMama_angry]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    \{ทาสทำอะไรอยู่ที่นี่? ออกไป!!!
 
 Waifu/begin1_maggot
-\CBid[-1,5]\SETpl[BigMama_angry]\Lshake\c[4]Boss Mama：\c[0]    \{Disgusting worm! Don't make any trouble for me!
+\CBid[-1,5]\SETpl[BigMama_angry]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    \{หนอนน่ารังเกียจ! อย่ามาสร้างปัญหาให้ฉัน!
 
 Waifu/begin1_sexy
-\CBid[-1,5]\SETpl[BigMama_normal]\Lshake\c[4]Boss Mama：\c[0]    \{A whore?! Whaddya want here?!
+\CBid[-1,5]\SETpl[BigMama_normal]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    \{โสเภณี?! มาทำอะไรที่นี่?!
 
 Waifu/begin1_weaker
-\CBid[-1,5]\SETpl[BigMama_normal]\Lshake\c[4]Boss Mama：\c[0]    \{What are ya lookin' at?! WELL?!
+\CBid[-1,5]\SETpl[BigMama_normal]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    \{มองอะไร?! อะไรนะ?!
 
 Waifu/begin1_moot
-\CBid[-1,5]\SETpl[BigMama_confused]\Lshake\c[4]Boss Mama：\c[0]    \{Whaddya want?! You're lucky we serve your kind here!
+\CBid[-1,5]\SETpl[BigMama_confused]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    \{ต้องการอะไร?! โชคดีที่เรารับใช้พวกเธอที่นี่!
 
 Waifu/begin1_lona
-\CBid[-1,5]\SETpl[BigMama_normal]\Lshake\c[4]Boss Mama：\c[0]    \{What?! Are you going to order or get out?!
+\CBid[-1,5]\SETpl[BigMama_normal]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    \{อะไร?! จะสั่งอะไรหรือออกไป?!
 
 ##########-------------
 
 Waifu/Opt
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm...
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืมม...
 
 Waifu/work_begin_RecQuestCocona_28
-\CBid[-1,5]\SETpl[BigMama_confused]\Lshake\c[4]Boss Mama：\c[0]    You haven't earned enough yet?!
+\CBid[-1,5]\SETpl[BigMama_confused]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    ยังไม่ได้เงินพอเหรอ?!
 
 Waifu/work_begin
-\CBid[-1,20]\SETpl[BigMama_normal]\Lshake\prf\c[4]Boss Mama：\c[0]    \{HIRE YOU?! What can a runt like you do?
+\CBid[-1,20]\SETpl[BigMama_normal]\Lshake\prf\c[4]แม่เจ้าของร้าน：\c[0]    \{จ้างเธอ?! คนตัวเล็กๆ อย่างเธอทำอะไรได้?
 
 Waifu/Opt_work
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Errr... \optB[Forget it,Waitress,Dancer]
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม... \optB[ลืมเถอะ,พนักงานเสิร์ฟ,นักเต้น]
 
 Waifu/Opt_work_end_summon
-\CBmp[TavernWaifu,20]\SETpl[BigMama_angry]\Lshake\prf\c[4]Boss Mama：\c[0]    \{Still draggin' your ass?! Time is money you know?! GO!
-\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    \}Sorry...
+\CBmp[TavernWaifu,20]\SETpl[BigMama_angry]\Lshake\prf\c[4]แม่เจ้าของร้าน：\c[0]    \{ยังจะชักช้าอยู่อีก?! เวลาคือเงินรู้ไหม?! ไป!
+\CBct[6]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    \}ขอโทษ...
 
 Waifu/Opt_work_end_NoSummon1
-\CBmp[TavernWaifu,20]\SETpl[BigMama_normal]\Lshake\prf\c[4]Boss Mama：\c[0]    Hmmph! SLOPPY WORK! \{Whatever!
-\CBct[3]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ......Thank you?
+\CBmp[TavernWaifu,20]\SETpl[BigMama_normal]\Lshake\prf\c[4]แม่เจ้าของร้าน：\c[0]    ฮึ! ทำงานไม่เรียบร้อย! \{ไม่เป็นไร!
+\CBct[3]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    ......ขอบคุณ?
 
 Waifu/Opt_work_end_NoSummon2
-\CBmp[TavernWaifu,20]\SETpl[BigMama_happy]\Lshake\prf\c[4]Boss Mama：\c[0]    \{Not bad! I'll have more for you later.
-\CBct[3]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ......Thank you?
+\CBmp[TavernWaifu,20]\SETpl[BigMama_happy]\Lshake\prf\c[4]แม่เจ้าของร้าน：\c[0]    \{ไม่เลว! ฉันจะมีงานให้เธอทำอีก
+\CBct[3]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    ......ขอบคุณ?
 
 
 ##########-------------##########-------------##########------------- DANCER
 
 Waifu/Opt_work_dancer_board
-\board[Dancer]
-Workers must be confident in their physical strength and appearance.
-Dance and pick up coins within the time limit. The more coins you pick up, the higher the reward.
-Be sure to respond to guests' requests and do whatever they want.
-The more attractive you are and the more requests answered, the more coins the guests will toss.
-Running while work will consume extra STAmina.
+\board[นักเต้น]
+พนักงานต้องมั่นใจในความแข็งแรงและรูปร่างของตัวเอง
+เต้นและเก็บเหรียญภายในเวลาที่กำหนด ยิ่งเก็บเหรียญได้มาก รางวัลก็ยิ่งสูง
+ต้องตอบสนองคำขอของลูกค้าและทำตามที่พวกเขาต้องการ
+ยิ่งคุณน่าดึงดูดและตอบสนองคำขอได้มากเท่าไหร่ ลูกค้าก็จะโยนเหรียญให้มากขึ้น
+การวิ่งขณะทำงานจะใช้ STAmina เพิ่มเติม
 
 Waifu/Opt_work_dance
-\SETpl[BigMama_normal]\Lshake\c[4]Boss Mama：\c[0]    You're quite young, huh? With decent strength?! And you're confident?!
-\m[sad]\c[6]Lona：\c[0]    S-Sorry...?
-\SETpl[BigMama_normal]\Lshake\c[4]Boss Mama：\c[0]    GOOD! But I can't guarantee that those bastards won't do anything to you!
+\SETpl[BigMama_normal]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    เธอยังเด็กมากเลยนะ? แข็งแรงพอสมควร?! และมั่นใจในตัวเอง?!
+\m[sad]\c[6]โลน่า：\c[0]    ข-ขอโทษ...?
+\SETpl[BigMama_normal]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    ดี! แต่ฉันไม่สามารถรับประกันได้ว่าพวกนั้นจะไม่ทำอะไรเธอ!
 
 Waifu/Opt_work_dance_end
-\narr The dancer's work is over.
+\narr งานของนักเต้นจบลง
 
 Waifu/dance_low_sta_rape
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    Look at this kid, she can't even stand up!
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    She worked 'erself to da bone!
-\SETpl[raper1]\Lshake\c[4]Drunkard：\c[0]    Let's use our cocks to inject energy in her, so she can regain her strength!
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    ดูเด็กคนนี้สิ ยืนไม่ไหวแล้ว!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    ทำงานจนหมดแรง!
+\SETpl[raper1]\Lshake\c[4]คนเมา：\c[0]    มาฉีดพลังเข้าไปในเธอด้วยควยของเรา เพื่อให้เธอกลับมามีแรง!
 
 Waifu/dance_rape1
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    Can't stand it anymore! I'm goin' in!
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    No way! I should go first!
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    Let's fuck 'er at the same time!
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    Wait wait! Boss Mama is still here, she'll kill us!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    ทนไม่ไหวแล้ว! ฉันเข้าไป!
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    ไม่ได้! ฉันต้องไปก่อน!
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    มาเย็ดเธอพร้อมกันเลย!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    รอก่อน! แม่เจ้าของร้านยังอยู่ เธอจะฆ่าเรา!
 
 Waifu/dance_rape1_1
-\SETpr[BigMama_normal]\c[4]Boss Mama：\c[0]    I warned you, this is also part of the job!
-\SETpr[BigMama_normal]\c[4]Boss Mama：\c[0]    I don't care about the rest!
-\prh\narr Boss Mama left...
+\SETpr[BigMama_normal]\c[4]แม่เจ้าของร้าน：\c[0]    ฉันเตือนแล้ว นี่ก็เป็นส่วนหนึ่งของงาน!
+\SETpr[BigMama_normal]\c[4]แม่เจ้าของร้าน：\c[0]    ฉันไม่สนใจส่วนที่เหลือ!
+\prh\narr แม่เจ้าของร้านจากไป...
 
 Waifu/dance_rape1_2
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    Thanks Boss! Praise Boss Mama!
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    ขอบคุณแม่! สรรเสริญแม่เจ้าของร้าน!
 
 Waifu/dance_rape2
-\m[terror]\c[6]Lona：\c[0]    N-No......
+\m[terror]\c[6]โลน่า：\c[0]    ไม่... ไม่......
 
 Lona/dance_DDR_DressOut
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    Strip!
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    \{Take it off!!
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    \{\{STRIP!!!
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    ถอด!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    \{ถอดออก!!
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    \{\{ถอด!!!
 
 Lona/dance_DDR_Masturbation
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    \{Masturbate!
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    \{Show us you masturbating!!!
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    \{Masturbate! Masturbate!! MASTURBATE!!!
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    \{ช่วยตัวเอง!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    \{ให้เราดูเธอช่วยตัวเอง!!!
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    \{ช่วยตัวเอง! ช่วยตัวเอง!! ช่วยตัวเอง!!!
 
 Lona/dance_DDR_Pee
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    \{Pee for us!
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    \{Yeah! Pee at where ya standin' at! While everyone's looking!
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    \{Piss! Piss!! PISS!!!
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    \{ฉี่ให้เราดู!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    \{ใช่! ฉี่ตรงที่ยืนอยู่! ขณะที่ทุกคนมอง!
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    \{ฉี่! ฉี่!! ฉี่!!!
 
 Lona/dance_DDR_Poo
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    \{Take a shit for everyone to see!
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    \{Yes! Who said that girls don't shit?!
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    \{Shit on the stage! Do it! DOOO IT!!!
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    \{ถ่ายให้ทุกคนดู!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    \{ใช่! ใครว่าผู้หญิงไม่ถ่าย?!
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    \{ถ่ายบนเวที! ทำเลย! ทำเลย!!!
 
 Lona/dance_DDR_Milk
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    \{Have ya ever given birth to a child?! Me want milk!
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    \{Yeah! Mama, I'm hungry!! Gya-haha!!!
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    \{Hurry up! Give a glass of milk to everyone here!
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    \{เธอเคยคลอดลูกมั้ย?! ฉันอยากได้นม!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    \{ใช่! แม่ ฉันหิว!! ก๊าฮ่ะๆ!!!
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    \{รีบๆ! ให้แก้วนมกับทุกคนที่นี่!
 
 Lona/dance_DDR_GroinClearn
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    \{You're a prostitute, right? Get out your fuck hole and show us you pushin' the semen outta your cunt!\}
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    \{Yeah, yeah! And eat it in front ah everyone!\}
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    \{That's right! A whore should always act like whore!\}
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    \{เธอเป็นโสเภณีใช่มั้ย? เอารูหีออกมาให้เราดูเธอบีบน้ำอสุจิออกจากรูหี!\}
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    \{ใช่ ใช่! แล้วกินมันต่อหน้าทุกคน!\}
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    \{ถูกต้อง! โสเภณีต้องทำตัวเป็นโสเภณีเสมอ!\}
 
 Lona/dance_DDR_Cum
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    \{I wanna shoot my load at her!
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    \{Me too! Hey! Come over and let us cum on you!
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    \{It's good for the skin! Don't waste our sperm!!!
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    \{ฉันอยากยิงน้ำว่าวใส่เธอ!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    \{ฉันก็เหมือนกัน! มา! มาให้เรายิงน้ำว่าวใส่เธอ!
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    \{ดีต่อผิว! อย่าให้น้ำอสุจิของเราเสียเปล่า!!!
 
 Lona/dance_DDR_Bukaake
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    \{I want to shoot my load on her face!
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    \{Me too! Hey! Come 'ere!
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    \{Catch it with your face! Don't waste our sauce!!!
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    \{ฉันอยากยิงน้ำว่าวใส่หน้าเธอ!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    \{ฉันก็เหมือนกัน! มา! มาทางนี้!
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    \{รับไว้ด้วยหน้า! อย่าให้ซอสของเราเสียเปล่า!!!
 
 Lona/dance_DDR_PeeonHead
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    \{I wanna piss!
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    \{Me too! Let's pee in her mouth!
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    \{Come here! Open your mouth!! Drink up!!!
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    \{ฉันอยากฉี่!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    \{ฉันก็เหมือนกัน! มาฉี่ในปากเธอ!
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    \{มาทางนี้! เปิดปาก!! กินให้หมด!!!
 
 Lona/dance_DDR_Peeon
-\SETpl[raper3]\Lshake\c[4]Drunkard：\c[0]    \{I wanna pee!
-\SETpl[raper2]\Lshake\c[4]Drunkard：\c[0]    \{Me too! Let's piss all over her body!
-\SETpl[raper_group]\Lshake\c[4]Drunkards：\c[0]    \{That's right! Spread your legs!! Pick 'em up!!!
+\SETpl[raper3]\Lshake\c[4]คนเมา：\c[0]    \{ฉันอยากฉี่!
+\SETpl[raper2]\Lshake\c[4]คนเมา：\c[0]    \{ฉันก็เหมือนกัน! มาฉี่ทั่วตัวเธอ!
+\SETpl[raper_group]\Lshake\c[4]คนเมา：\c[0]    \{ถูกต้อง! แยกขาออก!! ยกขึ้น!!!
 
 Lona/dance_DDR_opt
-\m[shy]\c[6]Lona：\c[0]    Errr... \optD[Do it<t=3>,Don't...]
+\m[shy]\c[6]โลน่า：\c[0]    อืม... \optD[ทำเลย<t=3>,ไม่...]
 
 ##########-------------##########-------------##########------------- WAITER
 
 Waifu/Opt_work_waiter_board
-\SND[SE/Book1]\board[Deliver wine]
-Deliver alcohol to 10 guests within the time limit.
-Running while working will consume extra STAmina.
-The more time remains, the higher your reward.
+\SND[SE/Book1]\board[ส่งเหล้า]
+ส่งเหล้าให้ลูกค้า 10 คนภายในเวลาที่กำหนด
+การวิ่งขณะทำงานจะใช้ STAmina เพิ่มเติม
+ยิ่งเวลาที่เหลือมากเท่าไหร่ รางวัลก็ยิ่งสูง
 
 Waifu/Opt_work_waiter2_decide
-\SETpl[BigMama_normal]\Lshake\c[4]Boss Mama：\c[0]    \{Not bad! Send this drink over to him! And don't fuck around, OR ELSE!
-\m[fear]\Rshake\c[6]Lona：\c[0]    \{Yes... Got it!
+\SETpl[BigMama_normal]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    \{ไม่เลว! ส่งเครื่องดื่มนี้ไปให้เขา! และอย่าทำอะไรงี่เง่า ไม่งั้นรู้กัน!
+\m[fear]\Rshake\c[6]โลน่า：\c[0]    \{เข้าใจ... รับทราบ!
 
 ###################################################
 
 Waifu/WorkFailed0
-\CamMP[TavernWaifu]\m[shocked]\SETpl[BigMama_angry]\Lshake\prf\c[4]Boss Mama：\c[0]    \{What the hell are ya doing?! Ya brat!
-\m[sad]\PLF\c[6]Lona：\c[0]    \}Sorry...
+\CamMP[TavernWaifu]\m[shocked]\SETpl[BigMama_angry]\Lshake\prf\c[4]แม่เจ้าของร้าน：\c[0]    \{เธอทำอะไรอยู่?! อีเด็ก!
+\m[sad]\PLF\c[6]โลน่า：\c[0]    \}ขอโทษ...
 
 Waifu/WorkFailed1
-\SETpl[BigMama_angry]\Lshake\c[4]Boss Mama：\c[0]    \{This useless garbage...!
+\SETpl[BigMama_angry]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    \{ขยะไร้ประโยชน์...!
 
 Waifu/WorkFailed2
-\SETpl[BigMama_angry]\Lshake\c[4]Boss Mama：\c[0]    \{You... Good-for-NOTHIN'...!!!
+\SETpl[BigMama_angry]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    \{เธอ... ไร้ค่า...!!!
 
 Waifu/WorkFailed3
-\CamCT\SETpl[BigMama_normal]\Lshake\c[4]Boss Mama：\c[0]    \{GET THE HELL OUTTA MY TAVERN!!!
+\CamCT\SETpl[BigMama_normal]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    \{ออกไปจากร้านฉันเดี๋ยวนี้!!!
 
 Waifu/WorkFailed_slave
-\CamCT\SETpl[BigMama_normal]\Lshake\c[4]Boss Mama：\c[0]    \{Compensate the guests with your body! NOW!!!
-\m[shocked]\Rshake\c[6]Lona：\c[0]    \{W-What?!
+\CamCT\SETpl[BigMama_normal]\Lshake\c[4]แม่เจ้าของร้าน：\c[0]    \{ชดเชยลูกค้าด้วยร่างกายของเธอ! ตอนนี้!!!
+\m[shocked]\Rshake\c[6]โลน่า：\c[0]    \{อ-อะไร?!
 
 ###################################################
 
 Waifu/NapSlave
-\m[shocked]\SETpl[BigMama_normal]\Lshake\prf\c[4]Boss Mama：\c[0]    \{FUCKIN' SLAVES!!! GET THE FUCK OUTTA MY TAVERN!!!
-\m[sad]\PLF\c[6]Lona：\c[0]    \}S-Sorry...
+\m[shocked]\SETpl[BigMama_normal]\Lshake\prf\c[4]แม่เจ้าของร้าน：\c[0]    \{ทาสห่า!!! ออกไปจากร้านฉันเดี๋ยวนี้!!!
+\m[sad]\PLF\c[6]โลน่า：\c[0]    \}ข-ขอโทษ...
 
 Waifu/NapNokey
-\m[shocked]\SETpl[BigMama_normal]\Lshake\prf\c[4]Boss Mama：\c[0]    \{GET! GET OUT!! GET THE FUCK OUT!!! YOU GARBAGE!!!
-\m[sad]\PLF\c[6]Lona：\c[0]    \}Sorry...
+\m[shocked]\SETpl[BigMama_normal]\Lshake\prf\c[4]แม่เจ้าของร้าน：\c[0]    \{ออก! ออกไป!! ออกไปเดี๋ยวนี้!!! ขยะ!
+\m[sad]\PLF\c[6]โลน่า：\c[0]    \}ขอโทษ...
 
 ##########-------------------	Follower	----------------
 
 CommonCompanion/TavernCommand
-\m[confused]\optB[Never mind,Disband]
+\m[confused]\optB[ไม่เป็นไร,ยุบ]
 
 ##########-------------------	Common	----------------
 
 Nap/NotMyBed
-Not my bed.
+ไม่ใช่เตียงของฉัน
 
 2fKid/Qmsg0
-Pa said I need to drink more.
+พ่อบอกว่าฉันต้องดื่มเหล้ามากขึ้น
 
 2fKid/Qmsg1
-You drink to become an adult.
+คุณดื่มเพื่อเป็นผู้ใหญ่
 
 2fKid/Qmsg2
-Am I an adult now?
+ฉันเป็นผู้ใหญ่แล้วหรือยัง?
 
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

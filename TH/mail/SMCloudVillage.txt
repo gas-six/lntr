@@ -1,33 +1,35 @@
+XXXXXXXX
+
 SMCloudVillage/Sender
-Cloud Village
+หมู่บ้านเมฆ
 
 SMCloudVillage/Title
-father's last words
+คำพูดสุดท้ายของพ่อ
 
 SMCloudVillage/Text
-\}I warned them.\n
-At that time, I foolishly thought that I was the smartest in the village.
-With more and more chaos out there, there's bound to be not enough food.
-I told everyone to stockpile food immediately, but everyone thought that Noll Island had three harvests a year, and it was impossible to be short of food.
+\}กูเตือนพวกมันแล้ว\n
+ตอนนั้นกูโง่เขลาคิดว่ากูฉลาดที่สุดในหมู่บ้าน
+เมื่อความวุ่นวายมันเพิ่มขึ้นเรื่อยๆ อาหารมันก็ต้องไม่พอแน่ๆ
+กูบอกทุกคนให้กักตุนอาหารทันที แต่ทุกคนคิดว่าเกาะนอลล์มีเก็บเกี่ยวได้สามครั้งต่อปี ไม่มีทางขาดแคลนอาหาร
 \n
 \n
-Then you see, sure enough, they had nothing to eat.
-The villagers began to snatch the passing people and vendors. Aren't they afraid of being discovered by the gentlemen in the city?
+แล้วก็เห็นได้ชัดว่าพวกมันไม่มีอะไรกินจริงๆ
+ชาวบ้านเริ่มแย่งชิงคนผ่านไปมาและพ่อค้า พวกมันไม่กลัวถูกคนในเมืองจับได้เหรอ?
 \n
-Some outsiders came in, and they were definitely not city guards.
-I couldn't leave the village, they were afraid that I would sue the officials.
-\n
-\n
-I was wrong, I should have left here in the first place.
-Daqiang who lived across the street was killed, and those outsiders said he was hiding food. His wife kept screaming all night.
-I'm terrified, what if they find out I still have food in my house?
-It's too late to say anything now, I heard that Nuoer Town has closed its gates.
-If we leave early, or don't prepare food.....
+มีคนนอกเข้ามา และพวกมันไม่ใช่ทหารเมืองแน่ๆ
+กูออกจากหมู่บ้านไม่ได้ พวกมันกลัวว่ากูจะไปแจ้งเจ้าหน้าที่
 \n
 \n
-Those people started trying to get my wife's attention.
+กูผิด กูควรจะออกจากที่นี่ตั้งแต่แรก
+ดาฉียงที่อยู่ข้างบ้านถูกฆ่า และพวกคนนอกบอกว่าเขาซ่อนอาหารไว้ ภรรยาเขาร้องไห้ตลอดคืน
+กูกลัวมาก ถ้าพวกมันรู้ว่ากูยังมีอาหารอยู่ในบ้านล่ะ?
+ตอนนี้พูดอะไรก็สายไปแล้ว กูได้ยินว่าเมืองนัวเออร์ปิดประตูแล้ว
+ถ้าเราออกไปตั้งแต่แรก หรือไม่เตรียมอาหาร.....
 \n
 \n
-I failed and my wife died, but at least my son escaped.
-If you see this letter, tell me son.
-Don't think about revenge, just live well. Better to be a livestock than to lose your life.
+พวกนั้นเริ่มพยายามจะเอาภรรยากู
+\n
+\n
+กูล้มเหลวและภรรยากูตาย แต่อย่างน้อยลูกชายกูหนีรอด
+ถ้าเธอเห็นจดหมายนี้ ช่วยบอกลูกชายกู
+อย่าคิดเรื่องแก้แค้น ใช้ชีวิตให้ดี ดีกว่าเป็นปศุสัตว์ยังดีกว่าต้องสูญเสียชีวิต

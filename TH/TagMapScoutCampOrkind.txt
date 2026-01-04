@@ -1,75 +1,71 @@
-#Translated by Rrezzolution, cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys, you guys are not translators.
-
 Camp/Enter
-\m[confused]The supposed area of the missing caravan. \optB[Leave,Enter]
+\m[confused]พื้นที่ที่คาดว่าขบวนรถหาย. \optB[ออก,เข้า]
 
 Guide/QuestNotDone
-\m[confused]\c[6]Lona：\c[0]    I still have to confirm the status of the camp and see if there are any survivors.
+\m[confused]\c[6]โลน่า：\c[0]    หนูยังต้องยืนยันสถานะของค่ายและดูว่ามีผู้รอดชีวิตหรือไม่
 
 Forest/Entry
-\m[serious]\c[6]Lona：\c[0]    This is the place, I can smell the monster's foul odor from here...
-\m[irritated]\c[6]Lona：\c[0]    It seems like their guards are on high alert. \CamMP[DasWatcher]
-\m[confused]\c[6]Lona：\c[0]    Ok......
-\m[normal]\c[6]Lona：\c[0]    Advance carefully and quietly. I must not be caught by their guards. \CamCT
+\m[serious]\c[6]โลน่า：\c[0]    นี่แหละที่ที่หนูต้องมา หนูได้กลิ่นเหม็นของปีศาจจากที่นี่...
+\m[irritated]\c[6]โลน่า：\c[0]    ดูเหมือนว่าพวกยามจะเฝ้าระวังอย่างหนัก \CamMP[DasWatcher]
+\m[confused]\c[6]โลน่า：\c[0]    โอเค......
+\m[normal]\c[6]โลน่า：\c[0]    เดินหน้าอย่างระมัดระวังและเงียบๆ หนูต้องไม่ให้พวกยามจับได้ \CamCT
 
 Camp/GoblinSeen
-\m[shocked]\Rshake\c[6]Lona：\c[0]    They've spotted me! I can hear a lot of sounds gathering nearby.
-\m[terror]\Rshake\c[6]Lona：\c[0]    I have to leave soon, or I won't be able to escape...
+\m[shocked]\Rshake\c[6]โลน่า：\c[0]    พวกมันเห็นหนูแล้ว! หนูได้ยินเสียงรวมตัวกันมากมายใกล้ๆ
+\m[terror]\Rshake\c[6]โลน่า：\c[0]    หนูต้องรีบออกไป ไม่งั้นหนูจะหนีไม่รอด...
 
 Camp/SawCamp
-\m[confused]\c[6]Lona：\c[0]    There's the tent...
-\m[fear]\c[6]Lona：\c[0]    Is there anyone even alive? \CamMP[Camp]
-\m[shocked]\Rshake\c[6]Lona：\c[0]    GASP*! ...Oh my goodness! \CamMP[DedPpl]
-\m[terror]\c[6]Lona：\c[0]    Has everyone been murdered?! They're even cooking and eating the corpses...
-\m[confused]\c[6]Lona：\c[0]    Wait... I think I can hear someone crying further down.
-\m[serious]\c[6]Lona：\c[0]    I can't just leave yet, I have to be brave. \CamCT
-\m[angry]\c[6]Lona：\c[0]    I must confirm if there are any survivors or not.
+\m[confused]\c[6]โลน่า：\c[0]    นั่นคือเต็นท์...
+\m[fear]\c[6]โลน่า：\c[0]    มีใครยังมีชีวิตอยู่ไหม? \CamMP[Camp]
+\m[shocked]\Rshake\c[6]โลน่า：\c[0]    อ๊าก*! ...โอ้พระเจ้า! \CamMP[DedPpl]
+\m[terror]\c[6]โลน่า：\c[0]    ทุกคนถูกฆ่าหมดเลยเหรอ?! พวกมันยังทำอาหารและกินศพอีก...
+\m[confused]\c[6]โลน่า：\c[0]    รอก่อน... หนูคิดว่าได้ยินเสียงร้องไห้ดังมาจากข้างล่าง
+\m[serious]\c[6]โลน่า：\c[0]    หนูไม่สามารถออกไปได้ตอนนี้ หนูต้องกล้าหาญ \CamCT
+\m[angry]\c[6]โลน่า：\c[0]    หนูต้องยืนยันว่ามีผู้รอดชีวิตหรือไม่
 
 Camp/OrkindBabySaw
-\m[shocked]\Rshake\c[6]Lona：\c[0]    ICK! ...I-It smells so bad!
-\m[terror]\c[6]Lona：\c[0]    By the Saint...! \CamMP[WakeUp]
-\m[fear]\c[6]Lona：\c[0]    Survivors! There are people still alive!
-\m[sad]\c[6]Lona：\c[0]    T-The monsters left all of the women pregnant!
-\m[fear]\c[6]Lona：\c[0]    At least I know that the monsters are now in the vicinity of Noer Town.
-\m[serious]\c[6]Lona：\c[0]    There's no way I can help these people... I have to hurry back and report this to the guild. \CamCT
+\m[shocked]\Rshake\c[6]โลน่า：\c[0]    อ๊ะ! ...มันเหม็นมาก!
+\m[terror]\c[6]โลน่า：\c[0]    โอ้นักบุญ...! \CamMP[WakeUp]
+\m[fear]\c[6]โลน่า：\c[0]    ผู้รอดชีวิต! ยังมีคนมีชีวิตอยู่!
+\m[sad]\c[6]โลน่า：\c[0]    พ-พวกปีศาจทำให้ผู้หญิงท้องหมด!
+\m[fear]\c[6]โลน่า：\c[0]    อย่างน้อยหนูก็รู้ว่าพวกปีศาจอยู่ใกล้เมืองโนเออร์
+\m[serious]\c[6]โลน่า：\c[0]    หนูไม่สามารถช่วยคนเหล่านี้ได้... หนูต้องรีบกลับไปรายงานเรื่องนี้กับสมาคม \CamCT
 
 Guild/completed
-\prf\c[4]Guild Receptionist：\c[0]    What?! They're starting to breed?! ...This information must be treated as a serious emergency.
+\prf\c[4]เจ้าหน้าที่ต้อนรับสมาคม：\c[0]    อะไรนะ?! พวกมันเริ่มผสมพันธุ์แล้วเหรอ?! ...ข้อมูลนี้ต้องถูกจัดการเป็นเรื่องฉุกเฉิน
 
 Guild/completed2
-\prf\c[4]Guild Receptionist：\c[0]    Well done. The monster's presence in the northern areas should now be reduced.
+\prf\c[4]เจ้าหน้าที่ต้อนรับสมาคม：\c[0]    ทำได้ดี การมีอยู่ของปีศาจในพื้นที่เหนือควรจะลดลงแล้ว
 
 Guild/completed3
-\prf\c[4]Guild Receptionist：\c[0]    She's alive?! And you've managed to rescue her?!
-\prf\c[4]Guild Receptionist：\c[0]    You're definitely a lot more impressive than I thought you could ever be!
+\prf\c[4]เจ้าหน้าที่ต้อนรับสมาคม：\c[0]    เธอยังมีชีวิตอยู่?! แล้วคุณยังช่วยเธอได้อีกด้วย?!
+\prf\c[4]เจ้าหน้าที่ต้อนรับสมาคม：\c[0]    คุณนี่น่าประทับใจกว่าที่หนูคิดไว้เยอะเลย!
 
 ########################################################################################QUEST LINE 3
 
 CommonConvoyTarget/Hev0
-\SETpr[OrcCaveEvent] Inside this small and foul cave, the condition of the victims looked very poor.
-For the Orkinds, neither age nor appearance was a concern. As long as the female can conceive, they'll continue impregnating her.
-The victims seem to have been subjected to prolonged sexual abuse. Most of them look to either be losing their sanity or are deceased.
-As for the merchant's daughter, she was covered in semen and filth.
-Her stomach was full of wrinkles from\n constantly giving birth, and she seemed\n to have been abused by Orkinds for a long time.
-Lona couldn't tell if she was sane or not. If she wasn't sane, Lona would probably have to give up on the rescue...
+\SETpr[OrcCaveEvent] ภายในถ้ำเล็กๆ ที่เหม็นนี้ สภาพของเหยื่อดูแย่มาก
+สำหรับพวกออร์คินด์ ไม่ว่าจะอายุหรือรูปลักษณ์ก็ไม่ใช่ปัญหา ตราบใดที่ผู้หญิงสามารถตั้งครรภ์ได้ พวกมันก็จะทำให้เธอท้องต่อไป
+เหยื่อดูเหมือนจะถูกล่วงละเมิดทางเพศอย่างยาวนาน ส่วนใหญ่ดูเหมือนจะเสียสติหรือเสียชีวิตไปแล้ว
+ส่วนลูกสาวของพ่อค้า เธอเต็มไปด้วยน้ำอสุจิและสิ่งสกปรก
+ท้องของเธอเต็มไปด้วยรอยย่นจากการคลอดบ่อยๆ และดูเหมือนว่าเธอถูกออร์คินด์ล่วงละเมิดมานาน
+โลน่าไม่สามารถบอกได้ว่าเธอยังมีสติหรือไม่ ถ้าเธอไม่มีสติ โลน่าอาจจะต้องยอมแพ้การช่วยเหลือ...
 
 CommonConvoyTarget/begin0
-\m[serious]\PRF\c[6]Lona：\c[0]    She's still alive!
-\prf\c[4]Merchant's Daughter：\c[0]    \..\..\..\..Uwuughuuu... *Whimper*...
-\m[shocked]\PRF\c[6]Lona：\c[0]    Are you alright? Can you hear me?
+\m[serious]\PRF\c[6]โลน่า：\c[0]    เธอยังมีชีวิตอยู่!
+\prf\c[4]ลูกสาวพ่อค้า：\c[0]    \..\..\..\..อู๊ว์... *ร้องไห้*...
+\m[shocked]\PRF\c[6]โลน่า：\c[0]    เธอเป็นอะไรไหม? เธอได้ยินหนูไหม?
 
 CommonConvoyTarget/beginOPT
-\plf\c[4]Merchant's Daughter：\c[0]    Ughnnn... W-Who are... you...? \optB[Just someone passing by...,I've come here to save you!]
+\plf\c[4]ลูกสาวพ่อค้า：\c[0]    อ๊ะ... ค-คุณเป็น... ใคร...? \optB[แค่คนผ่านทาง...,หนูมาช่วยเธอ!]
 
 CommonConvoyTarget/Arrivel
-\prf\c[4]Merchant's Daughter：\c[0]    Thank you so much! Because of you, I'm still alive.
-\m[triumph]\PRF\c[6]Lona：\c[0]    You're welcome!
-\prf\c[4]Merchant's Daughter：\c[0]    I shall return back to my father now, take care.
+\prf\c[4]ลูกสาวพ่อค้า：\c[0]    ขอบคุณมาก! เพราะคุณ หนูถึงได้มีชีวิตอยู่
+\m[triumph]\PRF\c[6]โลน่า：\c[0]    ไม่เป็นไร!
+\prf\c[4]ลูกสาวพ่อค้า：\c[0]    หนูจะกลับไปหาพ่อตอนนี้ ดูแลตัวเองด้วย
 
 CommonConvoyTarget/Arrivel1
-\m[confused]\PRF\c[6]Lona：\c[0]    I should return back to the guild now.
+\m[confused]\PRF\c[6]โลน่า：\c[0]    หนูควรกลับไปที่สมาคมตอนนี้
 
 CommonConvoyTarget/CommonConvoyTarget
-\prf\c[4]Merchant's Daughter：\c[0]    Thank you. Let's hurry back to the Town of Noer.
-
-#Translated by Rrezzolution, cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys, you guys are not translators.
+\prf\c[4]ลูกสาวพ่อค้า：\c[0]    ขอบคุณ มารีบกลับไปเมืองโนเออร์กันเถอะ

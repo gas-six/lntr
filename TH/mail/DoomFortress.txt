@@ -1,69 +1,70 @@
+XXXXXXXX
+
 DFR_LoveLetter1/Sender
 Doom Fortress
 
 DFR_LoveLetter1/Title
-To Marian
+ถึงมาเรียน
 
 DFR_LoveLetter1/Text
-\}It was on that day, at the north gate of Noer,
-that I last saw you.
-All the months I've spent without you,
-have made me miss you so much.
+\}วันนั้นที่ประตูเหนือของโนเออร์
+เป็นวันสุดท้ายที่ฉันเห็นเธอ
+เดือนที่ผ่านมาโดยไม่มีเธอ
+ทำให้ฉันคิดถึงเธอมาก
 \n
-I wrote to you every month, have you received
-my letters?
-I ask the sergeant everyday, but he says that
-there's no reply from you.
-I know that's a lie, most of them can't read and
-write so I bet they just destroyed those letters.
+ฉันเขียนจดหมายถึงเธอทุกเดือน เธอได้รับ
+จดหมายของฉันไหม?
+ฉันถามนายสิบทุกวัน แต่เขาบอกว่า
+ไม่มีจดหมายตอบกลับจากเธอ
+ฉันรู้ว่ามันเป็นเรื่องโกหก พวกนั้นส่วนใหญ่อ่านไม่ออกเขียนไม่ได้
+ฉันเดาว่าพวกมันทำลายจดหมายเหล่านั้นไป
 \n
-We can't have guests, there's no spare time and
-some of these fuckers bully me for fun.
-The army will never change it's nature of
-messing around and bullying.
+เราไม่สามารถมีแขกได้ ไม่มีเวลาว่าง
+และพวกอีกระหรี่บางคนก็มากลั่นแกล้งฉันเพื่อความสนุก
+กองทัพจะไม่เปลี่ยนแปลงธรรมชาติของการ
+เล่นตลกและกลั่นแกล้ง
 \n
-All I have are memories of you and the days
-we've spent together.
-I can't see you nor hear your voice.
-But I remember it clearly.
-And this all drives me crazy.
+สิ่งที่ฉันมีคือความทรงจำของเธอและวันที่
+เราใช้เวลาด้วยกัน
+ฉันไม่สามารถเห็นเธอหรือได้ยินเสียงของเธอ
+แต่ฉันจำได้ชัดเจน
+และสิ่งนี้ทำให้ฉันบ้าคลั่ง
 \n
-Miss you
-Love you
-Want to hug you
-And kiss you
+คิดถึงเธอ
+รักเธอ
+อยากกอดเธอ
+และจูบเธอ
 \n
-Your love, John.
+ความรักของเธอ จอห์น
 \n
 \n
-The following is my uncle's
-address in Noer Town.\n
-West District No. 6-4, Lane 9, Alley 8, Haibin Road
+ที่อยู่ของลุงฉันในเมืองโนเออร์คือ\n
+เขตตะวันตก หมายเลข 6-4 ซอย 9 ตรอก 8 ถนนไฮบิน
 
-#No. 6-4, Aly. 8, Ln. 9, SeaCoast Rd., West Dist.
+#เขตตะวันตก หมายเลข 6-4 ตรอก 8 ซอย 9 ถนนซีโคสต์
 ###################################################################
 
 DFR_LoveLetter2/Sender
 Doom Fortress
 
 DFR_LoveLetter2/Title
-To John
+ถึงจอห์น
 
 DFR_LoveLetter2/Text
-\}You've always been a good person.
-And although we've had many happy memories,
-I don't think that we fit together.
-All these disasters got me thinking.
-There wasn't a single day,
-I wouldn't think about all that's
-happened.
-And while you were there, far away, your uncle was here for me.
-He provided me with security
-and I don't need to worry about the future anymore.
+\}เธอเป็นคนดีเสมอมา
+และแม้ว่าเราจะมีความทรงจำที่มีความสุขมากมาย
+ฉันไม่คิดว่าเราเหมาะสมกัน
+ภัยพิบัติทั้งหมดทำให้ฉันคิด
+ไม่มีวันใดเลย
+ที่ฉันไม่คิดถึงสิ่งที่
+เกิดขึ้น
+และขณะที่เธออยู่ไกล ลุงของเธออยู่ที่นี่เพื่อฉัน
+เขาให้ความปลอดภัยแก่ฉัน
+และฉันไม่ต้องกังวลเกี่ยวกับอนาคตอีกต่อไป
 \n
-I'm grateful for everything you sacrificed for me,
-You're a good person, a really good person.
-But what we had between us, is over.
-I hope you'll understand.
+ฉันขอบคุณสำหรับทุกสิ่งที่เธอเสียสละเพื่อฉัน
+เธอเป็นคนดี คนดีจริงๆ
+แต่สิ่งที่เรามีต่อกัน มันจบลงแล้ว
+ฉันหวังว่าเธอจะเข้าใจ
 \n
-Regards, Marian.
+ด้วยความนับถือ มาเรียน

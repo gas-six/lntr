@@ -1,100 +1,102 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-\m[confused]Tide Castle,\nIt is now a refugee market. \optB[Nevermind,Enter]
+\m[confused]Tide Castle,\nมันเป็นตลาดผู้ลี้ภัยแล้ว \optB[ไม่เป็นไร,เข้าไป]
 
 Exit/Begin
-\SETpl[Mreg_pikeman]Heading to the Saltworks? \optB[It's OK,Enter,Invisible entry<r=HiddenOPT1>,Bluff into<r=HiddenOPT2>]
+\SETpl[Mreg_pikeman]จะไปโรงงานเกลือหรอ? \optB[ไม่เป็นไร,เข้าไป,Invisible entry<r=HiddenOPT1>,หลอกเข้าไป<r=HiddenOPT2>]
 
 #####################################################################
 
 Guard1/Com0
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    I was just a fruit seller before, but now I'm a full-time beater of blind people.
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    I'll kill a blind person any day.
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Don't blame me, this is work!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    ก่อนหน้านี้กูขายผลไม้ แต่ตอนนี้กูเป็นคนตีคนตาบอดเต็มเวลา
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    กูจะฆ่าคนตาบอดได้ทุกวัน
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    อย่าโทษกูนะ นี่มันงาน!
 
 Guard1/Com1
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Are you here to sell, or to cause trouble? You want to die?
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    มึงมาขายของหรือมาหาวิวาทะ? อยากตายหรอ?
 
 Guard2/Com0
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Let me tell you, those nobles used to bully us when they had nothing to do.
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Especially who is that?... I forgot the name...
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    But when I saw him a few days ago, he actually brought his wife and children together to beg for food.
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Then can you guess what I did?
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    I anally fucked his whining bitch son in front of the guy, and it felt so good to see his begging and desperate expression.
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Then, guess what?
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    He actually knelt down and begged me to let his son go, he offered himself up instead.
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Then, guess what?
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    He is a nobleman, so of course we must listen to him. I stopped raping the brat. Then the entire team took the entire family to bed and later threw them into the sea to drown!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    กูบอกมึงนะ เหล่าขุนนางเคยกลั่นแกล้งพวกเราเวลาว่างๆ
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    โดยเฉพาะใครนะ?... กูลืมชื่อไปแล้ว...
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    แต่พอกูเห็นเมื่อไม่กี่วันก่อน เขาก็พาภรรยาและลูกมาขออาหาร
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    แล้วมึงเดาว่ากูทำอะไร?
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    กูข่มขืนลูกชายอีกระหรี่ที่ร้องไห้ตรงหน้าเขา และมันรู้สึกดีมากที่ได้เห็นสีหน้าขอร้องและสิ้นหวังของเขา
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    แล้วเดาว่าอะไรต่อ?
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    เขาก็คุกเข่าขอร้องให้กูปล่อยลูกชายเขาไป เขายอมตัวเองแทน
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    แล้วเดาว่าอะไรต่อ?
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    เขาเป็นขุนนาง เราต้องฟังเขาแน่นอน กูเลยหยุดข่มขืนเด็ก แล้วทั้งทีมก็พาทั้งครอบครัวขึ้นเตียงและทิ้งลงทะเลจมน้ำตาย!
 
 comBoard/v1
-\board[Are you a woman?]
-Want to save your friends and family?!
-Come be a caregiver, the soldiers need your help.
-We will ensure you are fed and take care of your safety. All that, plus we provide assurance for one person to enter Noer Town.
-Please contact the salt farm warehouse manager.
+\board[คุณเป็นผู้หญิงหรือเปล่า?]
+อยากช่วยเพื่อนและครอบครัวของคุณหรือไม่?!
+มาเป็นผู้ดูแล ทหารต้องการความช่วยเหลือของคุณ
+เราจะรับรองว่าคุณจะได้รับอาหารและดูแลความปลอดภัยของคุณ ทั้งหมดนี้ บวกกับการรับประกันให้คนหนึ่งเข้าไปในเมือง Noer
+โปรดติดต่อผู้จัดการคลังสินค้าโรงงานเกลือ
 
 comBoard/v0
-\board[Are you a man?]
-Want to save your friends and family?!
-Join the army or become a slave!
-If you join, one person of your choice will be guaranteed entry to Noer Town.
-Please contact the salt field guard team.
+\board[คุณเป็นผู้ชายหรือเปล่า?]
+อยากช่วยเพื่อนและครอบครัวของคุณหรือไม่?!
+เข้าร่วมกองทัพหรือเป็นทาส!
+ถ้าคุณเข้าร่วม เราจะรับประกันให้คนที่คุณเลือกเข้าไปในเมือง Noer
+โปรดติดต่อทีมยามโรงงานเกลือ
 
 comBoard/v2
-\board[Should you resist?]
-A slap in the face can't make a difference. If a woman is raped, she is at greater fault than the man.
-Can one palm clap make a difference? I don't think so.
-If you are raped, it's more your fault than the man's.
-You should shut up and not resist. It is your fault that you die because of your resistance.
-If you really want to survive, you should kindly call those who want to rape you master and beg them to rape you.
-This is a critical moment for human existence, and we don’t have time to listen to your tragic stories.
+\board[คุณควรต่อต้านหรือไม่?]
+การตบหน้าไม่สามารถเปลี่ยนแปลงอะไรได้ ถ้าผู้หญิงถูกข่มขืน เธอผิดมากกว่าผู้ชาย
+การตบมือเดียวจะเปลี่ยนแปลงอะไรได้ไหม? กูไม่คิดว่าจะได้
+ถ้าคุณถูกข่มขืน มันเป็นความผิดของคุณมากกว่าผู้ชาย
+คุณควรเงียบและไม่ต่อต้าน การตายของคุณเพราะการต่อต้านเป็นความผิดของคุณ
+ถ้าคุณอยากรอดจริงๆ คุณควรเรียกคนที่อยากข่มขืนคุณว่านายและขอร้องให้เขาข่มขืนคุณ
+นี่เป็นช่วงเวลาสำคัญของการดำรงอยู่ของมนุษย์ เราไม่มีเวลามาฟังเรื่องราวที่น่าเศร้าของคุณ
 
 ##################################################################### FL_GateGuard
 
 FL_GateGuard/already_passed
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Still busy? Get in quickly!
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Yeah?!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    ยังวุ่นอยู่หรอ? เข้าไปเร็วๆ!
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    อะ?!
 
 FL_GateGuard/IsSlave
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Slave! It's a runaway slave!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    ทาส! มันเป็นทาสหนี!
 
 FL_GateGuard/Begin0_opt
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Stop right there!
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Are you a mercenary called by the boss? Or are you here to suck our dicks?
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Well...\optB[Neither,Mercenary,Prostitute]
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    หยุดเดี๋ยวนี้!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    มึงเป็นทหารรับจ้างที่เจ้านายเรียกมาหรือมาดูดควยพวกกู?
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    อืม...\optB[ไม่ใช่,ทหารรับจ้าง,โสเภณี]
 
 FL_GateGuard/Begin1_ans_cancel
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Get Lost!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    ไปให้พ้น!
 
 FL_GateGuard/Begin1_ans_mer_yes
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    I am\..\..\..\m[flirty] A mercenary... R-right?
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    หนูเป็น\..\..\..\m[flirty] ทหารรับจ้าง... ใช่ไหม?
 
 FL_GateGuard/Begin1_ans_whore_yes
-\CBct[6]\m[shy]\plf\PRF\c[6]Lona：\c[0]    I'm here to serve your cocks...
+\CBct[6]\m[shy]\plf\PRF\c[6]Lona：\c[0]    หนูมาให้บริการควยของพวกคุณ...
 
 FL_GateGuard/Begin1_ans_mer_fail
-\CBid[-1,5]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    You dare to lie!? You look like a bitch to me!
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?!
+\CBid[-1,5]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    มึงกล้าโกหก!? มึงดูเหมือนอีกระหรี่นะ!
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    อะ?!
 
 FL_GateGuard/Begin1_ans_whore_fail
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    \..\..\..Doesn't it look like it? Actually, you are a man, right?
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Umm... yeah?
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    \..\..\..ไม่เหมือนเลยนี่? จริงๆ มึงเป็นผู้ชายใช่ไหม?
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    อืม... ใช่?
 
 FL_GateGuard/Begin1_ans_mer_pass1
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Very good. After entering, go to the second floor to report to my boss.
-\CBct[8]\m[confused]\plf\Rshake\c[6]Lona：\c[0]    Second floor... Got it!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    ดีมาก หลังจากเข้าไปแล้ว ไปรายงานกับเจ้านายของกูที่ชั้นสอง
+\CBct[8]\m[confused]\plf\Rshake\c[6]Lona：\c[0]    ชั้นสอง... เข้าใจแล้ว!
 
 FL_GateGuard/DickSuck0
 \CBid[-1,8]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    \..\..\..
-\CBid[-1,5]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    *Snort* My solid snake has not been washed for a long time, so you can clean it for me.
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    What?
+\CBid[-1,5]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    *จาม* งูใหญ่ของกูไม่ได้ล้างมานานแล้ว มึงช่วยทำความสะอาดให้กูหน่อย
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    อะไรนะ?
 
 FL_GateGuard/DickSuck1
-\CBid[-1,4]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Huhu♥ Much cleaner♥
-\CBid[-1,3]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    Go in, sign the contract at the bar on the first floor, and your life will be worry-free from now on.
+\CBid[-1,4]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    ฮึฮึ♥ สะอาดขึ้นมาก♥
+\CBid[-1,3]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]guard：\c[0]    เข้าไปเถอะ ไปเซ็นสัญญาที่บาร์ชั้นหนึ่ง แล้วชีวิตของมึงจะไม่ต้องกังวลอีกต่อไป
 
 ##################################################################### Weapon vandor ,NFL quest reward
 
 WeaponTrader/BucketHelmet_begin0
-\CBid[-1,20]\c[4]Weapons Dealer：\c[0]    Yo! Check it out, I just got some new stuff.
-\CBid[-1,20]\c[4]Weapons Dealer：\c[0]    Look at this brand new warrior helmet, I got it from the mercenaries who found it in the \c[4]Sybaris\c[0].
-\CBid[-1,20]\c[4]Weapons Dealer：\c[0]    Can’t believe they succeeded in sneaking past those green-skinned.
+\CBid[-1,20]\c[4]Weapons Dealer：\c[0]    โย! มาดูนี่ กูเพิ่งได้ของใหม่มา
+\CBid[-1,20]\c[4]Weapons Dealer：\c[0]    ดูหมวกนักรบใหม่นี่สิ กูได้มาจากทหารรับจ้างที่เจอมันใน \c[4]Sybaris\c[0]
+\CBid[-1,20]\c[4]Weapons Dealer：\c[0]    ไม่น่าเชื่อว่าพวกเขาจะแอบผ่านพวกผิวเขียวได้

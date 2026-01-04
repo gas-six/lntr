@@ -1,11 +1,13 @@
+XXXXXXXX
+
 ThisMap/OmEnter
-\m[confused]Raft Ride\optB[Not Yet,Set sail]
+\m[confused]ล่องแพ\optB[ยังไม่,ออกเรือ]
 
 Lona/sail_begin
-\m[confused]\c[6]Lona：\c[0]    I can use this to leave the island, but should I...?
+\m[confused]\c[6]โลน่า：\c[0]    หนูใช้อันนี้ออกจากเกาะได้ แต่ควรทำไหมนะ...?
 
 Lona/sail0
-\narr Lona's weak body couldn't control the direction of the boat.
+\narr ร่างกายอ่อนแอของโลน่าไม่สามารถควบคุมทิศทางของเรือได้
 
 Lona/sail1
-\narr She could only follow the waves and be at the mercy of the sea...
+\narr เธอสามารถทำได้แค่ตามคลื่นและปล่อยให้ทะเลควบคุม...

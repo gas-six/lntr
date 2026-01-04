@@ -1,27 +1,29 @@
+XXXXXXXX
+
 thisMap/Enter
-\SETpl[Mreg_pikeman]The sign on the door reads "\c[4]STAFF ONLY\c[0]".\n A guard stands in the way.\optB[Leave,Sneak<r=HiddenOPT1>,Bluff<r=HiddenOPT2>]
+\SETpl[Mreg_pikeman]ป้ายบนประตูเขียนว่า "\c[4]เฉพาะพนักงาน\c[0]".\n มียามยืนขวางทางอยู่\optB[ออกไป,แอบเข้าไป<r=HiddenOPT1>,หลอกล่อ<r=HiddenOPT2>]
 
 ########################################################################################################### Nap
 
 enter/begin0
-\c[4]Warden：\c[0]    Be good and wait for your turn again. Resisting will only lead to your death.
-\c[4]Warden：\c[0]    This is your only food for today, take it! It'll be your turn to entertain us soon.
+\c[4]ผู้คุม：\c[0]    อยู่เฉยๆ แล้วรอคิวของแกอีกที ต่อต้านแค่จะทำให้แกตาย
+\c[4]ผู้คุม：\c[0]    นี่คืออาหารเดียวของแกวันนี้ รับไป! ไม่นานแกจะได้มาสร้างความสนุกให้พวกกู
 
 Nap/BecomeSlave0
-\SETpl[Mreg_guardsman]\SETpr[Mreg_pikeman]\Lshake\prf\c[4]Guard A：\c[0]    What's this piece of shit doing here?
-\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Guard B：\c[0]    Maybe she really wants to be a gladiator?
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Guard A：\c[0]    Haha! You've got that right!
+\SETpl[Mreg_guardsman]\SETpr[Mreg_pikeman]\Lshake\prf\c[4]ยาม A：\c[0]    อีกระหรี่นี่มาทำอะไรที่นี่วะ?
+\SETpr[Mreg_pikeman]\plf\Rshake\c[4]ยาม B：\c[0]    อาจจะอยากเป็นนักสู้กล้าหาญจริงๆ ก็ได้นะ?
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ยาม A：\c[0]    ฮ่า! แกพูดถูกเลย!
 
 Nap/Torture0
-\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Guard B：\c[0]    Well then, shall we teach this piece of dog shit a lesson?
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Guard A：\c[0]    Hey, I've got a great idea...
-\narr The two carried Lona away.
+\SETpr[Mreg_pikeman]\plf\Rshake\c[4]ยาม B：\c[0]    งั้นเรามาสอนอีกระหรี่นี่สักหน่อยดีไหม?
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ยาม A：\c[0]    มึง กูมีไอเดียดีๆ...
+\narr ทั้งสองคนพาลน่าออกไป
 
 Nap/Torture1
-\CBct[8]\m[tired]\c[6]Lona：\c[0]    Ughnnn... What happened to me?
+\CBct[8]\m[tired]\c[6]ลน่า：\c[0]    อ่าห์... เกิดอะไรขึ้นกับหนู?
 
 Nap/Torture2
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    EH?!
+\CBct[1]\m[shocked]\Rshake\c[6]ลน่า：\c[0]    อ๊ะ?!
 
 Nap/Torture3
 \CBmp[Goblin1,4]\SndLib[sound_goblin_spot]\Lshake\prf\SETpl[goblin_penis]!!!
@@ -31,108 +33,106 @@ Nap/Torture3
 ########################################################################################################### Get to fight
 
 Daily/Food0
-\CBmp[Warden,20]\c[4]Warden：\c[0]    Alright maggots! WAKE UP!
-\CBct[20]\m[shocked]\c[6]Lona：\c[0]    Huh?
+\CBmp[Warden,20]\c[4]ผู้คุม：\c[0]    ตื่นขึ้นมาเดี๋ยวนี้ หนอน!
+\CBct[20]\m[shocked]\c[6]ลน่า：\c[0]    อะไร?
 
 Daily/Food1
-\BonMP[Warden,20]\prf\c[4]Warden：\c[0]    Bring your face close to the bars! Closer! Open your mouth if you wanna be fed!
+\BonMP[Warden,20]\prf\c[4]ผู้คุม：\c[0]    เอาหน้าเข้าไปใกล้ๆ กับตะแกรง! ใกล้กว่านี้! เปิดปากถ้าอยากได้อาหาร!
 
 Daily/Food_YES0
-\CBct[20]\m[sad]\c[6]Lona：\c[0]    Okay......
+\CBct[20]\m[sad]\c[6]ลน่า：\c[0]    ได้ค่ะ......
 
 Daily/Food_YES0_1
-\narr The Warden grabbed Lona's hair with a tight grip and pulled her head close to the cell door's bars.
+\narr ผู้คุมจับผมลน่าแน่นแล้วดึงหัวเธอเข้าไปใกล้กับตะแกรงประตูเซลล์
 
 Daily/Food_YES1
-\BonMP[Warden,3]\prf\c[4]Warden：\c[0]    Ha! Amazing! This is how all slaves should be like!
-\BonMP[Warden,20]\prf\c[4]Warden：\c[0]    Now, what does a good slave say?
-\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    T-Thank you, master...
+\BonMP[Warden,3]\prf\c[4]ผู้คุม：\c[0]    ฮ่า! ยอดเยี่ยม! ทาสทุกคนควรจะเป็นแบบนี้!
+\BonMP[Warden,20]\prf\c[4]ผู้คุม：\c[0]    แล้วทาสดีๆ พูดว่าอะไร?
+\CBct[8]\m[sad]\PRF\c[6]ลน่า：\c[0]    ข-ขอบคุณ... นาย...
 
 Daily/Food_NO
-\CBct[20]\m[fear]\c[6]Lona：\c[0]    No... I won't...
-\BonMP[Warden,5]\prf\c[4]Warden：\c[0]    Alright, fine! Then no food for you, we'll see how much longer you'll last.
+\CBct[20]\m[fear]\c[6]ลน่า：\c[0]    ไม่... หนูไม่ทำ...
+\BonMP[Warden,5]\prf\c[4]ผู้คุม：\c[0]    ได้สิ ไม่เอาก็ไม่ให้ กูจะดูว่าแกจะอยู่ได้นานแค่ไหน
 
 Daily/Food_END
-\narr The Warden shoves some food through the bars of the cell door.
+\narr ผู้คุมส่งอาหารผ่านตะแกรงประตูเซลล์
 
 ########################################################################################################### Get to fight
 
 playerFight/begin0
-\CBmp[Warden,20]\c[4]Warden：\c[0]    WAKE UP! YOU WORTHLESS MAGGOT!
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    EHH? Y-Yes?!
+\CBmp[Warden,20]\c[4]ผู้คุม：\c[0]    ตื่นขึ้นมา! หนอนไร้ค่า!
+\CBct[20]\m[shocked]\Rshake\c[6]ลน่า：\c[0]    อ๊ะ? ค-ครับ?!
 
 playerFight/begin1
-\CBmp[Warden,20]\c[4]Warden：\c[0]    It's your turn to die now, be sure entertain our audience!
-\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    ......
+\CBmp[Warden,20]\c[4]ผู้คุม：\c[0]    ถึงคิวแกตายแล้ว อย่าลืมสร้างความบันเทิงให้คนดู!
+\CBct[8]\m[tired]\PRF\c[6]ลน่า：\c[0]    ......
 
 playerFight/begin2_opt
-\BonMP[Warden,20]\prf\c[4]Warden：\c[0]    Hurry up and get ready! \optD[Select your equipment,Special offer<r=HiddenOPT0>,Prepare (Open Menu),FIGHT!]
+\BonMP[Warden,20]\prf\c[4]ผู้คุม：\c[0]    รีบเตรียมตัว! \optD[เลือกอุปกรณ์,ข้อเสนอพิเศษ<r=HiddenOPT0>,เตรียมตัว (เปิดเมนู),สู้!]
 
 playerFight/begin2_opt_notYet
-\BonMP[Warden,20]\prf\c[4]Warden：\c[0]    You're not done yet? Hurry the fuck up!
+\BonMP[Warden,20]\prf\c[4]ผู้คุม：\c[0]    ยังไม่เสร็จเหรอ? รีบหน่อยสิ!
 
 playerFight/begin2_opt_OtherOffer
-\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    Is there anything that will help me survive...?
-\CBct[8]\m[bereft]\PRF\c[6]Lona：\c[0]    I still... don't want to die...
-\BonMP[Warden,20]\prf\c[4]Warden：\c[0]    I've got some good things that'll make sure you won't suffer so much.
-\BonMP[Warden,20]\prf\c[4]Warden：\c[0]    If you want them, you'll have to bring your lips closer.
+\CBct[8]\m[sad]\PRF\c[6]ลน่า：\c[0]    มีอะไรที่จะช่วยให้หนูรอดได้ไหม...?
+\CBct[8]\m[bereft]\PRF\c[6]ลน่า：\c[0]    หนูยัง... ไม่อยากตาย...
+\BonMP[Warden,20]\prf\c[4]ผู้คุม：\c[0]    กูมีของดีๆ ที่จะทำให้แกไม่ต้องทรมานมาก
+\BonMP[Warden,20]\prf\c[4]ผู้คุม：\c[0]    ถ้าอยากได้ ก็เอาริมฝีปากเข้ามาใกล้ๆ
 
 playerFight/begin2_opt_OtherOffer_yes0
 \ph\SndLib[sound_equip_armor]\cg[event_WartsDick]\SndLib[stepWater]\..\SndLib[stepWater]\..\SndLib[stepWater]\..\SndLib[stepWater]\..
-\narr The Warden pulls out and reveals his wart-infested cock to you, then pours a vial of mysterious liquid on it.
+\narr ผู้คุมดึงออกมาแล้วเผยควยที่เต็มไปด้วยหูดให้แกดู แล้วก็เทขวดน้ำยาลึกลับลงไป
 
 playerFight/begin2_opt_OtherOffer_yes1
-\BonMP[Warden,20]\cgoff\prf\c[4]Warden：\c[0]    Alright, use your mouth to lick it clean.
-\CBct[8]\m[fear]\PRF\c[6]Lona：\c[0]    Ah?
+\BonMP[Warden,20]\cgoff\prf\c[4]ผู้คุม：\c[0]    ได้ ใช้ปากเลียให้สะอาด
+\CBct[8]\m[fear]\PRF\c[6]ลน่า：\c[0]    อ๊ะ?
 
 playerFight/begin2_opt_OtherOffer_yes2
-\BonMP[Warden,20]\prf\c[4]Warden：\c[0]    Very good, and what do good slaves say?
-\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    T-Thank you...
-\BonMP[Warden,20]\prf\c[4]Warden：\c[0]    Wonderful! I've also prepared something for pieces of dog shits like you.
+\BonMP[Warden,20]\prf\c[4]ผู้คุม：\c[0]    ดีมาก แล้วทาสดีๆ พูดว่าอะไร?
+\CBct[8]\m[sad]\PRF\c[6]ลน่า：\c[0]    ข-ขอบคุณ...
+\BonMP[Warden,20]\prf\c[4]ผู้คุม：\c[0]    ยอดเยี่ยม! กูก็เตรียมของไว้ให้อีกระหรี่อย่างแกด้วย
 
 playerFight/begin2_opt_OtherOffer_yes3
-\BonMP[Warden,20]\prf\c[4]Warden：\c[0]    Try not to die too early. I kinda like you, and I still need you to clean up my lil' man.
-\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    Thank you master, for your kindness.
+\BonMP[Warden,20]\prf\c[4]ผู้คุม：\c[0]    พยายามอย่าตายเร็วเกินไปนะ กูชอบแกนิดๆ และยังต้องการให้แกมาทำความสะอาดน้องชายของกู
+\CBct[8]\m[sad]\PRF\c[6]ลน่า：\c[0]    ขอบคุณนาย สำหรับความเมตตา
 
 playerFight/begin2_opt_OtherOffer_no
-\BonMP[Warden,5]\prf\c[4]Warden：\c[0]    Tsk! No fun!
+\BonMP[Warden,5]\prf\c[4]ผู้คุม：\c[0]    ทึก! ไม่สนุกเลย!
 
 playerFight/FightStart
-\BonMP[Warden,20]\prf\c[4]Warden：\c[0]    Good luck, try not to die so soon.
+\BonMP[Warden,20]\prf\c[4]ผู้คุม：\c[0]    โชคดี พยายามอย่าตายเร็วนะ
 
 ########################################################################################################### common
 
 Roommate/begin0_0
-\CBid[-1,20]\c[4]Prisoner：\c[0]    I'm never leaving this place! Don't even think about it!
+\CBid[-1,20]\c[4]นักโทษ：\c[0]    กูจะไม่มีวันออกจากที่นี่! อย่าคิดเลย!
 
 Roommate/begin0_1
-\CBid[-1,20]\c[4]Prisoner：\c[0]    This is my cell!
+\CBid[-1,20]\c[4]นักโทษ：\c[0]    นี่คือเซลล์ของกู!
 
 Roommate/begin0_2
-\CBid[-1,20]\c[4]Prisoner：\c[0]    I must stay in here!
+\CBid[-1,20]\c[4]นักโทษ：\c[0]    กูต้องอยู่ที่นี่!
 
 Roommate/begin2
-\CBct[2]\m[confused]\Rshake\c[6]Lona：\c[0]    Eh?!
+\CBct[2]\m[confused]\Rshake\c[6]ลน่า：\c[0]    อ๊ะ?!
 
 Guard/Qmsg0
-How did you get in here?!
+แกเข้ามาได้ยังไงวะ?!
 
 Guard/Qmsg1
-GET OUT!
+ออกไป!
 
 Guard/Qmsg2
-This place is for staff only!
+ที่นี่เฉพาะพนักงาน!
 
 Worker/Qmsg0
-But, only I can do it!
+แต่ มีแค่กูที่ทำได้!
 
 Worker/Qmsg1
-There's just too much work here!
+งานที่นี่มันเยอะเกินไป!
 
 Worker/Qmsg2
-I hate paperwork!
+กูเกลียดงานเอกสาร!
 
 EstC/Qmsg
 ......
-
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

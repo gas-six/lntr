@@ -1,213 +1,215 @@
+XXXXXXXX
+
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 Sewer/OvermapEnter
-\m[confused]The sewers of Noer Town. \optB[Never mind,Enter]
+\m[confused]ท่อระบายน้ำของเมือง Noer \optB[ไม่เป็นไร,เข้าไป]
 
 ################################################################################
 
 Sewer/SkipExit
-Skip the tutorial and return to town? \optB[Never mind,Enter]
+ข้ามบทช่วยสอนและกลับเข้าเมือง? \optB[ไม่เป็นไร,เข้าไป]
 
 ################################################################################
 
 system/SneakT1
-\SndLib[sys_DialogNarr]\bg[bg_TutorialSneak1]\ph\{\C[6]Hide\C[0]
-\bg[bg_TutorialSneak2] You can \C[6]Sneak\C[0] by pressing the (Default：CTRL) key.
-\bg[bg_TutorialSneak3] The characters in the game have vision and directionality.
-\bg[bg_TutorialSneak4] If a NPC/creature faces Lona, she will be spotted with a high probability.
-\bg[bg_TutorialSneak5] However, if Lona is \C[6]sneaking\C[0], the chances of her being detected is reduced.
+\SndLib[sys_DialogNarr]\bg[bg_TutorialSneak1]\ph\{\C[6]ซ่อน\C[0]
+\bg[bg_TutorialSneak2] คุณสามารถ \C[6]แอบ\C[0] ได้โดยการกดปุ่ม (ค่าเริ่มต้น：CTRL)
+\bg[bg_TutorialSneak3] ตัวละครในเกมมีการมองเห็นและทิศทาง
+\bg[bg_TutorialSneak4] ถ้า NPC/สัตว์ประหลาดหันหน้ามาทางโลน่า เธอจะถูกมองเห็นได้ง่าย
+\bg[bg_TutorialSneak5] อย่างไรก็ตาม ถ้าโลน่า \C[6]แอบ\C[0] โอกาสที่เธอจะถูกตรวจพบจะลดลง
 
 system/SneakT2
-\SndLib[sys_DialogNarr]\bg[bg_TutorialTerrain1] \{\C[4]Terrain\C[0]
-\bg[bg_TutorialTerrain2] The terrain in the game will affect the character's vision.
-\bg[bg_TutorialTerrain3] If Lona is in tall grass, it will be harder for the opponent to see Lona.
-\bg[bg_TutorialTerrain4] If Lona is behind a high terrain, the other side can barely see her.
-\bg[bg_TutorialTerrain5] If Lona is behind a wall, she will be completely invisible.
-\bg[bg_TutorialTerrain6] But be careful, different creatures may have different natural judgment methods.
+\SndLib[sys_DialogNarr]\bg[bg_TutorialTerrain1] \{\C[4]พื้นที่\C[0]
+\bg[bg_TutorialTerrain2] พื้นที่ในเกมจะส่งผลต่อการมองเห็นของตัวละคร
+\bg[bg_TutorialTerrain3] ถ้าโลน่าอยู่ในหญ้าสูง คู่ต่อสู้จะเห็นเธอได้ยากขึ้น
+\bg[bg_TutorialTerrain4] ถ้าโลน่าอยู่หลังพื้นที่สูง อีกฝั่งจะมองเห็นเธอได้น้อยมาก
+\bg[bg_TutorialTerrain5] ถ้าโลน่าอยู่หลังกำแพง เธอจะมองไม่เห็นเลย
+\bg[bg_TutorialTerrain6] แต่ระวังไว้ สัตว์ประหลาดต่างๆ อาจมีวิธีการตัดสินใจตามธรรมชาติที่แตกต่างกัน
 
 system/SneakT3
-\SndLib[sys_DialogNarr]\bg[bg_TutorialThrow1] \{\C[2]Throw\C[0]
-\bg[bg_TutorialThrow2] Lona's basic skill, \C[2]Throw\C[0], can lure NPCs/enemies away.
-\bg[bg_TutorialThrow3] Using \C[2]Throw\C[0] helps distract NPCs, allowing Lona to quickly sneak away or hide.
-\bg[bg_TutorialThrow4] \C[2]Thrown rocks\C[0] will distract them for a short period of time, NPCs/enemies will return to their previous position after the effect ends.
-\bg[bg_TutorialThrow5_ENG] \C[2]Scoutcraft\C[0] will increase how sneaky Lona is when she \C[2]Sneaks\C[0] (Default：CTRL).
-\bg[bg_TutorialThrow5_ENG] Lona is unable to properly \C[2]Sneak\C[0] from danger if her \C[2]Scoutcraft\C[0] is too low.
-\bg[bg_TutorialThrow6_ENG] In order to use basic \C[2]Sneak\C[0], increase your \C[2]Scoutcraft\C[0] to 5 or higher.
-\CBmp[FeiraCropse,19]\bgoff Try combining \C[2]Throw\C[0] and \C[6]Sneak\C[0] to distract your enemies and acquire that Short Sword!
+\SndLib[sys_DialogNarr]\bg[bg_TutorialThrow1] \{\C[2]ขว้าง\C[0]
+\bg[bg_TutorialThrow2] ทักษะพื้นฐานของโลน่า \C[2]ขว้าง\C[0] สามารถล่อลวง NPC/ศัตรูให้หันเหไปได้
+\bg[bg_TutorialThrow3] การใช้ \C[2]ขว้าง\C[0] ช่วยให้ NPC ไขว้เขว ทำให้โลน่าสามารถแอบหนีหรือซ่อนตัวได้อย่างรวดเร็ว
+\bg[bg_TutorialThrow4] \C[2]หินที่ขว้าง\C[0] จะทำให้พวกเขาไขว้เขวเป็นเวลาสั้นๆ NPC/ศัตรูจะกลับไปยังตำแหน่งเดิมหลังจากผลสิ้นสุด
+\bg[bg_TutorialThrow5_ENG] \C[2]ทักษะการสำรวจ\C[0] จะเพิ่มความแอบของโลน่าเมื่อเธอ \C[2]แอบ\C[0] (ค่าเริ่มต้น：CTRL)
+\bg[bg_TutorialThrow5_ENG] โลน่าจะไม่สามารถ \C[2]แอบ\C[0] จากอันตรายได้อย่างเหมาะสมถ้า \C[2]ทักษะการสำรวจ\C[0] ของเธอต่ำเกินไป
+\bg[bg_TutorialThrow6_ENG] เพื่อใช้ \C[2]แอบ\C[0] พื้นฐาน เพิ่ม \C[2]ทักษะการสำรวจ\C[0] ของคุณให้ถึง 5 หรือมากกว่า
+\CBmp[FeiraCropse,19]\bgoff ลองรวม \C[2]ขว้าง\C[0] และ \C[6]แอบ\C[0] เพื่อล่อลวงศัตรูและได้ดาบสั้น!
 
 Tutorial/Trap
 \CBmp[trap,19].........
 \CBmp[trap,19]......
 \CBmp[trap,19]...
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    !!!!!!
-\SndLib[sys_DialogNarr]\bg[bg_TutorialTrap1]\ph \{\C[2]Traps!\C[0]
-When a trap is set up, the trap's effect will be activated when a NPC/creature or Lona is in the same position as the trap.
-\bg[bg_TutorialTrap2]You can ignite or trigger a trap from afar by \C[2]throwing\C[0] rocks at it.
-\bg[bg_TutorialTrap3]Traps can also be interacted with to be disassembled, but Lona's Survival must be greater than the attack power of the trap.
-Watch where you step, some traps are very deadly! \bgoff
+\CBct[1]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    !!!!!!
+\SndLib[sys_DialogNarr]\bg[bg_TutorialTrap1]\ph \{\C[2]กับดัก!\C[0]
+เมื่อตั้งกับดักไว้ ผลของกับดักจะถูกเปิดใช้งานเมื่อ NPC/สัตว์ประหลาดหรือโลน่าอยู่ในตำแหน่งเดียวกับกับดัก
+\bg[bg_TutorialTrap2]คุณสามารถจุดไฟหรือกระตุ้นกับดักจากระยะไกลโดย \C[2]ขว้าง\C[0] หินใส่มัน
+\bg[bg_TutorialTrap3]กับดักสามารถโต้ตอบเพื่อถอดประกอบได้ แต่ทักษะการอยู่รอดของโลน่าต้องมากกว่าพลังโจมตีของกับดัก
+ระวังที่ก้าวเดิน บางกับดักอันตรายมาก! \bgoff
 
 Tutorial/Sap
-\SndLib[sys_DialogNarr]\bg[bg_TutorialSap1]\ph \{\C[2]Backstabs and Stuns.\C[0]
-Most attacks from behind will deal higher damage. Attacks from behind are noted as a "Backstab".
-\bg[bg_TutorialSap2]If a NPC is not in combat and has no target, attacking them from behind will cause a long-term stun effect.
-\bg[bg_TutorialSap3]The stunned NPC will lose their sense of direction, and the next attack on them will be equivalent to a Backstab.
-When a stunned NPC takes damage again, they will recover from their stunned status.\bgoff
+\SndLib[sys_DialogNarr]\bg[bg_TutorialSap1]\ph \{\C[2]โจมตีจากด้านหลังและทำให้สตั้น.\C[0]
+การโจมตีส่วนใหญ่จากด้านหลังจะสร้างความเสียหายมากขึ้น การโจมตีจากด้านหลังจะถูกบันทึกว่าเป็น "โจมตีจากด้านหลัง"
+\bg[bg_TutorialSap2]ถ้า NPC ไม่อยู่ในการต่อสู้และไม่มีเป้าหมาย การโจมตีพวกเขาจากด้านหลังจะทำให้เกิดผลสตั้นระยะยาว
+\bg[bg_TutorialSap3]NPC ที่ถูกสตั้นจะสูญเสียทิศทาง และการโจมตีครั้งต่อไปที่พวกเขาจะเทียบเท่ากับการโจมตีจากด้านหลัง
+เมื่อ NPC ที่ถูกสตั้นได้รับความเสียหายอีกครั้ง พวกเขาจะฟื้นจากสถานะสตั้น \bgoff
 
 Tutorial/STA
-\SndLib[sys_DialogNarr]\bg[bg_TutorialSTA]\ph Hint：STA (Stamina)
-When STA is below 0, many skills will be unusable.
-Lona will also begin to crawl instead of walk due to exhaustion.
-You can set up skill buttons in the Skill page of the main menu.
-Try to set up and use the Rest button to relax or go to sleep.
-Rest is divided into Relax and Sleep. You can press and hold SHIFT or R2 to perform different actions.
-Relaxing will decrease Food to heal Stamina or Health if Stamina is full. Relaxing will not make time pass by.
-Sleeping will cause time to pass and heal certain injuries, restore Stamina, and restore or reduce Health according to Lona's \c[4]Food\c[0] status.
-\bgoff\narr Beware! Don't starve!
+\SndLib[sys_DialogNarr]\bg[bg_TutorialSTA]\ph คำแนะนำ：STA (พลังงาน)
+เมื่อ STA ต่ำกว่า 0 ทักษะหลายอย่างจะไม่สามารถใช้งานได้
+โลน่าจะเริ่มคลานแทนที่จะเดินเนื่องจากความเหนื่อยล้า
+คุณสามารถตั้งปุ่มทักษะในหน้าทักษะของเมนูหลัก
+ลองตั้งและใช้ปุ่มพักเพื่อผ่อนคลายหรือนอนหลับ
+การพักแบ่งออกเป็นการผ่อนคลายและการนอนหลับ คุณสามารถกดและกดค้าง SHIFT หรือ R2 เพื่อทำการต่างๆ
+การผ่อนคลายจะลดอาหารเพื่อฟื้นฟูพลังงานหรือสุขภาพถ้าพลังงานเต็ม การผ่อนคลายจะไม่ทำให้เวลาผ่านไป
+การนอนหลับจะทำให้เวลาผ่านไปและรักษาบาดแผลบางอย่าง ฟื้นฟูพลังงาน และฟื้นฟูหรือลดสุขภาพตามสถานะ \c[4]อาหาร\c[0] ของโลน่า
+\bgoff\narr ระวัง! อย่าให้หิวโหย!
 
 Tutorial/SAT
-\SndLib[sys_DialogNarr]\bg[bg_TutorialSAT]\ph Hint：Food
-When Lona is starving, health will be reduced every time she sleeps/time passes.
-Enter the Item page of the main menu to use various items and food.
-Try to keep Food levels high before each nap. \bgoff
+\SndLib[sys_DialogNarr]\bg[bg_TutorialSAT]\ph คำแนะนำ：อาหาร
+เมื่อโลน่าหิวโหย สุขภาพจะลดลงทุกครั้งที่เธอนอนหลับ/เวลาผ่านไป
+เข้าสู่หน้ารายการของเมนูหลักเพื่อใช้รายการและอาหารต่างๆ
+ลองรักษาระดับอาหารให้สูงก่อนแต่ละครั้งที่งีบหลับ \bgoff
 
 Tutorial/About2hWeapon
-\SndLib[sys_DialogNarr]\bg[bg_Equips]\ph It's a Pitchfork! A two-handed weapon.
-It has an attack distance of 2 tiles wherever Lona faces, but it cannot attack at the area Lona is standing on.
-It is a piercing weapon that can slow down enemies.
-Enter the Equipment page of the main menu to adjust Lona's equipment.
-Visit the equipment screen and try it out. \bgoff
+\SndLib[sys_DialogNarr]\bg[bg_Equips]\ph นี่คือค้อนสองแฉก! อาวุธสองมือ
+มันมีระยะโจมตี 2 ช่องทุกทิศทางที่โลน่าหันไป แต่ไม่สามารถโจมตีบริเวณที่โลน่ายืนอยู่ได้
+เป็นอาวุธแทงที่สามารถชะลอศัตรู
+เข้าสู่หน้าอุปกรณ์ของเมนูหลักเพื่อปรับอุปกรณ์ของโลน่า
+เข้าสู่หน้าจออุปกรณ์และลองใช้ดู \bgoff
 
 Tutorial/LVL
-\SndLib[sys_DialogNarr]\bg[bg_TutorialLVL]\ph Level up!
-Each level up will grant you one Trait point.
-Enter the Trait page of the main menu to assign your Trait points.
-Used Trait points cannot be restored. Spend them wisely! \bgoff
+\SndLib[sys_DialogNarr]\bg[bg_TutorialLVL]\ph เลเวลขึ้น!
+การเลเวลขึ้นแต่ละครั้งจะได้รับจุดทักษะหนึ่งจุด
+เข้าสู่หน้าทักษะของเมนูหลักเพื่อกำหนดจุดทักษะของคุณ
+จุดทักษะที่ใช้ไปแล้วไม่สามารถกู้คืนได้ ใช้ให้เป็นประโยชน์! \bgoff
 
 ###########################################################################
 
 Lona/ToOrkindCave1
-\cg[map_region_hole]This small cavern must be where the monsters came from.
-\m[confused]\c[6]Lona：\c[0]    Should I enter? \optB[Never mind,Enter]
+\cg[map_region_hole]ถ้ำเล็กๆ นี้ต้องเป็นที่มาของสัตว์ประหลาด
+\m[confused]\c[6]โลน่า：\c[0]    ฉันควรเข้าไปไหม? \optB[ไม่เป็นไร,เข้าไป]
 
 Lona/ToOrkindCave_procress
-\m[confused]Lona enters the dark hole in the wall...
+\m[confused]โลน่าเข้าไปในรูมืดในกำแพง...
 
 Lona/ToOrkindCave_procress1
 \m[tired]......
 
 ###########################################################################
 Sewer/MissionStart0
-\m[shocked]\cg[map_DarkestDungeon]\Rshake\c[6]Lona：\c[0]    So dark! And yuck... The smell!
-\m[triumph]\c[6]Lona：\c[0]    It was a good idea to come here with a lantern.
-\m[normal]\c[6]Lona：\c[0]    Hmmm... My tasks are...
-\m[confused]\c[6]Lona：\c[0]    Collect eight giant rat tails. And, if possible... Find the missing person.
-\m[serious]\c[6]Lona：\c[0]    No problem! I can do this! \cgoff
+\m[shocked]\cg[map_DarkestDungeon]\Rshake\c[6]โลน่า：\c[0]    มืดจัง! และเฮ้ย... กลิ่นเหม็น!
+\m[triumph]\c[6]โลน่า：\c[0]    เป็นความคิดที่ดีที่มาพร้อมกับตะเกียง
+\m[normal]\c[6]โลน่า：\c[0]    ฮึม... งานของฉันคือ...
+\m[confused]\c[6]โลน่า：\c[0]    เก็บหางหนูยักษ์แปดตัว และถ้าเป็นไปได้... หาคนที่หายไป
+\m[serious]\c[6]โลน่า：\c[0]    ไม่มีปัญหา! ฉันทำได้! \cgoff
 
 Sewer/MissionStart2
-\board[Basic Control (Default)]
-\C[2]Arrow Keys\C[0]：Move the character.
-\C[2]SHIFT+Arrow Keys\C[0]：Run.
-\C[2]Z\C[0]：Trigger.
-\C[2]X\C[0]：Open the main menu or cancel.
-\C[2]ALT\C[0]：Hide UI and standing graphic.
-\C[2]ALT+Arrow Keys\C[0]：Change direction and sight.
-\C[2]CTRL\C[0]：Sneak. Speed up texts and dialogue. Skip a turn when on the world map.
-\C[2]ASDFQWER\C[0]：Skill Hot-keys.
+\board[การควบคุมพื้นฐาน (ค่าเริ่มต้น)]
+\C[2]ปุ่มลูกศร\C[0]：เคลื่อนย้ายตัวละคร
+\C[2]SHIFT+ปุ่มลูกศร\C[0]：วิ่ง
+\C[2]Z\C[0]：กระตุ้น
+\C[2]X\C[0]：เปิดเมนูหลักหรือยกเลิก
+\C[2]ALT\C[0]：ซ่อน UI และภาพยืน
+\C[2]ALT+ปุ่มลูกศร\C[0]：เปลี่ยนทิศทางและการมองเห็น
+\C[2]CTRL\C[0]：แอบ เร่งข้อความและบทสนทนา ข้ามเทิร์นเมื่ออยู่บนแผนที่โลก
+\C[2]ASDFQWER\C[0]：ปุ่มทักษะลัด
 
 Sewer/MissionStart1
-\board[Collect Rat Tails]
-Goal：Collect 8 Rat Tails.\i[45]
-Reward：Unknown
-Contract from：Rudesind Slope
-Quest Term：Once
-The sewers have become
-infested with infected rats.
-The last mercenary they sent to deal with them
-has gone missing.\n
-Now the task has been handed down to me.
-I have to complete this quest and
-try to find the missing person along the way.
+\board[เก็บหางหนู]
+เป้าหมาย：เก็บหางหนู 8 ตัว\i[45]
+รางวัล：ไม่ทราบ
+สัญญาจาก：Rudesind Slope
+เงื่อนไขภารกิจ：ครั้งเดียว
+ท่อระบายน้ำได้กลายเป็น
+แหล่งรวมหนูติดเชื้อ
+นักรบรับจ้างคนสุดท้ายที่พวกเขาส่งไปจัดการ
+ได้หายตัวไป\n
+ตอนนี้ภารกิจได้ถูกส่งต่อมาที่ฉัน
+ฉันต้องทำภารกิจนี้ให้สำเร็จและ
+พยายามหาคนที่หายไปในระหว่างทาง
 
 Sewer/About2hWeapon
-\m[triumph]\c[6]Lona：\c[0]    It's a pitchfork!
-\m[confused]\c[6]Lona：\c[0]    But, I need two hands to hold it. I can't hold the lantern with my other hand.
+\m[triumph]\c[6]โลน่า：\c[0]    นี่คือค้อนสองแฉก!
+\m[confused]\c[6]โลน่า：\c[0]    แต่ฉันต้องใช้สองมือจับมัน ฉันจะจับตะเกียงด้วยมืออีกข้างไม่ได้
 
 
 ###########################################################################
 
 Sewer/SawInfection
-\m[wtf]\Rshake\c[6]Lona：\c[0]    Ick... Such a disgusting smell.
-\m[serious]\c[6]Lona：\c[0]    Just like they said... This area is beginning to become contaminated.
-\m[angry]\c[6]Lona：\c[0]    It's best not to touch the gross stuff on the walls...
+\m[wtf]\Rshake\c[6]โลน่า：\c[0]    อ๊ะ... กลิ่นเหม็นมาก
+\m[serious]\c[6]โลน่า：\c[0]    เหมือนที่พวกเขาบอก... พื้นที่นี้เริ่มปนเปื้อน
+\m[angry]\c[6]โลน่า：\c[0]    ดีที่สุดคืออย่าไปแตะของสกปรกบนกำแพง...
 
 ###########################################################################
 
 exit/NotFinishYet
-The missing employee must be found.
+ต้องหาพนักงานที่หายไปให้เจอ
 
 QuestSawGoblin/SawGoblin_begin1
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    !!!!!!
-\CBmp[Goblin1,4]\SETpl[goblin]\Lshake\prf\c[4]Monster：\c[0]    Gu-Gu!
-\CBmp[Goblin2,5]\SETpl[goblin]\Lshake\prf\c[4]Monster：\c[0]    Gu-Cha!
-\CBmp[Goblin3,7]\SETpl[goblin]\Lshake\prf\c[4]Monster：\c[0]    Gu-Bu-Ta?!
-\CBct[6]\m[fear]\plh\c[6]Lona：\c[0]    Monsters?! More than one?
-\CBct[20]\m[confused]\c[6]Lona：\c[0]    They look like Orkinds...
-\CBct[20]\m[shy]\c[6]Lona：\c[0]    These monsters are said to kidnap women and use them for breeding.
-\CBct[20]\m[terror]\c[6]Lona：\c[0]    It's best to go back and report this to the guild right away.
-\CBmp[FeiraCropse,19]\m[confused]\c[6]Lona：\c[0]    That must be the missing person, they look dead...
-\CBmp[ExitPoint,19]\m[serious]\c[6]Lona：\c[0]    No! I have to leave here immediately!
-\CBct[20]\m[confused]\c[6]Lona：\c[0]    I can't take out all these monsters alone...
+\CBct[1]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    !!!!!!
+\CBmp[Goblin1,4]\SETpl[goblin]\Lshake\prf\c[4]สัตว์ประหลาด：\c[0]    กู-กู!
+\CBmp[Goblin2,5]\SETpl[goblin]\Lshake\prf\c[4]สัตว์ประหลาด：\c[0]    กู-ชา!
+\CBmp[Goblin3,7]\SETpl[goblin]\Lshake\prf\c[4]สัตว์ประหลาด：\c[0]    กู-บู-ตา?!
+\CBct[6]\m[fear]\plh\c[6]โลน่า：\c[0]    สัตว์ประหลาด?! มากกว่าหนึ่งตัว?
+\CBct[20]\m[confused]\c[6]โลน่า：\c[0]    พวกมันดูเหมือน Orkinds...
+\CBct[20]\m[shy]\c[6]โลน่า：\c[0]    พวกสัตว์ประหลาดนี้มีชื่อเสียงในการลักพาตัวผู้หญิงและใช้พวกเธอเพื่อการผสมพันธุ์
+\CBct[20]\m[terror]\c[6]โลน่า：\c[0]    ดีที่สุดคือกลับไปรายงานเรื่องนี้กับสมาคมทันที
+\CBmp[FeiraCropse,19]\m[confused]\c[6]โลน่า：\c[0]    นั่นต้องเป็นคนที่หายไป ดูเหมือนตายแล้ว...
+\CBmp[ExitPoint,19]\m[serious]\c[6]โลน่า：\c[0]    ไม่! ฉันต้องออกจากที่นี่ทันที!
+\CBct[20]\m[confused]\c[6]โลน่า：\c[0]    ฉันไม่สามารถจัดการสัตว์ประหลาดทั้งหมดนี้คนเดียว...
 
 ########################################################################### RapeLoop
 
 RapeLoopHobo/Begin0
-\SETpl[raper3]\Lshake\prf\c[4]Homeless：\c[0]    Girl! It's a real girl!
-\SETpr[raper2]\plf\PRF\c[4]Homeless：\c[0]    Hey! Woohoo! Me first! Me first!!!
-\SETpl[raper1]\PLF\prf\c[4]Homeless：\c[0]    Hehe! It's been so long! My cock's itching to get wet...
+\SETpl[raper3]\Lshake\prf\c[4]คนไร้บ้าน：\c[0]    สาว! สาวจริงๆ!
+\SETpr[raper2]\plf\PRF\c[4]คนไร้บ้าน：\c[0]    เฮ้! ว้าว! ฉันก่อน! ฉันก่อน!!!
+\SETpl[raper1]\PLF\prf\c[4]คนไร้บ้าน：\c[0]    ฮ่าๆ! นานแล้ว! ควยฉันอยากเปียก...
 
 RapeLoopHobo/Begin1_remove_equip
-\SETpl[raper2]\Lshake\prf\c[4]Homeless：\c[0]    All her shit's mine!
-\SETpr[raper3]\plf\Rshake\c[4]Homeless：\c[0]    Fuck off, I got 'em first loser!
+\SETpl[raper2]\Lshake\prf\c[4]คนไร้บ้าน：\c[0]    ของทั้งหมดของเธอเป็นของฉัน!
+\SETpr[raper3]\plf\Rshake\c[4]คนไร้บ้าน：\c[0]    ไอ้โง่ ฉันได้มันก่อน!
 
 Lona/RapeLoopDragOut
-\m[hurt]The homeless men begin to gather around Lona. They seem to have nothing but ill intentions...
+\m[hurt]คนไร้บ้านเริ่มรวมตัวรอบๆ โลน่า พวกเขาดูเหมือนจะมีแต่เจตนาร้าย...
 
 gay/Qmsg0
-Don't look at me like that.
+อย่ามองฉันแบบนั้น
 
 gay/Qmsg1
-I'm not interested in joining.
+ฉันไม่สนใจจะเข้าร่วม
 
 gay/Qmsg2
-I just like to watch.
+ฉันแค่ชอบดู
 
 cropseF/Qmsg0
-It's a corpse.
+นี่คือศพ
 
 cropseF/Qmsg1
-A corpse that has just been... used.
+ศพที่เพิ่งถูก... ใช้
 
 cropseF/Qmsg2
-The body is starting to rot.
+ร่างกายเริ่มเน่า
 
 ########################################################################### Mob hunt quest
 
 SewerKickMobs/QUbegin1
-\m[serious]\c[6]Lona：\c[0]    Okay, these guys are causing trouble. I have to do something and stop them!
+\m[serious]\c[6]โลน่า：\c[0]    โอเค พวกนี้กำลังสร้างปัญหา ฉันต้องทำอะไรสักอย่างและหยุดพวกเขา!
 
 SewerKickMobs/Done
-\m[triumph]\c[6]Lona：\c[0]    Well, looks like they're all dead now. Time to go back and claim the reward.
+\m[triumph]\c[6]โลน่า：\c[0]    ดีแล้ว ดูเหมือนพวกเขาตายหมดแล้ว ถึงเวลากลับไปรับรางวัล
 
 Mteen/Qmsg0
-Don't hurt my mom!
+อย่าทำร้ายแม่ฉัน!
 
 Mteen/Qmsg1
-Stay away from us!
+อย่าเข้ามาใกล้เรา!
 
 Mteen/Qmsg2
-Mom, don't be afraid!
+แม่ อย่ากลัว!
 
 Mama/Qmsg0
-Please... Let us go...
+กรุณา... ปล่อยเราไป...
 
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

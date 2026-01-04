@@ -1,113 +1,115 @@
+XXXXXXXX
+
 #Reviewed by Sugoi Soy Boy
 #Keyboard and GamePad
 
 Text/RestoreDefault
-Restore default
+คืนค่าเริ่มต้น
 
 Text/RestoreDefaultConfirm
-The control keys will be restored to default.
+ปุ่มควบคุมจะถูกคืนค่าเป็นค่าเริ่มต้น
 
 Text/Keyboard
-KB/Mouse
+แป้นพิมพ์/เมาส์
 
 Text/Gamepad
-Gamepad
+จอยเกม
 
 Text/Close
-Close
+ปิด
 
 Text/EnterKey
-Please press key to assign it.
+กรุณากดปุ่มเพื่อกำหนดค่า
 
 Text/ErrorImportantKey
-Assigning this key will make #{keyName} unassigned!
+การกำหนดปุ่มนี้จะทำให้ #{keyName} ไม่มีการกำหนดค่า!
 
 Key/Up
-Up
+ขึ้น
 
 Key/Down
-Down
+ลง
 
 Key/Right
-Right
+ขวา
 
 Key/Left
-Left
+ซ้าย
 
 Key/Cancel
-Cancel
+ยกเลิก
 
 Key/Confirm
-Confirm
+ยืนยัน
 
 Key/Menu
-Open Menu
+เปิดเมนู
 
 Key/Interact
-Interact
+โต้ตอบ
 
 Key/X_link
-Menu Cancel
+ยกเลิกเมนู
 
 Key/Z_link
-Menu Select
+เลือกเมนู
 
 Key/L
-Page Down
+เลื่อนหน้าลง
 
 Key/R
-Page Up
+เลื่อนหน้าขึ้น
 
 Key/Shift
-Sprint
+วิ่งเร็ว
 
 Key/Ctrl
-Sneak
+แอบเดิน
 
 Key/Alt
-Hold to look
+กดค้างเพื่อมอง
 
 Key/S1
-Skill 1
+ทักษะ 1
 
 Key/S2
-Skill 2
+ทักษะ 2
 
 Key/S3
-Skill 3
+ทักษะ 3
 
 Key/S4
-Skill 4
+ทักษะ 4
 
 Key/S5
-Skill 5
+ทักษะ 5
 
 Key/S6
-Skill 6
+ทักษะ 6
 
 Key/S7
-Skill 7
+ทักษะ 7
 
 Key/S8
-Skill 8
+ทักษะ 8
 
 Key/S9
-Skill 9
+ทักษะ 9
 
 Key/D2
-Look Down
+มองลง
 
 Key/D4
-Look Left
+มองซ้าย
 
 Key/D6
-Look Right
+มองขวา
 
 Key/D8
-Look Up
+มองขึ้น
 
 Key/UI_Sort
-Sort Item
+จัดเรียงไอเท็ม
 
 Key/UI_DeleteItem
-Delete Item
+ลบไอเท็ม

@@ -1,449 +1,443 @@
-#Fully translated and suggested by Sugoi Soy Boy. Fuck off MTLing monkeys.
-
-#Survive until the date: 1776.6.6 in "Doom mode"!!! Achievement only counts if you turn on "Doom Mode" since
-
 DoneTutorial/item_name
-First step!
+ก้าวแรก!
 
 DoneTutorial/description
-What a wonderful world!
+โลกนี้สวยงามจังเลย!
 
 DedTutorial/item_name
-Filtered
+ถูกกรอง
 
 DedTutorial/description
-Failed to pass the great filter.
+ล้มเหลวในการผ่านตัวกรองใหญ่
 
 GameOver/item_name
-Lona is dead!
+โลน่าตายแล้ว!
 
 GameOver/description
-Better luck next time......
+ลองใหม่ให้โชคดีกว่านี้......
 
 ArtAllBuy/item_name
-All buy!
+ซื้อทั้งหมด!
 
 ArtAllBuy/description
-I don't get it.
+ไม่เข้าใจเลย
 
 ArtHopeless/item_name
-THE BEST YEAR： 2020!
+ปียอดเยี่ยม： 2020!
 
 ArtHopeless/description
-Remember, the *CENSORED* spread the virus to this cruel world.
+จำไว้นะ เ*เซ็นเซอร์* แพร่เชื้อไวรัสมาสู่โลกโหดร้ายนี้
 
 ArtThinking/item_name
-The ：thinking： man
+คนที่：คิด：
 
 ArtThinking/description
-Hmmm......
+ฮึม......
 
 ArtThisIsFine/item_name
-This is fine...
+นี่มันปกติดี...
 
 ArtThisIsFine/description
-You in 2020.
+คุณในปี 2020
 
 ArtChadVsVirgin/item_name
-The Alpha and the Beta
+อัลฟ่ากับเบต้า
 
 ArtChadVsVirgin/description
-A tale as old as time...
+เรื่องราวเก่าแก่ตั้งแต่สมัยโบราณ...
 
 ArtDontShit/item_name
-Bad tourist
+นักท่องเที่ยวห่วย
 
 ArtDontShit/description
-How uncivilized!
+ไม่มีอารยะเลย!
 
 ArtGodEmperor/item_name
-God Emperor of the Stars
+จักรพรรดิแห่งดวงดาว
 
 ArtGodEmperor/description
-I salute you, leader of the Stars and Stripes!
+ข้าขอคารวะท่าน ผู้นำแห่งดาวราศีและลายเส้น!
 
 ArtSeaWitch/item_name
-Sea Witch
+แม่มดทะเล
 
 ArtSeaWitch/description
-W-Well, the color's green like grass...
+อ-อืม สีมันเขียวเหมือนหญ้า...
 
 ArtTankMan/item_name
-*CENSORED*
+*เซ็นเซอร์*
 
 ArtTankMan/description
-Nothing happened, RIGHT?
+ไม่มีอะไรเกิดขึ้น เป็นไหม?
 
 Artlous2/item_name
-Painting of the Year
+ภาพเขียนแห่งปี
 
 Artlous2/description
-They forced us to watch this.
+พวกมันบังคับให้เราดูอันนี้
 
 ArtBlack/item_name
-Paint it, *CENSORED*
+ระบายสี *เซ็นเซอร์*
 
 ArtBlack/description
-A forbidden word you can't say out loud.
+คำที่ห้ามพูดออกมาดังๆ
 
 ArtPlague/item_name
-Virus Chairmonster
+เก้าอี้ปีศาจไวรัส
 
 ArtPlague/description
-Have you forgotten...? Don't you remember who spread the pestilence in this hopeless world?!
+ลืมไปแล้วเหรอ...? ไม่จำได้เหรอว่าใครแพร่โรคระบาดในโลกที่ไร้หวังนี้?!
 
 ArtFHK_pepe/item_name
-A mirage
+ภาพลวงตา
 
 ArtFHK_pepe/description
-We watched as they died and we did nothing.
+เราดูพวกเขาตายไปต่อหน้า และเราไม่ได้ทำอะไรเลย
 
 GuildCompletedScoutCampOrkind_3/item_name
-Not that hard!
+ไม่ยากเลย!
 
 GuildCompletedScoutCampOrkind_3/description
-Finish Noer's Orkind quest line.
+เสร็จภารกิจของโนเออร์กับออร์คินด์
 
 SavedScoutCampOrkind_1/item_name
-Where there's a will, there's a way!
+มีความตั้งใจ ย่อมมีทาง!
 
 SavedScoutCampOrkind_1/description
-Rescue 5 refugees in the "Help look for the missing caravan!" quest.
+ช่วยผู้ลี้ภัย 5 คนในภารกิจ "ช่วยหาคาราวานที่หายไป!"
 
 RecQuestC130_2/item_name
-KA-BOOM!!!
+ตูมตาม!!!
 
 RecQuestC130_2/description
-Defend the East Control Point using the "Overlord M405 Cannon".
+ป้องกันจุดควบคุมทิศตะวันออกด้วย "ปืนใหญ่ Overlord M405"
 
 RecQuestLisa_5/item_name
-Jus' like new ahgain!
+เหมือนใหม่อีกครั้ง!
 
 RecQuestLisa_5/description
-Repair "PAHOMPA".
+ซ่อม "PAHOMPA"
 
 RecQuestLisaSaintCall_0/item_name
-This is four me arse'ole!
+นี่มันสำหรับก้นของฉัน!
 
 RecQuestLisaSaintCall_0/description
-Defend the South Gate Campsite using the "Overlord M405 Cannon".
+ป้องกันค่ายทหารประตูใต้ด้วย "ปืนใหญ่ Overlord M405"
 
 RecQuestLisa_10/item_name
-DEATH APOCALYPSE
+วันสิ้นโลก
 
 RecQuestLisa_10/description
-Watch the mysterious stranger shepherding lost souls.
+ดูคนแปลกหน้าลึกลับที่นำพาวิญญาณหลงทาง
 
 Rebirth/item_name
-Like a Phoenix, arise!
+เกิดใหม่เหมือนฟีนิกซ์!
 
 Rebirth/description
-Rebirth a new life after your death.
+เกิดใหม่หลังจากตาย
 
 Kill1Hive/item_name
-This is for Sybaris...
+นี่เพื่อไซบาริส...
 
 Kill1Hive/description
-Destroy an Abominations' hive.
+ทำลายรังของสัตว์ประหลาด
 
 RecQuestBC2_SideQu_0/item_name
-Think Lona, THINK!
+คิดสิ โลน่า คิด!
 
 RecQuestBC2_SideQu_0/description
-Rescue the refugees at the destroyed caravan, without relying on any followers.
+ช่วยผู้ลี้ภัยที่คาราวานที่ถูกทำลาย โดยไม่พึ่งพาผู้ติดตาม
 
 Ending20G/item_name
-Goodbye, cruel world.
+ลาก่อน โลกโหดร้าย
 
 Ending20G/description
-Escape from Noer Island.
+หนีออกจากเกาะโนเออร์
 
 BankTP_T1/item_name
-Hoarder
+คนสะสม
 
 BankTP_T1/description
-Acquire a total net worth of 20,000 TP in the bank.
+มีมูลค่าสุทธิในธนาคาร 20,000 TP
 
 BankTP_T2/item_name
-Miss Scrooge
+นางสโครจ
 
 BankTP_T2/description
-Acquire a total net worth of 200,000 TP in the bank.
+มีมูลค่าสุทธิในธนาคาร 200,000 TP
 
 BankTP_T3/item_name
-Queen Midas
+ราชินีไมดัส
 
 BankTP_T3/description
-Acquire a total net worth of 800,000 TP in the bank!
+มีมูลค่าสุทธิในธนาคาร 800,000 TP!
 
 BankTP_T4/item_name
-Rags to riches!
+จากจนจนรวย!
 
 BankTP_T4/description
-Acquire a total net worth of 2,400,000 TP in the bank! You can leave the island now, you know that right?
+มีมูลค่าสุทธิในธนาคาร 2,400,000 TP! รู้มั้ยว่าตอนนี้ออกจากเกาะได้แล้วนะ?
 
 UniqueCharUniqueCocona_n1/item_name
-Paladin
+อัศวินศักดิ์สิทธิ์
 
 UniqueCharUniqueCocona_n1/description
-Slay the evil Necromancer and bring her head to the guild. If it's related to the undead, it's evil!
+ฆ่าเนโครแมนเซอร์ชั่วร้ายและนำหัวมาส่งที่กิลด์ ถ้าเกี่ยวกับซอมบี้ มันชั่วร้าย!
 
 RecQuestCocona_5/item_name
-You've got a friend in me
+เธอมีเพื่อนในตัวฉัน
 
 RecQuestCocona_5/description
-Befriend and recruit the evil Necromancer. Maybe she's not a bad person after all...?
+เป็นเพื่อนและรับสมัครเนโครแมนเซอร์ชั่วร้าย บางทีเธออาจไม่ได้เป็นคนเลวร้ายเลย...?
 
 RecQuestCocona_28/item_name
-Let's leave together!
+หนีไปด้วยกันเถอะ!
 
 RecQuestCocona_28/description
-Flee Noer Island with the evil Necromancer. ❤
+หนีออกจากเกาะโนเออร์กับเนโครแมนเซอร์ชั่วร้าย ❤
 
 RecCoconaHeadPat/item_name
-Teaching her feelings
+สอนเธอให้รู้สึก
 
 RecCoconaHeadPat/description
-Head pat the evil Necromancer 6 times. Woo-Miaow!~
+ลูบหัวเนโครแมนเซอร์ชั่วร้าย 6 ครั้ง วู-เมี้ยว!~
 
 RecCoconaBath/item_name
-Rub-a-Dub-Dub!
+ล้างตัวกันเถอะ!
 
 RecCoconaBath/description
-Take a bath with the evil Necromancer 6 times. ICK... S-Stinky!
+อาบน้ำกับเนโครแมนเซอร์ชั่วร้าย 6 ครั้ง อ๊ะ... ส-สกปรก!
 
 RecCoconaSleep/item_name
-2 Girls 1 Bed
+2 สาว 1 เตียง
 
 RecCoconaSleep/description
-Sleep together with the evil Necromancer 6 times. Zzz... ❤
+นอนด้วยกันกับเนโครแมนเซอร์ชั่วร้าย 6 ครั้ง ซี้ด... ❤
 
 DefeatSpawnPoolWithoutDedOne/item_name
-Nameless Warrior
+นักรบไร้นาม
 
 DefeatSpawnPoolWithoutDedOne/description
-Take out the spawn pool without any help from the sky.
+ทำลายแหล่งเกิดโดยไม่ได้รับความช่วยเหลือจากท้องฟ้า
 
 DefeatBossMama/item_name
-Tentacles, kid!
+หนวดปลาหมึก ลูก!
 
 DefeatBossMama/description
-Defeat the Crimson Slayer in a duel, and claim her sword in victory.
+เอาชนะ Crimson Slayer ในการต่อสู้ตัวต่อตัว และชิงดาบของเธอมาเป็นชัยชนะ
 
 DefeatHorseCock/item_name
-Horse Cock
+ควยม้า
 
 DefeatHorseCock/description
-Defeat Horse Cock and claim his... unique weapon.
+เอาชนะ Horse Cock และชิงอาวุธ... ที่เป็นเอกลักษณ์ของเขา
 
 DefeatOrkindWarboss/item_name
-Dicc the Impaler
+ดิ๊กผู้ปักหลัก
 
 DefeatOrkindWarboss/description
-Defeat Dicc the Impaler in a duel.
+เอาชนะดิ๊กผู้ปักหลักในการต่อสู้ตัวต่อตัว
 
 DefeatOrkindWarbossSTA/item_name
-Orkind's cultural exchange
+การแลกเปลี่ยนวัฒนธรรมของออร์คินด์
 
 DefeatOrkindWarbossSTA/description
-The weak (holes) should fear the strong...
+คนอ่อนแอ (รู) ควรกลัวคนแข็งแกร่ง...
 
 QuProgSaveCecily_6/item_name
-M'lady
+ท่านหญิง
 
 QuProgSaveCecily_6/description
-Rescue the aristocratic damsel in distress.
+ช่วยท่านหญิงที่กำลังตกที่นั่งลำบาก
 
 RecQuestMilo_12/item_name
-How could you...?
+เธอทำได้ยังไง...?
 
 RecQuestMilo_12/description
-Betray the female noble for monetary gain. Traitor...
+ทรยศท่านหญิงเพื่อผลประโยชน์ทางการเงิน คนทรยศ...
 
 QuProgSaveCecily_12/item_name
-Give me liberty, and death.
+ให้ฉันได้เสรีภาพ และความตาย
 
 QuProgSaveCecily_12/description
-Help the noble lady liberate the slaves! Is freedom really worth suffering over?
+ช่วยท่านหญิงปลดปล่อยทาส! เสรีภาพมันคุ้มค่ากับความทุกข์ทรมานจริงๆ เหรอ?
 
 QuProgSaveCecily_21/item_name
-The Counter Attack
+การโต้กลับ
 
 QuProgSaveCecily_21/description
-After being surrounded by thugs in the back alleys. They counter attacked and left a path of blood.
+หลังจากถูกล้อมรอบด้วยพวกนักเลงในตรอก พวกเขาโต้กลับและทิ้งร่องรอยเลือดไว้
 
 RecQuestElise_5/item_name
-Volunteer
+อาสาสมัคร
 
 RecQuestElise_5/description
-Assist the Gynecologist in his/her? research about Orkind breeding.
+ช่วยนักวิจัยด้านนรีเวชในการวิจัยเรื่องการผสมพันธุ์ของออร์คินด์
 
 RecQuestElise_18/item_name
-Test subject
+อาสาสมัครทดลอง
 
 RecQuestElise_18/description
-Assist the Gynecologist in his research about Fishkind mating.
+ช่วยนักวิจัยด้านนรีเวชในการวิจัยเรื่องการผสมพันธุ์ของฟิชคินด์
 
 RecQuest_Df_TellerSide_4/item_name
-The Saint's Soldier
+ทหารของนักบุญ
 
 RecQuest_Df_TellerSide_4/description
-A cult priest who murdered his own mother to make a prophecy come true.
+นักบวชลัทธิที่ฆ่าแม่ของตัวเองเพื่อให้คำทำนายเป็นจริง
 
 RecQuestBoardSwordCave_1/item_name
-Master of the sword
+ผู้เชี่ยวชาญดาบ
 
 RecQuestBoardSwordCave_1/description
-Defeat the spirit of the berserker and claim his sword.
+เอาชนะวิญญาณของเบอร์เซิร์กเกอร์และชิงดาบของเขา
 
 RecQuestHostageReturnT1/item_name
-My hero! -...ine!
+ฮีโร่ของฉัน! -...ของฉัน!
 
 RecQuestHostageReturnT1/description
-Rescue a prisoner in any dungeon.
+ช่วยนักโทษในคุกใดๆ
 
 RecQuestHostageReturnT2/item_name
-Savior of the misfortunate
+ผู้ช่วยเหลือคนโชคร้าย
 
 RecQuestHostageReturnT2/description
-Rescue 10 prisoners in any dungeons.
+ช่วยนักโทษ 10 คนในคุกใดๆ
 
 RecQuestHostageReturnT3/item_name
-Knightess in filthy rags
+อัศวินหญิงในชุดเก่าๆ
 
 RecQuestHostageReturnT3/description
-Rescue 20 prisoners in any dungeons.
+ช่วยนักโทษ 20 คนในคุกใดๆ
 
 HellModDateT1/item_name
-Welcome to Hell...
+ยินดีต้อนรับสู่นรก...
 
 HellModDateT1/description
-Survive 1 day in "Hell Mode"! Achievement only counts if you turn on "Hell Mode" since Day 1.
+รอดชีวิต 1 วันใน "โหมดนรก"! รางวัลนี้จะนับเฉพาะเมื่อเปิด "โหมดนรก" ตั้งแต่วันที่ 1
 
 HellModDateT2/item_name
-Blessed by the Saint
+ได้รับพรจากนักบุญ
 
 HellModDateT2/description
-Survive 1 year in "Hell Mode"!! Achievement only counts if you turn on "Hell Mode" since Day 1.
+รอดชีวิต 1 ปีใน "โหมดนรก"!! รางวัลนี้จะนับเฉพาะเมื่อเปิด "โหมดนรก" ตั้งแต่วันที่ 1
 
 HellModDateT3/item_name
-The Devil wears braids
+ปีศาจสวมเปีย
 
 HellModDateT3/description
-Survive 2 years in "Hell Mode"!!! Achievement only counts if you turn on "Hell Mode" since Day 1.
+รอดชีวิต 2 ปีใน "โหมดนรก"!!! รางวัลนี้จะนับเฉพาะเมื่อเปิด "โหมดนรก" ตั้งแต่วันที่ 1
 
 DoomModDateT1/item_name
-The Nightmare begins!
+ฝันร้ายเริ่มต้น!
 
 DoomModDateT1/description
-Survive 1 day in "Doom Mode"! Achievement only counts if you turn on "Doom Mode" since Day 1.
+รอดชีวิต 1 วันใน "โหมดดูม"! รางวัลนี้จะนับเฉพาะเมื่อเปิด "โหมดดูม" ตั้งแต่วันที่ 1
 
 DoomModDateT2/item_name
-Meet your Doom...!
+พบกับความหายนะ...!
 
 DoomModDateT2/description
-Survive 1 year in "Doom Mode"!! Achievement only counts if you turn on "Doom Mode" since Day 1.
+รอดชีวิต 1 ปีใน "โหมดดูม"!! รางวัลนี้จะนับเฉพาะเมื่อเปิด "โหมดดูม" ตั้งแต่วันที่ 1
 
 DoomModDateT3/item_name
-We got a badass over here!
+เรามีคนเท่ห์อยู่ที่นี่!
 
 DoomModDateT3/description
-Survive until the date： 1776.6.6 in "Doom Mode"!!!
+รอดชีวิตจนถึงวันที่： 1776.6.6 ใน "โหมดดูม"!!!
 
 record_giveup_hardcore/item_name
-I'm too young to die!
+ฉันยังเด็กเกินไปที่จะตาย!
 
 record_giveup_hardcore/description
-Turn off "Hell Mode". Coward.
+ปิด "โหมดนรก" คนขี้ขลาด
 
 record_vaginal_count_0/item_name
-Spinster!
+สาวโสด!
 
 record_vaginal_count_0/description
-Am I even playing an eroge?
+ฉันเล่นเกมโป๊อยู่เหรอ?
 
 ArenaWin/item_name
-Are you not entertained?!
+คุณไม่สนุกหรือ?!
 
 ArenaWin/description
-Win the Arena challenge.
+ชนะความท้าทายในสนามประลอง
 
 ArenaSexBeastKilled/item_name
-Lona and Goliath
+โลน่ากับโกไลอัท
 
 ArenaSexBeastKilled/description
-Defeat "The Mad Beast" in the Arena.
+เอาชนะ "สัตว์บ้า" ในสนามประลอง
 
 RecQuestAdam_6/item_name
-Groovy...
+เท่ห์...
 
 RecQuestAdam_6/description
-Acquire a futuristic weapon from Adam to use on primitive screwheads.
+ได้อาวุธล้ำยุคจากอาดัมมาใช้กับพวกหัวควยดึกดำบรรพ์
 
 RecQuestSeaWitch_4/item_name
-Everyone's a food critic...
+ทุกคนเป็นนักวิจารณ์อาหาร...
 
 RecQuestSeaWitch_4/description
-Feed the starving Sea Witch.
+ให้อาหารแม่มดทะเลที่หิวโหย
 
 RecQuestSeaWitch_5/item_name
-A storm of hail and fire!
+พายุลูกเห็บและไฟ!
 
 RecQuestSeaWitch_5/description
-Receive a gift from the mysterious stranger...
+ได้รับของขวัญจากคนแปลกหน้าลึกลับ...
 
 TrueDeepone/item_name
-Metamorphosis
+การเปลี่ยนแปลง
 
 TrueDeepone/description
-Awaken the emergence of a new Goddess...
+ปลุกการปรากฏตัวของเทพธิดาใหม่...
 
 SMRefugeeCampCBT/item_name
-Goblin Castrator
+ผู้ทำหมันก็อบลิน
 
 SMRefugeeCampCBT/description
-Show a Goblin some humanity, and make sure it can never reproduce again.
+แสดงความเป็นมนุษย์ให้ก็อบลิน และทำให้มันไม่สามารถสืบพันธุ์ได้อีก
 
 AbomLona/item_name
-The Prototype Bioweapon
+อาวุธชีวภาพต้นแบบ
 
 AbomLona/description
-Unleash the grotesque essence of The Mother of Fertility...
+ปลดปล่อยสาระสำคัญที่น่าสยดสยองของแม่แห่งความอุดมสมบูรณ์...
 
 EliseAbortion_T1/item_name
-I kid you not!
+ไม่ได้ล้อเล่นนะ!
 
 EliseAbortion_T1/description
-Abort your pregnancy by Elise for the first time.
+ทำแท้งครั้งแรกโดยอีลิส
 
 EliseAbortion_T2/item_name
-It's just a parasite...
+มันแค่ปรสิต...
 
 EliseAbortion_T2/description
-Abort your pregnancy by Elise 3+ times.
+ทำแท้งโดยอีลิส 3 ครั้งขึ้นไป
 
 EliseAbortion_T3/item_name
-My body, my choice!
+ร่างกายของฉัน การตัดสินใจของฉัน!
 
 EliseAbortion_T3/description
-Abort your pregnancy by Elise 5+ times.
+ทำแท้งโดยอีลิส 5 ครั้งขึ้นไป
 
 EliseAbortion_T4/item_name
-INCONCEIVABLE!
+ไม่มีวันเกิด!
 
 EliseAbortion_T4/description
-Abort your pregnancy by Elise 7+ times.
+ทำแท้งโดยอีลิส 7 ครั้งขึ้นไป
 
 KillTheBaby/item_name
-Don't kick the baby!
+อย่าเตะเด็ก!
 
 KillTheBaby/description
-Murder your baby with your own hands.
+ฆ่าลูกของตัวเองด้วยมือของตัวเอง
 
 SnowflakeFragged/item_name
-Sh-ACK-ttered snowflake
+หิมะแตก-อ๊าก-เศษ
 
 SnowflakeFragged/description
-Murder the special snowflake with the harsh truth, and humiliate his disgusting corpse.
-
-#Fully translated and suggested by Sugoi Soy Boy. Fuck off MTLing monkeys.
+ฆ่าหิมะพิเศษด้วยความจริงที่โหดร้าย และทำให้ศพน่ารังเกียจของมันอับอาย

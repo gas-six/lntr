@@ -1,276 +1,278 @@
+XXXXXXXX
+
 #by Saintz, remove this line after review.
 
 thisMap/OvermapEnter
-\m[confused]Refugee Camp\optB[Leave,Enter]
+\m[confused]ค่ายผู้ลี้ภัย\optB[ออก,เข้า]
 
 ####################################################################### MissingChild
 
 MIAchildMAMA/prog0
-\CBid[-1,6]\prf\c[4]Refugee：\c[0]    My child! They took it away!
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Who did that?
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    \c[6]Believers of the Saint\c[0] they were so kind, I knew something was just not right!
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Huh?
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    They took it! They took my baby away from me and then kicked me out of the monastery.
-\CBid[-1,6]\prf\c[4]Refugee：\c[0]    Ah! \c[6]Saint\c[0]! How could this happen to me?!
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    The \c[6]Believers of the Saint\c[0] wouldn't do such a thing, would they?
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    ลูกฉัน! พวกมันพาลูกฉันไป!
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    ใครทำแบบนั้น?
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    \c[6]ผู้เชื่อในนักบุญ\c[0] พวกเขาดูเป็นมิตรมาก ฉันรู้สึกว่ามีอะไรไม่ชอบมาพากล!
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    หา?
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    พวกมันพาลูกฉันไป! พวกมันพาลูกฉันไปแล้วก็ไล่ฉันออกจากวัด!
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    อ๊ะ! \c[6]นักบุญ\c[0]! ทำไมเรื่องแบบนี้ถึงเกิดขึ้นกับฉันได้?!
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    \c[6]ผู้เชื่อในนักบุญ\c[0] ไม่น่าจะทำแบบนี้นะ?
 
 MIAchildMAMA/prog0_board
-\board[her child]
-Goal：Look for her child in the nearby monastery.
-Reward：None 
-Contractor： Refugee 
-Quest Term：Single Fulfillment
-\c[6]Timmy\c[0] has been missing. Go to the west to the nearby monastery and ask about \c[6]Timmy\c[0].
-His mother is just a poor refugee that has nothing to offer and no one she can turn to for help.
+\board[ลูกของเธอ]
+เป้าหมาย：ตามหาลูกของเธอในวัดใกล้ๆ
+รางวัล：ไม่มี
+ผู้ว่าจ้าง： ผู้ลี้ภัย
+เงื่อนไขภารกิจ：ทำครั้งเดียว
+\c[6]ทิมมี่\c[0] หายตัวไป ไปทางตะวันตกไปที่วัดใกล้ๆ และถามเรื่อง \c[6]ทิมมี่\c[0]
+แม่ของเขาเป็นแค่ผู้ลี้ภัยที่ยากจน ไม่มีอะไรจะให้และไม่มีใครที่เธอจะขอความช่วยเหลือได้
 
 MIAchildMAMA/prog0_Taken
-\CBct[20]\m[triumph]\PRF\c[6]Lona：\c[0]    Leave it to me! I'll make sure to bring her home, what's her name?
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    Actually，he's a boy and his name is \c[6]Timmy\c[0].
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uh... A boy, you say?
-\CBct[20]\m[pleased]\c[6]Lona：\c[0]    Nevermind, just stay here and wait for our return!
+\CBct[20]\m[triumph]\PRF\c[6]โลน่า：\c[0]    ปล่อยให้ฉันจัดการ! ฉันจะพาลูกเธอกลับบ้านให้ได้ ชื่ออะไร?
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    จริงๆ แล้ว เขาเป็นผู้ชาย ชื่อ \c[6]ทิมมี่\c[0]
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อ๋อ... ผู้ชายน่ะเหรอ?
+\CBct[20]\m[pleased]\c[6]โลน่า：\c[0]    ไม่เป็นไร อยู่นี่รอเรากลับมา!
 
 MIAchildMAMA/prog1_noNews
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    Is \c[6]Timmy\c[0] with you? Did you find out anything new?
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uh... Still nothing.
-\CBid[-1,6]\prf\c[4]Refugee：\c[0]    My little \c[6]Timmy\c[0], Ah! What've they done to you?!
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    \c[6]ทิมมี่\c[0] อยู่กับเธอมั้ย? มีข่าวอะไรใหม่ๆ มั้ย?
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อ๋อ... ยังไม่มีอะไร
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    ลูกชายน้อย \c[6]ทิมมี่\c[0] ของฉัน อ๊ะ! พวกมันทำอะไรกับเธอไปแล้ว?!
 
 MIAchildMAMA/QdoneBegin
-\CBid[-1,6]\prf\c[4]Refugee：\c[0]    Did you find \c[6]Timmy\c[0]?
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    เธอหา \c[6]ทิมมี่\c[0] เจอมั้ย?
 
 MIAchildMAMA/prog7_NotFound
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uh...
-\CBct[20]\m[confused]\PRF\c[6]Lona：\c[0]    The \c[4]Believers of the Saint\c[0] told me that you exchanged your only child for food.
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Is it true?
-\CBid[-1,6]\prf\c[4]Refugee：\c[0]    I\..\..\..
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    I didn't want that! But I was so hungry back then!
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    I'm sorry... I'm so sorry, my little \c[6]Timmy\c[0]！
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    So they didn't actually took him away from you?
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    It was all you, the one who sold him to the monastery?
-\CBid[-1,6]\prf\c[4]Refugee：\c[0]    It's all my fault... I'm so sorry...
-\CBid[-1,6]\prf\c[4]Refugee：\c[0]    My little \c[6]Timmy\c[0]，don't be afraid!
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    Mom is going to get you back!
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อ๋อ...
+\CBct[20]\m[confused]\PRF\c[6]โลน่า：\c[0]    \c[4]ผู้เชื่อในนักบุญ\c[0] บอกฉันว่าเธอแลกลูกคนเดียวของเธอเพื่ออาหาร
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    จริงมั้ย?
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    ฉัน... ฉัน...
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    ฉันไม่อยากทำแบบนั้น! แต่ตอนนั้นฉันหิวมาก!
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    ขอโทษ... ขอโทษมาก ลูกชายน้อย \c[6]ทิมมี่\c[0] ของฉัน!
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    งั้นพวกเขาไม่ได้พาลูกเธอไปจริงๆ?
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    เป็นเธอเองที่ขายลูกให้กับวัด?
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    ทั้งหมดเป็นความผิดของฉัน... ขอโทษมาก...
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    ลูกชายน้อย \c[6]ทิมมี่\c[0] ของฉัน อย่ากลัว!
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    แม่จะพาลูกกลับมา!
 
 MIAchildMAMA/prog7_end
-\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    Sigh...
+\CBct[8]\m[sad]\PRF\c[6]โลน่า：\c[0]    ถอนหายใจ...
 
 MIAchildMAMA/prog9_failed
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Uh... that...
-\CBid[-1,6]\prf\c[4]Refugee：\c[0]    Did something happen? Where's my little \c[6]Timmy\c[0]?
-\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBct[20]\m[sad]\PRF\c[6]Lona：\c[0]    He's not going back, he has decided to dedicate his life to the \c[4]Saints\c[0].
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    That can't be! You lie! You're a liar!
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    I'm telling the truth! I wouldn't lie to you! I've talked to him personally!
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    He said that he hates you!
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    That can't be true! You and the \c[6]Believers of the Saint\c[0] are all liars!
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    \{There is NO SAINT!!!\}
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    \{Liars! They are all LIARS!\}
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    อ๋อ... นั่น...
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    เกิดอะไรขึ้น? ลูกชายน้อย \c[6]ทิมมี่\c[0] ของฉันอยู่ไหน?
+\CBct[8]\m[sad]\PRF\c[6]โลน่า：\c[0]    ฉัน...
+\CBct[20]\m[sad]\PRF\c[6]โลน่า：\c[0]    เขาไม่กลับมา เขาตัดสินใจที่จะอุทิศชีวิตให้กับ \c[4]นักบุญ\c[0]
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    ไม่น่าเป็นไปได้! เธอโกหก! เธอเป็นคนโกหก!
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ฉันพูดจริง! ฉันไม่โกหกเธอ! ฉันคุยกับเขาเอง!
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    เขาบอกว่าเขาเกลียดเธอ!
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    ไม่น่าเป็นไปได้! เธอกับ \c[6]ผู้เชื่อในนักบุญ\c[0] โกหกทั้งนั้น!
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    \{ไม่มีนักบุญอะไรเลย!!!\}
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    \{โกหก! พวกมันโกหกทั้งนั้น!\}
 
 MIAchildMAMA/prog9_win0
-\CBct[20]\m[pleased]\Rshake\c[6]Lona：\c[0]    We came back!
-\CBid[-1,1]\prf\c[4]Refugee：\c[0]    !!!
+\CBct[20]\m[pleased]\Rshake\c[6]โลน่า：\c[0]    เรากลับมาแล้ว!
+\CBid[-1,1]\prf\c[4]ผู้ลี้ภัย：\c[0]    !!!
 
 MIAchildMAMA/prog9_win1
-\CBmp[Tommy,4]\prf\c[4]Timmy：\c[0]    Mommy!
-\CBid[-1,20]\prf\c[4]Refugee：\c[0]    \c[6]Timmy\c[0], my dear baby!
-\CBmp[Tommy,2]\prf\c[4]Timmy：\c[0]    I was told you don't want me anymore...
-\CBid[-1,6]\prf\c[4]Refugee：\c[0]    That's all lies! Those are the lies of the followers of \c[6]Saint\c[0]!
-\CBid[-1,6]\prf\c[4]Refugee：\c[0]    Mommy is so sorry! I won't let you go again!
-\CBct[4]\m[triumph]\Rshake\c[6]Lona：\c[0]    Yep, that's right!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Well, I guess I should get going. I don't want to disturb your family reunion.
+\CBmp[Tommy,4]\prf\c[4]ทิมมี่：\c[0]    แม่!
+\CBid[-1,20]\prf\c[4]ผู้ลี้ภัย：\c[0]    \c[6]ทิมมี่\c[0] ลูกรักของแม่!
+\CBmp[Tommy,2]\prf\c[4]ทิมมี่：\c[0]    พวกเขาบอกว่าแม่ไม่ต้องการฉันอีกแล้ว...
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    นั่นมันโกหกทั้งนั้น! นั่นเป็นคำโกหกของผู้ติดตาม \c[6]นักบุญ\c[0]!
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    แม่ขอโทษมาก! แม่จะไม่ปล่อยให้เธอไปอีก!
+\CBct[4]\m[triumph]\Rshake\c[6]โลน่า：\c[0]    ใช่แล้ว!
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    งั้นฉันคงต้องไปแล้ว ฉันไม่อยากรบกวนการพบกันของครอบครัว
 
 MIAchildMAMA/prog9_win2
-\CBmp[Tommy,20]\prf\c[4]Timmy：\c[0]    Sis! Wait!
+\CBmp[Tommy,20]\prf\c[4]ทิมมี่：\c[0]    พี่สาว! รอหน่อย!
 
 MIAchildMAMA/prog9_win3
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    What happened?
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    เกิดอะไรขึ้น?
 
 MIAchildMAMA/prog9_win4
-\CBmp[Tommy,20]\prf\c[4]Timmy：\c[0]    This stick was stuck in my butt.
-\CBmp[Tommy,20]\prf\c[4]Timmy：\c[0]    \c[6]Saints\c[0] \..\..\.. Believers told me that this's all part of the trial that will get me closer to the will of the \c[6]Saint\c[0].
-\CBmp[Tommy,20]\prf\c[4]Timmy：\c[0]    But I don't think I need it anymore.
-\CBmp[Tommy,20]\prf\c[4]Timmy：\c[0]    You can keep it!
+\CBmp[Tommy,20]\prf\c[4]ทิมมี่：\c[0]    ไม้นี้ติดอยู่ในรูตูดฉัน
+\CBmp[Tommy,20]\prf\c[4]ทิมมี่：\c[0]    \c[6]นักบุญ\c[0] ... ผู้เชื่อบอกฉันว่านี่เป็นส่วนหนึ่งของการทดสอบที่จะทำให้ฉันใกล้ชิดกับความปรารถนาของ \c[6]นักบุญ\c[0] มากขึ้น
+\CBmp[Tommy,20]\prf\c[4]ทิมมี่：\c[0]    แต่ฉันคิดว่าฉันไม่ต้องการมันอีกแล้ว
+\CBmp[Tommy,20]\prf\c[4]ทิมมี่：\c[0]    เธอเก็บไว้ได้เลย!
 
 MIAchildMAMA/prog9_win5
-\CBct[2]\m[wtf]\Rshake\c[6]Lona：\c[0]    Huh?! a butt\..\..\.. stick?!
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Hmm... Thanks?
+\CBct[2]\m[wtf]\Rshake\c[6]โลน่า：\c[0]    หา?! ไม้ในรูตูด?!
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม... ขอบคุณนะ?
 
 MAMAdone/Qmsg
-Thank you so much!
+ขอบคุณมากๆ!
 
 TOMMYdone/Qmsg
-Thanks big sis!
+ขอบคุณพี่สาว!
 
 ####################################################################### CBT OP
 
 CBTop/Begin0
-\CBmp[CBTer2,20]\c[4]Refugee A：\c[0]    Listen, you're much stronger than this green shit.
-\CBmp[CBTer1,6]\c[4]Refugee B：\c[0]    I\...\...\...
+\CBmp[CBTer2,20]\c[4]ผู้ลี้ภัย A：\c[0]    ฟังนะ เธอแข็งแกร่งกว่าพวกขี้เขียวนี้มาก
+\CBmp[CBTer1,6]\c[4]ผู้ลี้ภัย B：\c[0]    ฉัน...
 
 CBTop/Begin1
-\CBmp[CBTer2,20]\c[4]Refugee A：\c[0]    These are not human beings, the \c[6]Saint\c[0] won't blame you for doing this.
+\CBmp[CBTer2,20]\c[4]ผู้ลี้ภัย A：\c[0]    พวกนี้ไม่ใช่มนุษย์ \c[6]นักบุญ\c[0] จะไม่ตำหนิเธอที่ทำแบบนี้
 
 CBTop/Begin2
-\CBmp[CBTer2,20]\c[4]Refugee A：\c[0]    Don't be afraid! Stranded like that they can't hurt you anymore.
+\CBmp[CBTer2,20]\c[4]ผู้ลี้ภัย A：\c[0]    อย่ากลัว! พวกมันติดอยู่แบบนี้ไม่สามารถทำร้ายเธอได้อีกแล้ว
 
 CBTop/Begin3
-\CBmp[CBTer1,8]\c[4]Refugee B：\c[0]    Is this really right thing to do?
-\CBmp[CBTer2,20]\c[4]Refugee A：\c[0]    Just think about what they did to you\....\....\.... to us\....\....\.... to everyone else.
-\CBmp[CBTer2,20]\c[4]Refugee A：\c[0]    Don't hesitate\..\..\.. Do it! Trust me when we're done, you'll feel much better.
-\CBmp[CBTer1,8]\c[4]Refugee B：\c[0]    \...\...\...
+\CBmp[CBTer1,8]\c[4]ผู้ลี้ภัย B：\c[0]    นี่มันถูกต้องจริงๆ หรือ?
+\CBmp[CBTer2,20]\c[4]ผู้ลี้ภัย A：\c[0]    คิดถึงสิ่งที่พวกมันทำกับเธอ... กับพวกเรา... กับทุกคน
+\CBmp[CBTer2,20]\c[4]ผู้ลี้ภัย A：\c[0]    อย่าลังเล... ทำเลย! เชื่อฉันเถอะ เมื่อเราทำเสร็จ เธอจะรู้สึกดีขึ้นมาก
+\CBmp[CBTer1,8]\c[4]ผู้ลี้ภัย B：\c[0]    ...
 
 CBTop/Begin4
-\CBmp[CBTer2,20]\c[4]Refugee A：\c[0]    How does it feel? Go on, don't be afraid. Continue
-\CBmp[CBTer1,8]\c[4]Refugee B：\c[0]    Woo...
+\CBmp[CBTer2,20]\c[4]ผู้ลี้ภัย A：\c[0]    รู้สึกยังไง? ไปต่อเลย อย่ากลัว
+\CBmp[CBTer1,8]\c[4]ผู้ลี้ภัย B：\c[0]    ว้าว...
 
 CBTop/Begin5
-\CBmp[CBTer1,20]\c[4]Refugee B：\c[0]    \{Wooah!\}
+\CBmp[CBTer1,20]\c[4]ผู้ลี้ภัย B：\c[0]    \{ว้าว!\}
 
 CBTop/Begin6
-\CBmp[CBTer1,20]\c[4]Refugee B：\c[0]    \{I'm gonna kill you!\}
-\CBmp[CBTer2,20]\c[4]Refugee A：\c[0]    Just like that, let it all out.
+\CBmp[CBTer1,20]\c[4]ผู้ลี้ภัย B：\c[0]    \{ฉันจะฆ่าเธอ!\}
+\CBmp[CBTer2,20]\c[4]ผู้ลี้ภัย A：\c[0]    แบบนี้แหละ ปล่อยให้มันออกมาทั้งหมด
 
 ####################################################################### Hunter
 
 Hunter/begin
-\CBmp[CBThunter,20]\c[4]Hunter：\c[0]    Are you here to have some fun with these fuckers?
-\CBmp[CBThunter,20]\c[4]Hunter：\c[0]    Go ahead, this one is fresh. I happen to catch him today! Remember It's not free, #{$story_stats["HiddenOPT1"]}P for that!
+\CBmp[CBThunter,20]\c[4]นักล่า：\c[0]    เธอมาที่นี่เพื่อสนุกกับพวกหน้าเหี้ยนั่นหรือ?
+\CBmp[CBThunter,20]\c[4]นักล่า：\c[0]    ไปเลย ตัวนี้สดใหม่ ฉันจับมันมาวันนี้! จำไว้นะ ไม่ฟรีนะ #{$story_stats["HiddenOPT1"]}P สำหรับตัวนี้!
 
 Hunter/begin_Payed
-\CBmp[CBThunter,20]\c[4]Hunter：\c[0]    Make sure to, not kill him too fast, they must slowly bleed out otherwise the meat gets stringy.
+\CBmp[CBThunter,20]\c[4]นักล่า：\c[0]    อย่าฆ่ามันเร็วเกินไปนะ มันต้องเสียเลือดช้าๆ ไม่งั้นเนื้อจะเหนียว
 
 Hunter/NeedPay0
-\CBmp[CBThunter,20]\c[4]Hunter：\c[0]    Hey, you! No touching! You've to pay first!
+\CBmp[CBThunter,20]\c[4]นักล่า：\c[0]    หยุด! อย่าแตะ! เธอต้องจ่ายเงินก่อน!
 
 Hunter/NeedPay1
-\CBct[6]\m[flirty]\c[6]Lona：\c[0]    Okay...
+\CBct[6]\m[flirty]\c[6]โลน่า：\c[0]    โอเค...
 
 HunterOpt/About
-About
+เกี่ยวกับ
 
 Hunter/Pay
-Deez nuts!
+ลูกอัณฑะ!
 
 Hunter/PayPass
-\CBmp[CBThunter,4]\c[4]Hunter：\c[0]    Give them a good lesson!
+\CBmp[CBThunter,4]\c[4]นักล่า：\c[0]    สั่งสอนพวกมันให้ดี!
 
 Hunter/PayNotEnough
-\CBmp[CBThunter,5]\c[4]Hunter：\c[0]    Are you kidding me? I said at least #{$story_stats["HiddenOPT1"]}P!
+\CBmp[CBThunter,5]\c[4]นักล่า：\c[0]    เธอล้อเล่นหรือเปล่า? ฉันบอกว่าอย่างน้อย #{$story_stats["HiddenOPT1"]}P!
 
 Hunter/WTF
-\CBmp[CBThunter,5]\prf\c[4]Hunter：\c[0]    You stupid cunt! What have you done!
-\CBct[6]\m[terror]\Rshake\c[6]Lona：\c[0]    EHHH!!
+\CBmp[CBThunter,5]\prf\c[4]นักล่า：\c[0]    อีกระหรี่โง่! เธอทำอะไรลงไป!
+\CBct[6]\m[terror]\Rshake\c[6]โลน่า：\c[0]    อ๊ากก!!
 
 Hunter/AboutDialog
-\CBct[2]\m[flirty]\PLF\c[6]Lona：\c[0]    Uh...what are these \c[4]Orkinds\c[0] doing here?
-\CBmp[CBThunter,20]\prf\c[4]Hunter：\c[0]    \c[6]Orkinds\c[0]? Where? You mean these \c[6]Goblins\c[0]? They were wandering around in nearby forest and I happen to catch them.
-\CBct[20]\m[confused]\PLF\c[6]Lona：\c[0]    Uh... I mean why are they here.
-\CBmp[CBThunter,20]\prf\c[4]Hunter：\c[0]    Why? They're here to treat women that were abused by \c[6]Goblins\c[0].
-\CBct[2]\m[flirty]\PLF\c[6]Lona：\c[0]    That's treatment?
-\CBmp[CBThunter,20]\prf\c[4]Hunter：\c[0]    After being fucked, all those women have mental break down, right?
-\CBmp[CBThunter,20]\prf\c[4]Hunter：\c[0]    So I give them opportunity, to overcome the fear and have some fun.
-\CBmp[CBThunter,20]\prf\c[4]Hunter：\c[0]    Take revenge for what \c[6]Goblins\c[0] did to them.
-\CBmp[CBThunter,20]\prf\c[4]Hunter：\c[0]    And ah... \c[6]Goblins\c[0] they taste good.
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    Huh?!
-\CBmp[CBThunter,20]\prf\c[4]Hunter：\c[0]    Make sure to try it out, It's funny to hear these green fuckers beg for mercy.
+\CBct[2]\m[flirty]\PLF\c[6]โลน่า：\c[0]    อ๋อ... พวก \c[4]ออร์คินด์\c[0] ทำอะไรที่นี่?
+\CBmp[CBThunter,20]\prf\c[4]นักล่า：\c[0]    \c[6]ออร์คินด์\c[0]? ที่ไหน? เธอหมายถึงพวก \c[6]ก็อบลิน\c[0] นี่หรือ? พวกมันเดินเตร่อยู่ในป่าใกล้ๆ แล้วฉันก็จับมันมา
+\CBct[20]\m[confused]\PLF\c[6]โลน่า：\c[0]    อ๋อ... ฉันหมายถึงทำไมพวกมันถึงอยู่ที่นี่
+\CBmp[CBThunter,20]\prf\c[4]นักล่า：\c[0]    ทำไม? พวกมันอยู่ที่นี่เพื่อรักษาผู้หญิงที่ถูก \c[6]ก็อบลิน\c[0] ทำร้าย
+\CBct[2]\m[flirty]\PLF\c[6]โลน่า：\c[0]    นั่นคือการรักษา?
+\CBmp[CBThunter,20]\prf\c[4]นักล่า：\c[0]    หลังจากถูกข่มขืน ผู้หญิงเหล่านั้นมักจะมีอาการทางจิตใช่มั้ย?
+\CBmp[CBThunter,20]\prf\c[4]นักล่า：\c[0]    ฉันเลยให้โอกาสพวกเขา เพื่อเอาชนะความกลัวและสนุกสนาน
+\CBmp[CBThunter,20]\prf\c[4]นักล่า：\c[0]    แก้แค้นสิ่งที่ \c[6]ก็อบลิน\c[0] ทำกับพวกเขา
+\CBmp[CBThunter,20]\prf\c[4]นักล่า：\c[0]    และอ๋อ... \c[6]ก็อบลิน\c[0] พวกมันอร่อยนะ
+\CBct[1]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    หา?!
+\CBmp[CBThunter,20]\prf\c[4]นักล่า：\c[0]    ลองดูสิ มันสนุกที่จะได้ยินพวกขี้เขียวนี้ขอร้องให้เมตตา
 
 ####################################################################### Common
 
 DedGob/Qmsg0
-Fainted...
+หมดสติ...
 
 DedGob/Qmsg1
-Sorrow...
+เศร้า...
 
 DedGob/Qmsg2
-Agonizing...
+ทรมาน...
 
 CapGob/Qmsg0
-Anxiously looking at you...
+มองคุณด้วยความวิตก...
 
 CapGob/Qmsg1
-There is no hope
+ไม่มีความหวัง
 
 CapGob/FaceIT
-Must Facing it
+ต้องเผชิญมัน
 
 GobSemen/begin1
-\CBct[6]\m[p5sta_damage]\Rshake\c[6]Lona：\c[0]    \{EHHHHH!\}
+\CBct[6]\m[p5sta_damage]\Rshake\c[6]โลน่า：\c[0]    \{อ๊ากก!\}
 
 GobSemen/begin2_0
-\CBct[6]\m[hurt]\Rshake\c[6]Lona：\c[0]    So filthy!
+\CBct[6]\m[hurt]\Rshake\c[6]โลน่า：\c[0]    สกปรกมาก!
 
 GobSemen/begin2_1
-\CBct[6]\m[wtf]\Rshake\c[6]Lona：\c[0]    I got it all over my face!
+\CBct[6]\m[wtf]\Rshake\c[6]โลน่า：\c[0]    มันเลอะหน้าฉันทั้งหมด!
 
 GobExit/Alive0
-\CBct[8]\m[flirty]\c[6]Lona：\c[0]    Fear not, I forgive you.
+\CBct[8]\m[flirty]\c[6]โลน่า：\c[0]    อย่ากลัว ฉันให้อภัยเธอ
 
 GobExit/Alive1
-\CBct[8]\m[sad]\c[6]Lona：\c[0]    It's just not right, they're so pitiful...
+\CBct[8]\m[sad]\c[6]โลน่า：\c[0]    มันไม่ถูกต้องเลย พวกมันน่าสงสารมาก...
 
 GoblinCBT/begin0
-He froze in fear...
+เขาแข็งทื่อด้วยความกลัว...
 
 GoblinCBT/begin1
-There's no hope in his eyes...
+ไม่มีความหวังในสายตาของเขา...
 
 GoblinCBT/Kick
-Kick it
+เตะมัน
 
 GoblinCBT/Release
-Gobland FOREVER!
+ก็อบลินตลอดกาล!
 
 GoblinRelease/Begin1
-\CBct[20]\m[triumph]\c[6]Lona：\c[0]    Don't be afraid! I'll help you out!
+\CBct[20]\m[triumph]\c[6]โลน่า：\c[0]    อย่ากลัว! ฉันจะช่วยเธอออกมา!
 
 GoblinRelease/Begin2
-\CBct[20]\m[pleased]\c[6]Lona：\c[0]    Alright, up you go!
-\CBct[20]\m[confused]\c[6]Lona：\c[0]    \..\..\.. What's the matter?
+\CBct[20]\m[pleased]\c[6]โลน่า：\c[0]    โอเค ลุกขึ้นมา!
+\CBct[20]\m[confused]\c[6]โลน่า：\c[0]    ... เกิดอะไรขึ้น?
 
 GoblinRelease/Begin3
-\CBct[6]\m[fear]\c[6]Lona：\c[0]    Uh...
+\CBct[6]\m[fear]\c[6]โลน่า：\c[0]    อ๋อ...
 
 GoblinRelease/UniqueGrayRat
-\CBfF[8]\SETpl[GrayRatNormalAr]\PLF\prf\c[4]Gray Rat：\c[0]    \..\..\..
+\CBfF[8]\SETpl[GrayRatNormalAr]\PLF\prf\c[4]หนูสีเทา：\c[0]    ...
 
 GoblinRelease/CompOrkindSlayer
-\CBfF[20]\prf\c[4]Orkind Slayer：\c[0]    No.
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Is there really no good \c[6]Orkind\c[0]?
-\CBfF[20]\prf\c[4]Orkind Slayer：\c[0]    Only dead \c[6]Orkind\c[0] is good \c[6]Orkind\c[0].
+\CBfF[20]\prf\c[4]ผู้ฆ่าออร์คินด์：\c[0]    ไม่
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    จริงๆ แล้วไม่มี \c[6]ออร์คินด์\c[0] ที่ดีเลยหรือ?
+\CBfF[20]\prf\c[4]ผู้ฆ่าออร์คินด์：\c[0]    \c[6]ออร์คินด์\c[0] ที่ดีคือ \c[6]ออร์คินด์\c[0] ที่ตายแล้ว
 
 GoblinRelease/failed
-\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Uh...alright...
+\CBct[8]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    อ๋อ... โอเค...
 
 commoner0/refugeeF0
-\CBid[-1,20]\c[4]Refugee：\c[0]    I was so wrong, the \C[6]Saint\C[0] does exist, I should never doubted the followers.
+\CBid[-1,20]\c[4]ผู้ลี้ภัย：\c[0]    ฉันผิดมาก มี \C[6]นักบุญ\C[0] จริงๆ ฉันไม่ควรสงสัยผู้ติดตาม
 
 commoner0/refugeeF1
-\CBid[-1,20]\c[4]Refugee：\c[0]    Only the \C[6]Saint\C[0] keeps me alive, please forgive me for my previous words and deeds.
+\CBid[-1,20]\c[4]ผู้ลี้ภัย：\c[0]    แค่ \C[6]นักบุญ\C[0] เท่านั้นที่ทำให้ฉันมีชีวิตอยู่ โปรดให้อภัยฉันสำหรับคำพูดและการกระทำที่ผ่านมา
 
 commoner0/refugeeF2
-\CBid[-1,20]\c[4]Refugee：\c[0]    Whenever you doubt the \C[6]Saint\C[0], make sure you visit the \C[6]Monastery\C[0].
-\CBid[-1,20]\c[4]Refugee：\c[0]    \C[6]Believers\C[0] will guide you, so you can see the truth!
+\CBid[-1,20]\c[4]ผู้ลี้ภัย：\c[0]    เมื่อไหร่ก็ตามที่เธอสงสัยใน \C[6]นักบุญ\C[0] ให้แน่ใจว่าเธอไปเยี่ยม \C[6]วัด\C[0]
+\CBid[-1,20]\c[4]ผู้ลี้ภัย：\c[0]    \C[6]ผู้เชื่อ\C[0] จะชี้นำเธอ เพื่อให้เธอเห็นความจริง!
 
 commoner1/refugeeF0
-\CBid[-1,20]\c[4]Refugee：\c[0]    Sometimes those priests hand out food, but there isn't enough for everyone. You need to take care of yourself.
+\CBid[-1,20]\c[4]ผู้ลี้ภัย：\c[0]    บางครั้งพวกนักบวชก็แจกอาหาร แต่ไม่พอสำหรับทุกคน เธอต้องดูแลตัวเอง
 
 commoner1/refugeeF1
-\CBid[-1,20]\c[4]Refugee：\c[0]    There are many monsters and bandits around. Priests alone are not enough to protect us from them.
+\CBid[-1,20]\c[4]ผู้ลี้ภัย：\c[0]    มีสัตว์ประหลาดและโจรรอบๆ นักบวชคนเดียวไม่พอที่จะปกป้องเราจากพวกมัน
 
 commoner1/refugeeF2
-\CBid[-1,20]\c[4]Refugee：\c[0]    People have turned away from the \C[6]Saint\C[0], so now the \C[6]Saint\C[0] punishes us like this.
-\CBid[-1,20]\c[4]Refugee：\c[0]    Do we really deserve it all? But I believe, I believe in the \C[6]Saint\C[0]? Why did this happen to me then?
+\CBid[-1,20]\c[4]ผู้ลี้ภัย：\c[0]    คนหันหลังให้กับ \C[6]นักบุญ\C[0] ดังนั้นตอนนี้ \C[6]นักบุญ\C[0] จึงลงโทษเราแบบนี้
+\CBid[-1,20]\c[4]ผู้ลี้ภัย：\c[0]    เราสมควรได้รับแบบนี้จริงๆ หรือ? แต่ฉันเชื่อ ฉันเชื่อใน \C[6]นักบุญ\C[0]? ทำไมเรื่องนี้ถึงเกิดขึ้นกับฉันล่ะ?
 
 commoner2/Priest0
-\CBid[-1,20]\c[4]Believer：\c[0]    Come here! Lost children! the \C[6]Saint\C[0] will forgive you!
+\CBid[-1,20]\c[4]ผู้เชื่อ：\c[0]    มาที่นี่! เด็กหลงทาง! \C[6]นักบุญ\C[0] จะให้อภัยเธอ!
 
 commoner2/Priest1
-\CBid[-1,20]\c[4]Believer：\c[0]    All this happens, because you were unfaithful to the \C[6]Saint\C[0]! Bow your head and confess your sins!
+\CBid[-1,20]\c[4]ผู้เชื่อ：\c[0]    ทั้งหมดนี้เกิดขึ้น เพราะเธอไม่ซื่อสัตย์ต่อ \C[6]นักบุญ\C[0]! ก้มหัวและสารภาพบาปของเธอ!
 
 commoner2/Priest2
-\CBid[-1,20]\c[4]Believer：\c[0]    Give your body! Give your soul!
+\CBid[-1,20]\c[4]ผู้เชื่อ：\c[0]    มอบร่างกายของเธอ! มอบวิญญาณของเธอ!
 
 Saint/board
-\board[Unknown Saint]
-Nameless Saint said： When you encounter great evil, you can always call my name. The evil cannot withstand it! 
-The Gospel of the Saints, 896： 4
+\board[นักบุญไม่ทราบชื่อ]
+นักบุญไม่ทราบชื่อกล่าวว่า： เมื่อเธอพบกับความชั่วร้ายอันยิ่งใหญ่ เธอสามารถเรียกชื่อฉันได้เสมอ ความชั่วร้ายจะทนไม่ได้! 
+พระวรสารของนักบุญ, 896： 4

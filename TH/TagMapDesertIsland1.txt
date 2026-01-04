@@ -1,138 +1,140 @@
+XXXXXXXX
+
 thisMap/Enter
-\m[confused]Uninhabited island\optB[Leave,Enter]
+\m[confused]เกาะร้าง\optB[ออก,เข้า]
 
 ########################################################### Capture begin
 
 OPevent/0
-\SndLib[sound_chcg_full]\SFXfile[Cursor2]\SFXset[50,40,4]\BonMP[RngGuy1,3]\SETpr[raper1]\Rshake\c[4]refugee：\c[0]    ah ah ah♥♥
-\SndLib[sound_chcg_full]\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\SETpr[raper2]\Rshake\c[4]refugee：\c[0]    Oh oh oh oh♥♥
-\SndLib[sound_chcg_full]\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]refugee：\c[0]    \{Go ah ah! !
+\SndLib[sound_chcg_full]\SFXfile[Cursor2]\SFXset[50,40,4]\BonMP[RngGuy1,3]\SETpr[raper1]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    อ่าห์ อ่าห์ อ่าห์♥♥
+\SndLib[sound_chcg_full]\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\SETpr[raper2]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    โอ้ โอ้ โอ้ โอ้♥♥
+\SndLib[sound_chcg_full]\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    \{อ่าห์ อ่าห์ อ่าห์! !
 
 OPevent/1
-\SFXfile[Cursor2]\SFXset[50,60,4]\Bon[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    .....
+\SFXfile[Cursor2]\SFXset[50,60,4]\Bon[8]\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    .....
 
 OPevent/2
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]refugee：\c[0]    This is....
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    นี่คือ....
 
 OPevent/3_firsttime
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]refugee：\c[0]    \{This is a woman!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    \{นี่คือผู้หญิง!
 
 OPevent/4_firsttime
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]refugee：\c[0]    Thank you Saint! The Saint brought her in!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    ขอบคุณนักบุญ! นักบุญพามาให้!
 
 OPevent/5_firsttime
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]refugee：\c[0]    Everyone! We can stop playing with our assholes!
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]refugee：\c[0]    \{It's a woman!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    ทุกคน! เราไม่ต้องเล่นกับรูตูดกันแล้ว!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    \{เป็นผู้หญิง!
 
 OPevent/3
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]refugee：\c[0]    \{It's a womaaan!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    \{เป็นผู้หญิง!
 
 OPevent/4
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]refugee：\c[0]    Our Lord the Saint has heard our call!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    นักบุญของเราได้ยินเสียงเรียกของเรา!
 
 OPevent/5
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]refugee：\c[0]    He brought us \c[6]Lona\c[0] We are sooo back!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[SpotGuy,3]\SETpr[raper3]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    ท่านนำ \c[6]โลน่า\c[0] มาให้เรา เรากลับมาแล้ว!
 
 OPevent/6
-\SFXfile[Cursor2]\SFXset[50,25,1]\BonMP[RngGuy1,2]\SETpr[raper_group]\Rshake\c[4]refugee：\c[0]    What?!
+\SFXfile[Cursor2]\SFXset[50,25,1]\BonMP[RngGuy1,2]\SETpr[raper_group]\Rshake\c[4]ผู้ลี้ภัย：\c[0]    อะไร?!
 
 OPevent/7_firsttime
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\SETpl[raper2]\Lshake\prf\c[4]refugee：\c[0]    You mean a woman?
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\SETpl[raper2]\Lshake\prf\c[4]ผู้ลี้ภัย：\c[0]    หมายถึงผู้หญิง?
 
 OPevent/7
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\SETpR[raper2]\plf\Rshake\c[4]refugee：\c[0]    You say \c[6]Lona\c[0]?
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\SETpR[raper2]\plf\Rshake\c[4]ผู้ลี้ภัย：\c[0]    พูดถึง \c[6]โลน่า\c[0]?
 
 OPevent/8
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy5,3]\SETpl[raper1]\Lshake\prf\c[4]refugee：\c[0]    Is it a woman?!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy5,3]\SETpl[raper1]\Lshake\prf\c[4]ผู้ลี้ภัย：\c[0]    เป็นผู้หญิง?!
 
 OPevent/9
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\SETpl[raper2]\Lshake\c[4]refugee：\c[0]    Help her heal first! Come quick! You must not kill her this time!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\SETpl[raper2]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    ช่วยเธอรักษาก่อน! มาเร็ว! คราวนี้อย่าฆ่าเธอเลย!
 
 FirstRape/0
-\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    *Sob* *Sob*... Where am I....?
-\SFXfile[Cursor2]\SFXset[50,25,4]\CBmp[RngGuy1,4]\SETpl[raper1]\Lshake\c[4]refugee：\c[0]    She woke up! Let me go first!
+\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    *สะอึก* *สะอึก*... ฉันอยู่ที่ไหน....?
+\SFXfile[Cursor2]\SFXset[50,25,4]\CBmp[RngGuy1,4]\SETpl[raper1]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    เธอตื่นแล้ว! ปล่อยให้ฉันไปก่อน!
 
 FirstRape/1
-\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[hurt]\plf\Rshake\c[6]Lona：\c[0]    Huh? !
-\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[pain]\plf\Rshake\c[6]Lona：\c[0]    Wait a moment... you...
+\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[hurt]\plf\Rshake\c[6]โลน่า：\c[0]    อะไร? !
+\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[pain]\plf\Rshake\c[6]โลน่า：\c[0]    รอแป๊บ... คุณ...
 
 FirstRape/2
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy2,4]\SETpl[raper2]\Lshake\c[4]refugee：\c[0]    Her asshole is mine!♥
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy2,4]\SETpl[raper2]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    รูตูดของเธอเป็นของฉัน!♥
 
 FirstRape/3
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\SETpl[raper3]\Lshake\c[4]refugee：\c[0]    Come on, lick me!♥
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\SETpl[raper3]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    มาเลย ดูดฉัน!♥
 
 FirstRape/3_1
-\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[p5sta_damage]\plf\Rshake\c[6]Lona：\c[0]    Huh?!
+\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[p5sta_damage]\plf\Rshake\c[6]โลน่า：\c[0]    อะไร?!
 
 ########################################################### first time wake up
 
 Wakeup/0
-\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[2]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    Where am I...?
-\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[sad]\plf\Rshake\c[6]Lona：\c[0]    Why are these people acting like crazies?
-\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    I have to find a way out of here.
+\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[2]\m[tired]\plf\Rshake\c[6]โลน่า：\c[0]    ฉันอยู่ที่ไหน...?
+\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[sad]\plf\Rshake\c[6]โลน่า：\c[0]    ทำไมคนพวกนี้ถึงทำตัวเหมือนคนบ้า?
+\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[8]\m[tired]\plf\Rshake\c[6]โลน่า：\c[0]    ฉันต้องหาทางออกจากที่นี่.
 
 ########################################################### DailyFree
 
 WakeRape/0_0
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\c[4]refugee：\c[0]    It's over!♥ I'm hungry!♥ It's time to eat!♥
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\c[4]ผู้ลี้ภัย：\c[0]    จบแล้ว!♥ หิวแล้ว!♥ ถึงเวลากินแล้ว!♥
 
 WakeRape/0_1
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\c[4]refugee：\c[0]    It's better to fuck a woman!♥ It's so much more comfortable to fuck!♥
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\c[4]ผู้ลี้ภัย：\c[0]    ยัดผู้หญิงดีกว่า!♥ ยัดแล้วสบายกว่า!♥
 
 WakeRape/0_2
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\c[4]refugee：\c[0]    Who am I? Where am I? What am I doing here?
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy3,4]\c[4]ผู้ลี้ภัย：\c[0]    ฉันเป็นใคร? ฉันอยู่ที่ไหน? ฉันทำอะไรที่นี่?
 
 ########################################################### daily celebrity 
 
 celebrity/0
-\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[2]\m[tired]\plf\PRF\c[6]Lona：\c[0]    *Sob*...
+\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[2]\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    *สะอึก*...
 
 celebrity/1
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy6,20]\SETpl[raper3]\Lshake\c[4]refugee：\c[0]    Thank you Saint for bringing us back our wet holes!
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy6,20]\SETpl[raper3]\Lshake\c[4]refugee：\c[0]    We will thoroughly enjoy every hole in her body!
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy1,4]\SETpl[raper1]\Lshake\c[4]refugee：\c[0]    Thank the Saint!♥
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy2,4]\SETpl[raper2]\Lshake\c[4]refugee：\c[0]    Praise the Saint!♥
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy5,4]\SETpl[raper1]\Lshake\c[4]refugee：\c[0]    Quickly end your prayers! I can't help it!
-\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy6,20]\SETpl[raper3]\Lshake\c[4]refugee：\c[0]    Fellow companions! Let's have some fun!
-\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[2]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Wait a moment... What?!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy6,20]\SETpl[raper3]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    ขอบคุณนักบุญที่นำรูเปียกกลับมาให้เรา!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy6,20]\SETpl[raper3]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    เราจะเพลิดเพลินกับทุกรูในร่างกายเธออย่างเต็มที่!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy1,4]\SETpl[raper1]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    ขอบคุณนักบุญ!♥
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy2,4]\SETpl[raper2]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    สรรเสริญนักบุญ!♥
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy5,4]\SETpl[raper1]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    รีบจบการสวดมนต์! ฉันอดใจไม่ไหวแล้ว!
+\SFXfile[Cursor2]\SFXset[50,25,4]\BonMP[RngGuy6,20]\SETpl[raper3]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    เพื่อนร่วมทาง! มาเล่นกันเถอะ!
+\SFXfile[Cursor2]\SFXset[50,60,4]\CBct[2]\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    รอแป๊บ... อะไร?!
 
 ########################################################### NapRape
 
 NapRape/0_0
-\SFXfile[Cursor2]\SFXset[50,25,4]\Lshake\c[4]refugee：\c[0]    Hey hey hey.... hole...
+\SFXfile[Cursor2]\SFXset[50,25,4]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    เฮ้ เฮ้ เฮ้.... รู...
 
 NapRape/0_1
-\SFXfile[Cursor2]\SFXset[50,25,4]\Lshake\c[4]refugee：\c[0]    Woman! It's a woman!
+\SFXfile[Cursor2]\SFXset[50,25,4]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    ผู้หญิง! เป็นผู้หญิง!
 
 NapRape/1
-\SFXfile[Cursor2]\SFXset[50,25,4]\Lshake\c[4]refugee：\c[0]    My cock is so hard....
+\SFXfile[Cursor2]\SFXset[50,25,4]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    ควยฉันแข็งมาก....
 
 NapRape/2
-\SFXfile[Cursor2]\SFXset[50,25,4]\Lshake\c[4]refugee：\c[0]    I want to do her...I can't help it...
+\SFXfile[Cursor2]\SFXset[50,25,4]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    อยากยัดเธอ... อดใจไม่ไหว...
 
 NapRape/angry
-\SFXfile[Cursor2]\SFXset[50,25,4]\Lshake\c[4]refugee：\c[0]    What are you doing?! Why don't you let me fuck!
+\SFXfile[Cursor2]\SFXset[50,25,4]\Lshake\c[4]ผู้ลี้ภัย：\c[0]    ทำอะไร?! ทำไมไม่ให้ฉันยัด!
 
 ########################################################### Qmsg
 
 Qmsg/0
-where am I? what am I doing here?
+ฉันอยู่ที่ไหน? ฉันทำอะไรที่นี่?
 
 Qmsg/1
-Cock so full...
+ควยเต็มมาก...
 
 Qmsg/2
-Are you a woman?!
+เธอเป็นผู้หญิง?!
 
 Qmsg/3
-I really want to fuck a woman...
+อยากยัดผู้หญิงมาก...
 
 Qmsg/Child0
-My asshole can't close.
+รูตูดฉันปิดไม่ได้.
 
 Qmsg/Child1
-I want to plug my hole...
+อยากอุดรู...
 
 Qmsg/Child2
-That flower is so bad...
+ดอกไม้นั่นเลวมาก...

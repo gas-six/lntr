@@ -1,931 +1,922 @@
 PageUp/item_name
-Previous Page
+หน้าก่อนหน้า
 
 PageUp/description
-\}Scrolls to your previous Skill Layout keys.\n
+\}เลื่อนไปยังหน้าทักษะก่อนหน้าของคุณ\n
 
 PageDown/item_name
-Next Page
+หน้าถัดไป
 
 ChainMaceNormal/item_name
-Meatspin
+หมุนเนื้อ
 
 ChainMaceNormal/description
-\}It's meat spinning time!\n
-\C[6]Attack at the tile you are facing.\n
-\C[6]Moveable after a charging period.\n
-\C[6]Striking.\n
-\C[1]Costs STA.\n
-\C[2]Ignores shields.\n
+\}ถึงเวลาหมุนเนื้อแล้ว!\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]เคลื่อนที่ได้หลังจากช่วงเตรียมตัว\n
+\C[6]ตี\n
+\C[1]ใช้ STA\n
+\C[2]ไม่สนใจโล่\n
 
 PageDown/description
-\}Scrolls to your next Skill Layout keys.\n
+\}เลื่อนไปยังหน้าทักษะถัดไปของคุณ\n
 
 BasicTailBash/item_name
-Tail Whip
+ฟาดหาง
 
 BasicTailBash/description
-\}Look Pa, no hands!\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile you are facing.\n
-\C[6]Knockback.\n
-\C[6]Striking.\n
-\C[6]Ambush.\n
-\C[6]Stun.\n
+\}ดูสิพ่อ ไม่ต้องใช้มือ!\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ผลัก\n
+\C[6]ตี\n
+\C[6]ลอบโจมตี\n
+\C[6]ทำให้ชา\n
 
 BasicSaintJudgment/item_name
-Judgment
+การตัดสิน
 
 BasicSaintJudgment/description
-\}Decide the fate of all Sins, Lies, and\n
-heretics with the Mallet of Vengeance.\n
-\C[6]Damage is affected by WIS, ATK, and CON.\n
-\C[6]Decreases target's DEF and SUR.\n
-\C[6]Attack at the tile where you are facing.\n
-\C[6]Slows target, Stun, Striking, Charge.\n
+\}ตัดสินชะตากรรมของบาปทั้งปวง ความเท็จ และ\n
+นักบวชที่หลงผิดด้วยค้อนแห่งการล้างแค้น\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS, ATK และ CON\n
+\C[6]ลด DEF และ SUR ของเป้าหมาย\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ช้าลง, ทำให้ชา, ตี, เตรียมตัว\n
 
 BasicProtectShield/item_name
-Holy Force Field
+สนามพลังศักดิ์สิทธิ์
 
 BasicProtectShield/description
-\}"For you shall protect the children\n
-of the Saint, Sister..."\n
-\C[6]Conjures a magical shield on the\n
-NPC/creature at the targeted location.\n
-\C[6]Shielding effect is affected by CON.\n
-\C[1]Costs STA.\n
+\}"เพราะเจ้าจะต้องปกป้องลูกๆ ของนักบุญ น้องสาว..."\n
+\C[6]สร้างโล่เวทย์มนตร์ให้กับ\n
+NPC/สิ่งมีชีวิตที่ตำแหน่งที่เล็งไว้\n
+\C[6]ผลของโล่ขึ้นอยู่กับ CON\n
+\C[1]ใช้ STA\n
 
 BasicSaintSmite/item_name
-Sacred Smite
+การตีศักดิ์สิทธิ์
 
 BasicSaintSmite/description
-\}Punish all blasphemers and show\n
-them the might of the Saint!\n
-\C[6]Damage is affected by WIS, ATK, and CON.\n
-\C[6]Attacks at the targeted location.\n
-\C[6]Striking.\n
-\C[1]Costs STA.\n
+\}ลงโทษผู้ที่ลบหลู่และแสดง\n
+พลังของนักบุญให้เขาเห็น!\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS, ATK และ CON\n
+\C[6]โจมตีตรงตำแหน่งที่เล็งไว้\n
+\C[6]ตี\n
+\C[1]ใช้ STA\n
 
 KatanaNormalHold/item_name
-Swift Slash
+ฟันเร็ว
 
 KatanaNormalHold/description
-\}Unsheath your blade and let your enemies know it's nothing personal...\n
-\C[6]Attack at the tile you are facing.\n
-\C[6]Slashing, Charge.\n
-\C[1]Costs STA.\n
+\}ชักดาบออกมาและให้ศัตรูรู้ว่าไม่ใช่เรื่องส่วนตัว...\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ฟัน, เตรียมตัว\n
+\C[1]ใช้ STA\n
 \n
-\C[2]Hold key to "charge" your attack.\n
-\C[2]Deals extra damage that ignores target's DEFense when fully charged.\n
+\C[2]กดค้างเพื่อ "เตรียมตัว" โจมตี\n
+\C[2]เมื่อเตรียมตัวเสร็จสมบูรณ์จะสร้างความเสียหายเพิ่มเติมที่ไม่สนใจ DEFense ของเป้าหมาย\n
 
 KatanaHeavy/item_name
-Crescent Moon Strike
+ฟันพระจันทร์เสี้ยว
 
 KatanaHeavy/description
-\}Only those who have studied "The Blade" can perform such a technique...\n
-That won't stop you from trying though!\n
-\C[6]Wide frontal attack that hits several enemies.\n
-\C[6]Slashing.\n
-\C[1]Costs STA.\n
+\}เฉพาะผู้ที่ศึกษา "ดาบ" เท่านั้นที่สามารถทำเทคนิคนี้ได้...\n
+แต่นั่นไม่ได้หยุดคุณจากการลอง!\n
+\C[6]โจมตีหน้ากว้างที่โจมตีศัตรูหลายตัว\n
+\C[6]ฟัน\n
+\C[1]ใช้ STA\n
 
 KatanaControl/item_name
-Flashing Sword
+ดาบวูบวาบ
 
 KatanaControl/description
-\}A sharp blade parry.\n
-For you are already dead.\n
-Dash through the slaughter...\n
-\C[6]Blocks incoming attacks for a short time.\n
-\C[6]Attack two tiles where you are facing.\n
-\C[6]Slashing, Charge.\n
-\C[1]Costs STA.\n
+\}ป้องกันดาบที่แหลมคม\n
+เพราะคุณตายไปแล้ว\n
+วิ่งผ่านการสังหาร...\n
+\C[6]ป้องกันการโจมตีที่มาถึงในช่วงเวลาสั้นๆ\n
+\C[6]โจมตีสองกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ฟัน, เตรียมตัว\n
+\C[1]ใช้ STA\n
 \n
-\C[2]Lona dashes through her target on a successful\n
-\C[2]hit if there is a free tile behind them.\n
+\C[2]ลนาจะวิ่งผ่านเป้าหมายของเธอเมื่อโจมตีสำเร็จ\n
+\C[2]หากมีกระเบื้องว่างอยู่ด้านหลังเป้าหมาย\n
 \n
 \n
 \n
-\C[0]Haiku.\n
+\C[0]ไฮกุ\n
 
 BasicBattleStandard/item_name
-Flag of Justice
+ธงแห่งความยุติธรรม
 
 BasicBattleStandard/description
-\}"Under the guidance of the Saint,\n
-we are stronger TOGETHER!"\n
-\C[6]Heals nearby companions.\n
-\C[6]Healing effect is affected by CON.\n
-\C[6]Buffs companions' WIS, SUR, DEF, ATK, and Mood while active.\n
-\C[6]Hold key to cast.\n
-\C[1]Costs STA.\n
+\}"ภายใต้การนำของนักบุญ\n
+เราแข็งแกร่งขึ้นเมื่ออยู่ด้วยกัน!"\n
+\C[6]รักษาเพื่อนร่วมทีมใกล้เคียง\n
+\C[6]ผลการรักษาขึ้นอยู่กับ CON\n
+\C[6]เพิ่ม WIS, SUR, DEF, ATK และอารมณ์ของเพื่อนร่วมทีมขณะที่ใช้งาน\n
+\C[6]กดค้างเพื่อใช้\n
+\C[1]ใช้ STA\n
 
 BasicNunHeal/item_name
-Mend Soul
+รักษาวิญญาณ
 
 BasicNunHeal/description
-\}"If you fools keep squirming around, I WON'T heal you!"\n
-\C[6]Heals the NPC/creature in front of the direction\n
-\C[6]Lona is facing.\n
-\C[6]Healing effect is affected by CON.\n
-\C[6]Hold key to cast.\n
-\C[1]Costs STA.\n
+\}"ถ้าพวกท่านไม่หยุดขยับไปมา ฉันจะไม่รักษาท่านนะ!"\n
+\C[6]รักษา NPC/สิ่งมีชีวิตที่อยู่ด้านหน้าทิศทาง\n
+\C[6]ที่ลนาหันหน้าไป\n
+\C[6]ผลการรักษาขึ้นอยู่กับ CON\n
+\C[6]กดค้างเพื่อใช้\n
+\C[1]ใช้ STA\n
 
 BasicAbomGrab/item_name
-Tendril Whip
+ฟาดเส้นใย
 
 BasicAbomGrab/description
-\}Show the world what crawls under your skin...\n
-\C[6]Swing your tendrils and attack where you are facing.\n
-\C[2]Single tap of ability's key propels Lona\n
-\C[2]towards the targeted area.\n
+\}แสดงให้โลกเห็นสิ่งที่คลานอยู่ใต้ผิวของคุณ...\n
+\C[6]แกว่งเส้นใยของคุณและโจมตีที่ทิศทางที่คุณหันหน้าไป\n
+\C[2]กดครั้งเดียวของคีย์ความสามารถจะผลักลนา\n
+\C[2]ไปยังพื้นที่ที่เล็งไว้\n
 \n
-\C[4]Hold key to "charge" your appendage.\n
-\C[6]Once fully charged, Lona stays in place and\n
-\C[6]flail her tentacles at the targeted area.\n
-\C[6]Anyone that is unfortunate to be in the way of\n
-\C[6]her tentacles will be \C[2]"Grappled"\C[6]...\n
-\C[2]Grappled targets are pulled towards you and\n
-\C[2]have a high chance of being stunned.\n
-\C[1]Costs STA and HP.\n
-\C[6]Stun, Uninterruptible.\n
+\C[4]กดค้างเพื่อ "เตรียมตัว" อวัยวะของคุณ\n
+\C[6]เมื่อเตรียมตัวเสร็จสมบูรณ์ ลนาจะอยู่กับที่และ\n
+\C[6]ฟาดเส้นใยของเธอไปยังพื้นที่ที่เล็งไว้\n
+\C[6]ใครก็ตามที่โชคร้ายมาอยู่ในทางของ\n
+\C[6]เส้นใยของเธอจะถูก \C[2]"จับตัว"\C[6]...\n
+\C[2]เป้าหมายที่ถูกจับตัวจะถูกดึงเข้ามาหาคุณและ\n
+\C[2]มีโอกาสสูงที่จะถูกทำให้ชา\n
+\C[1]ใช้ STA และ HP\n
+\C[6]ทำให้ชา, ไม่ถูกขัดจังหวะ\n
 
 BasicAbomEatDed/item_name
-Desecrate
+กราดเกลื่อน
 
 BasicAbomEatDed/description
-\}Defile the flesh of the fallen...\n
-\C[4]Lona must be standing on top of a \C[6]fresh\n
-\C[4]corpse to make use of this ability.\n
-\C[1]Decreases Morality per successful use.\n
-\C[1]Costs STA and Mood.\n
+\}กราดเกลื่อนเนื้อของผู้ตาย...\n
+\C[4]ลนาต้องยืนอยู่บน \C[6]ศพสด\n
+\C[4]เพื่อใช้ความสามารถนี้\n
+\C[1]ลดความศีลธรรมต่อการใช้งานที่ประสบความสำเร็จ\n
+\C[1]ใช้ STA และอารมณ์\n
 \n
-\C[0]Infestation\n
-\C[0]"Redefine evolution..."\n
-\C[2]Summons a monster from the chosen remains.\n
-\C[6]Stats of summoned NPCs are affected by\n
-\C[6]corpse's previous stats.\n
+\C[0]การติดเชื้อ\n
+\C[0]"นิยามวิวัฒนาการใหม่..."\n
+\C[2]เรียกสัตว์ประหลาดจากซากที่เลือก\n
+\C[6]สถิติของ NPC ที่เรียกมาขึ้นอยู่กับ\n
+\C[6]สถิติก่อนหน้าของศพ\n
 \n
-\C[0]Devour Remains\n
-\C[0]"Hunt, kill, consume..."\n
-\C[4]Lona devours corpses to regenerate herself.\n
-\C[2]Eating corpses will increase HP and STA.\n
-\C[6]Hold key to cast.\n
+\C[0]กินซาก\n
+\C[0]"ล่า, ฆ่า, กิน..."\n
+\C[4]ลนากินซากเพื่อฟื้นฟูตัวเอง\n
+\C[2]การกินซากจะเพิ่ม HP และ STA\n
+\C[6]กดค้างเพื่อใช้\n
 
 SaintSymNormal/item_name
-Exorcise
+ขับไล่
 
 SaintSymNormal/description
-\}Banish all Evil, Lies, and false Gods\n
-in the name of the Saint!\n
-\C[6]Large AoE Stun.\n
-\C[1]Costs large amount of STA.\n
-\C[6]Hold key to cast.\n
+\}ขับไล่ความชั่วร้ายทั้งปวง ความเท็จ และเทพเท็จ\n
+ในนามของนักบุญ!\n
+\C[6]AoE ทำให้ชาขนาดใหญ่\n
+\C[1]ใช้ STA จำนวนมาก\n
+\C[6]กดค้างเพื่อใช้\n
 
 BroadSwordNormal/item_name
-Cleave
+ฟันกว้าง
 
 BroadSwordNormal/description
 \}\n
-\C[6]Wide frontal attack that hits several enemies.\n
-\C[6]Moveable after a charging period.\n
-\C[6]Uninterruptible slashing attack.\n
-\C[1]Costs STA.\n
+\C[6]โจมตีหน้ากว้างที่โจมตีศัตรูหลายตัว\n
+\C[6]เคลื่อนที่ได้หลังจากช่วงเตรียมตัว\n
+\C[6]โจมตีฟันที่ไม่ถูกขัดจังหวะ\n
+\C[1]ใช้ STA\n
 
 TeslaStaffNormal/item_name
-Electric Arc
+สายฟ้าพุ่ง
 
 TeslaStaffNormal/description
-\}"I have always been ahead of my time."\n
-\C[6]Shoot bolts of lightning at the direction you're facing.\n
-\C[6]Damage is affected by WIS.\n
-\C[6]Hold key to cast.\n
-\C[6]Slows target.\n
-\C[1]Costs STA and Mood.\n
+\}"ฉันเคยอยู่ข้างหน้ายุคสมัยของฉันเสมอ"\n
+\C[6]ยิงสายฟ้าไปที่ทิศทางที่คุณหันหน้าไป\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ช้าลง\n
+\C[1]ใช้ STA และอารมณ์\n
 \n
 \n
-\C[0]UNLIMITED POWAH!!!.\n
+\C[0]พลังไม่จำกัด!!!\n
 
 TeslaBookHeavy/item_name
-Atmospheric Discharge
+การปลดปล่อยบรรยากาศ
 
 TeslaBookHeavy/description
-\}"All people everywhere should have free energy sources."\n
-\C[6]Rain down thunder at a targeted area.\n
-\C[6]Damage is affected by WIS.\n
-\C[6]Slows target.\n
-\C[1]Costs STA and Mood.\n
+\}"ทุกคนทั่วโลกควรมีแหล่งพลังงานฟรี"\n
+\C[6]ฝนฟ้าคำรามลงมาที่พื้นที่ที่เล็งไว้\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS\n
+\C[6]ช้าลง\n
+\C[1]ใช้ STA และอารมณ์\n
 
 TeslaBookControl/item_name
-Tesla Coil
+ขดลวดเทสลา
 
 TeslaBookControl/description
-\}"Be alone, that is the secret of invention;\n
-be alone, that is when ideas are born."\n
-\C[6]Summons a single antenna at the targeted location.\n
-\C[6]Only 1 antenna can be summoned at a time.\n
-\C[1]Costs STA and Mood.\n
+\}"อยู่คนเดียว นั่นคือความลับของการประดิษฐ์;\n
+อยู่คนเดียว นั่นคือเมื่อไอเดียเกิดขึ้น"\n
+\C[6]เรียกเสาอากาศเดี่ยวที่ตำแหน่งที่เล็งไว้\n
+\C[6]สามารถเรียกเสาอากาศได้เพียง 1 ตัวในเวลาเดียวกัน\n
+\C[1]ใช้ STA และอารมณ์\n
 
 PickAxeNormal/item_name
-Dig
+ขุด
 
 PickAxeNormal/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile you are facing.\n
-\C[6]Piercing.\n
-\C[6]Slows target.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ทะลุ\n
+\C[6]ช้าลง\n
 
 SickleNormal/item_name
-Slash
+ฟัน
 
 SickleNormal/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile you are facing.\n
-\C[6]Slashing.\n
-\C[6]Ambush.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ฟัน\n
+\C[6]ลอบโจมตี\n
+\C[6]ทำให้ชา\n
 
 BasicDeepone/item_name
-Awaken
+ตื่น
 
 BasicDeepone/description
-\}Transform between your human or Sea Witch\n
-form.\n
-\C[5]Lona will become and remain naked during\n
-her Sea Witch form.\n
-\C[2]The Sea Witch form temporarily grants Lona\n
-the "Semen Demon" Trait.\n
-\C[1]The metamorphosis from the Sea Witch back\n
-to Lona's human form will cause an emergence\n
-of ill and severe adverse effects.\n
-\C[6]Hold key to cast.\n
+\}เปลี่ยนร่างระหว่างรูปแบบมนุษย์หรือแม่มดทะเล\n
+\C[5]ลนาจะเปลือยกายระหว่างรูปแบบแม่มดทะเล\n
+\C[2]รูปแบบแม่มดทะเลจะให้ลนาได้รับ "ลักษณะเดรัจฉาน" ชั่วคราว\n
+\C[1]การเปลี่ยนร่างจากแม่มดทะเลกลับมาเป็นรูปแบบมนุษย์ของลนาจะทำให้เกิดผลกระทบที่ไม่ดีและรุนแรง\n
+\C[6]กดค้างเพื่อใช้\n
 
 DeeponeHeavy/item_name
-Summon Siren
+เรียกไซเรน
 
 DeeponeHeavy/description
-\}"Maidens of the deep sea!"\n
-"Heed my call..."\n
-"Rally to me, and defend your Goddess!"\n
-\C[6]Summons a Deepone minion near your location.\n
-\C[6]Stats of summoned NPCs are affected by WIS.\n
-\C[6]Lona can only have 2 summoned NPCs at a time.\n
-\C[1]Costs STA.\n
-\C[6]Hold key to cast.\n
+\}"สาวใช้แห่งท้องทะเล!"\n
+"ฟังเสียงเรียกของฉัน..."\n
+"รวมตัวกัน และปกป้องเทพีของเจ้า!"\n
+\C[6]เรียกลูกสมุน Deepone ใกล้ตำแหน่งของคุณ\n
+\C[6]สถิติของ NPC ที่เรียกมาขึ้นอยู่กับ WIS\n
+\C[6]ลนาสามารถมี NPC ที่เรียกมาได้เพียง 2 ตัวในเวลาเดียวกัน\n
+\C[1]ใช้ STA\n
+\C[6]กดค้างเพื่อใช้\n
 
 MusketHeavyRLD/item_name
-Reload
+เติมกระสุน
 
 MusketHeavyRLD/description
-\}Loads a new bullet in your firearm. Groovy...\n
-\C[1]Costs STA.\n
-\C[6]Hold key to cast.\n
+\}ใส่กระสุนใหม่ในอาวุธปืนของคุณ สุดยอด...\n
+\C[1]ใช้ STA\n
+\C[6]กดค้างเพื่อใช้\n
 
 TalkieControl/item_name
-Fire from the sky
+ยิงจากฟ้า
 
 TalkieControl/description
-\}Rain justice from above with a click of a button!\n
-\C[1]Costs STA and Mood.\n
-\C[6]Damage is affected by WIS.\n
-\C[6]Explosion.\n
-\C[6]Stun.\n
-\C[6]Cannot move when activated.\n
+\}ฝนความยุติธรรมจากด้านบนด้วยการกดปุ่ม!\n
+\C[1]ใช้ STA และอารมณ์\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS\n
+\C[6]ระเบิด\n
+\C[6]ทำให้ชา\n
+\C[6]ไม่สามารถเคลื่อนที่ได้เมื่อเปิดใช้งาน\n
 
 LanternHeavy/item_name
-Scorch
+เผา
 
 LanternHeavy/description
-\}Burn, monster!\n
-\C[1]Costs STA.\n
-\C[6]Burns any target in front of you.\n
-\C[6]Damage is affected by SUR.\n
-\C[6]Hold key to cast.\n
+\}ไหม้เถอะ ปีศาจ!\n
+\C[1]ใช้ STA\n
+\C[6]เผาเป้าหมายที่อยู่ด้านหน้าคุณ\n
+\C[6]ความเสียหายขึ้นอยู่กับ SUR\n
+\C[6]กดค้างเพื่อใช้\n
 
 MusketHeavy/item_name
-Fire weapon
+ยิงอาวุธ
 
 MusketHeavy/description
-\}This... is my BOOMSTICK!\n
-\C[6]Shoots at the targeted location.\n
-\C[6]Hold key to aim, release key to fire.\n
-\C[1]Must reload after each shot.\n
-\C[1]Costs STA to shoot and reload.\n
-\C[1]Hold key to load a new bullet after firing.\n
-\C[6]HP Damage is affected by WIS.\n
-\C[6]STA Damage is affected by ATK.\n
-\C[6]Slow... Like a primitive screwhead.\n
+\}นี่... คือปืนของฉัน!\n
+\C[6]ยิงไปที่ตำแหน่งที่เล็งไว้\n
+\C[6]กดค้างเพื่อเล็ง ปล่อยคีย์เพื่อยิง\n
+\C[1]ต้องเติมกระสุนหลังจากยิงแต่ละครั้ง\n
+\C[1]ใช้ STA เพื่อยิงและเติมกระสุน\n
+\C[1]กดค้างเพื่อใส่กระสุนใหม่หลังจากยิง\n
+\C[6]ความเสียหาย HP ขึ้นอยู่กับ WIS\n
+\C[6]ความเสียหาย STA ขึ้นอยู่กับ ATK\n
+\C[6]ช้า... เหมือนหัวน็อตดั้งเดิม\n
 
 BasicSteal/item_name
-Steal
+ขโมย
 
 BasicSteal/description
-\}I'm not doing anything wrong!\n
-I just want to live.\n
-\C[6]Success chance based on SCU.\n
-\C[6]Success chance affected by target's sensor.\n
-\C[6]Only usable on sentient NPCs/creatures.\n
-\C[1]Costs STA.\n
-\C[6]Hold key to cast.\n
-\C[6]Ambush.\n
+\}ฉันไม่ได้ทำอะไรผิด!\n
+ฉันแค่อยากมีชีวิตอยู่\n
+\C[6]โอกาสสำเร็จขึ้นอยู่กับ SCU\n
+\C[6]โอกาสสำเร็จได้รับผลกระทบจากเซ็นเซอร์ของเป้าหมาย\n
+\C[6]ใช้ได้เฉพาะกับ NPC/สิ่งมีชีวิตที่มีสติ\n
+\C[1]ใช้ STA\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ลอบโจมตี\n
 
 BasicAssemblyCall/item_name
-Rally Trumpet
+แตรเรียกรวมพล
 
 BasicAssemblyCall/description
-\}Teammates move towards Lona.\n
-Hold the \C[6]Sprint Key\C[0] to have teammates\n
-stay in position.\n
+\}เพื่อนร่วมทีมเคลื่อนที่มาหาลนา\n
+กดค้าง \C[6]คีย์วิ่ง\C[0] เพื่อให้เพื่อนร่วมทีม\n
+อยู่กับที่\n
 
 BasicFuckerGrab/item_name
-Juicing
+รีดน้ำ
 
 BasicFuckerGrab/description
-\}All men are my type... ❤️\n
-\C[6]Target is forced into sex battle.\n
-\C[6]Unable to target those that cannot make love.\n
-\C[1]Costs STA.\n
-\C[6]Hold key to cast.\n
-\C[6]Ambush.\n
+\}ผู้ชายทุกคนเป็นแบบที่ฉันชอบ... ❤️\n
+\C[6]บังคับเป้าหมายเข้าสู่การต่อสู้ทางเพศ\n
+\C[6]ไม่สามารถเลือกเป้าหมายที่ไม่สามารถมีเพศสัมพันธ์ได้\n
+\C[1]ใช้ STA\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ลอบโจมตี\n
 \n
-\C[0]Press the \C[4]Arrow Keys\C[0]\n
-while casting to choose a position.\n
-\C[6]None： Random (RNG)\n
-\C[6]Up： Vaginal\n
-\C[6]Down： Anal\n
-\C[6]Left and Right： Mouth\n
+\C[0]กด \C[4]คีย์ลูกศร\C[0]\n
+ขณะใช้งานเพื่อเลือกท่า\n
+\C[6]ไม่มี： สุ่ม (RNG)\n
+\C[6]ขึ้น： ช่องคลอด\n
+\C[6]ลง： รูตูด\n
+\C[6]ซ้ายและขวา： ปาก\n
 
 BasicSetDarkPot/item_name
-Dark Cauldron
+หม้อมืด
 
 BasicSetDarkPot/description
-\}You gotta do the cooking by the book!\n
-\C[2]Creates a dark cauldron at the area you're facing.\n
-\C[2]Interact with the cauldron to cook with it.\n
-\C[6]Requires 1 Wooden Club.\n
-\C[1]Required item is destroyed after skill is cast.\n 
-\C[1]Costs STA.\n
-\C[6]Unusable during combat.\n
-\C[6]Hold key to cast.\n
+\}คุณต้องทำอาหารตามหนังสือ!\n
+\C[2]สร้างหม้อมืดที่พื้นที่ที่คุณหันหน้าไป\n
+\C[2]โต้ตอบกับหม้อเพื่อทำอาหารด้วยมัน\n
+\C[6]ต้องการไม้กระบอง 1 ชิ้น\n
+\C[1]สิ่งของที่ต้องการจะถูกทำลายหลังจากใช้ทักษะ\n 
+\C[1]ใช้ STA\n
+\C[6]ไม่สามารถใช้ในการต่อสู้\n
+\C[6]กดค้างเพื่อใช้\n
 
 DebugPrintChar/item_name
-DebugTarget
+เป้าหมายการดีบัก
 
 DebugPrintChar/description
-DevTool
+เครื่องมือพัฒนา
 
 sys_normal/item_name
-Ability 1
+ความสามารถ 1
 
 sys_normal/description
 \}\n
-\C[1]Ability is unusable.\n
+\C[1]ความสามารถไม่สามารถใช้งานได้\n
 
 sys_heavy/item_name
-Ability 2
+ความสามารถ 2
 
 sys_heavy/description
 \}\n
-\C[1]Ability is unusable.\n
+\C[1]ความสามารถไม่สามารถใช้งานได้\n
 
 sys_control/item_name
-Ability 3
+ความสามารถ 3
 
 sys_control/description
 \}\n
-\C[1]Ability is unusable.\n
+\C[1]ความสามารถไม่สามารถใช้งานได้\n
 
 BasicTrapItem/item_name
-Create Trap
+สร้างกับดัก
 
 BasicTrapItem/description
-\}I don't like fighting my enemies face to face.\n
-\C[6]Destroys the item in the EXT-1~5 item slot\n
-to create a trap at the direction you're facing.\n
-\C[2]Damage dealt by the trap is affected by\n
-SUR and item's weight.\n
-\C[1]Costs STA.\n
-\C[6]Hold key to cast.\n
-\C[6]Shift：\C[0] Automatically pick up a rock and use as a trap.\n
+\}ฉันไม่ชอบต่อสู้กับศัตรูแบบตัวต่อตัว\n
+\C[6]ทำลายสิ่งของในช่อง EXT-1~5\n
+เพื่อสร้างกับดักที่ทิศทางที่คุณหันหน้าไป\n
+\C[2]ความเสียหายที่กับดักสร้างขึ้นขึ้นอยู่กับ\n
+SUR และน้ำหนักของสิ่งของ\n
+\C[1]ใช้ STA\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]Shift：\C[0] หยิบหินมาใช้เป็นกับดักโดยอัตโนมัติ\n
 
 BasicQuickExt1/item_name
-Use EXT-1
+ใช้ EXT-1
 
 BasicQuickExt1/description
 \}\n
-\C[2]Use item in EXT-1 slot.\n
-\C[6]Ctrl：\C[0] Discard EXT-1 item.\n
-\C[6]Shift：\C[0] Use EXT-1 item's skill.\n
+\C[2]ใช้สิ่งของในช่อง EXT-1\n
+\C[6]Ctrl：\C[0] ทิ้งสิ่งของใน EXT-1\n
+\C[6]Shift：\C[0] ใช้ทักษะของสิ่งของใน EXT-1\n
 
 BasicQuickExt2/item_name
-Use EXT-2
+ใช้ EXT-2
 
 BasicQuickExt2/description
 \}\n
-\C[2]Use item in EXT-2 slot.\n
-\C[6]Ctrl：\C[0] Discard EXT-2 item.\n
-\C[6]Shift：\C[0] Use EXT-2 item's skill.\n
+\C[2]ใช้สิ่งของในช่อง EXT-2\n
+\C[6]Ctrl：\C[0] ทิ้งสิ่งของใน EXT-2\n
+\C[6]Shift：\C[0] ใช้ทักษะของสิ่งของใน EXT-2\n
 
 BasicQuickExt3/item_name
-Use EXT-3
+ใช้ EXT-3
 
 BasicQuickExt3/description
 \}\n
-\C[2]Use item in EXT-3 slot.\n
-\C[6]Ctrl：\C[0] Discard EXT-3 item.\n
-\C[6]Shift：\C[0] Use EXT-3 item's skill.\n
+\C[2]ใช้สิ่งของในช่อง EXT-3\n
+\C[6]Ctrl：\C[0] ทิ้งสิ่งของใน EXT-3\n
+\C[6]Shift：\C[0] ใช้ทักษะของสิ่งของใน EXT-3\n
 
 BasicQuickExt4/item_name
-Use EXT-4
+ใช้ EXT-4
 
 BasicQuickExt4/description
 \}\n
-\C[2]Use item in EXT-4 slot.\n
-\C[6]Ctrl：\C[0] Discard EXT-4 item.\n
-\C[6]Shift：\C[0] Use EXT-4 item's skill.\n
+\C[2]ใช้สิ่งของในช่อง EXT-4\n
+\C[6]Ctrl：\C[0] ทิ้งสิ่งของใน EXT-4\n
+\C[6]Shift：\C[0] ใช้ทักษะของสิ่งของใน EXT-4\n
 
 BasicQuickExt5/item_name
-Use EXT-5
+ใช้ EXT-5
 
 BasicQuickExt5/description
 \}\n
-\C[2]Use item in EXT-5 slot.\n
-\C[6]Ctrl：\C[0] Discard EXT-5 item.\n
-\C[6]Shift：\C[0] Use EXT-5 item's skill.\n
+\C[2]ใช้สิ่งของในช่อง EXT-5\n
+\C[6]Ctrl：\C[0] ทิ้งสิ่งของใน EXT-5\n
+\C[6]Shift：\C[0] ใช้ทักษะของสิ่งของใน EXT-5\n
 
 FireBookControl/item_name
-Bombardment
+การยิงปืนใหญ่
 
 FireBookControl/description
-\}Close your eyes and cover your ears!\n
-FIRE IN THE HOLE!\n
-\C[6]Bombard the targeted location.\n
-\C[1]Costs STA and Mood.\n
-\C[6]Damage is affected by WIS.\n
-\C[6]Explosion.\n
-\C[6]Stun.\n
-\C[6]Slows target.\n
+\}ปิดตาและปิดหูของคุณ!\n
+ไฟในหลุม!\n
+\C[6]ยิงปืนใหญ่ที่ตำแหน่งที่เล็งไว้\n
+\C[1]ใช้ STA และอารมณ์\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS\n
+\C[6]ระเบิด\n
+\C[6]ทำให้ชา\n
+\C[6]ช้าลง\n
 
 FireBookHeavy/item_name
-Wall of Fire
+กำแพงไฟ
 
 FireBookHeavy/description
-\}A barrier of flames should protect me\n
-from bad guys and viruses!\n
-\C[6]Conjure up a wall of flames at the selected location.\n
-\C[1]Costs STA and Mood.\n
-\C[6]Damage is affected by WIS.\n
-\C[6]Striking.\n
-\C[6]Slows target.\n
+\}กำแพงเปลวไฟควรปกป้องฉัน\n
+จากคนร้ายและไวรัส!\n
+\C[6]สร้างกำแพงเปลวไฟที่ตำแหน่งที่เลือก\n
+\C[1]ใช้ STA และอารมณ์\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS\n
+\C[6]ตี\n
+\C[6]ช้าลง\n
 
 FireStaffNormal/item_name
-Fireball
+ลูกไฟ
 
 FireStaffNormal/description
-\}Catch this!\n
-\C[1]Costs STA and Mood.\n
-\C[6]Ranged, Explosion\n
-\C[6]Damage is affected by WIS.\n
-\C[6]Hold key to cast.\n
-\C[6]Striking.\n
-\C[6]Slows target.\n
+\}รับนี่!\n
+\C[1]ใช้ STA และอารมณ์\n
+\C[6]ระยะไกล, ระเบิด\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ตี\n
+\C[6]ช้าลง\n
 
 WaterStaffNormal/item_name
-Water Shot
+ยิงน้ำ
 
 WaterStaffNormal/description
-\}In your face!\n
-\C[1]Costs STA and Mood.\n
-\C[6]Ranged, Knockback\n
-\C[6]Damage is affected by WIS.\n
-\C[6]Piercing.\n
-\C[6]Slows target.\n
+\}ใส่หน้าเลย!\n
+\C[1]ใช้ STA และอารมณ์\n
+\C[6]ระยะไกล, ผลัก\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS\n
+\C[6]ทะลุ\n
+\C[6]ช้าลง\n
 
 WaterBookHeavy/item_name
-Water Nova
+น้ำโนวา
 
 WaterBookHeavy/description
-\}Get away from me!\n
-\C[6]Releases a shock wave around you.\n
-\C[1]Costs STA and Mood.\n
-\C[6]Knockback.\n
-\C[6]Damage is affected by WIS.\n
-\C[6]Hold key to cast.\n
-\C[6]Piercing.\n
-\C[6]Slows target.\n
+\}ออกไปจากฉัน!\n
+\C[6]ปล่อยคลื่นกระแทกรอบตัวคุณ\n
+\C[1]ใช้ STA และอารมณ์\n
+\C[6]ผลัก\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ทะลุ\n
+\C[6]ช้าลง\n
 
 DeeponeControl/item_name
-Mist
+หมอก
 
 DeeponeControl/description
-\}You can't see me!\n
-\C[6]Summons a cloud of mist at the designated area.\n
-\C[1]Costs STA and Mood.\n
+\}คุณมองไม่เห็นฉัน!\n
+\C[6]เรียกเมฆหมอกที่พื้นที่ที่กำหนด\n
+\C[1]ใช้ STA และอารมณ์\n
 
 WaterBookControl/item_name
-Water Tornado
+ทอร์นาโดน้ำ
 
 WaterBookControl/description
-\}I believe I can make you fly!\n
-\C[6]Summons a water tornado at the selected location.\n
-\C[1]Costs STA and Mood.\n
-\C[6]Damage is affected by WIS.\n
-\C[6]Piercing.\n
-\C[6]Slows target.\n
+\}ฉันเชื่อว่าฉันสามารถทำให้คุณบินได้!\n
+\C[6]เรียกทอร์นาโดน้ำที่ตำแหน่งที่เลือก\n
+\C[1]ใช้ STA และอารมณ์\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS\n
+\C[6]ทะลุ\n
+\C[6]ช้าลง\n
 
 BasicLetterMenu/item_name
-Read Mail
+อ่านจดหมาย
 
 BasicLetterMenu/description
 \}\n
-\C[1]Opens the mail menu.\n
+\C[1]เปิดเมนูจดหมาย\n
 
 BasicThrow/item_name
-Throw
+ขว้าง
 
 BasicThrow/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Ambush.\n
-\C[2]Draws the attention of NPCs/creatures nearby\n
-and temporarily distracts them.\n
+\C[1]ใช้ STA\n
+\C[6]ลอบโจมตี\n
+\C[2]ดึงความสนใจของ NPC/สิ่งมีชีวิตใกล้เคียง\n
+และทำให้เบี่ยงเบนความสนใจชั่วคราว\n
 
 BasicSetCamp/item_name
-Set Camp
+ตั้งแคมป์
 
 BasicSetCamp/description
 \}\n
-\C[2]Rest and recover STAmina.\n
-\C[1]Costs food.\n
-\C[6]Unusable during combat.\n
-\C[6]Unusable at some specific locations.\n
+\C[2]พักผ่อนและฟื้นฟู STAmina\n
+\C[1]ใช้อาหาร\n
+\C[6]ไม่สามารถใช้ในการต่อสู้\n
+\C[6]ไม่สามารถใช้ในบางสถานที่\n
 
 BasicNap/item_name
-Rest
+พัก
 
 BasicNap/description
 \}\n
-\C[0]Relax\n
-\C[4]Relax can be used anytime/anywhere.\n
-This will increase STAmina while also\n
-decreasing Food. Has no effect when Food <10.\n
+\C[0]ผ่อนคลาย\n
+\C[4]ผ่อนคลายสามารถใช้ได้ทุกที่ทุกเวลา\n
+จะเพิ่ม STAmina ขณะที่ลดอาหารด้วย ไม่มีผลเมื่ออาหาร <10\n
 \n
-\C[0]Sleep\n
-\C[4]Sleep by holding the \C[6]Sprint Key\C[4].\n
-\C[2]Sleeping greatly recovers STAmina.\n
-\C[5]Time passes.\n
-\C[1]Decreases Food.\n
-\C[6]Unusable during combat.\n
-\C[6]Unusable at some specific locations.\n
+\C[0]นอน\n
+\C[4]นอนโดยการกดค้าง \C[6]คีย์วิ่ง\C[4]\n
+\C[2]การนอนจะฟื้นฟู STAmina ได้มาก\n
+\C[5]เวลาผ่านไป\n
+\C[1]ลดอาหาร\n
+\C[6]ไม่สามารถใช้ในการต่อสู้\n
+\C[6]ไม่สามารถใช้ในบางสถานที่\n
 
 BasicSlipped/item_name
-Slip and fall
+ลื่นล้ม
 
 BasicSlipped/description
 \}\n
 \C[6]\{KYAAAH!!!\n\}
-\C[1]Lona slips and hits her head on the floor...\n
-When activated, sets STAmina to -100\n
-and Lona will faint.
+\C[1]ลนาลื่นและกระแทกศีรษะกับพื้น...\n
+เมื่อใช้งานจะตั้ง STAmina เป็น -100\n
+และลนาจะหมดสติ
 
 BasicPickRock/item_name
-Pick up Rocks
+เก็บหิน
 
 BasicPickRock/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Pick up a rock.\n
-\C[2]Adds 1 Rock to your inventory.
+\C[1]ใช้ STA\n
+\C[6]เก็บหิน\n
+\C[2]เพิ่มหิน 1 ก้อนในช่องเก็บของ
 
 BasicNeeds/item_name
-Basic needs
+ความต้องการพื้นฐาน
 
 BasicNeeds/description
 \}\n
-\C[6]Unusable in combat.\n
-\C[6]Can execute the following commands below.\n
-\C[2]Bathe\n
-\C[2]Relieve yourself (Urinate and Poop)\n
-\C[2]Masturbate\n
-\C[2]Clean privates\n
-\C[2]Collect breast milk\n
-\C[2]Attempt to break your restraints\n
+\C[6]ไม่สามารถใช้ในการต่อสู้\n
+\C[6]สามารถดำเนินคำสั่งต่อไปนี้\n
+\C[2]อาบน้ำ\n
+\C[2]ระบาย (ปัสสาวะและถ่ายอุจจาระ)\n
+\C[2]ช่วยตัวเอง\n
+\C[2]ทำความสะอาดอวัยวะเพศ\n
+\C[2]รวบรวมน้ำนม\n
+\C[2]พยายามทำลายพันธนาการของคุณ\n
 
 BasicSubmit/item_name
-Surrender
+ยอมจำนน
 
 BasicSubmit/description
 \}\n
-\C[6]Give up and surrender?!\n
-\C[1]Lona drops all of her current equipment\n
-and is stunned in place.\n
+\C[6]ยอมแพ้และจำนน?!\n
+\C[1]ลนาทิ้งอุปกรณ์ทั้งหมดที่เธอมี\n
+และถูกทำให้ชาในที่\n
 
 AbominationTotemControl/item_name
-Summon Tentacle
+เรียกเส้นใย
 
 AbominationTotemControl/description
-\}"...At least it's on my side."\n
-\C[6]Summons a tentacle monster in front of you.\n
-\C[6]Stats of summoned NPCs are affected by WIS.\n
-\C[1]Costs STA and Mood.\n
-\C[6]Hold key to cast.\n
-\C[6]Piercing.\n
-\C[6]Slows target.\n
+\}"...อย่างน้อยมันก็อยู่ฝ่ายฉัน"\n
+\C[6]เรียกสัตว์ประหลาดเส้นใยด้านหน้าคุณ\n
+\C[6]สถิติของ NPC ที่เรียกมาขึ้นอยู่กับ WIS\n
+\C[1]ใช้ STA และอารมณ์\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ทะลุ\n
+\C[6]ช้าลง\n
 
 AbominationTotemHeavy/item_name
-Malicious Spore
+สปอร์ร้ายกาจ
 
 AbominationTotemHeavy/description
 \}\n
-\C[6]Summons a malicious spore in front of you.\n
-\C[6]The spore travels forward a short range before exploding.\n
-\C[6]Once exploded, a pool of mysterious liquid will spray out.\n
-\C[6]The mysterious liquid causes DOT to those who stand on it.\n
-\C[6]Stats of summoned NPCs are affected by WIS.\n
+\C[6]เรียกสปอร์ร้ายกาจด้านหน้าคุณ\n
+\C[6]สปอร์จะเดินทางไปข้างหน้าในระยะสั้นก่อนระเบิด\n
+\C[6]เมื่อระเบิด จะมีน้ำของลึกลับพ่นออกมา\n
+\C[6]น้ำของลึกลับทำให้เกิด DOT กับผู้ที่ยืนอยู่บนมัน\n
+\C[6]สถิติของ NPC ที่เรียกมาขึ้นอยู่กับ WIS\n
 \n
-\C[1]Costs STA and Mood.\n
-\C[6]Hold key to cast.\n
-\C[6]Piercing.\n
-\C[6]Slows target.\n
+\C[1]ใช้ STA และอารมณ์\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ทะลุ\n
+\C[6]ช้าลง\n
 
 AbominationTotemWorm/item_name
-Summon Leech
+เรียกปลิง
 
 AbominationTotemWorm/description
 \}\n
-\C[1]Costs STA and Mood.\n
-\C[6]Summons a worm-like monster in front of you.\n
-\C[6]Stats of summoned NPCs are affected by WIS.\n
-\C[6]Hold key to cast.\n
-\C[6]Striking.\n
+\C[1]ใช้ STA และอารมณ์\n
+\C[6]เรียกสัตว์ประหลาดคล้ายหนอนด้านหน้าคุณ\n
+\C[6]สถิติของ NPC ที่เรียกมาขึ้นอยู่กับ WIS\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ตี\n
 
 BoneStaffNormal/item_name
-Corrosion Orb
+ลูกโลกกัดกร่อน
 
 BoneStaffNormal/description
 \}\n
-\C[1]Costs STA and Mood.\n
-\C[6]Shoot out a Corrosion Orb that explodes on contact.\n
-\C[6]Once exploded, a puddle of mysterious liquid will spray out.\n
-\C[6]The mysterious liquid causes DOT to those who stand on it.\n
-\C[6]Ranged.\n
-\C[6]Damage is affected by WIS.\n
-\C[6]Hold key to cast.\n
-\C[6]Piercing.\n
-\C[6]Slows target.\n
+\C[1]ใช้ STA และอารมณ์\n
+\C[6]ยิงลูกโลกกัดกร่อนที่ระเบิดเมื่อสัมผัส\n
+\C[6]เมื่อระเบิด จะมีน้ำของลึกลับพ่นออกมา\n
+\C[6]น้ำของลึกลับทำให้เกิด DOT กับผู้ที่ยืนอยู่บนมัน\n
+\C[6]ระยะไกล\n
+\C[6]ความเสียหายขึ้นอยู่กับ WIS\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ทะลุ\n
+\C[6]ช้าลง\n
 
 DaggerHeavy/item_name
-Attack Weak Spot
+โจมตีจุดอ่อน
 
 DaggerHeavy/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile where you are facing.\n
-\C[6]Ignores shields.\n
-\C[6]Piercing.\n
-\C[6]Ambush.\n
-\C[6]Slows target.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ไม่สนใจโล่\n
+\C[6]ทะลุ\n
+\C[6]ลอบโจมตี\n
+\C[6]ช้าลง\n
 
 WhipNormal/item_name
-Whip Lash
+ฟาดแส้
 
 WhipNormal/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]AoE attack at the direction you're facing.\n
-\C[6]Striking.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตี AoE ที่ทิศทางที่คุณหันหน้าไป\n
+\C[6]ตี\n
+\C[6]ทำให้ชา\n
 
 BasicNormal/item_name
-Punch
+ต่อย
 
 BasicNormal/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile where you are facing.\n
-\C[6]Striking.\n
-\C[6]Ambush.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ตี\n
+\C[6]ลอบโจมตี\n
+\C[6]ทำให้ชา\n
 
 BasicHeavy/item_name
-Heavy Punch
+ต่อยหนัก
 
 BasicHeavy/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile where you are facing.\n
-\C[6]Striking.\n
-\C[6]Ambush.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ตี\n
+\C[6]ลอบโจมตี\n
+\C[6]ทำให้ชา\n
 
 BasicControl/item_name
-Tackle
+พุ่งชน
 
 BasicControl/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile where you are facing.\n
-\C[6]Lona rams into her target, knocking them back.\n
-\C[6]Uninterruptible.\n
-\C[6]Hold key to cast.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ลนาพุ่งชนเป้าหมายของเธอ ผลักพวกเขากลับ\n
+\C[6]ไม่ถูกขัดจังหวะ\n
+\C[6]กดค้างเพื่อใช้\n
 
 BasicDodge/item_name
-Dodge
+หลบ
 
 BasicDodge/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Ignore attacks at a certain rate of frames.\n
+\C[1]ใช้ STA\n
+\C[6]ละเว้นการโจมตีในอัตราบางเฟรม\n
 
 SabarNormal/item_name
-Saber Slash
+ฟันดาบ
 
 SabarNormal/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile where you are facing.\n
-\C[6]Slashing, Armor-piercing.\n
-\C[2]Ignores DEFense.\n
-\C[6]Ambush.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ฟัน, ทะลุเกราะ\n
+\C[2]ไม่สนใจ DEFense\n
+\C[6]ลอบโจมตี\n
+\C[6]ทำให้ชา\n
 
 ShortSwordNormal/item_name
-Slash
+ฟัน
 
 ShortSwordNormal/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile where you are facing.\n
-\C[6]Slashing.\n
-\C[6]Ambush.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ฟัน\n
+\C[6]ลอบโจมตี\n
+\C[6]ทำให้ชา\n
 
 WoodenClubNormal/item_name
-Swing Club
+ฟาดไม้
 
 WoodenClubNormal/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile where you are facing.\n
-\C[6]Striking.\n
-\C[6]Ambush.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ตี\n
+\C[6]ลอบโจมตี\n
+\C[6]ทำให้ชา\n
 
 WoodenSpearNormal/item_name
-Stab
+แทง
 
 WoodenSpearNormal/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack two tiles where you are facing.\n
-\C[6]Piercing.\n
-\C[6]Slows target.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีสองกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ทะลุ\n
+\C[6]ช้าลง\n
 
 WoodenSpearHeavy/item_name
-Lance Whirlwind
+วนลมหอก
 
 WoodenSpearHeavy/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at all directions.\n
-\C[6]Striking, Uninterruptible.\n
-\C[6]Slows target.\n
-
+\C[1]ใช้ STA\n
+\C[6]โจมตีทุกทิศทาง\n
+\C[6]ตี, ไม่ถูกขัดจังหวะ\n
+\C[6]ช้าลง\n
 
 LongBowNormal/item_name
-Shoot
+ยิง
 
 LongBowNormal/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Ranged.\n
-\C[6]Striking.\n
-\C[6]Slows target.\n
+\C[1]ใช้ STA\n
+\C[6]ระยะไกล\n
+\C[6]ตี\n
+\C[6]ช้าลง\n
 
 LongBowHeavy/item_name
-Rain of Arrows
+ฝนลูกธนู
 
 LongBowHeavy/description
 \}\n
-\C[6]Fires a rain of arrows at the targeted location.\n
-\C[1]Costs STA.\n
-\C[6]Hold key to cast.\n
-\C[6]Piercing.\n
-\C[6]Slows target.\n
+\C[6]ยิงฝนลูกธนูที่ตำแหน่งที่เล็งไว้\n
+\C[1]ใช้ STA\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ทะลุ\n
+\C[6]ช้าลง\n
 
 LongBowControl/item_name
-Snipe
+สไนป์
 
 LongBowControl/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Hold key to cast.\n
-\C[6]Shooting.\n
-\C[6]Piercing.\n
-\C[6]Slows target.\n
+\C[1]ใช้ STA\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ยิง\n
+\C[6]ทะลุ\n
+\C[6]ช้าลง\n
 
 ManCatcherNormal/item_name
-Pinning Strike
+โจมตีจับ
 
 ManCatcherNormal/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack two tiles where you are facing.\n
-\C[6]Striking.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีสองกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ตี\n
+\C[6]ทำให้ชา\n
 
 ManCatcherHeavy/item_name
-Pinning Blow
+โจมตีจับหนัก
 
 ManCatcherHeavy/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile you are facing.\n
-\C[6]Striking.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ตี\n
+\C[6]ทำให้ชา\n
 
 ManCatcherControl/item_name
-Pinning Whirlwind
+วนลมจับ
 
 ManCatcherControl/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at all direction.\n
-\C[6]Striking.\n
-\C[6]Stun.\n
-
+\C[1]ใช้ STA\n
+\C[6]โจมตีทุกทิศทาง\n
+\C[6]ตี\n
+\C[6]ทำให้ชา\n
 
 HalberdNormal/item_name
-Halberd Slash
+ฟันหอกยาว
 
 HalberdNormal/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack two tiles where you are facing.\n
-\C[6]Slashing.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีสองกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ฟัน\n
+\C[6]ทำให้ชา\n
 
 HalberdHeavy/item_name
-Halberd Power Slash
+ฟันหอกยาวหนัก
 
 HalberdHeavy/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile you are facing.\n
-\C[6]Slashing, Uninterruptible.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ฟัน, ไม่ถูกขัดจังหวะ\n
+\C[6]ทำให้ชา\n
 
 HalberdControl/item_name
-Halberd Whirlwind
+วนลมหอกยาว
 
 HalberdControl/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at all directions.\n
-\C[6]Slashing, Uninterruptible.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีทุกทิศทาง\n
+\C[6]ฟัน, ไม่ถูกขัดจังหวะ\n
+\C[6]ทำให้ชา\n
 
 DaggerControl/item_name
-Backstab
+แทงหลัง
 
 DaggerControl/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile you are facing.\n
-\C[6]Hold key to cast.\n
-\C[6]Piercing.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]กดค้างเพื่อใช้\n
+\C[6]ทะลุ\n
 
 ThrowingKnivesHeavy/item_name
-Throw Dagger
+ขว้างมีด
 
 ThrowingKnivesHeavy/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Ranged.\n
-\C[6]Piercing.\n
-\C[6]Slows target.\n
+\C[1]ใช้ STA\n
+\C[6]ระยะไกล\n
+\C[6]ทะลุ\n
+\C[6]ช้าลง\n
 
 WoodenShieldHeavy/item_name
-Shield Bash
+ฟาดโล่
 
 WoodenShieldHeavy/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Attack at the tile you are facing.\n
-\C[6]Knockback.\n
-\C[6]Striking.\n
-\C[6]Ambush.\n
-\C[6]Stun.\n
+\C[1]ใช้ STA\n
+\C[6]โจมตีตรงกระเบื้องที่คุณหันหน้าไป\n
+\C[6]ผลัก\n
+\C[6]ตี\n
+\C[6]ลอบโจมตี\n
+\C[6]ทำให้ชา\n
 
 WoodenShieldControl/item_name
-Block
+ป้องกัน
 
 WoodenShieldControl/description
 \}\n
-\C[1]Costs STA.\n
-\C[6]Blocks incoming attacks.\n
-\C[6]Hold key to cast.\n
+\C[1]ใช้ STA\n
+\C[6]ป้องกันการโจมตีที่มาถึง\n
+\C[6]กดค้างเพื่อใช้\n
 
 nil/item_name
 

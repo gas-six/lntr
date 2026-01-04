@@ -1,109 +1,108 @@
+XXXXXXXX
+
 #Orginal translation by a MTL monkey. Massive rewrites and clean up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 #MAIL特殊開頭/使用的Flag/信件編號，避免多封同標題信件混淆，數字，不用補0
 #################################################################################
 
 DarkPotBasic1/Sender
-Cooking Recipes
+สูตรทำอาหาร
 
 DarkPotBasic1/Title
-Basic Foods
+อาหารพื้นฐาน
 
 DarkPotBasic1/Text
-\}\C[4]Meat Soup\C[0]
-Requires：Food item (Meat) (x2)
+\}\C[4]ซุปเนื้อ\C[0]
+ต้องการ：ไอเท็มอาหาร (เนื้อ) (x2)
 \n
-\C[4]Vegetable Soup\C[0]
-Requires：Food item (Plant) (x2)
+\C[4]ซุปผัก\C[0]
+ต้องการ：ไอเท็มอาหาร (พืช) (x2)
 \n
-\C[4]Good Soup\C[0]
-Requires：Food item (Meat) (x1), Food item (Plant) (x1)
+\C[4]ซุปอร่อย\C[0]
+ต้องการ：ไอเท็มอาหาร (เนื้อ) (x1), ไอเท็มอาหาร (พืช) (x1)
 \n
-\C[4]Smoked Meat\C[0]
-Requires：Food item (Meat) (x2), Wooden Club (x1)
-Need 10 or more points in the SURvival Trait.
+\C[4]เนื้อรมควัน\C[0]
+ต้องการ：ไอเท็มอาหาร (เนื้อ) (x2), ไม้กระบอง (x1)
+ต้องมีคะแนน SURvival Trait 10 ขึ้นไป
 \n
-\C[4]Dry Meal\C[0]\n
-Requires：Food item (Plant) (x2), Wooden Club (x1)
-Need 10 or more points in the SURvival Trait.
+\C[4]อาหารแห้ง\C[0]\n
+ต้องการ：ไอเท็มอาหาร (พืช) (x2), ไม้กระบอง (x1)
+ต้องมีคะแนน SURvival Trait 10 ขึ้นไป
 \n
-Only 1 Wooden Club is required to cook multiple
-Smoked Meats or Dry Meals.
+ต้องการไม้กระบองเพียง 1 อันสำหรับการทำเนื้อรมควันหรืออาหารแห้งหลายๆ ชิ้น
 \n
-\C[4]Cheese\C[0]
-Requires：Milk (x3)
-Need 20 or more points in the SURvival Trait.
+\C[4]ชีส\C[0]
+ต้องการ：นม (x3)
+ต้องมีคะแนน SURvival Trait 20 ขึ้นไป
 \n
-The "Dark Cauldron" skill is required to make use
-of these recipes.
+ต้องมีสกิล "Dark Cauldron" เพื่อใช้สูตรเหล่านี้
 
 #################################################################################
 
 DarkPotBasic2/Sender
-Cooking Recipes
+สูตรทำอาหาร
 
 DarkPotBasic2/Title
-Medicines and Drugs
+ยาและสารเสพติด
 
 DarkPotBasic2/Text
-\}\C[4]Red Potion\C[0]
-Requires：Dragon Root (x2)
-Need 15 or more points in the SURvival Trait.
+\}\C[4]ยาสีแดง\C[0]
+ต้องการ：รากมังกร (x2)
+ต้องมีคะแนน SURvival Trait 15 ขึ้นไป
 \n
-\C[4]Blue Potion\C[0]
-Requires：White Dragon Weed (x2)
-Need 15 or more points in the SURvival Trait.
+\C[4]ยาสีน้ำเงิน\C[0]
+ต้องการ：วัชพืชมังกรขาว (x2)
+ต้องมีคะแนน SURvival Trait 15 ขึ้นไป
 \n
-\C[4]Bug Repellent\C[0]
-Requires：Repellent Herbs (x4)
-Need 15 or more points in the SURvival Trait.
+\C[4]ยากันแมลง\C[0]
+ต้องการ：สมุนไพรกันแมลง (x4)
+ต้องมีคะแนน SURvival Trait 15 ขึ้นไป
 \n
-\C[4]Birth Control Pill\C[0]
-Requires：Tung Flower (x2)
-Need 15 or more points in the SURvival Trait.
+\C[4]ยาคุมกำเนิด\C[0]
+ต้องการ：ดอกทุ่ง (x2)
+ต้องมีคะแนน SURvival Trait 15 ขึ้นไป
 \n
-\C[4]Joy Water\C[0]
-Requires：Mutated Mushroom (x4)，Red Potion (x1)
-Need 15 or more points in the SURvival Trait.
+\C[4]น้ำแห่งความสุข\C[0]
+ต้องการ：เห็ดกลายพันธุ์ (x4)，ยาสีแดง (x1)
+ต้องมีคะแนน SURvival Trait 15 ขึ้นไป
 \n
-The "Dark Cauldron" skill is required to make use of these recipes.
+ต้องมีสกิล "Dark Cauldron" เพื่อใช้สูตรเหล่านี้
 
 #################################################################################
 
 DarkPotBasic3/Sender
-Miscellaneous Blueprints
+แบบแปลนต่างๆ
 
 DarkPotBasic3/Title
-Contraband
+สินค้าผิดกฎหมาย
 
 DarkPotBasic3/Text
-\}\C[4]Molotov Cocktail\C[0]
-Requires：Oil (x6)
-Need 5 or more points in the SURvival Trait.
+\}\C[4]ค็อกเทลโมโลตอฟ\C[0]
+ต้องการ：น้ำมัน (x6)
+ต้องมีคะแนน SURvival Trait 5 ขึ้นไป
 \n
-\C[4]Frag Bomb\C[0]
-Requires：Wooden Club (x1), Saltpeter (x2), Carbon (x2)
-Need 10 or more points in the SURvival Trait.
+\C[4]ระเบิดแฟร็ก\C[0]
+ต้องการ：ไม้กระบอง (x1), ดินปืน (x2), คาร์บอน (x2)
+ต้องมีคะแนน SURvival Trait 10 ขึ้นไป
 \n
-\C[4]Timed Frag Bomb\C[0]
-Requires：Frag Bomb (x1), 1 piece of "Dirty" Clothing
-Need 10 or more points in the SURvival Trait.
+\C[4]ระเบิดแฟร็กตั้งเวลา\C[0]
+ต้องการ：ระเบิดแฟร็ก (x1), เสื้อผ้า "สกปรก" 1 ชิ้น
+ต้องมีคะแนน SURvival Trait 10 ขึ้นไป
 \n
-\C[4]Frag Mine\C[0]
-Requires：Timed Frag Bomb (x1), 1 piece of "Dirty" Clothing
-Need 10 or more points in the SURvival Trait.
+\C[4]กับระเบิดแฟร็ก\C[0]
+ต้องการ：ระเบิดแฟร็กตั้งเวลา (x1), เสื้อผ้า "สกปรก" 1 ชิ้น
+ต้องมีคะแนน SURvival Trait 10 ขึ้นไป
 \n
-\C[4]Shock Bomb\C[0]
-Requires：Wooden Club (x1), Phosphorus (x1), Carbon (x1)
-Need 10 or more points in the SURvival Trait.
+\C[4]ระเบิดช็อก\C[0]
+ต้องการ：ไม้กระบอง (x1), ฟอสฟอรัส (x1), คาร์บอน (x1)
+ต้องมีคะแนน SURvival Trait 10 ขึ้นไป
 \n
-\C[4]Smoke Bomb\C[0]
-Requires：Shock Bomb (x1), 1 piece of "Dirty" Clothing
-Need 10 or more points in the SURvival Trait.
+\C[4]ระเบิดควัน\C[0]
+ต้องการ：ระเบิดช็อก (x1), เสื้อผ้า "สกปรก" 1 ชิ้น
+ต้องมีคะแนน SURvival Trait 10 ขึ้นไป
 \n
-\C[4]Shock Mine\C[0]
-Requires：Smoke Bomb (x1), 1 piece of "Dirty" Clothing
-Need 10 or more points in the SURvival Trait.
+\C[4]กับระเบิดช็อก\C[0]
+ต้องการ：ระเบิดควัน (x1), เสื้อผ้า "สกปรก" 1 ชิ้น
+ต้องมีคะแนน SURvival Trait 10 ขึ้นไป
 \n
-The "Dark Cauldron" skill is required to make use
-of these illegal blueprints.
+ต้องมีสกิล "Dark Cauldron" เพื่อใช้แบบแปลนผิดกฎหมายเหล่านี้

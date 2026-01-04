@@ -1,90 +1,90 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-Noer Colosseum\optB[Leave,Enter]
+Noer Colosseum\optB[ออก,เข้า]
 
 ############################################## statue Quest
 
 Rager/Quprog0
-\CBid[-1,20]\m[confused]\prf\c[4]Citizen：\c[0]    \{ASSHOLE!\}
-\CBct[2]\m[shocked]\Rshake\c[6]Lona：\c[0]    EH?! What's wrong?
-\CBid[-1,20]\prf\c[4]Citizen：\c[0]    We've help ya guys build \c[6]Sybaris\c[0]. Yet yew fuckers stole everything from us.
-\CBid[-1,20]\prf\c[4]Citizen：\c[0]    Then, we gots to care for yer refugees, and ya'll made this place a shithole.
-\CBid[-1,20]\prf\c[4]Citizen：\c[0]    And now? Yew bastards even stole \c[6]Leeruoi's\c[0] statue.
-\CBid[-1,20]\prf\c[4]Citizen：\c[0]    Ya fuckin' sneering, self-righteous imperialist should all just die.
-\CBid[-1,20]\prf\c[4]Citizen：\c[0]    Just one look from ya smelly shits is all I need to know.
-\CBid[-1,20]\prf\c[4]Citizen：\c[0]    I know yer from \c[6]Sybaris\c[0] too, I can smell the bullshit from ya!
+\CBid[-1,20]\m[confused]\prf\c[4]Citizen：\c[0]    \{อีกระหรี่!\}
+\CBct[2]\m[shocked]\Rshake\c[6]Lona：\c[0]    อะไรนะ?! เกิดอะไรขึ้น?
+\CBid[-1,20]\prf\c[4]Citizen：\c[0]    เราช่วยพวกมึงสร้าง \c[6]Sybaris\c[0] แต่พวกมึงก็มาขโมยทุกอย่างจากเรา
+\CBid[-1,20]\prf\c[4]Citizen：\c[0]    แล้วเราก็ต้องดูแลผู้ลี้ภัยของพวกมึง พวกมึงทำที่นี่เป็นรูหี
+\CBid[-1,20]\prf\c[4]Citizen：\c[0]    แล้วตอนนี้ล่ะ? พวกมึงยังมาขโมยรูปปั้น \c[6]Leeruoi\c[0] อีก
+\CBid[-1,20]\prf\c[4]Citizen：\c[0]    พวกมึงอีหน้าหัวควย อีนักล่าอาณานิคม ควรตายไปซะ
+\CBid[-1,20]\prf\c[4]Citizen：\c[0]    แค่มองหน้าพวกมึงก็รู้แล้ว
+\CBid[-1,20]\prf\c[4]Citizen：\c[0]    กูรู้ว่ามึงก็มาจาก \c[6]Sybaris\c[0] เหมือนกัน กูได้กลิ่นความเลวของมึง!
 
 Rager/Quprog0_board
 \board[The Statue of Leeruoi]
-Goal：Find out where the Statue of Leeruoi is.
-Reward：+5 Morality
-Client：Citizen
-Deadline：None
-Fuck yer mum! Ya imperialist dog!
+เป้าหมาย：หาว่ารูปปั้นของ Leeruoi อยู่ที่ไหน
+รางวัล：+5 ความดี
+ผู้ว่าจ้าง：Citizen
+กำหนดเวลา：ไม่มี
+เย็ดแม่มึง! อีหมาล่าอาณานิคม!
 
 Rager/Quprog1
-\CBid[-1,20]\prf\c[4]Citizen：\c[0]    I ain'ts never gonna forgive yew, ya damn imperialist shit!
+\CBid[-1,20]\prf\c[4]Citizen：\c[0]    กูจะไม่มีวันให้อภัยพวกมึง อีหัวควยล่าอาณานิคม!
 
 lona/SorryToRager
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uhhh......
-\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    I'm sorry...
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    อืมม์......
+\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    ขอโทษ...
 
 Rager/return_quest0
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Errr... Hello, mister?
-\CBid[-1,20]\prf\c[4]Citizen：\c[0]    Go away! Ya fuckin' imperialist bitch!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Ummm.... I know where \c[4]Leeruoi's\c[0] statue is at.
-\CBid[-1,20]\prf\c[4]Citizen：\c[0]    WHAT?!
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    อืมม์... สวัสดีครับ คุณ?
+\CBid[-1,20]\prf\c[4]Citizen：\c[0]    ไปซะ! อีหีล่าอาณานิคม!
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    อืมม์.... หนูรู้ว่ารูปปั้น \c[4]Leeruoi\c[0] อยู่ที่ไหน
+\CBid[-1,20]\prf\c[4]Citizen：\c[0]    อะไรนะ?!
 
 Rager/return_quest1
-\narr Lona told him exactly where the statue was located at...
+\narr Lona บอกเขาว่ารูปปั้นอยู่ที่ไหนอย่างละเอียด...
 
 Rager/return_quest2
-\CBid[-1,2]\prf\c[4]Citizen：\c[0]    It really weren't the people of \c[6]Sybaris's\c[0] doing?!
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    It really isn't, we only just want to survive.
-\CBct[20]\m[sad]\PRF\c[6]Lona：\c[0]    I'm really sorry for all of this.
-\CBid[-1,5]\prf\c[4]Citizen：\c[0]    Damn it all! First, we let 'em ugly bastards buy up our houses. Then, they steal our hero!
-\CBid[-1,15]\prf\c[4]Citizen：\c[0]    DAMNIT! DAMNIT! DAMNIT! DAMNIT ALL!
+\CBid[-1,2]\prf\c[4]Citizen：\c[0]    จริงๆ แล้วไม่ใช่คนของ \c[6]Sybaris\c[0] ทำเหรอ?!
+\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    จริงๆ แล้วไม่ใช่หรอก เราแค่อยากมีชีวิตรอด
+\CBct[20]\m[sad]\PRF\c[6]Lona：\c[0]    หนูขอโทษจริงๆ สำหรับเรื่องทั้งหมดนี้
+\CBid[-1,5]\prf\c[4]Citizen：\c[0]    ชิบหาย! ก่อนหน้านี้เราปล่อยให้พวกหน้าตาไม่เอาไหนซื้อบ้านเรา แล้วพวกมันก็มาขโมยฮีโร่ของเรา!
+\CBid[-1,15]\prf\c[4]Citizen：\c[0]    ชิบหาย! ชิบหาย! ชิบหาย! ชิบหายทั้งหมด!
 
 Rager/return_quest3
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Errr...
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    อืมม์...
 
 ########################################## Common
 
 DoNotShit/talk0
 \board[Billboard]
-We all gots enuff of yor stinke piss smel!
-Sibuhris, go bac two yor emperial kapital!
+พวกเราเบื่อกลิ่นฉี่เหม็นของพวกมึงแล้ว!
+Sibuhris กลับไปที่เมืองหลวงอาณานิคมของมึงซะ!
 
 DoNotShit/talk1
 \board[Billboard]
-And two all u sten-king begars!
-\{GET OUT!\}
+และสำหรับพวกขอทานเหม็นๆ ทั้งหมด!
+\{ออกไป!\}
 
 DoNotShit/talk2
 \board[Leeruoi's Arena]
-Regain your honor, for no longer is this place an insulting theater.
-Starting today, \c[4]Leeruoi's\c[0] bloodlust and glory has returned.
-Also starting today, \c[4]Leeruoi's Theater\c[0] has been offically renamed back to \c[6]Leeruoi's Arena\c[0].
+กู้เกียรติของเธอกลับคืนมา เพราะที่นี่ไม่ใช่โรงละครที่ดูถูกอีกต่อไป
+ตั้งแต่วันนี้เป็นต้นไป ความกระหายเลือดและเกียรติยศของ \c[4]Leeruoi\c[0] กลับมาแล้ว
+ตั้งแต่วันนี้เป็นต้นไป \c[4]Leeruoi's Theater\c[0] ได้เปลี่ยนชื่อกลับมาเป็น \c[6]Leeruoi's Arena\c[0] อย่างเป็นทางการ
 -
 1772.1.13
-Guardsmen Headquarters
+สำนักงานใหญ่ทหารรักษาการณ์
 
 DoNotShit/talk3
-\ph\cg[other_DontShit] Emperialist bitches ain't ahlow two shit hear!\n Artist：Anonymous
-\m[confused]\PRF\c[6]Lona：\c[0]    Ummm...
-\m[flirty]\PRF\c[6]Lona：\c[0]    Haha?
+\ph\cg[other_DontShit] อีหีล่าอาณานิคมไม่ได้อึที่นี่!\n ศิลปิน：นิรนาม
+\m[confused]\PRF\c[6]Lona：\c[0]    อืมม์...
+\m[flirty]\PRF\c[6]Lona：\c[0]    ฮ่าๆ?
 
 Leeruoi/statue0
 \board[Leeruoi Juhankinns]
 1529.5.11-1553.10.9
 -
-The valiant hero of Noer, who's name echoed in the sky as he lead the first charge against the evil Deepones alone.
-Rest in peace, oh impatient and solo warrior.
-May the Saint bless us with your courage when we charge into battle!
+วีรบุรุษผู้กล้าของ Noer ผู้ที่ชื่อของเขาดังก้องฟ้าเมื่อเขานำทัพโจมตี Deepones คนเดียว
+พักผ่อนอย่างสงบเถิด นักรบผู้ใจร้อนและโดดเดี่ยว
+ขอให้นักบุญประทานความกล้าหาญของเธอแก่เราเมื่อเราบุกเข้าสู่สนามรบ!
 
 Leeruoi/statue1
 \board[Leeruoi Juhankinns]
-TIME IS RUNNING OUT! LET US PROCEED WITH THE TASK AT HAND!
+เวลากำลังจะหมดลง! มาเริ่มทำงานกันเถอะ!
 LEEERUUUUUUROI JUUUAAAHNKI-Ack!!!
 -Leeruoi Juhankinns-
-
-#Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

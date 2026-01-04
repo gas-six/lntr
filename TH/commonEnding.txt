@@ -1,55 +1,57 @@
+XXXXXXXX
+
 ############################## pointed Ending ########################################
 bat/Eaten
-\SndLib[sound_combat_hit_gore]\ph\narr\Rflash A swarm of bats lunged at Lona...
-\SndLib[sound_combat_hit_gore]\Rflash They gnawed at her flesh with razor-sharp teeth....
-\SndLib[sound_combat_hit_gore]\Rflash Their tiny bodies couldn’t consume her all at once...
-\SndLib[sound_combat_hit_gore]\Rflash And so, Lona struggled for a full hour before she finally died...
+\SndLib[sound_combat_hit_gore]\ph\narr\Rflash ฝูงค้างคาวพุ่งเข้าใส่โลน่า...
+\SndLib[sound_combat_hit_gore]\Rflash พวกมันกัดเนื้อของเธอด้วยฟันที่คมกริบ...
+\SndLib[sound_combat_hit_gore]\Rflash ร่างกายเล็กๆ ของพวกมันไม่สามารถกินเธอได้ทั้งหมดในครั้งเดียว...
+\SndLib[sound_combat_hit_gore]\Rflash และดังนั้น โลน่าก็ต้องดิ้นรนอยู่เป็นเวลาหนึ่งชั่วโมงเต็มก่อนที่เธอจะตายในที่สุด...
 
 undead/Eaten
-\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash The undead horde swarmed Lona's body.
-\SND[SE/Gore_hit2.ogg]\Rflash Their rotten teeth constantly ripped away skin and meat from the flesh of the girl.
-\SND[SE/Gore_hit3.ogg]\Rflash Lona's pain and suffering lasted for a long time...
+\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash ฝูงซอมบี้บุกเข้าหาร่างของโลน่า
+\SND[SE/Gore_hit2.ogg]\Rflash ฟันที่เน่าเปื่อยของพวกมันกัดผิวหนังและเนื้อของเด็กสาวออกไปอย่างต่อเนื่อง
+\SND[SE/Gore_hit3.ogg]\Rflash ความเจ็บปวดและความทรมานของโลน่ากินเวลานานมาก...
 
 wolf/Eaten
-\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash The pack of wolves surrounded Lona.
-\SND[SE/Gore_hit2.ogg]\Rflash Their sharp, canine teeth greedily sank into the girl's neck and body.
-\SND[SE/Gore_hit3.ogg]\Rflash Lona's pain and suffering did not last long. She was quickly put out of her misery...
+\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash ฝูงหมาป่าล้อมรอบโลน่า
+\SND[SE/Gore_hit2.ogg]\Rflash ฟันที่แหลมคมของพวกมันกัดเข้าไปที่คอและร่างกายของเด็กสาวอย่างโลภ
+\SND[SE/Gore_hit3.ogg]\Rflash ความเจ็บปวดและความทรมานของโลน่าไม่ได้กินเวลานาน เธอถูกปลดปล่อยจากความทรมานอย่างรวดเร็ว...
 
 KillerRabbit/Eaten
-\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash Lona was eaten by the cute wittle bunny wabbit...
-\SND[SE/Gore_hit2.ogg]\Rflash We will remember her dearly...
+\SND[SE/Gore_hit1.ogg]\ph\narr\Rflash โลน่าถูกกินโดยกระต่ายน้อยน่ารัก...
+\SND[SE/Gore_hit2.ogg]\Rflash เราจะจดจำเธอไว้อย่างที่สุด...
 
 ############################# Death ENDING ########################################
 Lona/hp0_begin
-\ph\SETpl[TellerNormal]\SETpr[nil]\c[4]Fortune Teller：\c[0]    Alas...\n It seems that our hero has finally perished in this cruel world.
-\SETpl[TellerNormal]\c[4]Fortune Teller：\c[0]    Will anyone even remember Lona and her deeds...?
+\ph\SETpl[TellerNormal]\SETpr[nil]\c[4]Fortune Teller：\c[0]    โอ๋...\n ดูเหมือนว่าฮีโร่ของเราจะต้องจบชีวิตลงในโลกที่โหดร้ายนี้แล้ว
+\SETpl[TellerNormal]\c[4]Fortune Teller：\c[0]    จะมีใครจำโลน่าและการกระทำของเธอได้ไหม...?
 
 Lona/hp0_WithChild
-\SETpl[TellerEyeClosed]\c[4]Fortune Teller：\c[0]    Oh? But, it seems she has left behind a heir!\n
-Allowing the child to inherit her mother's powers is also an option...\n
-\SETpl[TellerConfused]\c[4]Fortune Teller：\c[0]    Well then. Choose your final fate......
+\SETpl[TellerEyeClosed]\c[4]Fortune Teller：\c[0]    โอ้? แต่ดูเหมือนเธอจะทิ้งทายไว้!\n
+การให้ลูกสืบทอดพลังของแม่ก็เป็นทางเลือกหนึ่ง...\n
+\SETpl[TellerConfused]\c[4]Fortune Teller：\c[0]    งั้นก็เลือกชะตากรรมสุดท้ายของเธอเถอะ......
 
 Lona/hp0_WithChild_choosed0
-\SETpl[TellerOkay]\c[4]Fortune Teller：\c[0]    A wise choice...\n Like a Phoenix, arise!!!
+\SETpl[TellerOkay]\c[4]Fortune Teller：\c[0]    เลือกได้ดี...\n เหมือนนกฟีนิกซ์ จงลุกขึ้นมา!!!
 
 Lona/hp0_WithChild_choosed1
 \ph\cgoff\narr\{\..\..\..\..\..\..\WF[5]!
 
 Lona/hp0_WithChild_canceled
-\SETpl[TellerEyeClosed]\c[4]Fortune Teller：\c[0]    Is that so? No regrets, perhaps it's for the best to prevent a life of pain and suffering for the child...
+\SETpl[TellerEyeClosed]\c[4]Fortune Teller：\c[0]    อย่างนั้นเหรอ? ไม่เสียใจนะ บางทีอาจจะดีกว่าที่จะไม่ให้ลูกต้องมาทนทุกข์ทรมาน...
 
 Lona/hp0_end
-\SETpl[TellerOkay]\c[4]Fortune Teller：\c[0]    I shall await your return. Please guide Lona to a better path in her next life......
+\SETpl[TellerOkay]\c[4]Fortune Teller：\c[0]    ฉันจะรอการกลับมาของเธอ กรุณาช่วยนำทางโลน่าไปสู่เส้นทางที่ดีกว่าในชีวิตต่อไป......
 
 ####################################### ENDING  ####################################################
 
 Common/EndingBegin
 \ph\SETpl[TellerEyeClosed]\c[4]Fortune Teller：\c[0]    \..\..\..\..\..\..
-\SETpl[TellerConfused]\c[4]Fortune Teller：\c[0]    And so, time continues to pass on...
-\SETpl[TellerNormal]\c[4]Fortune Teller\c[0]    In the meantime, let us see what has happened to everyone else...
+\SETpl[TellerConfused]\c[4]Fortune Teller：\c[0]    และดังนั้น เวลาก็ยังคงผ่านไป...
+\SETpl[TellerNormal]\c[4]Fortune Teller\c[0]    ในระหว่างนี้ มาดูกันว่าเกิดอะไรขึ้นกับคนอื่นๆ...
 
 Common/EndingLonaBegin
-\narr So... What happened to Lona?
+\narr ดังนั้น... เกิดอะไรขึ้นกับโลน่า?
 
 ############################# Orkind ########################################
 
@@ -57,19 +59,19 @@ Orkind/Common0
 \SND[SE/Book1]\narr\{The Orkinds\..\..\..
 
 Orkind/OrkindDestroyed1_ClearnNoerOrkindQuest
-\SndLib[sys_DialogBoard]\cg[map_guards]Due to the actions and diligence of the Mercenary Guild, the number of Orkinds around the Town of Noer had decreased significantly.
-\SndLib[sys_DialogBoard]\cg[map_region_PlainField]According to eyewitnesses and rumors, there was a thin and \c[4]flat-chested\c[0] girl among the mercenary ranks.
-\SndLib[sys_DialogBoard]\cg[map_region_PlainField]However...
-\SndLib[sys_DialogBoard]\cg[map_monster_camp]Of course, the results of their efforts were just temporary.
-\SndLib[sys_DialogBoard]\cg[map_NoerGate]The Orkinds' powerful reproduction speed allowed them to replace their dead almost immediately. Soon, Noer Town was once again surrounded by the green-skinned monsters.
-\SndLib[sys_DialogBoard]\cg[map_region_PlainField]So what kind of fate awaits the Orkinds?
+\SndLib[sys_DialogBoard]\cg[map_guards]เนื่องจากการกระทำและความขยันของสมาคมจ้างวาน จำนวนออร์คินด์รอบเมืองโนเออร์ลดลงอย่างมีนัยสำคัญ
+\SndLib[sys_DialogBoard]\cg[map_region_PlainField]ตามคำบอกเล่าของพยานและข่าวลือ มีเด็กสาวผอมบางและ\c[4]อกแบน\c[0]คนหนึ่งอยู่ในแถวของนักรบจ้างวาน
+\SndLib[sys_DialogBoard]\cg[map_region_PlainField]อย่างไรก็ตาม...
+\SndLib[sys_DialogBoard]\cg[map_monster_camp]แน่นอนว่าผลลัพธ์ของความพยายามของพวกเขาเป็นเพียงชั่วคราว
+\SndLib[sys_DialogBoard]\cg[map_NoerGate]ความสามารถในการสืบพันธุ์ที่ทรงพลังของออร์คินด์ทำให้พวกมันสามารถแทนที่ตัวที่ตายได้ทันที ไม่นานเมืองโนเออร์ก็ถูกล้อมรอบด้วยสัตว์ประหลาดผิวเขียวอีกครั้ง
+\SndLib[sys_DialogBoard]\cg[map_region_PlainField]แล้วชะตากรรมแบบไหนจะรอออร์คินด์อยู่?
 
 Orkind/OrkindDestroyed2
-\SndLib[sys_DialogBoard]\cg[event_OrkindGonnaRape]They raped any creature they saw.
-\SndLib[sys_DialogBoard]\cg[map_monster_camp]They consumed anything and everything in their path.
-\SndLib[sys_DialogBoard]\cg[map_monster_camp]In the end... Their unnatural reproduction speed caused them to overpopulate.
-\SndLib[sys_DialogBoard]\cg[map_monster_camp]The Orkinds were soon forced to gnaw on the flesh of the Abominations. Eventually, they even resorted to eating their own kind to survive.
-\SndLib[sys_DialogBoard]\cg[map_region_badland]After a few years, the green-skinned monsters joined their prey and completely disappeared from Noer Island...
+\SndLib[sys_DialogBoard]\cg[event_OrkindGonnaRape]พวกมันข่มขืนสิ่งมีชีวิตทุกอย่างที่เห็น
+\SndLib[sys_DialogBoard]\cg[map_monster_camp]พวกมันกินทุกสิ่งทุกอย่างที่ขวางหน้า
+\SndLib[sys_DialogBoard]\cg[map_monster_camp]ในที่สุด... ความเร็วในการสืบพันธุ์ที่ผิดธรรมชาติของพวกมันทำให้พวกมันเพิ่มจำนวนมากเกินไป
+\SndLib[sys_DialogBoard]\cg[map_monster_camp]ออร์คินด์ถูกบังคับให้กัดเนื้อของสัตว์ประหลาดอื่นๆ ในที่สุดพวกมันก็ต้องกินเผ่าพันธุ์ของตัวเองเพื่อความอยู่รอด
+\SndLib[sys_DialogBoard]\cg[map_region_badland]หลังจากผ่านไปไม่กี่ปี สัตว์ประหลาดผิวเขียวก็หายไปจากเกาะโนเออร์พร้อมกับเหยื่อของพวกมัน...
 
 ############################# FishKind ########################################
 
@@ -77,24 +79,24 @@ FishKind/Common0
 \SND[SE/Book1]\narr\{The Fishkinds\..\..\..
 
 FishKind/Common1
-\SndLib[sys_DialogBoard]\cg[map_FishPPL]After all of the chaos, the Fishkinds traveled back to their former home.
+\SndLib[sys_DialogBoard]\cg[map_FishPPL]หลังจากความวุ่นวายทั้งหมด ฟิชคินด์ก็เดินทางกลับบ้านเก่าของพวกมัน
 
 FishKind/Common2
-\SndLib[sys_DialogBoard]\cg[map_Shore]The Fishmen attempted to rebuild their homes on the uninhabited Noer Island.
+\SndLib[sys_DialogBoard]\cg[map_Shore]ฟิชเมนพยายามสร้างบ้านใหม่บนเกาะโนเออร์ที่ไม่มีคนอยู่
 
 FishKind/FishKindFine3
-\SndLib[sys_DialogBoard]\cg[event_menses]Thanks to the might of their shamans, the Fishkinds' reproduction problem had finally been solved.
-\SndLib[sys_DialogBoard]\cg[event_menses]The Fishkinds no longer needed to rely on another species' females. They finally became a race equal to other intelligent creatures.
-\SndLib[sys_DialogBoard]\cg[event_FishPlane]In 1812, an elderly Fishman successfully traveled around the world in a homemade aircraft know as a Biplane.
-\SndLib[sys_DialogBoard]\cg[event_FishPlane]His book, For Father and Uncle Bubba, is a best-seller to this day.
+\SndLib[sys_DialogBoard]\cg[event_menses]ด้วยพลังของชามันของพวกมัน ปัญหาการสืบพันธุ์ของฟิชคินด์ก็ได้รับการแก้ไขในที่สุด
+\SndLib[sys_DialogBoard]\cg[event_menses]ฟิชคินด์ไม่จำเป็นต้องพึ่งพาเพศหญิงของสปีชีส์อื่นอีกต่อไป พวกมันกลายเป็นเผ่าพันธุ์ที่เท่าเทียมกับสิ่งมีชีวิตอัจฉริยะอื่นๆ ในที่สุด
+\SndLib[sys_DialogBoard]\cg[event_FishPlane]ในปี 1812 ฟิชเมนคนหนึ่งที่แก่ชราได้เดินทางรอบโลกด้วยเครื่องบินที่ทำเองที่เรียกว่าไบเพลน
+\SndLib[sys_DialogBoard]\cg[event_FishPlane]หนังสือของเขา For Father and Uncle Bubba เป็นหนังสือขายดีจนถึงทุกวันนี้
 
 FishKind/FishKindDestroyed3
-\SndLib[sys_DialogBoard]\cg[map_region_NoerRoad]At first, the Fishmen thought they could live on Noer Island forever.
-\SndLib[sys_DialogBoard]\cg[map_region_badland]But, they forgot that Noer Island had been completely abandoned.
-\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]Thus, their Goddess had also forsaken them.
-\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]Without other females or a way to reproduce, the Fishkind tribes were facing a crisis.
-\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]No matter how much they pleaded and prayed, the Sea Witch remained silent.
-\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]Within a few decades, the Fishkind species disappeared into history.
+\SndLib[sys_DialogBoard]\cg[map_region_NoerRoad]ในตอนแรก ฟิชเมนคิดว่าพวกมันสามารถอยู่บนเกาะโนเออร์ได้ตลอดไป
+\SndLib[sys_DialogBoard]\cg[map_region_badland]แต่พวกมันลืมไปว่าเกาะโนเออร์ถูกทิ้งร้างอย่างสิ้นเชิง
+\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]ดังนั้น เทพีของพวกมันก็ทอดทิ้งพวกมันไปด้วย
+\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]ไม่มีเพศหญิงจากสปีชีส์อื่นหรือวิธีการสืบพันธุ์ เผ่าฟิชคินด์กำลังเผชิญกับวิกฤต
+\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]ไม่ว่าพวกมันจะขอร้องและสวดมนต์มากแค่ไหน แม่มดทะเลก็ยังคงเงียบ
+\SndLib[sys_DialogBoard]\cg[map_region_AbanbonedHouse]ภายในไม่กี่ทศวรรษ สปีชีส์ฟิชคินด์ก็หายไปในประวัติศาสตร์
 
 ############################# DoomFortressL ########################################
 
@@ -126,28 +128,28 @@ Noer/Common0
 \SND[SE/Book1]\narr\{\SND[SE/Book1]\cg[map_region_NoerRoad]The Town of Noer\..\..\..
 
 Noer/OrkindDestroyed1
-\SND[SE/Book1]\cg[map_region_NoerRoad]With the shortage of supplies, the town raged with anarchy.
-\SndLib[sys_DialogBoard]\cg[map_bandits_farmer]It wasn't long before citizens and villagers became bandits and pillagers.
+\SND[SE/Book1]\cg[map_region_NoerRoad]เนื่องจากขาดแคลนเสบียง เมืองก็เต็มไปด้วยความวุ่นวาย
+\SndLib[sys_DialogBoard]\cg[map_bandits_farmer]ไม่นานนัก พลเมืองและชาวบ้านก็กลายเป็นโจรและผู้ปล้น
 
 Noer/OrkindDestroyed2
-\SND[SE/Book1]\cg[map_bandits]No one bothered to keep the town stable. No one was left to defend against the invasion of monsters.
+\SND[SE/Book1]\cg[map_bandits]ไม่มีใครสนใจที่จะรักษาความมั่นคงของเมือง ไม่มีใครเหลืออยู่เพื่อป้องกันการรุกรานของสัตว์ประหลาด
 
 Noer/OrkindDestroyed2_QuProgCataUndeadHunt2_7
-\SndLib[sys_DialogBoard]\cg[map_region_hole]Although someone attempted to block the tunnel created by the Orkinds, it didn't help.
+\SndLib[sys_DialogBoard]\cg[map_region_hole]แม้ว่าจะมีคนพยายามปิดอุโมงค์ที่ถูกสร้างโดยออร์คินด์ แต่ก็ไม่ได้ช่วยอะไร
 
 Noer/OrkindDestroyed3
-\SND[SE/Book1]\cg[map_orkind_expending]One day, the monsters finally dug through the tunnel. They swarmed into the town like locusts.
+\SND[SE/Book1]\cg[map_orkind_expending]วันหนึ่ง สัตว์ประหลาดก็ขุดทะลุอุโมงค์ พวกมันบุกเข้าเมืองเหมือนตั๊กแตน
 
 Noer/OrkindDestroyed4
-\SND[SE/Book1]\cg[map_DeadPPL]The poor resistance from the desperate townspeople did not last long...
-\SND[SE/Book1]\cg[event_OrkindGonnaRape]Men became food...\n While the women became breeding sows...
-\SND[SE/Book1]\cg[map_cityOnFire]Like Sybaris, the Town of Noer fell into complete chaos.
+\SND[SE/Book1]\cg[map_DeadPPL]การต่อสู้ที่อ่อนแอของชาวเมืองที่สิ้นหวังไม่ได้กินเวลานาน...
+\SND[SE/Book1]\cg[event_OrkindGonnaRape]ผู้ชายกลายเป็นอาหาร...\n ขณะที่ผู้หญิงกลายเป็นแม่พันธุ์...
+\SND[SE/Book1]\cg[map_cityOnFire]เหมือนซิบาริส เมืองโนเออร์ตกอยู่ในความวุ่นวายอย่างสมบูรณ์
 
 Noer/NukeDestroyed
-\SND[SE/Book1]\cg[map_Doomsday]One day, he was angry.
-\SND[SE/Book1]\cg[map_Doomsday]A huge fireball illuminated the night sky above the Town of Noer.
-\SND[SE/Book1]\cg[map_sos]The poor, the rich, slaves, believers... It didn't matter. He gave true equality to all.
-\SND[SE/Book1]\cg[map_Nuke]A huge explosion formed and cleansed all inside of it. The entire town disappeared into ashes.
+\SND[SE/Book1]\cg[map_Doomsday]วันหนึ่ง เขาโกรธ
+\SND[SE/Book1]\cg[map_Doomsday]ลูกไฟใหญ่ส่องสว่างท้องฟ้ายามค่ำคืนเหนือเมืองโนเออร์
+\SND[SE/Book1]\cg[map_sos]คนจน คนรวย ทาส ผู้เชื่อ... ไม่สำคัญ เขามอบความเท่าเทียมให้ทุกคน
+\SND[SE/Book1]\cg[map_Nuke]การระเบิดครั้งใหญ่เกิดขึ้นและชำระล้างทุกสิ่งที่อยู่ภายใน เมืองทั้งเมืองหายไปเป็นเถ้าถ่าน
 
 ######################################################## SideChar ########################################
 ############################# NoerTavern ########################################
@@ -156,111 +158,111 @@ NoerTavern/Common0
 \SND[SE/Book1]\narr\{The Burning Keg\..\..\..
 
 NoerTavern/BookOfDeath
-\SndLib[sys_DialogBoard]\cg[map_DeadPPL]The monsters sieged the city around the second day. The streets were littered with piles of mangled corpses and gore.
-\SndLib[sys_DialogBoard]\cg[event_FightThePower]Nobody knows how Boss Mama was able to get a hold of the legendary Book of the Dead. Nor did anyone know what she had to sacrifice to the Liars for such an item.
-\SndLib[sys_DialogBoard]\cg[map_undead_group]A large army of undead creatures appeared in the Town of Noer and fought back against the Orkind monsters for a month.
-\SndLib[sys_DialogBoard]\cg[map_undead_group]It's been said that Boss Mama has also fallen and risen back as an undead.
+\SndLib[sys_DialogBoard]\cg[map_DeadPPL]สัตว์ประหลาดล้อมเมืองรอบวันที่สอง ถนนเต็มไปด้วยซากศพที่ถูกทำลายและเลือด
+\SndLib[sys_DialogBoard]\cg[event_FightThePower]ไม่มีใครรู้ว่าบอสมาม่าสามารถเข้าถึงหนังสือแห่งความตายที่มีชื่อเสียงได้อย่างไร หรือไม่มีใครรู้ว่าเธอต้องสละอะไรให้กับเหล่าผู้หลอกลวงเพื่อได้รับสิ่งนี้
+\SndLib[sys_DialogBoard]\cg[map_undead_group]กองทัพซอมบี้ขนาดใหญ่ปรากฏตัวในเมืองโนเออร์และต่อสู้กับสัตว์ประหลาดออร์คินด์เป็นเวลาหนึ่งเดือน
+\SndLib[sys_DialogBoard]\cg[map_undead_group]มีการกล่าวว่าบอสมาม่าก็ล้มลงและฟื้นคืนชีพขึ้นมาเป็นซอมบี้
 
 NoerTavern/FallWithCocona
-\SndLib[sys_DialogBoard]\cg[map_NoerGate]Boss Mama and her adopted daughter left the Town of Noer prior to its descent into chaos.
-\SndLib[sys_DialogBoard]\cg[map_NoerGate]Rumor has it that they've traveled to Doom Fortress before escaping Noer Island.
+\SndLib[sys_DialogBoard]\cg[map_NoerGate]บอสมาม่าและลูกสาวบุญธรรมของเธอออกจากเมืองโนเออร์ก่อนที่เมืองจะตกอยู่ในความวุ่นวาย
+\SndLib[sys_DialogBoard]\cg[map_NoerGate]มีข่าวลือว่าพวกเขาเดินทางไปยังป้อมปราการแห่งความหายนะก่อนที่จะหลบหนีออกจากเกาะโนเออร์
 
 NoerTavern/DefenceToDeath
-\SndLib[sys_DialogBoard]\cg[map_DeadPPL]Boss Mama wielded her sword once again to help defend the town against raiders and monsters.
-\SndLib[sys_DialogBoard]\cg[event_RipAndTear]It is said that she alone fended off the Orkind monsters' attack at the Northern Gate.
-\SndLib[sys_DialogBoard]\cg[map_region_slum]Alas, this only prolonged the town's livelihood for meer moments.
-\SndLib[sys_DialogBoard]\cg[map_region_AbomTown]No one knows what happened to Boss Mama after the Town of Noer was destroyed.
+\SndLib[sys_DialogBoard]\cg[map_DeadPPL]บอสมาม่ากลับมาจับดาบอีกครั้งเพื่อช่วยป้องกันเมืองจากโจรและสัตว์ประหลาด
+\SndLib[sys_DialogBoard]\cg[event_RipAndTear]มีการกล่าวว่าเธอคนเดียวสามารถป้องกันการโจมตีของสัตว์ประหลาดออร์คินด์ที่ประตูเหนือ
+\SndLib[sys_DialogBoard]\cg[map_region_slum]โอ๋ แต่นี่ก็เพียงแค่ยืดเวลาการมีชีวิตของเมืองได้เพียงชั่วครู่
+\SndLib[sys_DialogBoard]\cg[map_region_AbomTown]ไม่มีใครรู้ว่าเกิดอะไรขึ้นกับบอสมาม่าหลังจากที่เมืองโนเออร์ถูกทำลาย
 
 ############################# Nice boat ########################################
 
 TicketBought/begin1
-\bg[bg_NiceBoat]\m[confused]\C[6]Lona：\C[0]    What about the people on the island? Will the disaster continue to spread?
-\bg[bg_NiceBoat]\m[tired]\C[6]Lona：\C[0]    ...Forget it, it's useless to worry about such things. I'm only one person.
-\bg[bg_NiceBoat]\m[sad]\C[6]Lona：\C[0]    Just an ordinary girl...
-\SETpl[Mfat_DockCaptain]\m[normal]\Lshake\prf\C[6]Edward：\C[0]    Lass, the winds be growin' stronger. Yer better get off me deck.
-\bg[bg_NiceBoat]\m[pleased]\plf\Rshake\C[6]Lona：\C[0]    Ah! Understood.
+\bg[bg_NiceBoat]\m[confused]\C[6]Lona：\C[0]    คนบนเกาะล่ะ? ภัยพิบัติจะยังคงแพร่กระจายต่อไปไหม?
+\bg[bg_NiceBoat]\m[tired]\C[6]Lona：\C[0]    ...ลืมมันเถอะ ไม่มีประโยชน์ที่จะกังวลเรื่องพวกนี้ ฉันเป็นแค่คนคนเดียว
+\bg[bg_NiceBoat]\m[sad]\C[6]Lona：\C[0]    เป็นแค่เด็กสาวธรรมดา...
+\SETpl[Mfat_DockCaptain]\m[normal]\Lshake\prf\C[6]Edward：\C[0]    สาวน้อย ลมกำลังแรงขึ้น แกควรลงจากดาดฟ้าของฉัน
+\bg[bg_NiceBoat]\m[pleased]\plf\Rshake\C[6]Lona：\C[0]    อ๋อ! เข้าใจแล้ว
 
 TicketBought/begin2
-\SND[SE/Book1]\narr\ph Lona finally escaped Noer Island.\n Where the monsters raged on.
-\SND[SE/Book1] Although, I do not know what awaits for her in the future...
-\SND[SE/Book1] It will never be worse than staying on Noer Island.
+\SND[SE/Book1]\narr\ph โลน่าหลบหนีออกจากเกาะโนเออร์ได้สำเร็จ\n ที่ซึ่งสัตว์ประหลาดยังคงคลั่ง
+\SND[SE/Book1] แม้ว่าฉันจะไม่รู้ว่าอะไรรอเธออยู่ในอนาคต...
+\SND[SE/Book1] มันจะไม่เลวร้ายไปกว่าการอยู่บนเกาะโนเออร์
 
 ############################# VIRGIN ########################################
 
 TicketBought/begin2_virgin
-\SndLib[sys_DialogBoard]\narr In addition to her escape, Lona also succeeded in defending her maidenhood.
-\SndLib[sys_DialogBoard] Decades past... The children nearby laughed and ridiculed the old maiden's pledge to eternal chastity.
-\SndLib[sys_DialogBoard] Even after her eventual death, Lona remained an unmarried virgin......
+\SndLib[sys_DialogBoard]\narr นอกจากการหลบหนี โลน่ายังประสบความสำเร็จในการปกป้องความบริสุทธิ์ของเธอ
+\SndLib[sys_DialogBoard] ผ่านไปหลายทศวรรษ... เด็กๆ ใกล้ๆ หัวเราะเยาะการสัญญาของหญิงสาวแก่ที่จะรักษาความบริสุทธิ์ตลอดกาล
+\SndLib[sys_DialogBoard] แม้หลังจากการตายของเธอในที่สุด โลน่าก็ยังคงเป็นหญิงพรหมจรรย์ที่ไม่ได้แต่งงาน......
 
 ####################################### Human rapeloop #######################################
 
 HumanSlave/begin1
 \narr\..\..\..\..\..\..
-\SND[SE/Book1]Lona was missing, and nobody ever saw her again...
-\SND[SE/Book1]After a very long time\..\..\.. On a certain street\..\..\..
+\SND[SE/Book1]โลน่าหายตัวไป และไม่มีใครเห็นเธออีกเลย...
+\SND[SE/Book1]หลังจากผ่านไปนานมาก\..\..\.. บนถนนแห่งหนึ่ง\..\..\..
 
 HumanSlave/begin2
-\SndLib[sound_Heartbeat]\narrOFF\c[4]So cold...
-\SndLib[sound_Heartbeat]\narrOFF\c[4]And hungry...
-\SndLib[sound_Heartbeat]\narrOFF\c[4]My body hurts, s-so much pain...
-\SndLib[sound_Heartbeat]\narrOFF\c[4]Just where exacatly am I\..\..\..?
-\m[pain]\plf\Rshake\c[4]It hurts... I can't see... W-Where am I?
-\SndLib[sound_step]\m[sad]\plf\PRF\c[4]Hello?! Is anyone there?!
-\SndLib[sound_step]\m[fear]\plf\PRF\c[4]Please?! W-Who's there?! D... Don't hurt me...!
-\SndLib[sound_step]\m[shocked]\plf\Rshake\c[4]No! G-Go away!!!
+\SndLib[sound_Heartbeat]\narrOFF\c[4]หนาวเย็น...
+\SndLib[sound_Heartbeat]\narrOFF\c[4]และหิว...
+\SndLib[sound_Heartbeat]\narrOFF\c[4]ร่างกายเจ็บปวด ปวดมาก...
+\SndLib[sound_Heartbeat]\narrOFF\c[4]ฉันอยู่ที่ไหนกันแน่\..\..\..?
+\m[pain]\plf\Rshake\c[4]เจ็บ... ฉันมองไม่เห็น... ฉันอยู่ที่ไหน?
+\SndLib[sound_step]\m[sad]\plf\PRF\c[4]สวัสดี?! มีใครอยู่ไหม?!
+\SndLib[sound_step]\m[fear]\plf\PRF\c[4]ช่วยด้วย?! ใครอยู่นั่น?! อ... อย่าทำร้ายฉัน...!
+\SndLib[sound_step]\m[shocked]\plf\Rshake\c[4]ไม่! ไปให้พ้น!!!
 \SndLib[sound_step]\m[confused]\plf\PRF\c[4]\..\..\..
-\bg[bg_Soup1]\m[shocked]\plf\Rshake\c[4]...Vegetable soup?!
-\bg[bg_Soup2]\m[shocked]\plf\Rshake\c[4]Meat soup?!
-\m[pleased]\plf\PRF\c[4]T-Thank you... I'm coming over!
+\bg[bg_Soup1]\m[shocked]\plf\Rshake\c[4]...ซุปผัก?!
+\bg[bg_Soup2]\m[shocked]\plf\Rshake\c[4]ซุปเนื้อ?!
+\m[pleased]\plf\PRF\c[4]ขอบคุณ... ฉันจะไปหา!
 \m[pleased]\plf\PRF\c[4]\SndLib[sound_step]\.\.\..\SndLib[sound_step]\.\.\..\SndLib[sound_step]\.\.\..
-\bgoff\m[terror]\plf\Rshake\c[4]H-Huh?! Nooo!
-\bgoff\m[bereft]\plf\Rshake\c[4]Give it back! Please! Let me eat at least one bite!
+\bgoff\m[terror]\plf\Rshake\c[4]ฮ-ฮะ?! ไม่นะ!
+\bgoff\m[bereft]\plf\Rshake\c[4]คืนมา! ช่วยด้วย! ปล่อยให้ฉันกินสักคำ!
 \ph\narr\..\..\..
 
 HumanSlave/begin3
-\SndLib[sound_punch_hit]\SETpl[AnonMale2]\Lshake\c[4]Man：\c[0]    What the fuck?
-\SETpr[AnonFemale]\plf\Rshake\c[4]Woman：\c[0]    Hmmm? Whats wrong?
-\cg[map_HungerDeath]\SETpl[AnonMale2]\Lshake\prf\c[4]Man：\c[0]    God damn it! Who left this dying slave out ruining the streets?!
-\SETpr[AnonFemale]\plf\Rshake\c[4]Woman：\c[0]    It reeks! Such a gross smell is going to ruin my clothes!
-\SETpl[AnonMale2]\Lshake\prf\c[4]Man：\c[0]    You fucking-! \.\.\SndLib[sound_punch_hit]\Lshake -Filthy!! \.\.\SndLib[sound_punch_hit]\Lshake Human garbage!!! \.\.\SndLib[sound_punch_hit]\Lshake
-\SETpr[AnonFemale]\plf\Rshake\c[4]Woman：\c[0]    Disgusting. Not even the rain can wash away such odor...
-\SETpl[AnonMale2]\Lshake\prf\c[4]Man：\c[0]    Just die!!! \SndLib[sound_punch_hit]\Lshake
-\SETpr[AnonFemale]\plf\Rshake\c[4]Woman：\c[0]    Let's go now.
-\SETpr[AnonFemale]\plf\Rshake\c[4]Woman：\c[0]    Ugh... Gross! You better wash your shoes when we get back home!
+\SndLib[sound_punch_hit]\SETpl[AnonMale2]\Lshake\c[4]ชาย：\c[0]    มึงทำอะไรวะ?
+\SETpr[AnonFemale]\plf\Rshake\c[4]หญิง：\c[0]    ฮมม์? เกิดอะไรขึ้น?
+\cg[map_HungerDeath]\SETpl[AnonMale2]\Lshake\prf\c[4]ชาย：\c[0]    บ้าเอ๊ย! ใครทิ้งทาสที่กำลังจะตายไว้เลอะเทอะถนนแบบนี้?!
+\SETpr[AnonFemale]\plf\Rshake\c[4]หญิง：\c[0]    มันเหม็น! กลิ่นเหม็นแบบนี้จะทำให้เสื้อผ้าฉันเสียหาย!
+\SETpl[AnonMale2]\Lshake\prf\c[4]ชาย：\c[0]    มึงนี่-! \.\.\SndLib[sound_punch_hit]\Lshake -สกปรก!! \.\.\SndLib[sound_punch_hit]\Lshake ขยะมนุษย์!!! \.\.\SndLib[sound_punch_hit]\Lshake
+\SETpr[AnonFemale]\plf\Rshake\c[4]หญิง：\c[0]    น่ารังเกียจ แม้แต่ฝนก็ล้างกลิ่นนี้ไม่ออก...
+\SETpl[AnonMale2]\Lshake\prf\c[4]ชาย：\c[0]    ตายซะ!!! \SndLib[sound_punch_hit]\Lshake
+\SETpr[AnonFemale]\plf\Rshake\c[4]หญิง：\c[0]    เราไปกันเถอะ
+\SETpr[AnonFemale]\plf\Rshake\c[4]หญิง：\c[0]    อ๊ะ... น่ารังเกียจ! แกต้องล้างรองเท้าเมื่อกลับบ้านนะ!
 \ph\narr\..\..\..
 
 ####################################### Orkind Rapeloop #######################################
 
 OrkindCampCaptured/begin1
 \narr\..\..\..\..\..\..
-\SND[SE/Book1]Lona was missing, and nobody ever saw her again...
-\SND[SE/Book1]After a very long time\..\..\.. In an unknown cave\..\..\..
-\SndLib[sound_Heartbeat]\narrOFF\c[4]H-Hungry...
-\SndLib[sound_Heartbeat]\c[4]I'm so hungry...
-\SndLib[sound_Heartbeat]\m[sad]\c[4]F-Food? I want to eat! Give me fooood!
-\SndLib[sound_Heartbeat]\m[bereft]\Rshake\c[4]P-Please! I beg of you!
-\SETpl[goblin]\Lshake\prf\C[4]Goblin：\C[0]    Guu-Guah-Chaaa!
-\m[shocked]\plf\Rshake\c[4]Food! Is this food?!
-\SndLib[sound_eat]\SETpl[goblin_penis]\Lshake\prf\C[4]Goblin：\C[0]    Guh-Hee! Chagucha!
-\SndLib[sound_eat]\SETpr[goblin]\plf\Rshake\C[4]Goblin：\C[0]    Gu-Hehe! Gou-Hee! Heeheehee!
-\SndLib[sound_eat]\m[pleased]\plf\Rshake\c[4]S-So good! Thank you...! Thank you so much!
-\SndLib[sound_eat]\SETpr[goblin]\plf\Rshake\C[4]Goblin：\C[0]    Guwuh! Heehee!
-\SndLib[sound_eat]\SETpl[goblin_penis]\Lshake\prf\C[4]Goblin：\C[0]   Guh-Heeeh! Chagucha!
-\narr The monsters brought a mirror, they wanted Lona to see the reality of what she has become.
-\narrOFF\m[confused]\plf\Rshake\c[4]A... mirror...?
-\cg[event_OrkindMother]\m[flirty]\plf\Rshake\c[4]W-Who is this monster... Looking back at me...?
+\SND[SE/Book1]โลน่าหายตัวไป และไม่มีใครเห็นเธออีกเลย...
+\SND[SE/Book1]หลังจากผ่านไปนานมาก\..\..\.. ในถ้ำที่ไม่รู้จัก\..\..\..
+\SndLib[sound_Heartbeat]\narrOFF\c[4]ห-หิว...
+\SndLib[sound_Heartbeat]\c[4]ฉันหิวมาก...
+\SndLib[sound_Heartbeat]\m[sad]\c[4]อ-อาหาร? ฉันอยากกิน! ให้ฉันอาหาร!
+\SndLib[sound_Heartbeat]\m[bereft]\Rshake\c[4]ช-ช่วยด้วย! ฉันขอร้อง!
+\SETpl[goblin]\Lshake\prf\C[4]Goblin：\C[0]    กู-กัว-ช่า!
+\m[shocked]\plf\Rshake\c[4]อาหาร! นี่อาหารหรือเปล่า?!
+\SndLib[sound_eat]\SETpl[goblin_penis]\Lshake\prf\C[4]Goblin：\C[0]    กั๊-ฮี! ชากูชา!
+\SndLib[sound_eat]\SETpr[goblin]\plf\Rshake\C[4]Goblin：\C[0]    กั๊-ฮีฮี! กู-ฮี! ฮีฮีฮี!
+\SndLib[sound_eat]\m[pleased]\plf\Rshake\c[4]อ-อร่อย! ขอบคุณ...! ขอบคุณมาก!
+\SndLib[sound_eat]\SETpr[goblin]\plf\Rshake\C[4]Goblin：\C[0]    กูวั๊! ฮีฮี!
+\SndLib[sound_eat]\SETpl[goblin_penis]\Lshake\prf\C[4]Goblin：\C[0]   กั๊-ฮี๊! ชากูชา!
+\narr สัตว์ประหลาดนำกระจกมา พวกมันต้องการให้โลน่าเห็นความจริงของสิ่งที่เธอกลายเป็น
+\narrOFF\m[confused]\plf\Rshake\c[4]ก-กระจก...?
+\cg[event_OrkindMother]\m[flirty]\plf\Rshake\c[4]ค-คนนี้คือสัตว์ประหลาดอะไร... ที่กำลังมองกลับมาที่ฉัน...?
 
 OrkindCampCaptured/begin2
 \..\..\..
-\SndLib[sound_Heartbeat]\m[shocked]\plf\Rshake\c[4]M-Me...? This is... ME?!
-\SndLib[sound_OrcSpot]\m[fear]\plf\Rshake\c[4]N-No! NOOOOO!!!
-\SndLib[sound_OrcSpot]\m[terror]\plf\Rshake\c[4]This c-can't be...! I'm a human!! I'M NOT A MONSTER!!!
-\SETpr[goblin]\plf\Rshake\C[4]Goblin：\C[0]    Guwuh! Heeheeheehee!!!
-\SndLib[sound_OrcSpot]\m[bereft]\plf\Rshake\c[4]H-Heeelp me! I don't wanna eat anymore! No more!
+\SndLib[sound_Heartbeat]\m[shocked]\plf\Rshake\c[4]ฉ-ฉัน...? นี่คือ... ฉัน?!
+\SndLib[sound_OrcSpot]\m[fear]\plf\Rshake\c[4]ไม่! ไม่นะ!!!
+\SndLib[sound_OrcSpot]\m[terror]\plf\Rshake\c[4]นี่มันไม่ได้...! ฉันเป็นมนุษย์!! ฉันไม่ใช่สัตว์ประหลาด!!!
+\SETpr[goblin]\plf\Rshake\C[4]Goblin：\C[0]    กูวั๊! ฮีฮีฮีฮี!!!
+\SndLib[sound_OrcSpot]\m[bereft]\plf\Rshake\c[4]ช-ช่วยฉัน! ฉันไม่อยากกินอีกแล้ว! ไม่อีกแล้ว!
 \ph\..\..\..
-\SndLib[sound_Heartbeat]\c[4]Hun...gry... 
-\SndLib[sound_Heartbeat]\c[4]So hungry... Need... To eat...
-\SndLib[sound_Heartbeat]\c[4]...Food? I want to eat!! Give me fooood!!!
+\SndLib[sound_Heartbeat]\c[4]หิว... 
+\SndLib[sound_Heartbeat]\c[4]หิวมาก... ต้อง... กิน...
+\SndLib[sound_Heartbeat]\c[4]...อาหาร? ฉันอยากกิน!! ให้ฉันอาหาร!!!
 \cgoff\..\..\..
 
 ############################# OrkindWarboss Rapeloop ########################################
@@ -271,84 +273,84 @@ OrkindImpale/begin1
 \Rflash\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]......
 \Rflash\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]...
 \Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[pain]\Rshake\c[4]!!!!!!
-\m[fear]\plf\Rshake\c[4]What?! W-What's happening?
-\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5sta_damage]\Rshake\c[4]EEEYAAAH!!!
-\Rflash\cg[event_AnalTaken]\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5health_damage]\Rshake\c[4]IT HURTS!!!
-\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5puke]\Rshake\c[4]STOP, D-DON'T-!!!
-\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5crit_damage]\Rshake\c[4]-GUAAAAAAHHH!!!
-\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5crit_damage]\Rshake\c[4]YIIIAAAUUUUUUGHHH!!!!!!
-\cgoff\ph\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]...*Gack*......
-\cgoff\ph\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]...*Gurgle*...
+\m[fear]\plf\Rshake\c[4]อะไร?! เ-เกิดอะไรขึ้น?
+\Rflash\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5sta_damage]\Rshake\c[4]อี๊ย่าห์!!!
+\Rflash\cg[event_AnalTaken]\SndLib[sound_Heartbeat]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5health_damage]\Rshake\c[4]มันเจ็บ!!!
+\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5puke]\Rshake\c[4]หยุด อ-อย่า-!!!
+\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5crit_damage]\Rshake\c[4]-กัวอ๊าห์!!!
+\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]\narrOFF\m[p5crit_damage]\Rshake\c[4]ยี๊ย่าอู๊ก!!!
+\cgoff\ph\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]...*แก๊ก*......
+\cgoff\ph\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]...*กรัก*...
 \cgoff\ph\Rflash\SndLib[sound_combat_hit_gore]\SndLib[sound_combat_sword_hit_sword]...
-\cg[map_orkind_expending]With the efforts of the Orkinds, Lona was impaled onto a stake.
-\cg[map_orkind_expending]She was awake for the entire experience and didn't lose consciousness until the stake's tip protruded from her lips.
-\cg[map_orkind_expending]The Mother of Fertility will be very pleased to see Lona suffer such a painful death...
+\cg[map_orkind_expending]ด้วยความพยายามของออร์คินด์ โลน่าถูกแทงด้วยไม้แหลม
+\cg[map_orkind_expending]เธอตื่นอยู่ตลอดการทรมานและไม่สลบจนกว่าปลายไม้จะโผล่ออกมาจากริมฝีปากของเธอ
+\cg[map_orkind_expending]แม่แห่งความอุดมสมบูรณ์จะยินดีมากที่ได้เห็นโลน่าต้องทนทุกข์ทรมานอย่างเจ็บปวด...
 
 ####################################### AbomHive Rapeloop #######################################
 
 AbomHiveCaptured/begin1
 \narr\..\..\..\..\..\..
-\SndLib[sys_DialogBoard]Lona was missing, and nobody ever saw her again...
-\SndLib[sys_DialogBoard]After a very long time\..\..\.. Inside the lair of Abominations\..\..\..
-\SndLib[sound_Heartbeat]\narrOFF\m[p5shame]\c[4]Where... am... I......?
-\SndLib[sound_Heartbeat]\m[p5shame]\c[4]W-What's happ-...-ening to... me...?
-\SndLib[sound_Heartbeat]\m[p5shame]\c[4]Am I... still alive?
-\SndLib[sound_Heartbeat]\m[p5shame]\c[4]Why can't I... Feel... Anything...? How long have I... Been here?
+\SndLib[sys_DialogBoard]โลน่าหายตัวไป และไม่มีใครเห็นเธออีกเลย...
+\SndLib[sys_DialogBoard]หลังจากผ่านไปนานมาก\..\..\.. ภายในรังของสัตว์ประหลาด\..\..\..
+\SndLib[sound_Heartbeat]\narrOFF\m[p5shame]\c[4]ฉัน... อยู่... ที่ไหน...?
+\SndLib[sound_Heartbeat]\m[p5shame]\c[4]อ-อะไรกำลัง... เ-เกิดขึ้น... กับ... ฉัน...?
+\SndLib[sound_Heartbeat]\m[p5shame]\c[4]ฉัน... ยังมีชีวิตอยู่หรือเปล่า?
+\SndLib[sound_Heartbeat]\m[p5shame]\c[4]ทำไมฉันถึง... รู้สึก... อะไร... ไม่ได้...? ฉันอยู่ที่นี่นานแค่ไหนแล้ว?
 \narr\prf\c[4]\SndLib[sound_step]\.\.\..\SndLib[sound_step]\.\.\..\SndLib[sound_step]\.\.\..
-\narrOFF\SndLib[sound_step]\m[p5shame]\c[4]Who's... there......?
+\narrOFF\SndLib[sound_step]\m[p5shame]\c[4]ใคร... อยู่... ที่นั่น...?
 
 AbomHiveCaptured/begin2
-\cg[map_AbomCorpse2]\SETpl[Mreg_guardsman]\SETpr[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    Hey! Recruit! This is the place.
-\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Recruit：\c[0]    Wait, hold up! These women are still squirming around!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Torch the place down!
-\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Recruit：\c[0]    NO! Stop, stop!!! By the Saint, they're still fucking alive!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Listen to me you idiot! They're already gone! We can't save them!
+\cg[map_AbomCorpse2]\SETpl[Mreg_guardsman]\SETpr[Mreg_pikeman]\Lshake\prf\c[4]นักรบจ้างวาน：\c[0]    ฮั่น! ทหารใหม่! นี่แหละที่
+\SETpr[Mreg_pikeman]\plf\Rshake\c[4]ทหารใหม่：\c[0]    รอก่อน! ผู้หญิงพวกนี้ยังขยับอยู่!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]นักรบจ้างวาน：\c[0]    เผาที่นี่ซะ!
+\SETpr[Mreg_pikeman]\plf\Rshake\c[4]ทหารใหม่：\c[0]    ไม่! หยุด หยุด!!! ตามนักบุญ พวกเขายังมีชีวิตอยู่!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]นักรบจ้างวาน：\c[0]    ฟังฉันนะ ไอ้โง่! พวกเขาหมดสภาพไปแล้ว! เราช่วยไม่ได้!
 \narr\cgoff \.\.\..\SndLib[sound_step]\.\.\..\SndLib[sound_step]\.\.\..
-\narrOFF\cg[map_AbomCorpse1]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Get over here recruit! Just take a look at this girl!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Even though she's moving, all that's left of her is her head attached to her torso...
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Are you really going to tell me she's still fucking alive?!
-\SndLib[sound_Heartbeat]\m[p5shame]\plf\Rshake\c[4]Are they... talking about\..\..\..\..\..\..\n ME?!\n No, please! S-Save me!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    This isn't even a human being anymore! All that's left is a corpse used as the monsters' seedbed!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Torch her, now! That's an order!
-\SndLib[sound_Heartbeat]\m[p5shame]\plf\PLF\c[4]What...? N-No! NOOO!!! I'm not dead, I'm still alive! Save me! I don't want to die!!!
-\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Recruit：\c[0]    R-Roger!
+\narrOFF\cg[map_AbomCorpse1]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]นักรบจ้างวาน：\c[0]    มาที่นี่ทหารใหม่! มองดูเด็กสาวคนนี้สิ!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]นักรบจ้างวาน：\c[0]    แม้ว่าเธอจะขยับ แต่ที่เหลือของเธอก็แค่หัวที่ติดกับลำตัว...
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]นักรบจ้างวาน：\c[0]    แกจะบอกฉันจริงๆ ว่าเธอยังมีชีวิตอยู่?!
+\SndLib[sound_Heartbeat]\m[p5shame]\plf\Rshake\c[4]พวกเขา... กำลังพูดถึง\..\..\..\..\..\..\n ฉัน?! ไม่ ช่วยด้วย! ช-ช่วยฉัน!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]นักรบจ้างวาน：\c[0]    นี่ไม่ใช่มนุษย์อีกต่อไปแล้ว! ที่เหลือก็แค่ซากศพที่ถูกใช้เป็นที่เพาะพันธุ์ของสัตว์ประหลาด!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]นักรบจ้างวาน：\c[0]    เผาเธอเดี๋ยวนี้! นั่นเป็นคำสั่ง!
+\SndLib[sound_Heartbeat]\m[p5shame]\plf\PLF\c[4]อะไร...? ไม่! ไม่นะ!!! ฉันไม่ตาย ฉันยังมีชีวิตอยู่! ช่วยฉัน! ฉันไม่อยากตาย!!!
+\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหารใหม่：\c[0]    ร-รับทราบ!
 
 AbomHiveCaptured/begin3
-\SndLib[sound_flame]\SETpl[Mreg_pikeman]\m[p5health_damage]\Lshake\Rshake\c[4]\{YIIIAHHHHHH!!!
-\SndLib[sound_flame]\SETpl[Mreg_pikeman]\m[p5health_damage]\Lshake\Rshake\c[4]\{IT BUUURNS! NOOOOOOO! I DON'T WANT TO DIIIIIIE!!!
-\SndLib[sound_flame]\SETpl[Mreg_pikeman]\m[p5health_damage]\Lshake\Rshake\c[4]\{IT HURRRTS! I D-DON'T... WANT... TO-...! KYYYAAAaaaaaah......
+\SndLib[sound_flame]\SETpl[Mreg_pikeman]\m[p5health_damage]\Lshake\Rshake\c[4]\{ยี๊ย่าห์!!!
+\SndLib[sound_flame]\SETpl[Mreg_pikeman]\m[p5health_damage]\Lshake\Rshake\c[4]\{มันร้อน! ไม่นะ! ฉันไม่อยากตาย!!!
+\SndLib[sound_flame]\SETpl[Mreg_pikeman]\m[p5health_damage]\Lshake\Rshake\c[4]\{มันเจ็บ! ฉัน... ไม่... อยาก... ต-...! คี๊ย่าอ๊าห์......
 \cgoff\ph\narr\c[4]\SndLib[sound_flame]\.\.\..\SndLib[sound_flame]\.\.\..\SndLib[sound_flame]\.\.\..
-\narrOFF\cg[map_cityOnFire]\SETpl[Mreg_guardsman]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Recruit：\c[0]    Finally... It's over now...
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Yo, today's work has just begun! We still have several lairs we have to clear out.
-\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Recruit：\c[0]    Yes Sir!
+\narrOFF\cg[map_cityOnFire]\SETpl[Mreg_guardsman]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]ทหารใหม่：\c[0]    ในที่สุด... มันจบลงแล้ว...
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]นักรบจ้างวาน：\c[0]    โว้ย งานวันนี้เพิ่งเริ่มต้น! เรายังมีรังอีกหลายแห่งที่ต้องกำจัด
+\SETpr[Mreg_pikeman]\plf\Rshake\c[4]ทหารใหม่：\c[0]    ครับนาย!
 
 ####################################### FishKind and Deepone Rapeloop #######################################
 
 FishkindCampCaptured/begin1
 \narr\..\..\..\..\..\..
-Lona was missing, and nobody ever saw her again...
-After a very long time\..\..\.. In the den of monsters\..\..\..
-\narrOFF\cg[map_region_hole]\SndLib[sound_step] ...What's happened to me? \.\SndLib[FishkindSmSpot] W-Where am I...? \.\SndLib[sound_step]\.\SndLib[sound_step] Have I been kidnapped by monsters?! \.\SndLib[FishkindSmSpot]
-\c[4]It's so dark... I can't see anything......
-\SndLib[sound_step] Is... Is someone there? \.\SndLib[FishkindSmSpot]\.\SndLib[sound_step]\.\SndLib[sound_step] Please! Somebody... H-Help me! \.\SndLib[sound_equip_armor]
-\c[4]Woman：\c[0]    Hello, can you hear me?
-\SndLib[sound_equip_armor]\c[4] W-Who's there?! Please... Don't kill me......
-\m[confused]\C[4]Woman：\C[0]    Ah! Are you new here?
+โลน่าหายตัวไป และไม่มีใครเห็นเธออีกเลย...
+หลังจากผ่านไปนานมาก\..\..\.. ในรังของสัตว์ประหลาด\..\..\..
+\narrOFF\cg[map_region_hole]\SndLib[sound_step] ...เกิดอะไรขึ้นกับฉัน? \.\SndLib[FishkindSmSpot] ฉันอยู่ที่ไหน...? \.\SndLib[sound_step]\.\SndLib[sound_step] ฉันถูกลักพาตัวโดยสัตว์ประหลาดหรือเปล่า?! \.\SndLib[FishkindSmSpot]
+\c[4]มืดมาก... ฉันมองไม่เห็นอะไรเลย......
+\SndLib[sound_step] มี... ใครอยู่ไหม? \.\SndLib[FishkindSmSpot]\.\SndLib[sound_step]\.\SndLib[sound_step] ช่วยด้วย! ใครสักคน... ช-ช่วยฉัน! \.\SndLib[sound_equip_armor]
+\c[4]หญิง：\c[0]    สวัสดี แกได้ยินฉันไหม?
+\SndLib[sound_equip_armor]\c[4] ใ-ใครอยู่นั่น?! ช่วย... อย่าฆ่าฉัน......
+\m[confused]\C[4]หญิง：\C[0]    อ๋อ! แกเพิ่งมาใหม่หรือเปล่า?
 \prf......
-\m[normal]\C[4]Woman：\C[0]    Shhh... It's alright......
-\m[pleased]\C[4]Woman：\C[0]    Please have a seat next to me, don't be afraid. I'm a human, just like you.
+\m[normal]\C[4]หญิง：\C[0]    ชชช... ไม่เป็นไร......
+\m[pleased]\C[4]หญิง：\C[0]    มานั่งข้างๆ ฉันได้เลย อย่ากลัว ฉันเป็นมนุษย์ เหมือนแก
 \prf......
-\m[shy]\C[4]Woman：\C[0]    It's okay... Shhh... It's okay... Please don't cry anymore.
-\m[normal]\C[4]Woman：\C[0]    My name is \c[6]Lona\c[0], and you are?
+\m[shy]\C[4]หญิง：\C[0]    ไม่เป็นไร... ชชช... ไม่เป็นไร... อย่าร้องไห้อีกเลย
+\m[normal]\C[4]หญิง：\C[0]    ชื่อฉันคือ \c[6]โลน่า\c[0] แล้วแกล่ะ?
 \prf......
-\m[triumph]\c[6]Lona：\c[0]    Oh! What a pretty name!
+\m[triumph]\c[6]Lona：\c[0]    โอ้! ชื่อสวยจัง!
 \prf......
-\m[shy]\c[6]Lona：\c[0]    Is that so? Don't worry, I've been here for a very long time taking care of people like you.
+\m[shy]\c[6]Lona：\c[0]    จริงเหรอ? อย่ากังวล ฉันอยู่ที่นี่นานแล้ว ดูแลคนอย่างแก
 \prf......
-\m[flirty]\c[6]Lona：\c[0]    Oh my... Please don't! Many have tried, but they all ended up dead... You wouldn't want to suffer a fate like that, right?
+\m[flirty]\c[6]Lona：\c[0]    โอ้ อย่าเลย! หลายคนพยายาม แต่พวกเขาตายหมด... แกไม่อยากจะต้องทนทุกข์แบบนั้นหรอกนะ?
 \prf......
-\m[shy]\c[6]Lona：\c[0]    Please don't cry sweetie... I'll protect you.
-\m[pleased]\c[6]Lona：\c[0]    Come here my child, I'll teach you everything you need to know to survive here. Don't worry, I'm here to help you......
+\m[shy]\c[6]Lona：\c[0]    อย่าร้องไห้เลยค่ะ... ฉันจะปกป้องแก
+\m[pleased]\c[6]Lona：\c[0]    มาที่นี่ลูก ฉันจะสอนทุกอย่างที่แกต้องรู้เพื่อเอาตัวรอดที่นี่ อย่ากังวล ฉันอยู่ที่นี่เพื่อช่วยแก......
 \cgoff\ph\narr\..\..\..
 
 ##########################################################################################################################
@@ -356,169 +358,169 @@ After a very long time\..\..\.. In the den of monsters\..\..\..
 ##########################################################################################################################
 
 ending/end
-Finish the game?\optB[Not yet!,End game...]
+จบเกม?\optB[ยังไม่!,จบเกม...]
 
 ShipLadder/qMsg0
-It's too windy now.
+ลมแรงเกินไปตอนนี้
 
 ShipLadder/qMsg1
-I shouldn't go outside.
+ฉันไม่ควรออกไปข้างนอก
 
 ShipLadder/qMsg2
-It's too dangerous.
+มันอันตรายเกินไป
 
 RecQuest/SMRefugeeCampFindChild10
-\CBid[-1,6]\prf\c[4]Tommy：\c[0]    Uwaah... *Sob*... W-Why......
-\CBid[-1,6]\prf\c[4]Tommy：\c[0]    Why doesn't... *Sniff*... Mama want me anymore...
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Eh...? Aren't you the boy called-...
-\CBct[20]\m[triumph]\PRF\c[6]Lona：\c[0]    -Yes! Tommy, right?
-\CBid[-1,20]\prf\c[4]Tommy：\c[0]    Ah! It's big sister!
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Where is your mother? How come it's just only you here?
-\CBid[-1,6]\prf\c[4]Tommy：\c[0]    M-Mama didn't want me anymore... *Sniff* She stuffed me in a box and I ended up here when I opened the box...
-\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    I see......
-\CBid[-1,6]\prf\c[4]Tommy：\c[0]    Oh yeah! Is that metal stick thing easy to use? Using it feels very comfortable, right?
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Com-... -fortable?
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Errr... Fighting with it feels quite comfortable, although it is a bit heavy...
+\CBid[-1,6]\prf\c[4]Tommy：\c[0]    อุว้าห์... *สะอึก*... ท-ทำไม......
+\CBid[-1,6]\prf\c[4]Tommy：\c[0]    ทำไม... *ดม*... แม่... ไม่ต้องการฉันอีกแล้ว...
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    เอ๊ะ...? แกไม่ใช่เด็กชายที่ชื่อ-...
+\CBct[20]\m[triumph]\PRF\c[6]Lona：\c[0]    -ใช่! ทอมมี่ ใช่ไหม?
+\CBid[-1,20]\prf\c[4]Tommy：\c[0]    อ๊ะ! พี่สาว!
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    แม่ของแกอยู่ที่ไหน? ทำไมถึงมีแค่แกอยู่ที่นี่?
+\CBid[-1,6]\prf\c[4]Tommy：\c[0]    ม-แม่ไม่ต้องการฉันอีกแล้ว... *ดม* เธอยัดฉันใส่กล่องและฉันก็มาถึงที่นี่เมื่อเปิดกล่อง...
+\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    ฉันเข้าใจ......
+\CBid[-1,6]\prf\c[4]Tommy：\c[0]    โอ้ ใช่! ไม้เหล็กนั่นใช้ง่ายไหม? ใช้แล้วรู้สึกสบายมากเลย ใช่ไหม?
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    ส-... -บาย?
+\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    อืม... การต่อสู้ด้วยมันรู้สึกสบายดี แม้ว่ามันจะหนักไปหน่อย...
 
 RecQuest/Df_Heresy5_1
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Uhm... Your name's Ranran, right? Where's your sister?
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    อืม... ชื่อแกคือรันรัน ใช่ไหม? น้องสาวของแกอยู่ที่ไหน?
 
 RecQuest/Df_Heresy5_2
-\CBid[-1,6]\prf\c[4]Ranran：\c[0]    No! I'm not Ranran! I don't know Momo either!
-\CBid[-1,6]\prf\c[4]Ranran：\c[0]    You've got the wrong person!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uhm...Well...
+\CBid[-1,6]\prf\c[4]Ranran：\c[0]    ไม่! ฉันไม่ใช่รันรัน! ฉันไม่รู้จักโมโม่ด้วย!
+\CBid[-1,6]\prf\c[4]Ranran：\c[0]    แกหาคนผิดแล้ว!
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    อืม... อ๋อ...
 
 ########################################################################################### Lisa
 
 Lisa/common0
 \CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Lisa! You're also onboard too?!
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ลิซ่า! แกก็ขึ้นเรือมาด้วยเหรอ?!
 \CBid[-1,8]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    \..\..\..
 
 Lisa/RecQuestLisa19KeepMem1
-\CBid[-1,2]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Oi? Is dat yew Sista Lona?
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr... Yes... Ummm... \c[4]LONA\c[0]?!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    \..\..\..\m[shocked]\Rshake Wait a second! You remember who I am?!
+\CBid[-1,2]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    อ้อ? นี่แกพี่สาวโลน่าหรือเปล่า?
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    อืม... ใช่... อืม... \c[4]โลน่า\c[0]?!
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    \..\..\..\m[shocked]\Rshake รอแป๊บ! แกจำฉันได้เหรอ?!
 \CBid[-1,8]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    \..\..\..
-\CBid[-1,6]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    Guh! Ahhh sheyet!
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Don't joke around, I know you still remember me.
-\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Nu! Eye'm bloodie sereous! Eye can't remembah anythin' at all...
-\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Okay okay, I understand.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm... So why are you also on this ship?
+\CBid[-1,6]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    ก๊าก! อ๊าก เฮีย!
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    อย่าล้อเล่น ฉันรู้ว่าแกยังจำฉันได้
+\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    ไม่! ฉันจริงจัง! ฉันจำอะไรไม่ได้เลย...
+\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    โอเค โอเค ฉันเข้าใจ
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อืม... แล้วทำไมแกถึงอยู่บนเรือลำนี้ด้วย?
 
 Lisa/RecQuestLisa18ResetMem1
-\CBid[-1,20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    Oi? Is dat yew Sis?
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm... So why are you also on this ship?
+\CBid[-1,20]\SETpl[LisaNormal]\Lshake\prf\c[4]Lisa：\c[0]    อ้อ? นี่แกพี่สาวหรือเปล่า?
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อืม... แล้วทำไมแกถึงอยู่บนเรือลำนี้ด้วย?
 
 Lisa/RecQuestLisa19KeepMem2
-\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    Eye've 'ad enouf of dis bloodie eyeland! The touwn is ahlways beein' surrounded by munstas!
-\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Every nite, when Eye'm sleepin'. Eye bee 'avin' nitemares about bugs inside a meh...
-\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    An' peeplo still be lookin' down at meh four bein' a 'alf-breed! Eye'm cunsidared durtah even though eet isn't me fault!
-\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    So dat's eet! Eye'm leafing dis eyeland an' nevah coomin' back!
+\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    ฉันเบื่อเกาะนี้แล้ว! เมืองนี้ถูกล้อมรอบด้วยสัตว์ประหลาดตลอดเวลา!
+\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    ทุกคืน เวลาฉันนอน ฉันฝันร้ายเรื่องแมลงอยู่ในตัวฉัน...
+\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    และคนยังมองถูกฉันเพราะเป็นครึ่งพันธุ์! ฉันถูกมองว่าเป็นขยะแม้ว่ามันไม่ใช่ความผิดของฉัน!
+\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    ดังนั้น ฉันจะออกจากเกาะนี้และไม่กลับมาอีก!
 
 Lisa/RecQuestLisa18ResetMem2
-\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    Eye've 'ad enouf of dis bloodie eyeland! Me familee an' friends ahlways be abandonin' meh!
-\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    So Eye'm gonna abandon dis eyeland. Find ahnudah place an' mayke bettah explowsens!
+\CBid[-1,5]\SETpl[LisaBereft]\Lshake\prf\c[4]Lisa：\c[0]    ฉันเบื่อเกาะนี้แล้ว! ครอบครัวและเพื่อนของฉันทิ้งฉันไปตลอดเวลา!
+\CBid[-1,20]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    ดังนั้น ฉันจะทิ้งเกาะนี้ หาที่ใหม่และทำระเบิดให้ดีกว่าเดิม!
 
 Lisa/RecQuestLisa18ResetMem3
 \CBid[-1,8]\SETpl[LisaSad]\Lshake\prf\c[4]Lisa：\c[0]    \..\..\..
-\CBid[-1,2]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    Anywahs, wuts eet ta yew? Why arr ya askin' meh sucha questun?
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Sorry, I'm just saying hello.
-\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    I have to admit, I also like the feeling of explosions too!
-\CBid[-1,8]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    EXPLOWSENS? Sis also liks the powah of explowseves?!
-\ph\narr Lona and Lisa continued to chat about the art and beauty of explosions, before bidding farewell to each other\..\..\..
+\CBid[-1,2]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    อย่างไรก็ตาม มันเกี่ยวอะไรกับแก? ทำไมแกถึงถามคำถามแบบนี้?
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    ขอโทษ ฉันแค่ทักทาย
+\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    ฉันต้องยอมรับว่าฉันก็ชอบความรู้สึกของการระเบิดเหมือนกัน!
+\CBid[-1,8]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    การระเบิด? พี่สาวก็ชอบพลังของระเบิดด้วยหรือ?!
+\ph\narr โลน่าและลิซ่าคุยกันต่อเรื่องศิลปะและความงามของการระเบิด ก่อนที่จะลากันไป\..\..\..
 
 Lisa/RecQuestLisa19KeepMem3
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I see...
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Anyways, it was great to travel around with you.
+\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ฉันเข้าใจ...
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    อย่างไรก็ตาม มันดีมากที่ได้เดินทางไปด้วยกัน
 \CBid[-1,8]\SETpl[LisaAngry]\Lshake\prf\c[4]Lisa：\c[0]    \..\..\..
-\CBid[-1,20]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    Likwise!
+\CBid[-1,20]\SETpl[LisaTriumph]\Lshake\prf\c[4]Lisa：\c[0]    เช่นกัน!
 
 ########################################################################################### Cocona
 
 Cocona/RecQuestCocona29_0
-\CBid[-1,6]\SETlpl[cocona_sad]\Lshake\c[4]Cocona：\c[0]    Big Sis! I'm scared!
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm... Why are you scared?
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Water! *Hiss* Outside is only water! ONLY WATER!!!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Water? It's because we're in the ocean.
-\CBid[-1,2]\SETlpl[cocona_confused]\Lshake\prf\c[4]Cocona：\c[0]    Oh-... -Shen...?
-\CBct[20]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    Yep! The ocean!
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Oh-shin? What's a... oh-sheeen?!
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    The ocean is... Ummm... Something that separates the continents from each other?
+\CBid[-1,6]\SETlpl[cocona_sad]\Lshake\c[4]Cocona：\c[0]    พี่สาว! โคโคน่ากลัว!
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    อืม... ทำไมแกถึงกลัว?
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    น้ำ! *ซิส* ข้างนอกมีแต่น้ำ! มีแต่น้ำ!!!
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    น้ำ? เพราะเราอยู่ในมหาสมุทร
+\CBid[-1,2]\SETlpl[cocona_confused]\Lshake\prf\c[4]Cocona：\c[0]    โอ-... -เชิน...?
+\CBct[20]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    ใช่! มหาสมุทร!
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    โอ-เชิน? อะไรคือ... โอ-เชิน?!
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    มหาสมุทรคือ... อืม... สิ่งที่แยกทวีปออกจากกัน?
 
 Cocona/RecQuestCocona29_1
-\CBid[-1,20]\SETlpl[cocona_confused]\Lshake\prf\c[4]Cocona：\c[0]    Kon-ten-ant? What's that??
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Hmmm... It's a place that's much, much, MUCH bigger than Noer Island.
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Nuh-oar?
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Errr... Our old home?
-\CBid[-1,20]\SETlpl[cocona_normal]\PLF\prf\c[4]Cocona：\c[0]    It's bigger than Cocona's old home?
-\CBct[8]\m[pleased]\plf\Rshake\c[6]Lona：\c[0]    That's right! Noer Island is our old home, but the western continents will be much bigger than Noer.
-\CBid[-1,20]\SETlpl[cocona_confused]\PLF\prf\c[4]Cocona：\c[0]    Woo-Miao\..\..\..
+\CBid[-1,20]\SETlpl[cocona_confused]\Lshake\prf\c[4]Cocona：\c[0]    คอน-เท-น-แนนท์? อะไรคืออันนั้น??
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    ฮมม์... มันคือที่ที่ใหญ่กว่าเกาะโนเออร์มากๆ
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    นัวร์?
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    อืม... บ้านเก่าของเรา?
+\CBid[-1,20]\SETlpl[cocona_normal]\PLF\prf\c[4]Cocona：\c[0]    มันใหญ่กว่าบ้านเก่าของโคโคน่าหรือเปล่า?
+\CBct[8]\m[pleased]\plf\Rshake\c[6]Lona：\c[0]    ใช่! เกาะโนเออร์คือบ้านเก่าของเรา แต่ทวีปตะวันตกจะใหญ่กว่าโนเออร์มาก
+\CBid[-1,20]\SETlpl[cocona_confused]\PLF\prf\c[4]Cocona：\c[0]    วู-เมียว\..\..\..
 
 Cocona/RecQuestCocona29_2
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{Woooah!
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{ว้าว!
 
 Cocona/RecQuestCoconaVagTaken2_0
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{Big Sis, wait!
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{พี่สาว รอ!
 
 Cocona/RecQuestCoconaVagTaken2_1
-\CBct[2]\m[normal]\plf\PRF\c[6]Lona：\c[0]    What's wrong? What else do you want to ask about, Cocona?
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    There's so many people in here! Are we going to have to have sex with them all?
+\CBct[2]\m[normal]\plf\PRF\c[6]Lona：\c[0]    เกิดอะไรขึ้น? แกยังมีอะไรอยากถามอีกไหม โคโคน่า?
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    คนเยอะจัง! เราต้องมีเซ็กซ์กับพวกเขาทั้งหมดหรือเปล่า?
 
 Cocona/RecQuestCoconaVagTaken2_2
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Whu-\..\..\..?\m[shocked]\Rshake\{HUH?!
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    อะไร-\..\..\..?\m[shocked]\Rshake\{ฮะ?!
 
 Cocona/RecQuestCoconaVagTaken2_3
-\CBct[2]\m[shy]\plf\PRF\c[6]Lona：\c[0]    Ohhh... I get it now... No Cocona, there's no need to anymore.
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    We won't have to sell our bodies anymore. Let's rest now.
-\CBid[-1,20]\SETlpl[cocona_confused]\PLF\prf\c[4]Cocona：\c[0]    Woo-Miao\..\..\..
+\CBct[2]\m[shy]\plf\PRF\c[6]Lona：\c[0]    โอ้... ฉันเข้าใจแล้ว... ไม่ โคโคน่า ไม่ต้องอีกแล้ว
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    เราไม่ต้องขายตัวอีกแล้ว มาพักผ่อนกันเถอะ
+\CBid[-1,20]\SETlpl[cocona_confused]\PLF\prf\c[4]Cocona：\c[0]    วู-เมียว\..\..\..
 
 Cocona/RecQuestCocona29_3
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{BIG SIS!!!
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    \{พี่สาว!!!
 
 Cocona/RecQuestCocona29_4
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Still have questions, Cocona?
-\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Cocona forgot to bring book!
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Book?
-\CBid[-1,20]\SETlpl[cocona_angry]\Lshake\prf\c[4]Cocona：\c[0]    Cocona's book from home! Book has good friend on it!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    You mean that bag you've been carrying before? That was a book?
-\CBid[-1,20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Cocona leave book at Big Mama's home. Good friend said to never lose book...
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    It'll be okay...
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Once we dock on land, we'll both head to the nearest city. Then, Big Sis will buy you a new book!
-\CBid[-1,20]\SETlpl[cocona_confused]\PLF\prf\c[4]Cocona：\c[0]    Woo-Miao\..\..\..
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    ยังมีคำถามอีกไหม โคโคน่า?
+\CBid[-1,20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    โคโคน่าลืมเอาหนังสือมา!
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    หนังสือ?
+\CBid[-1,20]\SETlpl[cocona_angry]\Lshake\prf\c[4]Cocona：\c[0]    หนังสือของโคโคน่าจากบ้าน! หนังสือมีเพื่อนดีๆ อยู่บนนั้น!
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    แกหมายถึงกระเป๋าที่แกแบกมาก่อนหน้านี้? นั่นเป็นหนังสือเหรอ?
+\CBid[-1,20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    โคโคน่าทิ้งหนังสือไว้ที่บ้านของบิ๊กมาม่า เพื่อนดีๆ บอกให้ไม่ทิ้งหนังสือ...
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ไม่เป็นไร...
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    เมื่อเราขึ้นฝั่ง เราจะไปเมืองใกล้ๆ ด้วยกัน แล้วพี่สาวจะซื้อหนังสือใหม่ให้แก!
+\CBid[-1,20]\SETlpl[cocona_confused]\PLF\prf\c[4]Cocona：\c[0]    วู-เมียว\..\..\..
 
 ########################################################################################### EndingShipSlaveLona
 
 EndingShipSlaveLona/begin1
-*Sob*\..\..\..
-My head hurts\..\..\..
-My body feels heavy\..\..\..
+*สะอึก*\..\..\..
+หัวฉันปวด\..\..\..
+ร่างกายฉันรู้สึกหนัก\..\..\..
 
 EndingShipSlaveLona/begin2
-Where am I? What am I doing here?
-What happened\..\..\..?
-How did this happen to me\..\..\..
-Doesn't matter\..\..\..
-I'm so tired\..\..\..
-I just want to sleep\..\..\..
-I don't care anymore\..\..\..
+ฉันอยู่ที่ไหน? ฉันทำอะไรที่นี่?
+เกิดอะไรขึ้น\..\..\..?
+มันเกิดขึ้นกับฉันได้ยังไง\..\..\..
+ไม่สำคัญ\..\..\..
+ฉันเหนื่อยมาก\..\..\..
+ฉันแค่อยากนอน\..\..\..
+ฉันไม่สนใจอีกแล้ว\..\..\..
 
 EndingShipSlaveLona/begin3
-\BonMP[Fucker2,20]\c[4]SailorA：\c[0]    Hey, new guy! Aren't you done yet?
-\BonMP[Fucker3,20]\c[4]SailorB：\c[0]    There are dozens of people waiting on you!
-\BonMP[Fucker4,20]\c[4]SailorC：\c[0]    Hurry the fuck up!
+\BonMP[Fucker2,20]\c[4]SailorA：\c[0]    หวัดดี คนใหม่! แกยังไม่เสร็จเหรอ?
+\BonMP[Fucker3,20]\c[4]SailorB：\c[0]    มีคนรอแกอีกหลายสิบคน!
+\BonMP[Fucker4,20]\c[4]SailorC：\c[0]    รีบหน่อย!
 
 EndingShipSlaveLona/begin4
-\BonMP[Fucker1,20]\c[4]SailorD：\c[0]    \{Almost there! I'm cumming!
+\BonMP[Fucker1,20]\c[4]SailorD：\c[0]    \{เกือบแล้ว! ฉันจะเสร็จแล้ว!
 
 EndingShipSlaveLona/begin5
-\c[4]SailorB：\c[0]    I'm next I'm next!
-\c[4]SailorC：\c[0]    Why can't we just go together? I'll fuck her cunt, you prefer using her mouth anyway.
-\c[4]SailorD：\c[0]    What a great idea! I'll use her asshole, from now on we are hole bros!
-\c[4]SailorB：\c[0]    I like that! Hole bros...
-\c[4]SailorC：\c[0]    We might not be real brothers, but we'll be hole bros til lthe day we die, haha!
-\c[4]SailorD：\c[0]    Let's go, hole bros!
+\c[4]SailorB：\c[0]    ฉันต่อไป ฉันต่อไป!
+\c[4]SailorC：\c[0]    ทำไมเราไม่ไปพร้อมกันล่ะ? ฉันจะเย็ดรูหีเธอ แกชอบใช้ปากเธออยู่แล้ว
+\c[4]SailorD：\c[0]    ไอเดียดีเลย! ฉันจะเย็ดรูตูดเธอ จากนี้เราจะเป็นพี่น้องรู!
+\c[4]SailorB：\c[0]    ฉันชอบ! พี่น้องรู...
+\c[4]SailorC：\c[0]    เราอาจจะไม่ใช่พี่น้องจริงๆ แต่เราจะเป็นพี่น้องรูจนกว่าจะตาย ฮ่าๆ!
+\c[4]SailorD：\c[0]    ไปกันเถอะ พี่น้องรู!
 
 EndingShipSlaveLona/end
-\narr The ship took Lona to the continent as promised, but she was sold off upon arrival\..\..\..
-\narr She was never seen again\..\..\..
+\narr เรือพาโลน่าไปยังทวีปตามที่สัญญาไว้ แต่เธอถูกขายทิ้งเมื่อมาถึง\..\..\..
+\narr เธอไม่เคยถูกพบเห็นอีกเลย\..\..\..

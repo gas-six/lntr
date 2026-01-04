@@ -1,1512 +1,1514 @@
+XXXXXXXX
+
 ###############################################################normal ####################################
 
 
 #--------             ---when Lona getting wet
 
 Lona/wet_normal0
-\c[6]Lona：\c[0]    It feels so wet down there...
+\c[6]Lona：\c[0]    รู้สึกเปียกชุ่มข้างล่างมากเลย...
 
 Lona/wet_normal1
-\c[6]Lona：\c[0]    It's like my lower stomach desires something...?
+\c[6]Lona：\c[0]    รู้สึกเหมือนท้องน้อยของฉันต้องการอะไรบางอย่าง...?
 
 Lona/wet_normal2
-\c[6]Lona：\c[0]    Oh no! I can't hold it in... It's about to leak out of me!
+\c[6]Lona：\c[0]    โอ้ไม่! ฉันกลั้นไม่ไหวแล้ว... มันกำลังจะไหลออกมาจากตัวฉัน!
 
 Lona/wet_normal3
-\c[6]Lona：\c[0]    This is bad... My legs are completely soaked......
+\c[6]Lona：\c[0]    ไม่ดีเลย... ขาของฉันเปียกโชกเลย......
 
 Lona/Qmsg_wet_normal0
-It feels so wet down there..。
+รู้สึกเปียกชุ่มข้างล่างมากเลย...
 
 Lona/Qmsg_wet_normal1
-It's like my lower stomach desires something...?
+รู้สึกเหมือนท้องน้อยของฉันต้องการอะไรบางอย่าง...?
 
 Lona/Qmsg_wet_normal2
-Oh no! I can't hold it in...
+โอ้ไม่! ฉันกลั้นไม่ไหวแล้ว...
 
 Lona/Qmsg_wet_normal3
-My legs are completely soaked......
+ขาของฉันเปียกโชกเลย......
 
 #---------------    -- when Lona getting grab *DONE
 
 Lona/grab_normal0
-\c[6]Lona：\c[0]    Stop! Don't-...!
+\c[6]Lona：\c[0]    หยุด! อย่า-...!
 
 Lona/grab_normal1
-\c[6]Lona：\c[0]    Go away!
+\c[6]Lona：\c[0]    ไปให้พ้น!
 
 Lona/grab_normal2
-\c[6]Lona：\c[0]    L-Let me go!
+\c[6]Lona：\c[0]    ปล่อยฉัน!
 
 ####frist time on###################### *DONE
 
 Lona/vag_taken_normal0
-\c[6]Lona：\c[0]    KYAAAH!!! I-It hurts! My body is being torn in half!
+\c[6]Lona：\c[0]    กรี๊ด!!! มันเจ็บ! ร่างกายฉันกำลังถูกฉีกขาด!
 
 Lona/vag_taken_normal1
-\c[6]Lona：\c[0]    Please! ...S-Stop!
+\c[6]Lona：\c[0]    ขอร้อง! ...หยุด-...!
 
 Lona/vag_taken_normal2
-\c[6]Lona：\c[0]    B... Blood?! No!
+\c[6]Lona：\c[0]    เ... เลือด?! ไม่!
 
 Lona/vag_taken_normal3
-\c[6]Lona：\c[0]    Stop-...! *Whimper* Don't!
+\c[6]Lona：\c[0]    หยุด-...! *สะอึก* อย่า!
 
 Lona/vag_taken_normal4
-\c[6]Lona：\c[0]    Guuuh... *Sob* Ahhh...! Please s-stop... I'm begging you...
+\c[6]Lona：\c[0]    อ่าห์... *ร้องไห้* อ๊าก...! ขอร้อง... หยุด... ฉันขอร้องเธอ...
 
 #------------------###frist time on ANAL ###done
 
 Lona/anal_taken_normal0
-\c[6]Lona：\c[0]    Don't-!
+\c[6]Lona：\c[0]    อย่า-!
 
 Lona/anal_taken_normal1
-\c[6]Lona：\c[0]    Not there!
+\c[6]Lona：\c[0]    ไม่ใช่ที่นั่น!
 
 Lona/anal_taken_normal2
-\c[6]Lona：\c[0]    P-Please stop! It won't fit in there!
+\c[6]Lona：\c[0]    ขอร้องหยุด! มันไม่เข้าไปได้!
 
 Lona/anal_taken_normal3
-\c[6]Lona：\c[0]    That's my-... GAAAH! S-Stop!
+\c[6]Lona：\c[0]    นั่นเป็นของฉัน-... กรี๊ด! หยุด-...!
 
 Lona/anal_taken_normal4
-\c[6]Lona：\c[0]    EEYAAAH! Please... Ssstop... I'm begging you...
+\c[6]Lona：\c[0]    กรี๊ด! ขอร้อง... หยุด... ฉันขอร้องเธอ...
 
 #------------------###出産 起始###done
 
 Lona/brith_begin_normal0
-\c[6]Lona：\c[0]    Nighnnn... *Puff*... A-AHHH...!
+\c[6]Lona：\c[0]    อ๊าก... *หอบ*... อ๊าก...!
 
 Lona/brith_begin_normal1
-\c[6]Lona：\c[0]    Coming-... FUUUH...! I-It's coming out!
+\c[6]Lona：\c[0]    กำลัง-... อ๊าก...! มันกำลังจะออกมา!
 
 Lona/brith_begin_normal2
-\c[6]Lona：\c[0]    It's... *HAFF*! C-COMING... Oooouuut!!
+\c[6]Lona：\c[0]    มัน... *หอบ*! กำลัง... ออกมา!!
 
 Lona/brith_begin_normal3
-\c[6]Lona：\c[0]    I'm... *GASP* g-giiiving biiirth! I-I'M HAVIIING A BAAAAAABY!!!
+\c[6]Lona：\c[0]    ฉัน... *หอบ* กำลังคลอด! ฉันกำลังคลอดลูก!!!
 
 Lona/brith_begin_normal4
-\c[6]Lona：\c[0]    HIGIIIH!!! ...B-BREEEAKIIING! MY SHTOOOMAACKS BREAAAKINNNGGG!!!!!!
+\c[6]Lona：\c[0]    อ๊าก!!! ...กำลังแตก! ท้องฉันกำลังแตก!!!!!!
 
 #-------------------          each frame or turn### DONE
 
 Lona/frame_normal0
-\c[6]Lona：\c[0]    Ahhh......
+\c[6]Lona：\c[0]    อ๊าก......
 
 Lona/frame_normal1
-\c[6]Lona：\c[0]    Uhnnngh... Haaah...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/frame_normal2
-\c[6]Lona：\c[0]    Ahhh... Uwuuuah...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/frame_normal3
-\c[6]Lona：\c[0]    Aaaah......
+\c[6]Lona：\c[0]    อ๊าก......
 
 Lona/frame_normal4
-\c[6]Lona：\c[0]    D-Don't......
+\c[6]Lona：\c[0]    อย่า......
 
 Lona/frame_normal5
-\c[6]Lona：\c[0]    Haaah... Aaahnnn......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/frame_normal6
-\c[6]Lona：\c[0]    Nnngh... Haaannngh...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/frame_normal7
-\c[6]Lona：\c[0]    Haaah... Hnnngh...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/frame_normal8
-\c[6]Lona：\c[0]    Nnnnnn...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/frame_normal9
-\c[6]Lona：\c[0]    Auuughhh...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/frame_normal10
-\c[6]Lona：\c[0]    Ahhh...! Ahhhnnn...
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก...
 
 #----------------------         --#when cuming DONE
 
 Lona/cumming_normal0
-\c[6]Lona：\c[0]    Nnnghnn! Uwaaah...!
+\c[6]Lona：\c[0]    อ๊าก! อ๊าก...!
 
 Lona/cumming_normal1
-\c[6]Lona：\c[0]    N-No! Nooo...!
+\c[6]Lona：\c[0]    ไม่! ไม่...!
 
 Lona/cumming_normal2
-\c[6]Lona：\c[0]    Haaah... Ahhh!
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก!
 
 Lona/cumming_normal3
-\c[6]Lona：\c[0]    Guuuh... Eeep!
+\c[6]Lona：\c[0]    อ่าห์... อ๊าก!
 
 Lona/cumming_normal4
-\c[6]Lona：\c[0]    Haaaff! Hnngh..!
+\c[6]Lona：\c[0]    อ๊าก! อ๊าก..!
 
 Lona/cumming_normal5
-\c[6]Lona：\c[0]    Ahaahhh......!
+\c[6]Lona：\c[0]    อ๊าก......!
 
 Lona/cumming_normal6
-\c[6]Lona：\c[0]    Nnnaaah...!
+\c[6]Lona：\c[0]    อ๊าก...!
 
 Lona/cumming_normal7
-\c[6]Lona：\c[0]    Uwuuuah! Haahnnn...!
+\c[6]Lona：\c[0]    อ๊าก! อ๊าก...!
 
 Lona/cumming_normal8
-\c[6]Lona：\c[0]    Aaah... Hngnnn!
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก!
 
 Lona/cumming_normal9
-\c[6]Lona：\c[0]    Nnghnn! Ahhh...
+\c[6]Lona：\c[0]    อ๊าก! อ๊าก...
 
 Lona/cumming_normal10
-Ooohhh... Haaah...!
+อ๊าก... อ๊าก...!
 
 Lona/Qmsg_cumming_normal0
-Nnnghnn! Uwaaah...!
+อ๊าก! อ๊าก...!
 
 Lona/Qmsg_cumming_normal1
-N-No! Nooo...!
+ไม่! ไม่...!
 
 Lona/Qmsg_cumming_normal2
-Haaah... Ahhh!
+อ๊าก... อ๊าก!
 
 Lona/Qmsg_cumming_normal3
-Guuuh... Eeep!
+อ่าห์... อ๊าก!
 
 Lona/Qmsg_cumming_normal4
-Haaaff! Hnngh..!
+อ๊าก! อ๊าก..!
 
 Lona/Qmsg_cumming_normal5
-Ahaahhh......!
+อ๊าก......!
 
 Lona/Qmsg_cumming_normal6
-Nnnaaah...!
+อ๊าก...!
 
 Lona/Qmsg_cumming_normal7
-Uwuuuah! Haahnnn...!
+อ๊าก! อ๊าก...!
 
 Lona/Qmsg_cumming_normal8
-Aaah... Hngnnn!
+อ๊าก... อ๊าก!
 
 Lona/Qmsg_cumming_normal9
-Nnghnn! Ahhh...
+อ๊าก! อ๊าก...
 
 Lona/Qmsg_cumming_normal10
-Ooohhh... Haaah...!
+อ๊าก... อ๊าก...!
 
 #----------------------         --#when over cuming DONE
 
 Lona/over_cumming_normal0
-\c[6]Lona：\c[0]    C-Cumming! ...I'm cummiiing! \{KYAAAH!
+\c[6]Lona：\c[0]    กำลังถึงจุด! ...ฉันกำลังถึงจุด! \{กรี๊ด!
 
 Lona/over_cumming_normal1
-\c[6]Lona：\c[0]    Can't ssstop...! Nnnyaaah!~ I c-can't stop cuuumming!
+\c[6]Lona：\c[0]    หยุดไม่ได้...! อ๊าก!~ ฉันหยุดไม่ได้!
 
 Lona/over_cumming_normal2
-\c[6]Lona：\c[0]    \{No, I d-don't want to cccuuummm againnn!
+\c[6]Lona：\c[0]    \{ไม่, ฉันไม่อยากถึงจุดอีก!
 
 Lona/over_cumming_normal3
-\c[6]Lona：\c[0]    Ssstop! \{N-NOT AG-AGAIN!
+\c[6]Lona：\c[0]    หยุด! \{ไม่-อีก-ครั้ง!
 
 Lona/over_cumming_normal4
-\c[6]Lona：\c[0]    P-... Please...
+\c[6]Lona：\c[0]    ขอร้อง...
 
 Lona/over_cumming_normal5
-\c[6]Lona：\c[0]    HHNNGHNN! \{AAAHHH...!
+\c[6]Lona：\c[0]    อ๊าก! \{อ๊าก...!
 
 Lona/over_cumming_normal6
-\c[6]Lona：\c[0]    EEYAHHH...! \{NUUU!
+\c[6]Lona：\c[0]    กรี๊ด...! \{ไม่!
 
 Lona/over_cumming_normal7
-\c[6]Lona：\c[0]    Hahhh... Eeeek...!
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...!
 
 Lona/over_cumming_normal8
-\c[6]Lona：\c[0]    Nyaaah......
+\c[6]Lona：\c[0]    อ๊าก......
 
 Lona/over_cumming_normal9
-\c[6]Lona：\c[0]    Haaah! \{Aaah...
+\c[6]Lona：\c[0]    อ๊าก! \{อ๊าก...
 
 Lona/over_cumming_normal10
-\c[6]Lona：\c[0]    Hnnghaa...! Ahhh...
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก...
 
 Lona/Qmsg_over_cumming_normal0
-C-Cumming! ...I'm cummiiing!
+กำลังถึงจุด! ...ฉันกำลังถึงจุด!
 
 Lona/Qmsg_over_cumming_normal1
-Nnnyaaah!~ I c-can't stop cuuumming!
+อ๊าก!~ ฉันหยุดไม่ได้!
 
 Lona/Qmsg_over_cumming_normal2
-No, I d-don't want to cccuuummm againnn!
+ไม่, ฉันไม่อยากถึงจุดอีก!
 
 Lona/Qmsg_over_cumming_normal3
-Ssstop! N-NOT AG-AGAIN!
+หยุด! ไม่-อีก-ครั้ง!
 
 Lona/Qmsg_over_cumming_normal4
-P-... Please...
+ขอร้อง...
 
 Lona/Qmsg_over_cumming_normal5
-HHNNGHNN! AAAHHH...!
+อ๊าก! อ๊าก...!
 
 Lona/Qmsg_over_cumming_normal6
-EEYAHHH...! NUUU!
+กรี๊ด...! ไม่!
 
 Lona/Qmsg_over_cumming_normal7
-Hahhh... Eeeek...!
+อ๊าก... อ๊าก...!
 
 Lona/Qmsg_over_cumming_normal8
-Nyaaah......
+อ๊าก......
 
 Lona/Qmsg_over_cumming_normal9
-Haaah! Aaah...
+อ๊าก! อ๊าก...
 
 Lona/Qmsg_over_cumming_normal10
-Hnnghaa...! Ahhh...
+อ๊าก...! อ๊าก...
 
 #-------------------------------#Brith normal
 
 Lona/brith_normal0
-\c[6]Lona：\c[0]    \{CCCOOOMMMINGGG!!! IT'S COOOMMMMINNNG!!!
+\c[6]Lona：\c[0]    \{กำลังออกมา!!! มันกำลังออกมา!!!
 
 Lona/brith_normal1
-\c[6]Lona：\c[0]    \{MY BAAABY-...! -IS BEING BOOORNNN!!!
+\c[6]Lona：\c[0]    \{ลูกของฉัน-...! -กำลังคลอด!!!
 
 Lona/brith_normal2
-\c[6]Lona：\c[0]    \{GAAAH!!! COMMMMMMIIINGGG
+\c[6]Lona：\c[0]    \{กรี๊ด!!! กำลังออกมา
 
 Lona/brith_normal3
-\c[6]Lona：\c[0]    \{FUGOOOH! SH-SHTOOOOOOP!!!
+\c[6]Lona：\c[0]    \{อ๊าก! หยุด-...!!!
 
 Lona/brith_normal4
-\c[6]Lona：\c[0]    \{EEEYAAAAAAH!!! NOOOOOOO!!!
+\c[6]Lona：\c[0]    \{กรี๊ด!!! ไม่!!!
 
 Lona/brith_normal5
-\c[6]Lona：\c[0]    \{IT HUUUUUURTS!
+\c[6]Lona：\c[0]    \{มันเจ็บ!
 
 Lona/brith_normal6
-\c[6]Lona：\c[0]    \{FUUUWUUUAHHH! ...IGIIIH!!!
+\c[6]Lona：\c[0]    \{อ๊าก! ...อ๊าก!!!
 
 Lona/brith_normal7
-\c[6]Lona：\c[0]    \{GAAAAAAAH!
+\c[6]Lona：\c[0]    \{กรี๊ด!
 
 Lona/brith_normal8
-\c[6]Lona：\c[0]    \{KYAAAAAAHHHHHH... AHHHHHH!~
+\c[6]Lona：\c[0]    \{กรี๊ด... อ๊าก!~
 
 Lona/brith_normal9
-\c[6]Lona：\c[0]    \{Nnnnighaaah...! Aaaaaahhh...!
+\c[6]Lona：\c[0]    \{อ๊าก...! อ๊าก...!
 
 Lona/brith_normal10
-\c[6]Lona：\c[0]    \{Uuwuuuuuu... *Sob* Fuuuguuuuuuuh......!
+\c[6]Lona：\c[0]    \{อ๊าก... *ร้องไห้* อ๊าก......!
 
 ################################################################tsun####################################
 #--------             ---when Lona getting wet
 
 Lona/wet_tsun0
-\c[6]Lona：\c[0]    \c[4](Damn... It's dirty down there......)
+\c[6]Lona：\c[0]    \c[4](ชิบหาย... มันสกปรกข้างล่าง...)
 
 Lona/wet_tsun1
-\c[6]Lona：\c[0]    \c[4](Guh... It feels hot down there.)
+\c[6]Lona：\c[0]    \c[4](อ๊าก... รู้สึกร้อนข้างล่าง)
 
 Lona/wet_tsun2
-\c[6]Lona：\c[0]    \c[4](No! It's leaking out too fast...)
+\c[6]Lona：\c[0]    \c[4](ไม่! มันไหลออกมาเร็วเกินไป...)
 
 Lona/wet_tsun3
-Ugh... It's dripping...
+อ๊าก... มันหยด...
 
 Lona/Qmsg_wet_tsun0
-Damn... It's dirty down there...
+ชิบหาย... มันสกปรกข้างล่าง...
 
 Lona/Qmsg_wet_tsun1
-Guh... It feels hot down there.
+อ๊าก... รู้สึกร้อนข้างล่าง
 
 Lona/Qmsg_wet_tsun2
-No! It's leaking out too fast...
+ไม่! มันไหลออกมาเร็วเกินไป...
 
 Lona/Qmsg_wet_tsun3
-Ugh... It's dripping...
+อ๊าก... มันหยด...
 
 #---------------    -- when Lona getting grab
 
 Lona/grab_tsun0
-\c[6]Lona：\c[0]    Get away from me!
+\c[6]Lona：\c[0]    ออกไปให้พ้น!
 
 Lona/grab_tsun1
-\c[6]Lona：\c[0]    Don't touch me!
+\c[6]Lona：\c[0]    อย่าแตะต้องฉัน!
 
 Lona/grab_tsun2
-\c[6]Lona：\c[0]    Stop it!
+\c[6]Lona：\c[0]    หยุด!
 
 ####frist time on######################
 
 Lona/vag_taken_tsun0
-\c[6]Lona：\c[0]    GAAAHHH! M-My hole...! It... It hurts!
+\c[6]Lona：\c[0]    กรี๊ด! รูของฉัน...! มัน... เจ็บ!
 
 Lona/vag_taken_tsun1
-\c[6]Lona：\c[0]    Please...! Pull it out!
+\c[6]Lona：\c[0]    ขอร้อง...! ดึงออก!
 
 Lona/vag_taken_tsun2
-\c[6]Lona：\c[0]    Blood! STOP IT...!
+\c[6]Lona：\c[0]    เลือด! หยุด...!
 
 Lona/vag_taken_tsun3
-\c[6]Lona：\c[0]    Guuuh...! It h-huuurts!
+\c[6]Lona：\c[0]    อ่าห์...! มันเจ็บ...!
 
 Lona/vag_taken_tsun4
-\c[6]Lona：\c[0]    Nnnghnnn...
+\c[6]Lona：\c[0]    อ๊าก...
 
 #------------------###frist time on ANAL ###
 
 Lona/anal_taken_tsun0
-\c[6]Lona：\c[0]    Don't-...! That place is dirty!
+\c[6]Lona：\c[0]    อย่า-...! ที่นั่นสกปรก!
 
 Lona/anal_taken_tsun1
-\c[6]Lona：\c[0]    No! Don't touch there! STOP-...!
+\c[6]Lona：\c[0]    ไม่! อย่าแตะต้องที่นั่น! หยุด-...!
 
 Lona/anal_taken_tsun2
-\c[6]Lona：\c[0]    -EEEYAAAAAAH!!!
+\c[6]Lona：\c[0]    -กรี๊ด!!!
 
 Lona/anal_taken_tsun3
-\c[6]Lona：\c[0]    ...You... d-disgusting-...!
+\c[6]Lona：\c[0]    ...เธอ... น่ารังเกียจ-...!
 
 Lona/anal_taken_tsun4
-\c[6]Lona：\c[0]    Guuuaaah! It... hurts...!
+\c[6]Lona：\c[0]    อ่าห์! มัน... เจ็บ...!
 
 #------------------###出産 起始###done
 
 Lona/brith_begin_tsun0
-\c[6]Lona：\c[0]    No! Don't...!
+\c[6]Lona：\c[0]    ไม่! อย่า...!
 
 Lona/brith_begin_tsun1
-\c[6]Lona：\c[0]    AHHGH...! I don't want to give birth! G-Give me a break!
+\c[6]Lona：\c[0]    อ๊าก...! ฉันไม่อยากคลอด! ขอพักหน่อย!
 
 Lona/brith_begin_tsun2
-\c[6]Lona：\c[0]    It hurts! It huuurtsss...!
+\c[6]Lona：\c[0]    มันเจ็บ! มันเจ็บ...!
 
 Lona/brith_begin_tsun3
-\c[6]Lona：\c[0]    GAAAH! Help me!
+\c[6]Lona：\c[0]    กรี๊ด! ช่วยฉัน!
 
 Lona/brith_begin_tsun4
-\c[6]Lona：\c[0]    NNNIGHNNN...! EEYAAAH!
+\c[6]Lona：\c[0]    อ๊าก...! กรี๊ด!
 
 #-------------------          each frame or turn### 
 
 Lona/frame_tsun0
-\c[6]Lona：\c[0]    No... Stop moving...!
+\c[6]Lona：\c[0]    ไม่... หยุดขยับ...!
 
 Lona/frame_tsun1
-\c[6]Lona：\c[0]    Hngnnn... Ahhh...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/frame_tsun2
-\c[6]Lona：\c[0]    Guh! Hnnghnn!
+\c[6]Lona：\c[0]    อ๊าก! อ๊าก!
 
 Lona/frame_tsun3
-\c[6]Lona：\c[0]    Ah... L-Let go of me... Gah!
+\c[6]Lona：\c[0]    อ๊าก... ปล่อยฉัน... อ๊าก!
 
 Lona/frame_tsun4
-\c[6]Lona：\c[0]    Don't... Push it... in... Nnnigh ahhh!
+\c[6]Lona：\c[0]    อย่า... ผลักเข้าไป... อ๊าก!
 
 Lona/frame_tsun5
-\c[6]Lona：\c[0]    Gaaahhh... Aahh!
+\c[6]Lona：\c[0]    กรี๊ด... อ๊าก!
 
 Lona/frame_tsun6
-\c[6]Lona：\c[0]    Aahh... S-Stop...! Uhaaah!
+\c[6]Lona：\c[0]    อ๊าก... หยุด...! อ๊าก!
 
 Lona/frame_tsun7
-\c[6]Lona：\c[0]    Ahhh... Aaah...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/frame_tsun8
-\c[6]Lona：\c[0]    Haaah... Ahhh...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/frame_tsun9
-\c[6]Lona：\c[0]    Nnnighnnn...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/frame_tsun10
-\c[6]Lona：\c[0]    D-Damn it... Guuugh...
+\c[6]Lona：\c[0]    ชิบหาย... อ่าห์...
 
 #----------------------         --#when cuming 
 
 Lona/cumming_tsun0
-\c[6]Lona：\c[0]    *Pant* Haaahnnngh... N-No...!
+\c[6]Lona：\c[0]    *หอบ* อ๊าก... ไม่...!
 
 Lona/cumming_tsun1
-\c[6]Lona：\c[0]    NO! AAAHHH!
+\c[6]Lona：\c[0]    ไม่! อ๊าก!
 
 Lona/cumming_tsun2
-\c[6]Lona：\c[0]    NYAAA-aaah!
+\c[6]Lona：\c[0]    อ๊าก-อ๊าก!
 
 Lona/cumming_tsun3
-\c[6]Lona：\c[0]    C-Cumming! Ahhh!
+\c[6]Lona：\c[0]    กำลังถึงจุด! อ๊าก!
 
 Lona/cumming_tsun4
-\c[6]Lona：\c[0]    Nnmmpgh... Haaah...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/cumming_tsun5
-\c[6]Lona：\c[0]    Yihhnnngh...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/cumming_tsun6
-\c[6]Lona：\c[0]    Yiahh....
+\c[6]Lona：\c[0]    อ๊าก....
 
 Lona/cumming_tsun7
-\c[6]Lona：\c[0]    Hhuahh!
+\c[6]Lona：\c[0]    อ๊าก!
 
 Lona/cumming_tsun8
-\c[6]Lona：\c[0]    Aahh!
+\c[6]Lona：\c[0]    อ๊าก!
 
 Lona/cumming_tsun9
-\c[6]Lona：\c[0]    Yiahh... Ahhh!
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก!
 
 Lona/cumming_tsun10
-\c[6]Lona：\c[0]    Guh...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/Qmsg_cumming_tsun0
-*Pant* Haaahnnngh... N-No...!
+*หอบ* อ๊าก... ไม่...!
 
 Lona/Qmsg_cumming_tsun1
-NO! AAAHHH!
+ไม่! อ๊าก!
 
 Lona/Qmsg_cumming_tsun2
-NYAAA-aaah!
+อ๊าก-อ๊าก!
 
 Lona/Qmsg_cumming_tsun3
-C-Cumming! Ahhh!
+กำลังถึงจุด! อ๊าก!
 
 Lona/Qmsg_cumming_tsun4
-Nnmmpgh... Haaah...
+อ๊าก... อ๊าก...
 
 Lona/Qmsg_cumming_tsun5
-Yihhnnngh...
+อ๊าก...
 
 Lona/Qmsg_cumming_tsun6
-Yiahh....
+อ๊าก....
 
 Lona/Qmsg_cumming_tsun7
-Hhuahh!
+อ๊าก!
 
 Lona/Qmsg_cumming_tsun8
-Aahh!
+อ๊าก!
 
 Lona/Qmsg_cumming_tsun9
-Yiahh... Ahhh!
+อ๊าก... อ๊าก!
 
 Lona/Qmsg_cumming_tsun10
-Guh...
+อ๊าก...
 
 #----------------------         --#when over cuming 
 
 Lona/over_cumming_tsun0
-\c[6]Lona：\c[0]    C-Cccummmming a-again! \{Ahhh! AHHH!! AAAH!!!
+\c[6]Lona：\c[0]    กำลังถึงจุดอีก! \{อ๊าก! อ๊าก!! อ๊าก!!!
 
 Lona/over_cumming_tsun1
-\c[6]Lona：\c[0]    I need t-to-... \{-Ssstop c-c-cuUUUMINNNG! NYAAAH!!!
+\c[6]Lona：\c[0]    ฉันต้อง-... \{-หยุดถึงจุด! อ๊าก!!!
 
 Lona/over_cumming_tsun2
-\c[6]Lona：\c[0]    Stop cumming! Stop! \{AhhhAhAh!
+\c[6]Lona：\c[0]    หยุดถึงจุด! หยุด! \{อ๊ากอ๊าก!
 
 Lona/over_cumming_tsun3
-\c[6]Lona：\c[0]    Stooop...! I can't c-cuuum agaaain...!
+\c[6]Lona：\c[0]    หยุด...! ฉันถึงจุดไม่ได้อีก...!
 
 Lona/over_cumming_tsun4
-\c[6]Lona：\c[0]    W-W-Why-...? \{Yiaaahh!
+\c[6]Lona：\c[0]    ทำไม-...? \{อ๊าก!
 
 Lona/over_cumming_tsun5
-\c[6]Lona：\c[0]    Yiiihhghhah! \{Ahhh!!!
+\c[6]Lona：\c[0]    อ๊าก! \{อ๊าก!!!
 
 Lona/over_cumming_tsun6
-\c[6]Lona：\c[0]    Wuhguhyiaaahh!!! \{Yiaaahhaaahhh!
+\c[6]Lona：\c[0]    อ๊าก!!! \{อ๊าก!
 
 Lona/over_cumming_tsun7
-\c[6]Lona：\c[0]    Guaaah! \{AHHHHHH!!!
+\c[6]Lona：\c[0]    อ๊าก! \{อ๊าก!!!
 
 Lona/over_cumming_tsun8
-\c[6]Lona：\c[0]    \{NYAAAH!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/over_cumming_tsun9
-\c[6]Lona：\c[0]    \{Huuugaaah! ...Nighnnnahhh!
+\c[6]Lona：\c[0]    \{อ๊าก! ...อ๊าก!
 
 Lona/over_cumming_tsun10
-\c[6]Lona：\c[0]    \{*Gasp*... Nnnnighnnahhh......
+\c[6]Lona：\c[0]    \{*หอบ*... อ๊าก......
 
 Lona/Qmsg_over_cumming_tsun0
-C-Cccummmming a-again!
+กำลังถึงจุดอีก!
 
 Lona/Qmsg_over_cumming_tsun1
--Ssstop c-c-cuUUUMINNNG! NYAAAH!!!
+-หยุดถึงจุด! อ๊าก!!!
 
 Lona/Qmsg_over_cumming_tsun2
-Stop cumming! Stop! AhhhAhAh!
+หยุดถึงจุด! หยุด! อ๊ากอ๊าก!
 
 Lona/Qmsg_over_cumming_tsun3
-Stooop...! I can't c-cuuum agaaain...!
+หยุด...! ฉันถึงจุดไม่ได้อีก...!
 
 Lona/Qmsg_over_cumming_tsun4
-W-W-Why-...? Yiaaahh!
+ทำไม-...? อ๊าก!
 
 Lona/Qmsg_over_cumming_tsun5
-Yiiihhghhah! Ahhh!!!
+อ๊าก! อ๊าก!!!
 
 Lona/Qmsg_over_cumming_tsun6
-Wuhguhyiaaahh!!! Yiaaahhaaahhh!
+อ๊าก!!! อ๊าก!
 
 Lona/Qmsg_over_cumming_tsun7
-Guaaah! AHHHHHH!!!
+อ๊าก! อ๊าก!!!
 
 Lona/Qmsg_over_cumming_tsun8
-NYAAAH!
+อ๊าก!
 
 Lona/Qmsg_over_cumming_tsun9
-Huuugaaah! ...Nighnnnahhh!
+อ๊าก! ...อ๊าก!
 
 Lona/Qmsg_over_cumming_tsun10
-*Gasp*... Nnnnighnnahhh......
+*หอบ*... อ๊าก......
 
 #-------------------------------#Brith tsun
 
 Lona/brith_tsun0
-\c[6]Lona：\c[0]    C-Coming! \{The baby's coming...!
+\c[6]Lona：\c[0]    กำลังออกมา! \{ลูกกำลังออกมา...!
 
 Lona/brith_tsun1
-\c[6]Lona：\c[0]    D-DON'T-! \{IT HUUURTS! AHHH!!!
+\c[6]Lona：\c[0]    อย่า-! \{มันเจ็บ! อ๊าก!!!
 
 Lona/brith_tsun2
-\c[6]Lona：\c[0]    GAAAHHH! \{IT'S COMIIING!
+\c[6]Lona：\c[0]    กรี๊ด! \{มันกำลังออกมา!
 
 Lona/brith_tsun3
-\c[6]Lona：\c[0]    D-DYING...! \{I'M GOING TO DIEEE!
+\c[6]Lona：\c[0]    กำลังตาย...! \{ฉันจะตาย!
 
 Lona/brith_tsun4
-\c[6]Lona：\c[0]    \{SSSTOP! D-D-DON'T...! NOOOO-AAAHHHHHH!!!
+\c[6]Lona：\c[0]    \{หยุด! อย่า-...! ไม่-อ๊าก!!!
 
 Lona/brith_tsun5
-\c[6]Lona：\c[0]    \{KYAAAHHHHHH! IT HUUURRRTSSS!
+\c[6]Lona：\c[0]    \{กรี๊ด! มันเจ็บ!
 
 Lona/brith_tsun6
-\c[6]Lona：\c[0]    I C-CAN'T...! P-PLEASE STOP! Ssstop c-c-coming...!
+\c[6]Lona：\c[0]    ฉันทำไม่ได้...! ขอร้องหยุด! หยุดออกมา...!
 
 Lona/brith_tsun7
-\c[6]Lona：\c[0]    \{GUUUAH!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/brith_tsun8
-\c[6]Lona：\c[0]    \{NNNUUUUUUOOOHHH!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/brith_tsun9
-\c[6]Lona：\c[0]    \{AAAHHHHHH... Uuuaaaghhh...
+\c[6]Lona：\c[0]    \{อ๊าก... อ๊าก...
 
 Lona/brith_tsun10
-\c[6]Lona：\c[0]    \{Uwaaah...!
+\c[6]Lona：\c[0]    \{อ๊าก...!
 
 ################################################################WEAK####################################
 #--------             ---when Lona getting wet
 
 Lona/wet_weak0
-\c[6]Lona：\c[0]    \c[4](My tummy... Feels hot...)
+\c[6]Lona：\c[0]    \c[4](ท้องของฉัน... รู้สึกร้อน...)
 
 Lona/wet_weak1
-\c[6]Lona：\c[0]    \c[4](My body... I'm cumming...)
+\c[6]Lona：\c[0]    \c[4](ร่างกายของฉัน... ฉันกำลังถึงจุด...)
 
 Lona/wet_weak2
-\c[6]Lona：\c[0]    \c[4](Nnnghnnn... C-Cumming...!)
+\c[6]Lona：\c[0]    \c[4](อ๊าก... กำลังถึงจุด...!)
 
 Lona/wet_weak3
-\c[6]Lona：\c[0]    \c[4](*Whimper*... I can't h-... hold it in...)
+\c[6]Lona：\c[0]    \c[4](*สะอึก*... ฉันกลั้นไม่ได้-...)
 
 Lona/Qmsg_wet_weak0
-My tummy... Feels hot...
+ท้องของฉัน... รู้สึกร้อน...
 
 Lona/Qmsg_wet_weak1
-My body... I'm cumming...
+ร่างกายของฉัน... ฉันกำลังถึงจุด...
 
 Lona/Qmsg_wet_weak2
-Nnnghnnn... C-Cumming...!
+อ๊าก... กำลังถึงจุด...!
 
 Lona/Qmsg_wet_weak3
-I can't h-... hold it in...
+ฉันกลั้นไม่ได้-...
 
 #---------------    -- when Lona getting grab ***done
 
 Lona/grab_weak0
-\c[6]Lona：\c[0]    Don't hurt me...
+\c[6]Lona：\c[0]    อย่าทำร้ายฉัน...
 
 Lona/grab_weak1
-\c[6]Lona：\c[0]    Please... Don't.....
+\c[6]Lona：\c[0]    ขอร้อง... อย่า.....
 
 Lona/grab_weak2
-\c[6]Lona：\c[0]    Eeeek...!
+\c[6]Lona：\c[0]    อ๊าก...!
 
 ####frist time on######################  done
 
 Lona/vag_taken_weak0
-\c[6]Lona：\c[0]    N-No... P-Please don't...! I'm begging yo-...!
+\c[6]Lona：\c[0]    ไม่... ขอร้องอย่า...! ฉันขอร้องเธอ-...!
 
 Lona/vag_taken_weak1
-\c[6]Lona：\c[0]    \{-EEEEEEKKK!!!
+\c[6]Lona：\c[0]    \{-อ๊าก!!!
 
 Lona/vag_taken_weak2
-\c[6]Lona：\c[0]    ...I-It hurts...! My hole is h-hurting...
+\c[6]Lona：\c[0]    ...มันเจ็บ...! รูของฉันเจ็บ...
 
 Lona/vag_taken_weak3
-\c[6]Lona：\c[0]    Guaah... Aaahh! It's tearing m-me... Uwaaah...!
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก! มันกำลังฉีกฉัน... อ๊าก...!
 
 Lona/vag_taken_weak4
-\c[6]Lona：\c[0]    Ahhhhhh...! *Whimpers*...
+\c[6]Lona：\c[0]    อ๊าก...! *สะอึก*...
 
 #------------------###frist time on ANAL ###
 
 Lona/anal_taken_weak0
-\c[6]Lona：\c[0]    No! No no no nooo...! That spot's my-...
+\c[6]Lona：\c[0]    ไม่! ไม่ ไม่ ไม่...! จุดนั้นเป็นของฉัน-...
 
 Lona/anal_taken_weak1
-\c[6]Lona：\c[0]    \{-EEEEEEYAAAH!!! O-OWWW!!!
+\c[6]Lona：\c[0]    \{-อ๊าก!!! โอ๊ย!!!
 
 Lona/anal_taken_weak2
-\c[6]Lona：\c[0]    Pull i-it ouuut! Aaah... It's d-dirty...!
+\c[6]Lona：\c[0]    ดึงออก! อ๊าก... มันสกปรก...!
 
 Lona/anal_taken_weak3
-\c[6]Lona：\c[0]    Uwaaah!!! *Sob* My butthole is going to break...!
+\c[6]Lona：\c[0]    อ๊าก!!! *ร้องไห้* รูตูดของฉันจะแตก...!
 
 Lona/anal_taken_weak4
-\c[6]Lona：\c[0]    Kyaaaaaah!!!
+\c[6]Lona：\c[0]    กรี๊ด!!!
 
 #------------------###出産 起始###done
 
 Lona/brith_begin_weak0
-\c[6]Lona：\c[0]    The baby is c-coming out... My baby...
+\c[6]Lona：\c[0]    ลูกกำลังออกมา... ลูกของฉัน...
 
 Lona/brith_begin_weak1
-\c[6]Lona：\c[0]    EEEEEEP!!! Please d-dont kick! Mama will be good...!
+\c[6]Lona：\c[0]    อ๊าก!!! ขอร้องอย่าเตะ! แม่จะเป็นคนดี...!
 
 Lona/brith_begin_weak2
-\c[6]Lona：\c[0]    Aaahhh! Come o-out... Aaah!
+\c[6]Lona：\c[0]    อ๊าก! ออกมา... อ๊าก!
 
 Lona/brith_begin_weak3
-\c[6]Lona：\c[0]    EEEYAAAAAAH!
+\c[6]Lona：\c[0]    อ๊าก!!!
 
 Lona/brith_begin_weak4
-\c[6]Lona：\c[0]    GUUUAAAGHHH!
+\c[6]Lona：\c[0]    อ๊าก!!!
 
 #-------------------          each frame or turn### 
 
 Lona/frame_weak0
-\c[6]Lona：\c[0]    Eeeeeep...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/frame_weak1
-\c[6]Lona：\c[0]    Uwuuuah... Nnnah..
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก..
 
 Lona/frame_weak2
-\c[6]Lona：\c[0]    Hinnnghhnnn... Nnnnah...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/frame_weak3
-\c[6]Lona：\c[0]    Haaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/frame_weak4
-\c[6]Lona：\c[0]    Haaahhh... Aaahhh...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/frame_weak5
-\c[6]Lona：\c[0]    Eeeyaaah...!
+\c[6]Lona：\c[0]    อ๊าก...!
 
 Lona/frame_weak6
-\c[6]Lona：\c[0]    D-Don't... Aaah...
+\c[6]Lona：\c[0]    อย่า... อ๊าก...
 
 Lona/frame_weak7
-\c[6]Lona：\c[0]    P-Please stop... I'm s-scared of the pain...
+\c[6]Lona：\c[0]    ขอร้องหยุด... ฉันกลัวความเจ็บปวด...
 
 Lona/frame_weak8
-\c[6]Lona：\c[0]    Hiiiiyaaah...!
+\c[6]Lona：\c[0]    อ๊าก...!
 
 Lona/frame_weak9
 \c[6]Lona：\c[0]    ........
 
 Lona/frame_weak10
-\c[6]Lona：\c[0]    Unnnghnnn... Fuwaaahhh...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 #----------------------         --#when cuming
 
 Lona/cumming_weak0
-\c[6]Lona：\c[0]    Nnnyaaah!
+\c[6]Lona：\c[0]    อ๊าก!
 
 Lona/cumming_weak1
-\c[6]Lona：\c[0]    No no no...! D-Don't...
+\c[6]Lona：\c[0]    ไม่ ไม่ ไม่...! อย่า...
 
 Lona/cumming_weak2
-\c[6]Lona：\c[0]    Huuuaaah!
+\c[6]Lona：\c[0]    อ๊าก!
 
 Lona/cumming_weak3
-\c[6]Lona：\c[0]    Uwuuyiaah... I'm c-c-cumming...!
+\c[6]Lona：\c[0]    อ๊าก... ฉันกำลังถึงจุด...!
 
 Lona/cumming_weak4
-\c[6]Lona：\c[0]    Haaah... Nnnighnnnahhh...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/cumming_weak5
-\c[6]Lona：\c[0]    Yiaaahh...!
+\c[6]Lona：\c[0]    อ๊าก...!
 
 Lona/cumming_weak6
-\c[6]Lona：\c[0]    Ssstop... Aaah...
+\c[6]Lona：\c[0]    หยุด... อ๊าก...
 
 Lona/cumming_weak7
-\c[6]Lona：\c[0]    Oooohnnngh... Uwuuahhh...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/cumming_weak8
-\c[6]Lona：\c[0]    Ahhh....
+\c[6]Lona：\c[0]    อ๊าก....
 
 Lona/cumming_weak9
 \c[6]Lona：\c[0]    ........
 
 Lona/cumming_weak10
-\c[6]Lona：\c[0]    Fuwaaahhh... Haaahhh....
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก....
 
 Lona/Qmsg_cumming_weak0
-Nnnyaaah!
+อ๊าก!
 
 Lona/Qmsg_cumming_weak1
-No no no...! D-Don't...
+ไม่ ไม่ ไม่...! อย่า...
 
 Lona/Qmsg_cumming_weak2
-Huuuaaah!
+อ๊าก!
 
 Lona/Qmsg_cumming_weak3
-Uwuuyiaah... I'm c-c-cumming...!
+อ๊าก... ฉันกำลังถึงจุด...!
 
 Lona/Qmsg_cumming_weak4
-Haaah... Nnnighnnnahhh...
+อ๊าก... อ๊าก...
 
 Lona/Qmsg_cumming_weak5
-Yiaaahh...!
+อ๊าก...!
 
 Lona/Qmsg_cumming_weak6
-Ssstop... Aaah...
+หยุด... อ๊าก...
 
 Lona/Qmsg_cumming_weak7
-Oooohnnngh... Uwuuahhh...
+อ๊าก... อ๊าก...
 
 Lona/Qmsg_cumming_weak8
-Ahhh....
+อ๊าก....
 
 Lona/Qmsg_cumming_weak9
 ........
 
 Lona/Qmsg_cumming_weak10
-Fuwaaahhh... Haaahhh....
+อ๊าก... อ๊าก....
 
 #----------------------         --#when over cuming 
 
 Lona/over_cumming_weak0
-\c[6]Lona：\c[0]    Cccumminnng a-again! \{Aaah!
+\c[6]Lona：\c[0]    กำลังถึงจุดอีก! \{อ๊าก!
 
 Lona/over_cumming_weak1
-\c[6]Lona：\c[0]    \{Don't... \} C-Can't stop... Aaahh...
+\c[6]Lona：\c[0]    \{อย่า... \} หยุดไม่ได้... อ๊าก...
 
 Lona/over_cumming_weak2
-\c[6]Lona：\c[0]    I c-can't stop... \{Ahhh!
+\c[6]Lona：\c[0]    ฉันหยุดไม่ได้... \{อ๊าก!
 
 Lona/over_cumming_weak3
-\c[6]Lona：\c[0]    Huuyah... P-Please... mercy... I don't want to cum again...! \{KYAAAH!
+\c[6]Lona：\c[0]    อ๊าก... ขอร้อง... ให้อภัย... ฉันไม่อยากถึงจุดอีก...! \{กรี๊ด!
 
 Lona/over_cumming_weak4
-\c[6]Lona：\c[0]    ...\{Eeeeeekkk!
+\c[6]Lona：\c[0]    ...\{อ๊าก!
 
 Lona/over_cumming_weak5
-\c[6]Lona：\c[0]    \{Yhhhguhhaaah!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/over_cumming_weak6
-\c[6]Lona：\c[0]    \{Guhyiaah! Eeeeeekkk...
+\c[6]Lona：\c[0]    \{อ๊าก! อ๊าก...
 
 Lona/over_cumming_weak7
-\c[6]Lona：\c[0]    W-Wait... Wait a secon-... \{Ahhh!
+\c[6]Lona：\c[0]    รอ... รอสักครู่-... \{อ๊าก!
 
 Lona/over_cumming_weak8
-\c[6]Lona：\c[0]    \{Huuuwah!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/over_cumming_weak9
-\c[6]Lona：\c[0]    Eeeeeek... \{Kyaaah!
+\c[6]Lona：\c[0]    อ๊าก... \{กรี๊ด!
 
 Lona/over_cumming_weak10
-\c[6]Lona：\c[0]    Guuuwaaah... \{...Nu... N-... No more...!
+\c[6]Lona：\c[0]    อ๊าก... \{...ไม่... ไม่-... ไม่ได้อีก...!
 
 Lona/Qmsg_over_cumming_weak0
-Cccumminnng a-again! Aaah!
+กำลังถึงจุดอีก! อ๊าก!
 
 Lona/Qmsg_over_cumming_weak1
-Don't...C-Can't stop... Aaahh...
+อย่า...หยุดไม่ได้... อ๊าก...
 
 Lona/Qmsg_over_cumming_weak2
-I c-can't stop...Ahhh!
+ฉันหยุดไม่ได้...อ๊าก!
 
 Lona/Qmsg_over_cumming_weak3
-Huuyah...I don't want to cum again...!
+อ๊าก...ฉันไม่อยากถึงจุดอีก...!
 
 Lona/Qmsg_over_cumming_weak4
-...Eeeeeekkk!
+...อ๊าก!
 
 Lona/Qmsg_over_cumming_weak5
-Yhhhguhhaaah!
+อ๊าก!
 
 Lona/Qmsg_over_cumming_weak6
-Guhyiaah! Eeeeeekkk...
+อ๊าก! อ๊าก...
 
 Lona/Qmsg_over_cumming_weak7
-W-Wait... Wait a secon-... Ahhh!
+รอ... รอสักครู่-... อ๊าก!
 
 Lona/Qmsg_over_cumming_weak8
-Huuuwah!
+อ๊าก!
 
 Lona/Qmsg_over_cumming_weak9
-Eeeeeek... Kyaaah!
+อ๊าก... กรี๊ด!
 
 Lona/Qmsg_over_cumming_weak10
-Nu... N-... No more...!
+ไม่... ไม่-... ไม่ได้อีก...!
 
 #-------------------------------#Brith weak
 
 Lona/brith_weak0
-\c[6]Lona：\c[0]    HNNNIGHNNN... C-COMING...! \{THE BABY'S C-COMING!
+\c[6]Lona：\c[0]    อ๊าก... กำลังออกมา...! \{ลูกกำลังออกมา!
 
 Lona/brith_weak1
-\c[6]Lona：\c[0]    \{EEEEEEK!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/brith_weak2
-\c[6]Lona：\c[0]    \{HIIIYAAAAAAH!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/brith_weak3
-\c[6]Lona：\c[0]    \{P-PLEASE...! MEEERCY!
+\c[6]Lona：\c[0]    \{ขอร้อง...! ให้อภัย!
 
 Lona/brith_weak4
-\c[6]Lona：\c[0]    OWWW! It's going to tear! \{IT HUUURTS!
+\c[6]Lona：\c[0]    โอ๊ย! มันจะฉีก! \{มันเจ็บ!
 
 Lona/brith_weak5
-\c[6]Lona：\c[0]    \{GYAAAHHH! S-Someone...! Help... me!
+\c[6]Lona：\c[0]    \{กรี๊ด! ใคร...! ช่วย... ฉัน!
 
 Lona/brith_weak6
-\c[6]Lona：\c[0]    Help me! EEEEEEKKK! I beg you! \{S-SSSOMEONE HEEELP MEEE!
+\c[6]Lona：\c[0]    ช่วยฉัน! อ๊าก! ฉันขอร้อง! \{ใคร-ช่วย-ฉัน!
 
 Lona/brith_weak7
-\c[6]Lona：\c[0]    EEEYAAAAH...! KYAAAAAAH...! \{HIGIIIAAAH!
+\c[6]Lona：\c[0]    อ๊าก...! กรี๊ด...! \{อ๊าก!
 
 Lona/brith_weak8
-\c[6]Lona：\c[0]    \{NYAAAAAAHHH!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/brith_weak9
-\c[6]Lona：\c[0]    \{WUUU-uuuaaagh...!
+\c[6]Lona：\c[0]    \{อ๊าก-อ๊าก...!
 
 Lona/brith_weak10
-\c[6]Lona：\c[0]    Ahhh! *Whimper* \{Aaah...! Ahhh...!
+\c[6]Lona：\c[0]    อ๊าก! *สะอึก* \{อ๊าก...! อ๊าก...!
 
 #-------------------------------------------------------------------
 ################################################################slut####################################
 #--------             ---when Lona getting wet SLUT VER
 
 Lona/wet_slut0
-\c[6]Lona：\c[0]    Teehee... My pussy's super wet again...
+\c[6]Lona：\c[0]    ฮิฮิ... รูหีของฉันเปียกมากอีกแล้ว...
 
 Lona/wet_slut1
-\c[6]Lona：\c[0]    Nnn... Hahhh... I need a man's cock inside of me. ♥
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก... ฉันต้องการควยของผู้ชายเข้าไปข้างใน. ♥
 
 Lona/wet_slut2
-\c[6]Lona：\c[0]    Ohhh... It's completely soaked down there.~
+\c[6]Lona：\c[0]    อ๊าก... มันเปียกโชกข้างล่างเลย.~
 
 Lona/wet_slut3
-\c[6]Lona：\c[0]    I c-can't stand it any longer! I need someone to fuck me!!!~ ♥
+\c[6]Lona：\c[0]    ฉันทนไม่ไหวแล้ว! ฉันต้องการให้ใครสักคนมาเย็ดฉัน!!!~ ♥
 
 Lona/Qmsg_wet_slut0
-Teehee... My pussy's super wet again...
+ฮิฮิ... รูหีของฉันเปียกมากอีกแล้ว...
 
 Lona/Qmsg_wet_slut1
-I need a man's cock inside of me.♥
+ฉันต้องการควยของผู้ชายเข้าไปข้างใน.♥
 
 Lona/Qmsg_wet_slut2
-Ohhh... It's completely soaked down there.~
+อ๊าก... มันเปียกโชกข้างล่างเลย.~
 
 Lona/Qmsg_wet_slut3
-I c-can't stand it any longer♥
+ฉันทนไม่ไหวแล้ว♥
 
 #---------------    -- when Lona getting grab SLUT MODE
 
 Lona/grab_slut0
-\c[6]Lona：\c[0]    Uh-oh! Let go of me!
+\c[6]Lona：\c[0]    โอ๊ย! ปล่อยฉัน!
 
 Lona/grab_slut1
-\c[6]Lona：\c[0]    Get lost!
+\c[6]Lona：\c[0]    ไปให้พ้น!
 
 Lona/grab_slut2
-\c[6]Lona：\c[0]    Put me down!
+\c[6]Lona：\c[0]    วางฉันลง!
 
 ####frist time on###################### *DONE
 
 Lona/vag_taken_slut0
-\c[6]Lona：\c[0]    Eeep! M-My pussy's...! B-Breaking!
+\c[6]Lona：\c[0]    อ๊าก! รูหีของฉัน...! กำลังแตก!
 
 Lona/vag_taken_slut1
-\c[6]Lona：\c[0]    KYAAAH!!!~ ♥ My hymen... is being tooorn!
+\c[6]Lona：\c[0]    กรี๊ด!!!~ ♥ พรหมจรรย์ของฉัน... กำลังถูกฉีก!
 
 Lona/vag_taken_slut2
-\c[6]Lona：\c[0]    Guuuaaah! Blood! I'm b-bleediiing!
+\c[6]Lona：\c[0]    อ๊าก! เลือด! ฉันกำลังเลือดไหล!
 
 Lona/vag_taken_slut3
-\c[6]Lona：\c[0]    Ahhhaaah!
+\c[6]Lona：\c[0]    อ๊าก!
 
 Lona/vag_taken_slut4
-\c[6]Lona：\c[0]    Nnniiinnngh! Nyaaah!~ ♥
+\c[6]Lona：\c[0]    อ๊าก! อ๊าก!~ ♥
 
 #------------------###frist time on ANAL ###done
 
 Lona/anal_taken_slut0
-\c[6]Lona：\c[0]    My asshole... is going to break...!
+\c[6]Lona：\c[0]    รูตูดของฉัน... กำลังแตก...!
 
 Lona/anal_taken_slut1
-\c[6]Lona：\c[0]    No no nooo! That hole isn't supposed to be-...!
+\c[6]Lona：\c[0]    ไม่ ไม่ ไม่! รูนั้นไม่ควรจะ-...!
 
 Lona/anal_taken_slut2
-\c[6]Lona：\c[0]    -KYAAAAAAH!!!~ ♥
+\c[6]Lona：\c[0]    -กรี๊ด!!!~ ♥
 
 Lona/anal_taken_slut3
-\c[6]Lona：\c[0]    I-It huurtsss! My ass... Is b-breaking...!
+\c[6]Lona：\c[0]    มันเจ็บ...! รูตูดของฉัน... กำลังแตก...!
 
 Lona/anal_taken_slut4
-\c[6]Lona：\c[0]    Haaah! Ahhh!! AAAHHH!!!~ ♥
+\c[6]Lona：\c[0]    อ๊าก! อ๊าก!! อ๊าก!!!~ ♥
 
 #------------------###出産 起始###done
 
 Lona/brith_begin_slut0
-\c[6]Lona：\c[0]    Aaahhh...! It's coming! My little baby wants to come out!
+\c[6]Lona：\c[0]    อ๊าก...! มันกำลังออกมา! ลูกน้อยของฉันอยากออกมา!
 
 Lona/brith_begin_slut1
-\c[6]Lona：\c[0]    Uwuuu! I'm g-giving birth...! Gaaahhh!
+\c[6]Lona：\c[0]    อ๊าก! ฉันกำลังคลอด...! อ๊าก!
 
 Lona/brith_begin_slut2
-\c[6]Lona：\c[0]    Mercy! Mercy!
+\c[6]Lona：\c[0]    ขอร้อง! ขอร้อง!
 
 Lona/brith_begin_slut3
-\c[6]Lona：\c[0]    Slow down! Slower! My pussy is going to break!
+\c[6]Lona：\c[0]    ช้าลง! ช้าลง! รูหีของฉันจะแตก!
 
 Lona/brith_begin_slut4
-\c[6]Lona：\c[0]    UUUWAAAAAAHHH!!!~ ♥
+\c[6]Lona：\c[0]    อ๊าก!!!~ ♥
 
 #----------------------------------#SLUT--------done-----------------------------------------------
 
 Lona/frame_slut0
-\c[6]Lona：\c[0]    Ah! ♥ Aaahhh! ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ อ๊าก! ♥
 
 Lona/frame_slut1
-\c[6]Lona：\c[0]    Hah! ♥ Nnnnnn... Ahhh! ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ อ๊าก... อ๊าก! ♥
 
 Lona/frame_slut2
-\c[6]Lona：\c[0]    Eeep! ♥ Nyaaah! ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ อ๊าก! ♥
 
 Lona/frame_slut3
-\c[6]Lona：\c[0]    Haaah!~ ♥ M-More! ♥ D-Don't... Don't stop!~ ♥
+\c[6]Lona：\c[0]    อ๊าก!~ ♥ มากกว่านี้! ♥ อย่า... อย่าหยุด!~ ♥
 
 Lona/frame_slut4
-\c[6]Lona：\c[0]    Ahhh! ♥ Ahhhgh! ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ อ๊าก! ♥
 
 Lona/frame_slut5
-\c[6]Lona：\c[0]    Haaah! ♥ Nyaaah!~ ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ อ๊าก!~ ♥
 
 Lona/frame_slut6
-\c[6]Lona：\c[0]    Uhnngh! Nnn... Aaah! ♥ Ahhh... Ahhh! ♥
+\c[6]Lona：\c[0]    อ๊าก! อ๊าก... อ๊าก! ♥ อ๊าก... อ๊าก! ♥
 
 Lona/frame_slut7
-\c[6]Lona：\c[0]    Harder! ♥ F-Fuck me harder! ♥
+\c[6]Lona：\c[0]    แรงกว่านี้! ♥ เย็ดฉันแรงๆ! ♥
 
 Lona/frame_slut8
-\c[6]Lona：\c[0]    So deep! ♥ Kyaaah!~ ♥
+\c[6]Lona：\c[0]    ลึกมาก! ♥ กรี๊ด!~ ♥
 
 Lona/frame_slut9
-\c[6]Lona：\c[0]    So good!~ ♥ Feels sh-ooo gooooood!~ ♥
+\c[6]Lona：\c[0]    ดีมาก!~ ♥ รู้สึกดีมาก!~ ♥
 
 Lona/frame_slut10
-\c[6]Lona：\c[0]    Aaaah! ♥ Haaahhh! ♥ Nyaaah!~ ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ อ๊าก! ♥ อ๊าก!~ ♥
 
 #----------------------         --#when cuming
 
 Lona/cumming_slut0
-\c[6]Lona：\c[0]    Kyaaah!~ ♥  Cum... Cumming!~ ♥
+\c[6]Lona：\c[0]    กรี๊ด!~ ♥ ถึงจุด... ถึงจุด!~ ♥
 
 Lona/cumming_slut1
-\c[6]Lona：\c[0]    Cumming! ♥ I'M CWUUUMMMINGGG!!!~ ♥
+\c[6]Lona：\c[0]    ถึงจุด! ♥ ฉันกำลังถึงจุด!!!~ ♥
 
 Lona/cumming_slut2
-\c[6]Lona：\c[0]    Ahhhhhh!~ ♥
+\c[6]Lona：\c[0]    อ๊าก!~ ♥
 
 Lona/cumming_slut3
-\c[6]Lona：\c[0]    Nnooohhh! ♥ Cwumming! ♥ Gggguuumminnng!~ ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ ถึงจุด! ♥ กำลังถึงจุด!~ ♥
 
 Lona/cumming_slut4
-\c[6]Lona：\c[0]    Hhngh! ♥ Fffeelsssh gwuud!~ ♥ Eeeyaaah!~ ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ รู้สึกดี!~ ♥ อ๊าก!~ ♥
 
 Lona/cumming_slut5
-\c[6]Lona：\c[0]    Eheeeh! K-Kwuuumming ahgaaain!!!~ ♥
+\c[6]Lona：\c[0]    อ๊าก! กำลังถึงจุดอีก!!!~ ♥
 
 Lona/cumming_slut6
-\c[6]Lona：\c[0]    Sooo guud! ♥ Fffeelsssh sh-ooo gwuuuud!!!~ ♥
+\c[6]Lona：\c[0]    ดีมาก! ♥ รู้สึกดีมาก!!!~ ♥
 
 Lona/cumming_slut7
-\c[6]Lona：\c[0]    Annngh! ♥ Hhhngh! ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ อ๊าก! ♥
 
 Lona/cumming_slut8
-\c[6]Lona：\c[0]    Ooohhhhhh!~ ♥
+\c[6]Lona：\c[0]    อ๊าก!~ ♥
 
 Lona/cumming_slut9
-\c[6]Lona：\c[0]    Uuuwuuunnngh! ♥ Nnnnn! Haaah!~ ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ อ๊าก! อ๊าก!~ ♥
 
 Lona/cumming_slut10
-\c[6]Lona：\c[0]    Aaahh! ♥ My ph-pussy feelsss sooo good...~ ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ รูหีของฉันรู้สึกดีมาก...~ ♥
 
 Lona/Qmsg_cumming_slut0
-Kyaaah!~ ♥  Cum... Cumming!~ ♥
+กรี๊ด!~ ♥ ถึงจุด... ถึงจุด!~ ♥
 
 Lona/Qmsg_cumming_slut1
-Cumming! ♥ I'M CWUUUMMMINGGG!!!~ ♥
+ถึงจุด! ♥ ฉันกำลังถึงจุด!!!~ ♥
 
 Lona/Qmsg_cumming_slut2
-Ahhhhhh!~ ♥
+อ๊าก!~ ♥
 
 Lona/Qmsg_cumming_slut3
-Nnooohhh! ♥ Cwumming! ♥ Gggguuumminnng!~ ♥
+อ๊าก! ♥ ถึงจุด! ♥ กำลังถึงจุด!~ ♥
 
 Lona/Qmsg_cumming_slut4
-Hhngh! ♥ Fffeelsssh gwuud!~ ♥ Eeeyaaah!~ ♥
+อ๊าก! ♥ รู้สึกดี!~ ♥ อ๊าก!~ ♥
 
 Lona/Qmsg_cumming_slut5
-Eheeeh! K-Kwuuumming ahgaaain!!!~ ♥
+อ๊าก! กำลังถึงจุดอีก!!!~ ♥
 
 Lona/Qmsg_cumming_slut6
-Sooo guud! ♥ Fffeelsssh sh-ooo gwuuuud!!!~ ♥
+ดีมาก! ♥ รู้สึกดีมาก!!!~ ♥
 
 Lona/Qmsg_cumming_slut7
-Annngh! ♥ Hhhngh! ♥
+อ๊าก! ♥ อ๊าก! ♥
 
 Lona/Qmsg_cumming_slut8
-Ooohhhhhh!~ ♥
+อ๊าก!~ ♥
 
 Lona/Qmsg_cumming_slut9
-Uuuwuuunnngh! ♥ Nnnnn! Haaah!~ ♥
+อ๊าก! ♥ อ๊าก! อ๊าก!~ ♥
 
 Lona/Qmsg_cumming_slut10
-Aaahh! ♥ My ph-pussy feelsss sooo good...~ ♥
+อ๊าก! ♥ รูหีของฉันรู้สึกดีมาก...~ ♥
 
 #----------------------         --#when over cuming
 
 Lona/over_cumming_slut0
-\c[6]Lona：\c[0]    CUMMINNNGGG! ♥ \{CWUMMING SH-OOO HWARRRD!~ ♥
+\c[6]Lona：\c[0]    ถึงจุด!!! ♥ \{ถึงจุดแรงมาก!~ ♥
 
 Lona/over_cumming_slut1
-\c[6]Lona：\c[0]    EEYAAAH!~ ♥ SOOO GUUD! ♥ \{K-CAN'T SHTOP KUMMING!~ ♥
+\c[6]Lona：\c[0]    อ๊าก!~ ♥ ดีมาก! ♥ \{หยุดไม่ได้!~ ♥
 
 Lona/over_cumming_slut2
-\c[6]Lona：\c[0]    I CAN'T SHTOP! ♥ CAN'T STOP CWUMMINGGG! ♥ \{YIIIAAAHHH!~ ♥
+\c[6]Lona：\c[0]    ฉันหยุดไม่ได้! ♥ หยุดไม่ได้! ♥ \{อ๊าก!~ ♥
 
 Lona/over_cumming_slut3
-\c[6]Lona：\c[0]    SH-TILL CWUMMING! ♥ K-CUUUMMMINGH AGAIIIN! ♥ \{AHHH!~ ♥
+\c[6]Lona：\c[0]    ยังถึงจุด! ♥ กำลังถึงจุดอีก! ♥ \{อ๊าก!~ ♥
 
 Lona/over_cumming_slut4
-\c[6]Lona：\c[0]    SOOO GOOOOD! ♥\n \{MORE! FUCK ME MORE!~ ♥♥♥
+\c[6]Lona：\c[0]    ดีมาก! ♥\n \{มากกว่านี้! เย็ดฉันมากกว่านี้!~ ♥♥♥
 
 Lona/over_cumming_slut5
-\c[6]Lona：\c[0]    EEEP! ♥ HHHNNNGH! ♥ \{MY B-BRAIN ISH MWEEELTING!~ ♥
+\c[6]Lona：\c[0]    อ๊าก! ♥ อ๊าก! ♥ \{สมองของฉันกำลังละลาย!~ ♥
 
 Lona/over_cumming_slut6
-\c[6]Lona：\c[0]    KYAAAH!~ ♥ \{HHHNNNGH!~ ♥
+\c[6]Lona：\c[0]    กรี๊ด!~ ♥ \{อ๊าก!~ ♥
 
 Lona/over_cumming_slut7
-\c[6]Lona：\c[0]    CWUMMINNN'! ♥ KWUMMIIINGGG! ♥ \{OOOHHHHHH!!!~
+\c[6]Lona：\c[0]    ถึงจุด! ♥ กำลังถึงจุด! ♥ \{อ๊าก!!!~
 
 Lona/over_cumming_slut8
-\c[6]Lona：\c[0]    MWEEELTING!~ ♥ \{MY BODY ISH MWEEELTIiinnnggg!!!~ ♥
+\c[6]Lona：\c[0]    ละลาย!~ ♥ \{ร่างกายของฉันกำลังละลาย!!!~ ♥
 
 Lona/over_cumming_slut9
-\c[6]Lona：\c[0]    S-Saint... ♥ I s-seeee you... ♥ Aaahaaahhh...~ ♥
+\c[6]Lona：\c[0]    นักบุญ... ♥ ฉันเห็นคุณ... ♥ อ๊าก...~ ♥
 
 Lona/Qmsg_over_cumming_slut0
-CWUMMING SH-OOO HWARRRD!~ ♥
+ถึงจุดแรงมาก!~ ♥
 
 Lona/Qmsg_over_cumming_slut1
-K-CAN'T SHTOP KUMMING!~ ♥
+หยุดไม่ได้!~ ♥
 
 Lona/Qmsg_over_cumming_slut2
-I CAN'T SHTOP! YIIIAAAHHH!~ ♥
+ฉันหยุดไม่ได้! อ๊าก!~ ♥
 
 Lona/Qmsg_over_cumming_slut3
-K-CUUUMMMINGH AGAIIIN! ♥ AHHH!~ ♥
+กำลังถึงจุดอีก! ♥ อ๊าก!~ ♥
 
 Lona/Qmsg_over_cumming_slut4
-MORE! FUCK ME MORE!~ ♥♥♥
+มากกว่านี้! เย็ดฉันมากกว่านี้!~ ♥♥♥
 
 Lona/Qmsg_over_cumming_slut5
-MY B-BRAIN ISH MWEEELTING!~ ♥
+สมองของฉันกำลังละลาย!~ ♥
 
 Lona/Qmsg_over_cumming_slut6
-KYAAAH!~ ♥ HHHNNNGH!~ ♥
+กรี๊ด!~ ♥ อ๊าก!~ ♥
 
 Lona/Qmsg_over_cumming_slut7
-KWUMMIIINGGG! ♥ OOOHHHHHH!!!~
+กำลังถึงจุด! ♥ อ๊าก!!!~
 
 Lona/Qmsg_over_cumming_slut8
-MY BODY ISH MWEEELTIiinnnggg!!!~ ♥
+ร่างกายของฉันกำลังละลาย!!!~ ♥
 
 Lona/Qmsg_over_cumming_slut9
-Aaahaaahhh...~ ♥
+อ๊าก...~ ♥
 
 #-------------------------------#Brith slut
 
 Lona/brith_slut0
-\c[6]Lona：\c[0]    \{Baby! MY BABY IS COMINNNG!
+\c[6]Lona：\c[0]    \{ลูก! ลูกของฉันกำลังออกมา!
 
 Lona/brith_slut1
-\c[6]Lona：\c[0]    UWAAAHHH! \{B-BREAAKINNNG!
+\c[6]Lona：\c[0]    อ๊าก! \{กำลังแตก!
 
 Lona/brith_slut2
-\c[6]Lona：\c[0]    S-... Slow down for a bit! Hey! S-Stop kicking! \{AHHH!
+\c[6]Lona：\c[0]    ช้าลงสักหน่อย! หยุดเตะ! \{อ๊าก!
 
 Lona/brith_slut3
-\c[6]Lona：\c[0]    Eeeeaaah! \{NNNAAAAGH!
+\c[6]Lona：\c[0]    อ๊าก! \{อ๊าก!
 
 Lona/brith_slut4
-\c[6]Lona：\c[0]    It hurts! It huuurts! \{H-HELP ME!
+\c[6]Lona：\c[0]    มันเจ็บ! มันเจ็บ! \{ช่วยฉัน!
 
 Lona/brith_slut5
-\c[6]Lona：\c[0]    Ahhh! \{S... SOMEONE HELP MEEE!
+\c[6]Lona：\c[0]    อ๊าก! \{... ใครช่วยฉัน!
 
 Lona/brith_slut6
-\c[6]Lona：\c[0]    C-CWUMMING! Aaa-...\{-EEEAAAH!
+\c[6]Lona：\c[0]    ถึงจุด! อ๊าก-...\{-อ๊าก!
 
 Lona/brith_slut7
-\c[6]Lona：\c[0]    \{EEEIIIYAAAAAAH!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/brith_slut8
-\c[6]Lona：\c[0]    \{UWAUUUAAAGHHH!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/brith_slut9
-\c[6]Lona：\c[0]    Nnnighnnn-aaahhh! \{AAAHHH!
+\c[6]Lona：\c[0]    อ๊าก-อ๊าก! \{อ๊าก!
 
 Lona/brith_slut10
-\c[6]Lona：\c[0]    W-WAIT... A SEC...! \{PLEASE SHTOOOP...!
+\c[6]Lona：\c[0]    รอ... รอสักครู่...! \{ขอร้อง... หยุด...!
 
 #-----------------------------------when mouth got something-----done---------------------------------------------
 #------------------------------------------wet--------------------------------------------------
 
 Lona/wet_mouth_block0
-\c[6]Lona：\c[0]    Whhhnnn... Nnnmmminph...
+\c[6]Lona：\c[0]    อ๊าก... อิมมมม...
 
 Lona/wet_mouth_block1
-\c[6]Lona：\c[0]    Nnnuwhhh...
+\c[6]Lona：\c[0]    อิมมม...
 
 Lona/wet_mouth_block2
-\c[6]Lona：\c[0]    Mmmnnnph... Nnnmmmnnnph...
+\c[6]Lona：\c[0]    อิมมม... อิมมม...
 
 Lona/wet_mouth_block3
-\c[6]Lona：\c[0]    Aaaawuuuph... Wuunnnmmmph...
+\c[6]Lona：\c[0]    อิมมม... อิมมม...
 
 Lona/Qmsg_wet_mouth_block0
-Whhhnnn... Nnnmmminph...
+อ๊าก... อิมมม...
 
 Lona/Qmsg_wet_mouth_block1
-Nnnuwhhh...
+อิมมม...
 
 Lona/Qmsg_wet_mouth_block2
-Mmmnnnph... Nnnmmmnnnph...
+อิมมม... อิมมม...
 
 Lona/Qmsg_wet_mouth_block3
-Aaaawuuuph... Wuunnnmmmph...
+อิมมม... อิมมม...
 
 #---------------    -- GRAB MOUTh BLOCK
 
 Lona/grab_mouth_block0
-\c[6]Lona：\c[0]    Mmmmmm! MMMNNNPH!!!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!!!
 
 Lona/grab_mouth_block1
-\c[6]Lona：\c[0]    Nnnnmmmph!
+\c[6]Lona：\c[0]    อิมมม!
 
 Lona/grab_mouth_block2
-\c[6]Lona：\c[0]    Aaahnnnmmmph! NNNMMMPH!!!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!!!
 
 ####frist time on VAG###################### *DONE
 
 Lona/vag_taken_mouth_block0
-\c[6]Lona：\c[0]    Aawmmmph! Wuuyirrmmph!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/vag_taken_mouth_block1
-\c[6]Lona：\c[0]    Mmmnnnph! Wuuyirrmmph!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/vag_taken_mouth_block2
-\c[6]Lona：\c[0]    MMMMNNNPHHH!! Nnyirrhhwuu!
+\c[6]Lona：\c[0]    อิมมม!! อิมมม!
 
 Lona/vag_taken_mouth_block3
-\c[6]Lona：\c[0]    Hnngnn! Mmmnph! Mmmnnnppphhh!
+\c[6]Lona：\c[0]    อ๊าก! อิมมม! อิมมม!
 
 Lona/vag_taken_mouth_block4
-\c[6]Lona：\c[0]    Nnnmmmphhh!
+\c[6]Lona：\c[0]    อิมมม!
 
 ####frist time on ANAL###################### *DONE
 
 Lona/anal_taken_mouth_block0
-\c[6]Lona：\c[0]    Aaahwuuu... Mmmguhnnnph!
+\c[6]Lona：\c[0]    อิมมม... อิมมม!
 
 Lona/anal_taken_mouth_block1
-\c[6]Lona：\c[0]    NYAAAHHHH! Nnrrynnph! Rrrrnnnph!
+\c[6]Lona：\c[0]    อ๊าก! อิมมม! อิมมม!
 
 Lona/anal_taken_mouth_block2
-\c[6]Lona：\c[0]    Nyrrrh! Wuuurrrmph!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/anal_taken_mouth_block3
-\c[6]Lona：\c[0]    Nnnahhh! Whnnrrrmph!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/anal_taken_mouth_block4
-\c[6]Lona：\c[0]    Mmmuuuguhmmmph!
+\c[6]Lona：\c[0]    อิมมม!
 
 #------------------###出産 起始###done
 
 Lona/brith_begin_mouth_block0
-\c[6]Lona：\c[0]    MMMNNNPH!
+\c[6]Lona：\c[0]    อิมมม!
 
 Lona/brith_begin_mouth_block1
-\c[6]Lona：\c[0]    GUWUUUNNN! HNNGHPH!
+\c[6]Lona：\c[0]    อ๊าก! อิมมม!
 
 Lona/brith_begin_mouth_block2
-\c[6]Lona：\c[0]    Guhwuurrhmmmph!
+\c[6]Lona：\c[0]    อิมมม!
 
 Lona/brith_begin_mouth_block3
-\c[6]Lona：\c[0]    Hnguuhwwwrrrhhh!
+\c[6]Lona：\c[0]    อิมมม!
 
 Lona/brith_begin_mouth_block4
-\c[6]Lona：\c[0]    YIIIIAAAMMMPH!!!
+\c[6]Lona：\c[0]    อิมมม!!!
 
 #-----------------------COMMON FRAME
 
 Lona/frame_mouth_block0
-\c[6]Lona：\c[0]    Mmmuguuhmph... Wuuahaaa...
+\c[6]Lona：\c[0]    อิมมม... อิมมม...
 
 Lona/frame_mouth_block1
-\c[6]Lona：\c[0]    Wuuyirrhnnnigh... Wuuummmph...
+\c[6]Lona：\c[0]    อิมมม... อิมมม...
 
 Lona/frame_mouth_block2
-\c[6]Lona：\c[0]    Mmmnnguhph! Aaaannnmmmph!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/frame_mouth_block3
-\c[6]Lona：\c[0]    Nnwhnnnph!
+\c[6]Lona：\c[0]    อิมมม!
 
 Lona/frame_mouth_block4
-\c[6]Lona：\c[0]    Guh-Wuummph! Hngnnuguuuh!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/frame_mouth_block5
-\c[6]Lona：\c[0]    Aaawuuuh! Wuuaahh...
+\c[6]Lona：\c[0]    อิมมม! อิมมม...
 
 Lona/frame_mouth_block6
-\c[6]Lona：\c[0]    Guhnnmmph... Whuunnmph!
+\c[6]Lona：\c[0]    อิมมม... อิมมม!
 
 Lona/frame_mouth_block7
-\c[6]Lona：\c[0]    Guhaaahhh...
+\c[6]Lona：\c[0]    อิมมม...
 
 Lona/frame_mouth_block8
-\c[6]Lona：\c[0]    Nnwuuuaa! Hnnghnnph!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/frame_mouth_block9
-\c[6]Lona：\c[0]    Guhluuummph... Wuuuaahhh...
+\c[6]Lona：\c[0]    อิมมม... อิมมม...
 
 Lona/frame_mouth_block10
-\c[6]Lona：\c[0]    Nnnnn... Huhnnnmph...
+\c[6]Lona：\c[0]    อิมมม... อิมมม...
 
 #-----------------------CUMMING
 
 Lona/cumming_mouth_block0
-\c[6]Lona：\c[0]    Huiiighnnnph!
+\c[6]Lona：\c[0]    อิมมม!
 
 Lona/cumming_mouth_block1
-\c[6]Lona：\c[0]    Wuuaaah! Nnn-Wuuaahhh!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/cumming_mouth_block2
-\c[6]Lona：\c[0]    Nnnhuugh! Wuuaahhhmmmph!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/cumming_mouth_block3
-\c[6]Lona：\c[0]    Whnnnghnnn!!!
+\c[6]Lona：\c[0]    อิมมม!!!
 
 Lona/cumming_mouth_block4
-\c[6]Lona：\c[0]    Wuuhahh! Mmmnnnph!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/cumming_mouth_block5
-\c[6]Lona：\c[0]    Aaahhhwuuh! Nnnwuughah!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/cumming_mouth_block6
-\c[6]Lona：\c[0]    Guhmmmuunngh! Wuuhaaah!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/cumming_mouth_block7
-\c[6]Lona：\c[0]    Huaahnngh! Kkkiiinnnmmmph!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/cumming_mouth_block8
-\c[6]Lona：\c[0]    Wuuhnnngh! Whnnnph!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/cumming_mouth_block9
-\c[6]Lona：\c[0]    Nnnwuuuhaaah! Mmmnnnghaaah!
+\c[6]Lona：\c[0]    อิมมม! อิมมม!
 
 Lona/cumming_mouth_block10
-\c[6]Lona：\c[0]    Nnnighnnn... Highuuugh...!
+\c[6]Lona：\c[0]    อิมมม... อิมมม...!
 
 Lona/Qmsg_cumming_mouth_block0
-Huiiighnnnph!
+อิมมม!
 
 Lona/Qmsg_cumming_mouth_block1
-Wuuaaah! Nnn-Wuuaahhh!
+อิมมม! อิมมม!
 
 Lona/Qmsg_cumming_mouth_block2
-Nnnhuugh! Wuuaahhhmmmph!
+อิมมม! อิมมม!
 
 Lona/Qmsg_cumming_mouth_block3
-Whnnnghnnn!!!
+อิมมม!!!
 
 Lona/Qmsg_cumming_mouth_block4
-Wuuhahh! Mmmnnnph!
+อิมมม! อิมมม!
 
 Lona/Qmsg_cumming_mouth_block5
-Aaahhhwuuh! Nnnwuughah!
+อิมมม! อิมมม!
 
 Lona/Qmsg_cumming_mouth_block6
-Guhmmmuunngh! Wuuhaaah!
+อิมมม! อิมมม!
 
 Lona/Qmsg_cumming_mouth_block7
-Huaahnngh! Kkkiiinnnmmmph!
+อิมมม! อิมมม!
 
 Lona/Qmsg_cumming_mouth_block8
-Wuuhnnngh! Whnnnph!
+อิมมม! อิมมม!
 
 Lona/Qmsg_cumming_mouth_block9
-Nnnwuuuhaaah! Mmmnnnghaaah!
+อิมมม! อิมมม!
 
 Lona/Qmsg_cumming_mouth_block10
-Nnnighnnn... Highuuugh...!
+อิมมม... อิมมม...!
 
 #-----------------------OVER CUMMING!!
 
 Lona/over_cumming_mouth_block0
-\c[6]Lona：\c[0]    \{Huhnnngh!
+\c[6]Lona：\c[0]    \{อิมมม!
 
 Lona/over_cumming_mouth_block1
-\c[6]Lona：\c[0]    Wuu-aah! \{NNNWUAAAMMMPH!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/over_cumming_mouth_block2
-\c[6]Lona：\c[0]    NNHUAH! \{MMMGUHMMMPH!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/over_cumming_mouth_block3
-\c[6]Lona：\c[0]    \{UWUUUNNNMPH!!!
+\c[6]Lona：\c[0]    \{อิมมม!!!
 
 Lona/over_cumming_mouth_block4
-\c[6]Lona：\c[0]    \{WUUGUNNNMMM! GUHMMMNNNPH!
+\c[6]Lona：\c[0]    \{อิมมม! อิมมม!
 
 Lona/over_cumming_mouth_block5
-\c[6]Lona：\c[0]    AAHHHWUHHHMMMPH! \{NNNWUHHHAHH!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/over_cumming_mouth_block6
-\c[6]Lona：\c[0]    Guhwuuuhhh! \{MMMGUUUNNNPH!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/over_cumming_mouth_block7
-\c[6]Lona：\c[0]    Huaahnnn! \{GEEYIIIMMPH!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/over_cumming_mouth_block8
-\c[6]Lona：\c[0]    Wuuhnnghnn! \{Whnnnighnnn!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/over_cumming_mouth_block9
-\c[6]Lona：\c[0]    Nnwuuhaaah! \{Mmmmguhhhph!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/over_cumming_mouth_block10
-\c[6]Lona：\c[0]    Nnnmmmph... \{Huuwaaah...
+\c[6]Lona：\c[0]    อิมมม... \{อิมมม...
 
 Lona/Qmsg_over_cumming_mouth_block0
-Huhnnngh!
+อิมมม!
 
 Lona/Qmsg_over_cumming_mouth_block1
-Wuu-aah! NNNWUAAAMMMPH!
+อิมมม! อิมมม!
 
 Lona/Qmsg_over_cumming_mouth_block2
-NNHUAH! MMMGUHMMMPH!
+อิมมม! อิมมม!
 
 Lona/Qmsg_over_cumming_mouth_block3
-UWUUUNNNMPH!!!
+อิมมม!!!
 
 Lona/Qmsg_over_cumming_mouth_block4
-WUUGUNNNMMM! GUHMMMNNNPH!
+อิมมม! อิมมม!
 
 Lona/Qmsg_over_cumming_mouth_block5
-AAHHHWUHHHMMMPH! NNNWUHHHAHH!
+อิมมม! อิมมม!
 
 Lona/Qmsg_over_cumming_mouth_block6
-Guhwuuuhhh! MMMGUUUNNNPH!
+อิมมม! อิมมม!
 
 Lona/Qmsg_over_cumming_mouth_block7
-Huaahnnn! GEEYIIIMMPH!
+อิมมม! อิมมม!
 
 Lona/Qmsg_over_cumming_mouth_block8
-Wuuhnnghnn! Whnnnighnnn!
+อิมมม! อิมมม!
 
 Lona/Qmsg_over_cumming_mouth_block9
-Nnwuuhaaah! Mmmmguhhhph!
+อิมมม! อิมมม!
 
 Lona/Qmsg_over_cumming_mouth_block10
-Nnnmmmph... Huuwaaah...
+อิมมม... อิมมม...
 
 #-------------------------------#Brith mouth_block
 
 Lona/brith_mouth_block0
-\c[6]Lona：\c[0]    \{Huhnnnmmmph!
+\c[6]Lona：\c[0]    \{อิมมม!
 
 Lona/brith_mouth_block1
-\c[6]Lona：\c[0]    Wuuugaaah! \{Nnnuughahh!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/brith_mouth_block2
-\c[6]Lona：\c[0]    Nnnghuuu! \{Wuu-NNNIGHHNNMMPH!!!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!!!
 
 Lona/brith_mouth_block3
-\c[6]Lona：\c[0]    \{WHNNGHNNN!!!
+\c[6]Lona：\c[0]    \{อิมมม!!!
 
 Lona/brith_mouth_block4
-\c[6]Lona：\c[0]    \{MMMGUHMMMPH! NNNWUHHHAHH!
+\c[6]Lona：\c[0]    \{อิมมม! อิมมม!
 
 Lona/brith_mouth_block5
-\c[6]Lona：\c[0]    AAANNNGUHMMPH! \{NNNYAAAAAAH!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/brith_mouth_block6
-\c[6]Lona：\c[0]    GUHMMMNNNPH! \{WUUGUNNNMMM!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/brith_mouth_block7
-\c[6]Lona：\c[0]    HUUWAAAH! \{KKKINNNMMMPH!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/brith_mouth_block8
-\c[6]Lona：\c[0]    Mmmnnnph! \{HNNGHNN!
+\c[6]Lona：\c[0]    อิมมม! \{อิมมม!
 
 Lona/brith_mouth_block9
-\c[6]Lona：\c[0]    Nnn-Wuu... Aaahh! \{Nnnyiaaahh!
+\c[6]Lona：\c[0]    อิมมม... อิมมม! \{อิมมม!
 
 Lona/brith_mouth_block10
-\c[6]Lona：\c[0]    NnNnWuu... \{HNNGHMMMPH!
+\c[6]Lona：\c[0]    อิมมม... \{อิมมม!
 
 #----------------------------WHEN overfatigue--------- done----------------------------------------
 #------------------------------------------wet--------------------------------------------------
 
 Lona/wet_overfatigue0
-\c[6]Lona：\c[0]    Nnnighnnn... My legs...
+\c[6]Lona：\c[0]    อ๊าก... ขาของฉัน...
 
 Lona/wet_overfatigue1
 \c[6]Lona：\c[0]    ......
 
 Lona/wet_overfatigue2
-\c[6]Lona：\c[0]    Aaahhh... Haaah...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/wet_overfatigue3
-\c[6]Lona：\c[0]    Aaauwuugh...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/Qmsg_wet_overfatigue0
-Nnnighnnn... My legs...
+อ๊าก... ขาของฉัน...
 
 Lona/Qmsg_wet_overfatigue1
 ......
 
 Lona/Qmsg_wet_overfatigue2
-Aaahhh... Haaah...
+อ๊าก... อ๊าก...
 
 Lona/Qmsg_wet_overfatigue3
-Aaauwuugh...
+อ๊าก...
 
 #---------------    -- GRAB MOUTh BLOCK
 
 Lona/grab_overfatigue0
-\c[6]Lona：\c[0]    Guaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/grab_overfatigue1
-\c[6]Lona：\c[0]    Mmmnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 Lona/grab_overfatigue2
-\c[6]Lona：\c[0]    Nnnighnnn...
+\c[6]Lona：\c[0]    อ๊าก...
 
 ####frist time on VAG###################### *DONE
 
@@ -1514,16 +1516,16 @@ Lona/vag_taken_overfatigue0
 \c[6]Lona：\c[0]    ...
 
 Lona/vag_taken_overfatigue1
-\c[6]Lona：\c[0]    ......Oww!
+\c[6]Lona：\c[0]    ......อ๊าก!
 
 Lona/vag_taken_overfatigue2
-\c[6]Lona：\c[0]    KYAAAH... I-I'm b-breaking...
+\c[6]Lona：\c[0]    กรี๊ด... ฉันกำลังแตก...
 
 Lona/vag_taken_overfatigue3
-\c[6]Lona：\c[0]    Aaahhh... It h-hurts...
+\c[6]Lona：\c[0]    อ๊าก... มันเจ็บ...
 
 Lona/vag_taken_overfatigue4
-\c[6]Lona：\c[0]    Ughaaah... Aaahhh...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 ####frist time on ANAL###################### *DONE
 
@@ -1531,329 +1533,329 @@ Lona/anal_taken_overfatigue0
 \c[6]Lona：\c[0]    ...
 
 Lona/anal_taken_overfatigue1
-\c[6]Lona：\c[0]    ... N-No...
+\c[6]Lona：\c[0]    ... ไม่...
 
 Lona/anal_taken_overfatigue2
-\c[6]Lona：\c[0]    Nnnughnn...! M-My hole... is going... to b-break-...
+\c[6]Lona：\c[0]    อ๊าก...! รูของฉัน... กำลังจะ-... แตก-...
 
 Lona/anal_taken_overfatigue3
-\c[6]Lona：\c[0]    -G-GAAAH-Aaahhh... It... It h-hurts... D-Don't...
+\c[6]Lona：\c[0]    -อ๊าก-อ๊าก... มัน... มันเจ็บ... อย่า...
 
 Lona/anal_taken_overfatigue4
-\c[6]Lona：\c[0]    Eeeyaaah...! Ahhh......
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก......
 
 #------------------###出産 起始###done
 
 Lona/brith_begin_overfatigue0
-\c[6]Lona：\c[0]    Ughhhnnn... It hurts... The baby... is coming soon...
+\c[6]Lona：\c[0]    อ๊าก... มันเจ็บ... ลูก... กำลังจะออกมาเร็วๆ นี้...
 
 Lona/brith_begin_overfatigue1
-\c[6]Lona：\c[0]    No... m-more...
+\c[6]Lona：\c[0]    ไม่... อีกแล้ว...
 
 Lona/brith_begin_overfatigue2
-\c[6]Lona：\c[0]    GUHIIIyyyaaah...!
+\c[6]Lona：\c[0]    อ๊าก...!
 
 Lona/brith_begin_overfatigue3
-\c[6]Lona：\c[0]    M-Mama has no energy...
+\c[6]Lona：\c[0]    แม่ไม่มีแรง...
 
 Lona/brith_begin_overfatigue4
-\c[6]Lona：\c[0]    Hnnighnnaaah....
+\c[6]Lona：\c[0]    อ๊าก....
 
 #-------------------------------frame
 
 Lona/frame_overfatigue0
-\c[6]Lona：\c[0]    Ughnnn.. Haaah... Ahhh....
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก... อ๊าก....
 
 Lona/frame_overfatigue1
-\c[6]Lona：\c[0]    Ahhh... S-Spare me...
+\c[6]Lona：\c[0]    อ๊าก... ปล่อยฉัน...
 
 Lona/frame_overfatigue2
-\c[6]Lona：\c[0]    Please... L-Let me... rest...
+\c[6]Lona：\c[0]    ขอร้อง... ปล่อยให้ฉัน... พัก...
 
 Lona/frame_overfatigue3
-\c[6]Lona：\c[0]    Let me breathe... P-Please... Nnnighnnn...
+\c[6]Lona：\c[0]    ปล่อยให้ฉันหายใจ... ขอร้อง... อ๊าก...
 
 Lona/frame_overfatigue4
-\c[6]Lona：\c[0]    Guuahhh! Kyaaah...!
+\c[6]Lona：\c[0]    อ๊าก! อ๊าก...!
 
 Lona/frame_overfatigue5
-\c[6]Lona：\c[0]    Nnnighnnn... Let me go... Please...
+\c[6]Lona：\c[0]    อ๊าก... ปล่อยฉัน... ขอร้อง...
 
 Lona/frame_overfatigue6
-\c[6]Lona：\c[0]    Please s-stop... Mnnnighnnn....
+\c[6]Lona：\c[0]    ขอร้องหยุด... อ๊าก....
 
 Lona/frame_overfatigue7
-\c[6]Lona：\c[0]    *Huff*... *Haff*...
+\c[6]Lona：\c[0]    *หอบ*... *หอบ*...
 
 Lona/frame_overfatigue8
-\c[6]Lona：\c[0]    Nnnn... Aaah...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/frame_overfatigue9
-\c[6]Lona：\c[0]    Wuunnighn... Uwuuahhh...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/frame_overfatigue10
-\c[6]Lona：\c[0]    ...... *Puff* Aahh...
+\c[6]Lona：\c[0]    ...... *หอบ* อ๊าก...
 
 #-----------------------------CUMING
 
 Lona/cumming_overfatigue0
-\c[6]Lona：\c[0]    Guuughnn... C-Cumming...
+\c[6]Lona：\c[0]    อ๊าก... กำลังถึงจุด...
 
 Lona/cumming_overfatigue1
-\c[6]Lona：\c[0]    Mnnnighnnn... Wuunnighn...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
 
 Lona/cumming_overfatigue2
-\c[6]Lona：\c[0]    Cumming... I'm c-cumming...
+\c[6]Lona：\c[0]    กำลังถึงจุด... ฉันกำลังถึงจุด...
 
 Lona/cumming_overfatigue3
-\c[6]Lona：\c[0]    ... Wuunnighn...
+\c[6]Lona：\c[0]    ... อ๊าก...
 
 Lona/cumming_overfatigue4
-\c[6]Lona：\c[0]    Haaah... Eee... Ahhh-aaah...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก... อ๊าก-อ๊าก...
 
 Lona/cumming_overfatigue5
-\c[6]Lona：\c[0]    S-Ssstop... Nooo... Aaah...
+\c[6]Lona：\c[0]    หยุด... ไม่... อ๊าก...
 
 Lona/cumming_overfatigue6
 \c[6]Lona：\c[0]    ......
 
 Lona/cumming_overfatigue7
-\c[6]Lona：\c[0]    Huwaaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/cumming_overfatigue8
-\c[6]Lona：\c[0]    Yiahhh...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/cumming_overfatigue9
-\c[6]Lona：\c[0]    Mmmughnn...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/cumming_overfatigue10
-\c[6]Lona：\c[0]    ... Nnnighnnn...
+\c[6]Lona：\c[0]    ... อ๊าก...
 
 Lona/Qmsg_cumming_overfatigue0
-Guuughnn... C-Cumming...
+อ๊าก... กำลังถึงจุด...
 
 Lona/Qmsg_cumming_overfatigue1
-Mnnnighnnn... Wuunnighn...
+อ๊าก... อ๊าก...
 
 Lona/Qmsg_cumming_overfatigue2
-Cumming... I'm c-cumming...
+กำลังถึงจุด... ฉันกำลังถึงจุด...
 
 Lona/Qmsg_cumming_overfatigue3
-... Wuunnighn...
+... อ๊าก...
 
 Lona/Qmsg_cumming_overfatigue4
-Haaah... Eee... Ahhh-aaah...
+อ๊าก... อ๊าก... อ๊าก-อ๊าก...
 
 Lona/Qmsg_cumming_overfatigue5
-S-Ssstop... Nooo... Aaah...
+หยุด... ไม่... อ๊าก...
 
 Lona/Qmsg_cumming_overfatigue6
 ......
 
 Lona/Qmsg_cumming_overfatigue7
-Huwaaah...
+อ๊าก...
 
 Lona/Qmsg_cumming_overfatigue8
-Yiahhh...
+อ๊าก...
 
 Lona/Qmsg_cumming_overfatigue9
-Mmmughnn...
+อ๊าก...
 
 Lona/Qmsg_cumming_overfatigue10
-... Nnnighnnn...
+... อ๊าก...
 
 #-----------------------------OVERCUMING
 
 Lona/over_cumming_overfatigue0
-\c[6]Lona：\c[0]    \{Wuunnighn... Cumming... C-Cumming again...
+\c[6]Lona：\c[0]    \{อ๊าก... กำลังถึงจุด... กำลังถึงจุดอีก...
 
 Lona/over_cumming_overfatigue1
-\c[6]Lona：\c[0]    \{Yiaiy... WuuAa...
+\c[6]Lona：\c[0]    \{อ๊าก... อ๊าก...
 
 Lona/over_cumming_overfatigue2
-\c[6]Lona：\c[0]    \{Cumming... ah, cumming...
+\c[6]Lona：\c[0]    \{กำลังถึงจุด... อ๊าก, กำลังถึงจุด...
 
 Lona/over_cumming_overfatigue3
-\c[6]Lona：\c[0]    \{... Huyiaaah...
+\c[6]Lona：\c[0]    \{... อ๊าก...
 
 Lona/over_cumming_overfatigue4
-\c[6]Lona：\c[0]    \{Haaah... Hnnghn... Ahhh-aaah...
+\c[6]Lona：\c[0]    \{อ๊าก... อ๊าก... อ๊าก-อ๊าก...
 
 Lona/over_cumming_overfatigue5
-\c[6]Lona：\c[0]    \{Stop... W-Won't sh-tooop...
+\c[6]Lona：\c[0]    \{หยุด... หยุดไม่ได้...
 
 Lona/over_cumming_overfatigue6
 \c[6]Lona：\c[0]    \{...
 
 Lona/over_cumming_overfatigue7
-\c[6]Lona：\c[0]    \{Huahhhyaah....
+\c[6]Lona：\c[0]    \{อ๊าก....
 
 Lona/over_cumming_overfatigue8
-\c[6]Lona：\c[0]    \{Kyaaah...
+\c[6]Lona：\c[0]    \{อ๊าก...
 
 Lona/over_cumming_overfatigue9
-\c[6]Lona：\c[0]    \{Wuunnnughnnn....
+\c[6]Lona：\c[0]    \{อ๊าก....
 
 Lona/over_cumming_overfatigue10
-\c[6]Lona：\c[0]    \{... Nnnighnnn...
+\c[6]Lona：\c[0]    \{... อ๊าก...
 
 Lona/Qmsg_over_cumming_overfatigue0
-Wuunnighn... C-Cumming again...
+อ๊าก... กำลังถึงจุดอีก...
 
 Lona/Qmsg_over_cumming_overfatigue1
-Yiaiy... WuuAa...
+อ๊าก... อ๊าก...
 
 Lona/Qmsg_over_cumming_overfatigue2
-Cumming... ah, cumming...
+กำลังถึงจุด... อ๊าก, กำลังถึงจุด...
 
 Lona/Qmsg_over_cumming_overfatigue3
-... Huyiaaah...
+... อ๊าก...
 
 Lona/Qmsg_over_cumming_overfatigue4
-Haaah... Hnnghn... Ahhh-aaah...
+อ๊าก... อ๊าก... อ๊าก-อ๊าก...
 
 Lona/Qmsg_over_cumming_overfatigue5
-Stop... W-Won't sh-tooop...
+หยุด... หยุดไม่ได้...
 
 Lona/Qmsg_over_cumming_overfatigue6
 ...
 
 Lona/Qmsg_over_cumming_overfatigue7
-Huahhhyaah....
+อ๊าก....
 
 Lona/Qmsg_over_cumming_overfatigue8
-Kyaaah...
+อ๊าก...
 
 Lona/Qmsg_over_cumming_overfatigue9
-Wuunnnughnnn....
+อ๊าก....
 
 Lona/Qmsg_over_cumming_overfatigue10
-... Nnnighnnn...
+... อ๊าก...
 
 #-------------------------------#Brith overfatigue
 
 Lona/brith_overfatigue0
-\c[6]Lona：\c[0]    Nnnighnnn... \{A-AHHH!
+\c[6]Lona：\c[0]    อ๊าก... \{อ๊าก!
 
 Lona/brith_overfatigue1
-\c[6]Lona：\c[0]    \{S-STOP... N... NO!
+\c[6]Lona：\c[0]    \{หยุด... ไม่... ไม่!
 
 Lona/brith_overfatigue2
-\c[6]Lona：\c[0]    NO... M-MORE! \{I CAN'T... MAKE IT...!
+\c[6]Lona：\c[0]    ไม่... อีกแล้ว! \{ฉันทำไม่ได้...!
 
 Lona/brith_overfatigue3
-\c[6]Lona：\c[0]    I'm sorry... I'M SH-ORRY \{SH-ORRIIIYYY!!!
+\c[6]Lona：\c[0]    ขอโทษ... ฉันขอโทษ \{ขอโทษ!!!
 
 Lona/brith_overfatigue4
-\c[6]Lona：\c[0]    GAAAHHH...! \{HAAAHHH!
+\c[6]Lona：\c[0]    อ๊าก...! \{อ๊าก!
 
 Lona/brith_overfatigue5
-\c[6]Lona：\c[0]    S-St-aaaph...! \{Not... Now...!
+\c[6]Lona：\c[0]    หยุด...! \{ไม่... ตอนนี้...!
 
 Lona/brith_overfatigue6
-\c[6]Lona：\c[0]    EEEYYY- \{GAAAHHH!
+\c[6]Lona：\c[0]    อ๊าก- \{อ๊าก!
 
 Lona/brith_overfatigue7
-\c[6]Lona：\c[0]    Breaking...! I'm b-breaking! \{EYAAAHHH!
+\c[6]Lona：\c[0]    กำลังแตก...! ฉันกำลังแตก! \{อ๊าก!
 
 Lona/brith_overfatigue8
-\c[6]Lona：\c[0]    WUUUAHHH! \{KYAAAHHH!
+\c[6]Lona：\c[0]    อ๊าก! \{อ๊าก!
 
 Lona/brith_overfatigue9
-\c[6]Lona：\c[0]    NNNIGHNNNGAAAH! \{FUUUWUUUAHHH!
+\c[6]Lona：\c[0]    อ๊าก! \{อ๊าก!
 
 Lona/brith_overfatigue10
-\c[6]Lona：\c[0]    Hnnnghnnn...! \{KYAAAHHH...!
+\c[6]Lona：\c[0]    อ๊าก...! \{อ๊าก...!
 
 #######################################################################COMMON H OTHERS ###################################################################
 #------------------------------BEATEN
 
 Lona/beaten0
-\c[6]Lona：\c[0]    \{Ahhhhhh!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/beaten1
-\c[6]Lona：\c[0]    \{Guuuhaaagh!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/beaten2
-\c[6]Lona：\c[0]    Eeeeeek! Kyaaah!! \{EEYAAAAAAHHH!!!
+\c[6]Lona：\c[0]    อ๊าก! อ๊าก!! \{อ๊าก!!!
 
 Lona/beaten3
-\c[6]Lona：\c[0]    \{Gyaaah!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/beaten3
-\c[6]Lona：\c[0]    \{Kyaaahhh!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/beaten4
-\c[6]Lona：\c[0]    \{Uuuwaaahhh!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/beaten5
-\c[6]Lona：\c[0]    \{Uwuuahhh!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/beaten6
-\c[6]Lona：\c[0]    \{Nnnghnnn!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/beaten7
-\c[6]Lona：\c[0]    \{GAAAHHH!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/beaten8
-\c[6]Lona：\c[0]    \{Hnnnighnn!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/beaten9
-\c[6]Lona：\c[0]    \{Eeyaaah!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/beaten10
-\c[6]Lona：\c[0]    \{Fuuuguwaah!
+\c[6]Lona：\c[0]    \{อ๊าก!
 
 Lona/Qmsg_beaten0
-Ahhhhhh!
+อ๊าก!
 
 Lona/Qmsg_beaten1
-Guuuhaaagh!
+อ๊าก!
 
 Lona/Qmsg_beaten2
-Eeeeeek! Kyaaah!! EEYAAAAAAHHH!!!
+อ๊าก! อ๊าก!! อ๊าก!!!
 
 Lona/Qmsg_beaten3
-Gyaaah!
+อ๊าก!
 
 Lona/Qmsg_beaten3
-Kyaaahhh!
+อ๊าก!
 
 Lona/Qmsg_beaten4
-Uuuwaaahhh!
+อ๊าก!
 
 Lona/Qmsg_beaten5
-Uwuuahhh!
+อ๊าก!
 
 Lona/Qmsg_beaten6
-Nnnghnnn!
+อ๊าก!
 
 Lona/Qmsg_beaten7
-GAAAHHH!
+อ๊าก!
 
 Lona/Qmsg_beaten8
-Hnnnighnn!
+อ๊าก!
 
 Lona/Qmsg_beaten9
-Eeyaaah!
+อ๊าก!
 
 Lona/Qmsg_beaten10
-Fuuuguwaah!
+อ๊าก!
 
 #-------------------Standard plugging
 
 Lona/EventVag_begin
-The penis twitched hard inside Lona's pussy and began to ejaculate.
+ควยสั่นอย่างแรงในรูหีของโลน่าและเริ่มปล่อยน้ำอสุจิ
 
 Lona/EventAnal_begin
-The cock twitched hard inside Lona's ass and began to ejaculate.
+ควยสั่นอย่างแรงในรูตูดของโลน่าและเริ่มปล่อยน้ำอสุจิ
 
 Lona/EventMouth_begin
-The dick twitched hard inside Lona's mouth and began to ejaculate.
+ควยสั่นอย่างแรงในปากของโลน่าและเริ่มปล่อยน้ำอสุจิ
 
 Lona/EventFapper_begin
-They stood next to Lona as they jerked their cock and made obscenely lustful groans.
-The penis was aimed at Lona, with the intention to ejaculate on her.
+พวกเขายืนข้างๆ โลน่าและช่วยตัวเอง ส่งเสียงครวญครางอย่างลามก
+ควยถูกชี้ไปที่โลน่า เพื่อปล่อยน้ำอสุจิใส่เธอ
 
 #-------------------高潮前尾形容
 
@@ -1872,983 +1874,983 @@ Lona/over_orgasm_end
 #--------------------處女起始 初次體驗
 
 Lona/FristKiss_begin
-A sense of discomfort filled Lona's tiny mouth.
+ความรู้สึกไม่สบายเต็มไปหมดในปากเล็กๆ ของโลน่า
 
 Lona/FristKiss_end
-Lona lost her first kiss.
+โลน่าสูญเสียจูบแรกของเธอ
 
 Lona/VirginTaken_begin
-Lona's hymen was torn apart.\n A sharp, tearing pain filled Lona's entire hole.
+พรหมจรรย์ของโลน่าถูกฉีกขาด\n ความเจ็บปวดแหลมคมเต็มไปทั้งรูของโลน่า
 
 Lona/VirginTaken_end
-Lona lost her chastity.
+โลน่าสูญเสียความบริสุทธิ์ของเธอ
 
 Lona/AnalTaken_begin
-The foreign object rushed into Lona's anus for the first time.\n A ripping pain filled Lona's lower body.
+วัตถุแปลกปลอมพุ่งเข้าไปในรูตูดของโลน่าเป็นครั้งแรก\n ความเจ็บปวดแหลมคมเต็มไปทั้งร่างล่างของโลน่า
 
 Lona/AnalTaken_end
-Lona's first experience with her anus was taken.
+ประสบการณ์แรกของโลน่ากับรูตูดของเธอถูกนำไป
 
 #-------------------噴乳前尾形容
 
 Lona/MilkSpray_begin
-Lona's breasts were full, spraying milk everywhere.
+หน้าอกของโลน่าเต็มไปด้วยน้ำนม พ่นน้ำนมไปทั่ว
 
 Lona/MilkSpray_begin_pro
-Lona's breasts were full, spraying milk everywhere.\n The sensation filled Lona's body with lust.
+หน้าอกของโลน่าเต็มไปด้วยน้ำนม พ่นน้ำนมไปทั่ว\n ความรู้สึกนี้เต็มไปด้วยความกามในร่างกายของโลน่า
 
 Lona/MilkSpray0
-\c[6]Lona：\c[0]    Ughnnngh...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/MilkSpray1
-\c[6]Lona：\c[0]    Oooh...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/MilkSpray2
 \c[6]Lona：\c[0]    ...
 
 Lona/MilkSpray3
-\c[6]Lona：\c[0]    Nnnighnnn......
+\c[6]Lona：\c[0]    อ๊าก......
 
 Lona/MilkSpray4
-\c[6]Lona：\c[0]    Haaahnnn......
+\c[6]Lona：\c[0]    อ๊าก......
 
 Lona/Qmsg_MilkSpray0
-Ughnnngh...
+อ๊าก...
 
 Lona/Qmsg_MilkSpray1
-Oooh...
+อ๊าก...
 
 Lona/Qmsg_MilkSpray2
 ...
 
 Lona/Qmsg_MilkSpray3
-Nnnighnnn...
+อ๊าก...
 
 Lona/Qmsg_MilkSpray4
-Haaahnnn...
+อ๊าก...
 
 Lona/Qmsg_Oev_Milk
-Ugh... My breasts are really swollen...
+อ๊าก... หน้าอกของฉันบวมมาก...
 
 #-------------------放尿前尾形容
 
 Lona/pee_begin
-\narr Lona couldn't hold it in any longer as urine sprayed out from her uretha.
+\narr โลน่ากลั้นไม่ไหวอีกต่อไป เมื่อปัสสาวะพ่นออกมาจากท่อปัสสาวะของเธอ
 
 Lona/pee_begin_pro
-\narr Lona couldn't hold it in any longer as urine sprayed out from her uretha.\n The feeling of relieving her bladder filled Lona's body with lust.
+\narr โลน่ากลั้นไม่ไหวอีกต่อไป เมื่อปัสสาวะพ่นออกมาจากท่อปัสสาวะของเธอ\n ความรู้สึกที่ได้ปล่อยกระเพาะปัสสาวะเต็มไปด้วยความกามในร่างกายของโลน่า
 
 Lona/pee0
 \c[6]Lona：\c[0]    ...
 
 Lona/pee1
-\c[6]Lona：\c[0]    Phew...
+\c[6]Lona：\c[0]    ฟิว...
 
 Lona/pee2
 \c[6]Lona：\c[0]    ...
 
 Lona/pee3
-\c[6]Lona：\c[0]    Nnnnighnn...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/pee4
-\c[6]Lona：\c[0]    Haaah......
+\c[6]Lona：\c[0]    อ๊าก......
 
 Lona/Qmsg_pee0
 ...
 
 Lona/Qmsg_pee1
-Phew...
+ฟิว...
 
 Lona/Qmsg_pee2
 ...
 
 Lona/Qmsg_pee3
-Nnnnighnn...
+อ๊าก...
 
 Lona/Qmsg_pee4
-Haaah......
+อ๊าก......
 
 Lona/Qmsg_Oev_Pee
-Oh no... I'm about to pee soon...
+โอ้ไม่... ฉันกำลังจะปัสสาวะเร็วๆ นี้...
 
 Lona/Qmsg_PeePotWorm0
-It's about to leak out!!!
+มันกำลังจะไหลออกมา!!!
 
 Lona/Qmsg_PeePotWorm1
-Bugs are coming out of my urethra!!!
+แมลงกำลังออกมาจากท่อปัสสาวะของฉัน!!!
 
 Lona/Qmsg_PeePotWorm2
-It hurts!!!
+มันเจ็บ!!!
 
 #-------------------便便前尾形容
 
 Lona/poo_begin
-\narr Lona couldn't hold her bowels in any longer as filth began to discharge from her anus.
+\narr โลน่ากลั้นลำไส้ไม่ไหวอีกต่อไป เมื่อสิ่งสกปรกเริ่มปล่อยออกมาจากรูตูดของเธอ
 
 Lona/poo_begin_pro
-\narr Lona couldn't hold her bowels in any longer as filth began to discharge from her anus.\n The liberation of defecation and anal stimulating sensation filled her with lust.
+\narr โลน่ากลั้นลำไส้ไม่ไหวอีกต่อไป เมื่อสิ่งสกปรกเริ่มปล่อยออกมาจากรูตูดของเธอ\n ความรู้สึกที่ได้ปล่อยลำไส้และความรู้สึกกระตุ้นรูตูดเต็มไปด้วยความกาม
 
 Lona/poo5_auto_end
-\narr Lona's ass and legs were covered with her waste and excrement.
+\narr รูตูดและขาของโลน่าถูกปกคลุมด้วยของเสียและอุจจาระของเธอ
 
 Lona/poo0
-\c[6]Lona：\c[0]    \{Haaa... *Grunt*...
+\c[6]Lona：\c[0]    \{อ๊าก... *เบ่ง*...
 
 Lona/poo1
-\c[6]Lona：\c[0]    \{Hinnnghnnn...
+\c[6]Lona：\c[0]    \{อ๊าก...
 
 Lona/poo2
-\c[6]Lona：\c[0]    \{*Puff* Nnnnighnnn...
+\c[6]Lona：\c[0]    \{*หอบ* อ๊าก...
 
 Lona/poo3
-\c[6]Lona：\c[0]    \{Hinnnughnnn...
+\c[6]Lona：\c[0]    \{อ๊าก...
 
 Lona/poo4
-\c[6]Lona：\c[0]    \{Guuuunnngh...
+\c[6]Lona：\c[0]    \{อ๊าก...
 
 Lona/Qmsg_poo0
-Haaa... *Grunt*...
+อ๊าก... *เบ่ง*...
 
 Lona/Qmsg_poo1
-Hinnnghnnn...
+อ๊าก...
 
 Lona/Qmsg_poo2
-*Puff* Nnnnighnnn...
+*หอบ* อ๊าก...
 
 Lona/Qmsg_poo3
-Hinnnughnnn...
+อ๊าก...
 
 Lona/Qmsg_poo4
-Guuuunnngh...
+อ๊าก...
 
 Lona/Qmsg_Oev_Poo
-Ughnnn... I have to p-poo soon...
+อ๊าก... ฉันต้องถ่ายอุจจาระเร็วๆ นี้...
 
 Lona/Qmsg_PooPotWorm0
-Please stop coming out!!!
+ขอร้องหยุดออกมา!!!
 
 Lona/Qmsg_PooPotWorm1
-Bugs are coming out of my anus!!!
+แมลงกำลังออกมาจากรูตูดของฉัน!!!
 
 Lona/Qmsg_PooPotWorm2
-EEEYAHHH!!!
+อ๊าก!!!
 
 ##_------------------------------ NEEDLE 針刺 小穴與胸部
 
 Lona/Piercing_begin
-He stared at Lona's body, holding a variety of piercings in his hands with an evil smile.
+เขาจ้องมองร่างกายของโลน่า ถือเครื่องประดับหลากหลายชนิดในมือพร้อมรอยยิ้มชั่วร้าย
 
 Lona/VagNeedle_begin
-Holding a large needle in his hand, he looked at Lona's undeveloped chest with an evil grin.
+ถือเข็มขนาดใหญ่ในมือ เขามองหน้าอกที่ยังไม่พัฒนาของโลน่าด้วยรอยยิ้มชั่วร้าย
 
 Lona/VagNeedle_begin2
-With nowhere else on her chest to place them, he looked at Lona's hole instead.
+ไม่มีที่ว่างอื่นบนหน้าอกของเธอที่จะวาง เขาจึงมองไปที่รูของโลน่าแทน
 
 Lona/VagNeedle_end
-Lona's holes and body were covered with needles and blood.
-They chuckled and seemed to be quite satisfied with the living meat toilet.
+รูและร่างกายของโลน่าถูกปกคลุมด้วยเข็มและเลือด
+พวกเขาหัวเราะและดูเหมือนจะพอใจกับห้องน้ำเนื้อมีชีวิต
 
 Lona/VagNeedle_end_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah...!
+\c[6]Lona：\c[0]    อ๊าก...!
 
 Lona/VagNeedle_end_tsun
-\c[6]Lona：\c[0]    Guuuaaagh...! W-Why would you... do this...?
+\c[6]Lona：\c[0]    อ๊าก...! ทำไมคุณ... ทำแบบนี้...?
 
 Lona/VagNeedle_end_weak
-\c[6]Lona：\c[0]    *Sniff*... Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    *สะอึก*... อ๊าก...! *สะอึก*...
 
 Lona/VagNeedle_end_slut
-\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก... อ๊าก...~
 
 Lona/VagNeedle_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/VagNeedle_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------ NEEDLE 針刺 屁股
 
 Lona/AnalNeedle_begin
-He held a large needle in his hand and had a wicked smile as he stared at Lona's hips.
+เขาถือเข็มขนาดใหญ่ในมือและมีรอยยิ้มชั่วร้ายขณะจ้องมองสะโพกของโลน่า
 
 Lona/AnalNeedle_begin2
-Her entire hip was covered with needles, but they didn't intend to stop there.
+สะโพกทั้งหมดของเธอถูกปกคลุมด้วยเข็ม แต่พวกเขาไม่ตั้งใจจะหยุดแค่นั้น
 
 Lona/AnalNeedle_end
-Lona's hips were covered with needles and blood.
-They chuckled and seemed to be quite satisfied with the living pincushion.
+สะโพกของโลน่าถูกปกคลุมด้วยเข็มและเลือด
+พวกเขาหัวเราะและดูเหมือนจะพอใจกับหมุดเข็มมีชีวิต
 
 Lona/AnalNeedle_end_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/AnalNeedle_end_tsun
-\c[6]Lona：\c[0]    Guuuaaagh...! W-Why would you... do this...?
+\c[6]Lona：\c[0]    อ๊าก...! ทำไมคุณ... ทำแบบนี้...?
 
 Lona/AnalNeedle_end_weak
-\c[6]Lona：\c[0]    Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    อ๊าก...! *สะอึก*...
 
 Lona/AnalNeedle_end_slut
-\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก... อ๊าก...~
 
 Lona/AnalNeedle_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/AnalNeedle_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------ Vaginal dilation uses limbs because there are tentacles in addition to humanoids
 
 Lona/VagDilatation_begin1
-They lifted their thick limb and placed it ontop of Lona's hole.
-It seems like they intend to stuff the whole thing inside her...
+พวกเขายกแขนขาหนาขึ้นและวางไว้บนรูของโลน่า
+ดูเหมือนพวกเขาตั้งใจจะยัดทั้งหมดเข้าไปในเธอ...
 
 Lona/VagDilatation_begin2
-(Is he... planning to insert that inside me?!)
-(NO WAY! THERE'S NO WAY IT'LL FIT IN ME!!!)
+(เขา... กำลังวางแผนที่จะใส่มันเข้าไปในฉัน?!)
+(ไม่มีทาง! ไม่มีทางที่มันจะเข้าไปได้!!!)
 
 Lona/VagDilatation_begin3_normal
-Lona's tiny hole stretches, distends, and tears from the abuse.
-Blood, juices, and other various liquids were constantly leaking out.
-It seems the vagina has now suffered damage and was loosened.
+รูเล็กๆ ของโลน่ายืด ขยาย และฉีกขาดจากการทำร้าย
+เลือด น้ำหล่อลื่น และของเหลวอื่นๆ ไหลออกมาอย่างต่อเนื่อง
+ดูเหมือนว่าช่องคลอดได้รับความเสียหายและหลวมแล้ว
 
 Lona/VagDilatation_begin3_damaged
-Lona's vagina stretches, distends, and tore from the abuse.
-Blood, juices, and other various liquids were constantly leaking out.
-But, Lona had become used to such assault on her genitals.
+ช่องคลอดของโลน่ายืด ขยาย และฉีกขาดจากการทำร้าย
+เลือด น้ำหล่อลื่น และของเหลวอื่นๆ ไหลออกมาอย่างต่อเนื่อง
+แต่ โลน่าได้ชินกับการถูกทำร้ายอวัยวะเพศแบบนี้
 
 Lona/VagDilatation_end
-The once tiny hole now looked like smashed meat...\n Lona's body kept twitching due to the pain.
-They kept laughing at Lona, their cocks hardening at the sight.
+รูเล็กๆ ที่เคยเป็นตอนนี้ดูเหมือนเนื้อที่ถูกทุบ...\n ร่างกายของโลน่าสั่นสะท้านเพราะความเจ็บปวด
+พวกเขาหัวเราะเยาะโลน่า ควยของพวกเขาแข็งตัวเมื่อเห็นภาพนี้
 
 Lona/VagDilatation_end_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/VagDilatation_end_tsun
-\c[6]Lona：\c[0]    Guuuaaagh...! W-Why would you... do this...?
+\c[6]Lona：\c[0]    อ๊าก...! ทำไมคุณ... ทำแบบนี้...?
 
 Lona/VagDilatation_end_weak
-\c[6]Lona：\c[0]    *Sniff*... Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    *สะอึก*... อ๊าก...! *สะอึก*...
 
 Lona/VagDilatation_end_slut
-\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก... อ๊าก...~
 
 Lona/VagDilatation_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/VagDilatation_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------ Anal expansion uses limbs because there are tentacles in addition to humanoids
 
 Lona/AnalDilatation_begin1
-They lifted their thick limb and placed it ontop of Lona's asshole.
-It seems like they're planning to shove the whole thing inside her anus...
+พวกเขายกแขนขาหนาขึ้นและวางไว้บนรูตูดของโลน่า
+ดูเหมือนพวกเขากำลังวางแผนที่จะยัดทั้งหมดเข้าไปในรูตูดของเธอ...
 
 Lona/AnalDilatation_begin2
-(Is he... planning to insert that in my butt?!)
-(NO WAY! THERE'S NO WAY IT'LL FIT IN ME!!!)
+(เขา... กำลังวางแผนที่จะใส่มันเข้าไปในก้นฉัน?!)
+(ไม่มีทาง! ไม่มีทางที่มันจะเข้าไปได้!!!)
 
 Lona/AnalDilatation_begin3_normal
-Lona's small asshole stretches, distends, and tears from the abuse.
-Blood, filth, and other various liquids were constantly leaking out.
-It seems the anus has now suffered damage and was loosened.
+รูตูดเล็กๆ ของโลน่ายืด ขยาย และฉีกขาดจากการทำร้าย
+เลือด สิ่งสกปรก และของเหลวอื่นๆ ไหลออกมาอย่างต่อเนื่อง
+ดูเหมือนว่ารูตูดได้รับความเสียหายและหลวมแล้ว
 
 Lona/AnalDilatation_begin3_damaged
-Lona's anus stretches, distends, and tore from the abuse.
-Blood, filth, and other various foreign liquids was constantly ejected out.
-But, Lona had become used to such assault on her rectum.
+รูตูดของโลน่ายืด ขยาย และฉีกขาดจากการทำร้าย
+เลือด สิ่งสกปรก และของเหลวแปลกปลอมอื่นๆ ถูกปล่อยออกมาอย่างต่อเนื่อง
+แต่ โลน่าได้ชินกับการถูกทำร้ายทวารหนักแบบนี้
 
 Lona/AnalDilatation_end
-The once tiny asshole now looked like a gaping abyss...\n Lona's body kept shuddering due to the pain.
-They kept laughing at Lona, their cocks hardening at the sight.
+รูตูดเล็กๆ ที่เคยเป็นตอนนี้ดูเหมือนหุบเหวที่กว้างขวาง...\n ร่างกายของโลน่าสั่นสะท้านเพราะความเจ็บปวด
+พวกเขาหัวเราะเยาะโลน่า ควยของพวกเขาแข็งตัวเมื่อเห็นภาพนี้
 
 Lona/AnalDilatation_end_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/AnalDilatation_end_tsun
-\c[6]Lona：\c[0]    Guuuaaagh...! W-Why would you... do this...?
+\c[6]Lona：\c[0]    อ๊าก...! ทำไมคุณ... ทำแบบนี้...?
 
 Lona/AnalDilatation_end_weak
-\c[6]Lona：\c[0]    *Sniff*... Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    *สะอึก*... อ๊าก...! *สะอึก*...
 
 Lona/AnalDilatation_end_slut
-\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก... อ๊าก...~
 
 Lona/AnalDilatation_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/AnalDilatation_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------ 肛門球 無RACE差分
 
 Lona/AnalBeads_begin1
-They placed a large rod of iron beads next to Lona's asshole.
+พวกเขาวางแท่งเหล็กที่มีลูกปัดขนาดใหญ่ไว้ข้างรูตูดของโลน่า
 
 Lona/AnalBeads_begin2
-(Is he... planning to insert that in my butt?!)
-(NO WAY! THERE'S NO WAY IT'LL FIT IN ME!!!)
+(เขา... กำลังวางแผนที่จะใส่มันเข้าไปในก้นฉัน?!)
+(ไม่มีทาง! ไม่มีทางที่มันจะเข้าไปได้!!!)
 
 Lona/AnalBeads_begin3_normal
-Blood, filth, and other various fluids was constantly leaking out.
+เลือด สิ่งสกปรก และของเหลวอื่นๆ ไหลออกมาอย่างต่อเนื่อง
 
 Lona/AnalBeads_begin3_damaged
-The rough surface of the iron beads constantly stimulated Lona's intestinal walls.
-Filth and anal juices continued to spray out.
-But, Lona had become used to the assault on her rectum.
+พื้นผิวหยาบของลูกปัดเหล็กกระตุ้นผนังลำไส้ของโลน่าอย่างต่อเนื่อง
+สิ่งสกปรกและน้ำหล่อลื่นรูตูดยังคงพ่นออกมา
+แต่ โลน่าได้ชินกับการถูกทำร้ายทวารหนักแบบนี้
 
 Lona/AnalBeads_begin4
-Lona's rectum swallowed the entire line of the iron beads.
-From their hushed chat, it sounds like they're discussing on how to play with Lona next.
+ทวารหนักของโลน่ากลืนแถวลูกปัดเหล็กทั้งหมด
+จากการสนทนากันเบาๆ ดูเหมือนพวกเขากำลังพูดคุยกันเรื่องที่จะเล่นกับโลน่าต่อไป
 
 Lona/AnalBeads_begin5
-He pulled on the iron chain with some force, trying to pull out the iron balls out from Lona's anus.
-But it was snugly fit in Lona's rectum.
+เขาดึงโซ่เหล็กด้วยแรงบางส่วน พยายามดึงลูกปัดเหล็กออกจากรูตูดของโลน่า
+แต่มันถูกยึดแน่นในทวารหนักของโลน่า
 
 Lona/AnalBeads_begin6
-He pulled on it with all his strength!
-Lona felt like her internal organs were about to be ripped out!
+เขาดึงมันด้วยแรงทั้งหมด!
+โลน่ารู้สึกเหมือนอวัยวะภายในของเธอกำลังถูกฉีกออก!
 
 Lona/AnalBeads_end
-The once tiny asshole now looked like a gaping abyss...\n Lona's body kept shuddering due to the pain.
-They kept laughing at Lona, their cocks hardening at the sight.
+รูตูดเล็กๆ ที่เคยเป็นตอนนี้ดูเหมือนหุบเหวที่กว้างขวาง...\n ร่างกายของโลน่าสั่นสะท้านเพราะความเจ็บปวด
+พวกเขาหัวเราะเยาะโลน่า ควยของพวกเขาแข็งตัวเมื่อเห็นภาพนี้
 
 Lona/AnalBeads_end_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/AnalBeads_end_tsun
-\c[6]Lona：\c[0]    Guuuaaagh...! W-Why would you... do this...?
+\c[6]Lona：\c[0]    อ๊าก...! ทำไมคุณ... ทำแบบนี้...?
 
 Lona/AnalBeads_end_weak
-\c[6]Lona：\c[0]    *Sniff*... Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    *สะอึก*... อ๊าก...! *สะอึก*...
 
 Lona/AnalBeads_end_slut
-\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก... อ๊าก...~
 
 Lona/AnalBeads_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/AnalBeads_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------UrethraDilatation 尿道擴張 本PLAY會大量追加尿意 正常來說PLAY一結束都會放尿 #BEGIN的部分我採用適用任何個性的處理法
 
 Lona/UrethraDilatation_begin1
-They touched Lona's pee hole and began inserting themselves inside her urethra.
-(But I pee from there!)
+พวกเขาสัมผัสรูปัสสาวะของโลน่าและเริ่มใส่ตัวเองเข้าไปในท่อปัสสาวะของเธอ
+(แต่ฉันปัสสาวะจากที่นั่น!)
 
 Lona/UrethraDilatation_begin2
-The piss hole was invaded by a foreign body. A sharp and tingling sensation filled her urethra.
+รูปัสสาวะถูกรุกรานโดยวัตถุแปลกปลอม ความรู้สึกแหลมคมและแสบร้อนเต็มไปในท่อปัสสาวะของเธอ
 \c[6]Lona：\c[0]    !!!!!!
 
 Lona/UrethraDilatation_begin3_normal
-The limb rudely thrusted in and out of Lona's urethra, filling her pee hole with sharp, burning discomfort. 
+แขนขาที่หยาบคายสอดเข้าออกในท่อปัสสาวะของโลน่า ทำให้รูปัสสาวะของเธอเต็มไปด้วยความรู้สึกแหลมคมและแสบร้อน
 
 Lona/UrethraDilatation_begin3_damaged
-The limb rudely thrusted in and out of Lona's urethra, filling her pee hole with sharp, burning discomfort.
-But, Lona had become used to being treated so harshly.
+แขนขาที่หยาบคายสอดเข้าออกในท่อปัสสาวะของโลน่า ทำให้รูปัสสาวะของเธอเต็มไปด้วยความรู้สึกแหลมคมและแสบร้อน
+แต่ โลน่าได้ชินกับการถูกปฏิบัติอย่างหยาบคายแบบนี้
 
 Lona/UrethraDilatation_end
-A huge stream of urine came spraying out.
-\c[6]Lona：\c[0]    Coming out! It's cominnnggg!
+กระแสปัสสาวะขนาดใหญ่พ่นออกมา
+\c[6]Lona：\c[0]    กำลังออกมา! มันกำลังออกมา!
 
 Lona/UrethraDilatation_end_normal
-\c[6]Lona：\c[0]    Guuuaaahhh...!
+\c[6]Lona：\c[0]    อ๊าก...!
 
 Lona/UrethraDilatation_end_tsun
-\c[6]Lona：\c[0]    Nnnghnnn...! I... h-hate... this...
+\c[6]Lona：\c[0]    อ๊าก...! ฉัน... เกลียด... แบบนี้...
 
 Lona/UrethraDilatation_end_weak
-\c[6]Lona：\c[0]    Eeeep...! *Whimper*...
+\c[6]Lona：\c[0]    อ๊าก...! *สะอึก*...
 
 Lona/UrethraDilatation_end_slut
-\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก... อ๊าก...~
 
 Lona/UrethraDilatation_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/UrethraDilatation_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------ 踩肚子
 
 Lona/PunchEvent_begin
-They lifted their limbs up high. It seems like they were ready to give Lona a hard blow!
+พวกเขายกแขนขาขึ้นสูง ดูเหมือนพวกเขาพร้อมที่จะให้โลน่าได้รับการตีแรง!
 
 Lona/PunchEvent_end
-Lona's body was covered with bruises and wounds.
-They uttered a sadistic laugh as Lona writhed around on the ground in agony.
+ร่างกายของโลน่าถูกปกคลุมด้วยรอยฟกช้ำและบาดแผล
+พวกเขาหัวเราะอย่างโหดร้ายขณะที่โลน่าขดตัวอยู่บนพื้นด้วยความเจ็บปวด
 
 Lona/PunchEvent_end_normal
-\c[6]Lona：\c[0]    *HAFF*... Guuugggh... *Moan*...
+\c[6]Lona：\c[0]    *หอบ*... อ๊าก... *ครวญ*...
 
 Lona/PunchEvent_end_tsun
-\c[6]Lona：\c[0]    Guuuh... *Gasp*! Nnnighnnn... B-Bastards......
+\c[6]Lona：\c[0]    อ๊าก... *หอบ*! อ๊าก... พวกนี้......
 
 Lona/PunchEvent_end_weak
-\c[6]Lona：\c[0]    Nnnguuuahhh... *Sob*... *Whimper*...
+\c[6]Lona：\c[0]    อ๊าก... *สะอึก*... *สะอึก*...
 
 Lona/PunchEvent_end_slut
-\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก... อ๊าก...
 
 Lona/PunchEvent_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... *Cough*... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... *ไอ*... อ๊าก......
 ..........
 
 Lona/PunchEvent_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnppphhh... *Puff*...
+\c[6]Lona：\c[0]    อิมมม... *หอบ*...
 
 ##_------------------------------ 打臉
 
 Lona/FacePunch_begin
-They were very upset that Lona could not learn her lesson.\n Lona braced herself for what was coming next...
+พวกเขาโกรธมากที่โลน่าไม่สามารถเรียนรู้บทเรียนของเธอได้\n โลน่าเตรียมพร้อมสำหรับสิ่งที่จะเกิดขึ้นต่อไป...
 
 Lona/FacePunch_end
-Lona's nose sprayed and leaked blood all over her face.
-They roared with laughter at Lona. Seeing her terrified expression was very entertaining for them.
+จมูกของโลน่าพ่นและไหลเลือดทั่วใบหน้าของเธอ
+พวกเขาหัวเราะอย่างดังด้วยความสนุกสนานที่ได้เห็นสีหน้ากลัวของโลน่า
 
 Lona/FacePunch_end2_normal
-\c[6]Lona：\c[0]    Uuuwuuunnngh...
-(W-Why is this happening to me...?)
+\c[6]Lona：\c[0]    อ๊าก...
+(ทำไมฉันถึงต้องเจอแบบนี้...?)
 
 Lona/FacePunch_end2_tsun
-\c[6]Lona：\c[0]    Nnnighnnn... *Gasp*! Mmmnnnph... My n-nose......
+\c[6]Lona：\c[0]    อ๊าก... *หอบ*! อิมมม... จมูกของฉัน......
 
 Lona/FacePunch_end2_weak
-\c[6]Lona：\c[0]    Ughnnngh... *Sniff*... W-Waaaaaah!
+\c[6]Lona：\c[0]    อ๊าก... *สะอึก*... ว้าว!
 
 Lona/FacePunch_end2_slut
-\c[6]Lona：\c[0]    Haaah...! *Sniff* Ohhh... Ooooh...
+\c[6]Lona：\c[0]    อ๊าก...! *สะอึก* อ๊าก... อ๊าก...
 
 Lona/FacePunch_end2_overfatigue
-\c[6]Lona：\c[0]    Guuuh... *Sniff* Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... *สะอึก* อ๊าก......
 
 Lona/FacePunch_end2_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph... *Puff*...
+\c[6]Lona：\c[0]    อิมมม... *หอบ*...
 
 ##_------------------------------ 打屁屁
 
 Lona/ButtSlap_begin
-They lifted their limbs up high. It seems like they were prepared to give Lona a hard blow!
+พวกเขายกแขนขาขึ้นสูง ดูเหมือนพวกเขาพร้อมที่จะให้โลน่าได้รับการตีแรง!
 
 Lona/ButtSlap_end
-Lona's hips were covered with bruises.
-They roared with laughter at Lona. Seeing her recoiling on the ground in pain looked very ridiculous to them.
+สะโพกของโลน่าถูกปกคลุมด้วยรอยฟกช้ำ
+พวกเขาหัวเราะอย่างดังด้วยความสนุกสนานที่ได้เห็นโลน่าหดตัวอยู่บนพื้นด้วยความเจ็บปวด
 
 Lona/ButtSlap_end_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/ButtSlap_end_tsun
-\c[6]Lona：\c[0]    Guuuaaagh...! W-Why would you... do this...?
+\c[6]Lona：\c[0]    อ๊าก...! ทำไมคุณ... ทำแบบนี้...?
 
 Lona/ButtSlap_end_weak
-\c[6]Lona：\c[0]    *Sniff*... Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    *สะอึก*... อ๊าก...! *สะอึก*...
 
 Lona/ButtSlap_end_slut
-\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก... อ๊าก...~
 
 Lona/ButtSlap_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/ButtSlap_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------ 灌腸 本事件自動將大便排泄等級拉至最高 事件結束將由超越事件自動連接至排泄事件
 
 Lona/Enema_begin
-They aimed the nozzle of the sack containing liquid near Lona's asshole.
+พวกเขาชี้หัวฉีดของถุงที่มีของเหลวไปที่รูตูดของโลน่า
 
 Lona/Enema_begin2
-(Are they... going to pour everything inside me?!)
+(พวกเขา... กำลังจะเททุกอย่างเข้าไปในฉัน?!)
 
 Lona/Enema_begin3
-They inserted the opening into Lona's anus and tilted the sack.
+พวกเขาใส่ปากฉีดเข้าไปในรูตูดของโลน่าและเอียงถุง
 
 Lona/Enema_common
-Lona's belly grew bigger.
+ท้องของโลน่าโตขึ้น
 
 Lona/Enema_end1_normal
-\c[6]Lona：\c[0]    Hinnnghnnn... It's... It's c-coming ouuut...!
+\c[6]Lona：\c[0]    อ๊าก... มัน... มันกำลังออกมา...!
 
 Lona/Enema_end1_tsun
-\c[6]Lona：\c[0]    N-No way... It's g-going to leak out...
+\c[6]Lona：\c[0]    ไม่มีทาง... มันกำลังจะไหลออก...
 
 Lona/Enema_end1_weak
-\c[6]Lona：\c[0]    *Sniff*... Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    *สะอึก*... อ๊าก...! *สะอึก*...
 
 Lona/Enema_end1_slut
-\c[6]Lona：\c[0]    Eeek...! Nyaaah! It's cwumming ouuut...!
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก! มันกำลังออกมา...!
 
 Lona/Enema_end1_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Niiinnnghnnn... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก... อ๊าก......
 
 Lona/Enema_end1_mouth_block
-\c[6]Lona：\c[0]    MMMNNNMMMPH!!!
+\c[6]Lona：\c[0]    อิมมม!!!
 
 Lona/Enema_end2
-The fluid inside Lona's guts constantly sloshed around and stimulated the walls of her intestines.
-Lona couldn't hold it in any longer.
+ของเหลวในลำไส้ของโลน่าสั่นสะเทือนอย่างต่อเนื่องและกระตุ้นผนังลำไส้ของเธอ
+โลน่ากลั้นไม่ไหวอีกต่อไป
 
 Lona/Enema_end3_normal
-\c[6]Lona：\c[0]    \{I can't-... KYAAAH!!!
+\c[6]Lona：\c[0]    \{ฉันทำไม่ได้-... อ๊าก!!!
 
 Lona/Enema_end3_tsun
-\c[6]Lona：\c[0]    \{D-Don't look...! UWAUUUAAAGHHH!
+\c[6]Lona：\c[0]    \{อย่ามอง...! อ๊าก!
 
 Lona/Enema_end3_weak
-\c[6]Lona：\c[0]    \{EEEEEEKKK!!!
+\c[6]Lona：\c[0]    \{อ๊าก!!!
 
 Lona/Enema_end3_slut
-\c[6]Lona：\c[0]    \{OOOHHH-NNNYAAAAAAH!!!~
+\c[6]Lona：\c[0]    \{อ๊าก-อ๊าก!!!~
 
 Lona/Enema_end3_overfatigue
-\c[6]Lona：\c[0]    G-... GUUUH......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/Enema_end3_mouth_block
-\c[6]Lona：\c[0]    \{MMMGUUUHHHNNNPH!!!!!!
+\c[6]Lona：\c[0]    \{อิมมม!!!!!!
 
 ##_------------------------------PEEON 尿浴 
 
 Lona/PeeonHead_begin
-They surrounded Lona and demanded Lona to drink their piss.
+พวกเขาล้อมรอบโลน่าและเรียกร้องให้โลน่าดื่มปัสสาวะของพวกเขา
 
 Lona/PeeonHead_choice1
-(What should I do...?) \optD[Drink it...<t=5>,Don't do it!]
+(ฉันควรทำอย่างไร...?) \optD[ดื่มมัน...<t=5>,ไม่ทำ!]
 
 Lona/PeeonHead_choice2
-\c[6]Lona：\c[0]    Uwaaah... Please... don't hit me a-anymore...
-(What should I do...?) \optD[Drink it...<t=5>,There's no way... I can't!]
+\c[6]Lona：\c[0]    อ๊าก... ขอร้อง... อย่าตีฉันอีก...
+(ฉันควรทำอย่างไร...?) \optD[ดื่มมัน...<t=5>,ไม่มีทาง... ฉันทำไม่ได้!]
 
 Lona/PeeonHead_choice3
-\c[6]Lona：\c[0]    Uwaaahhh...
-(...) \optD[Obey them...<t=5>,I refuse! Even if they'll kill me!!!]
+\c[6]Lona：\c[0]    อ๊าก...
+(...) \optD[ทำตามพวกเขา...<t=5>,ฉันปฏิเสธ! แม้พวกเขาจะฆ่าฉัน!!!]
 
 Lona/PeeonHead_choice_no
-Lona shook her head no with tears in her eyes.
+โลน่าสั่นหัวปฏิเสธด้วยน้ำตาในดวงตา
 
 Lona/PeeonHead_testLOSE
-They were furious at Lona's disobedience...
+พวกเขาโกรธมากที่โลน่าไม่ยอมทำตาม...
 
 Lona/PeeonHead_testLOSE_end
-\c[6]Lona：\c[0]    Uwuuahhh... Ahhh...
-They were satisfied with the abuse, so it didn't matter if Lona disobeyed.
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
+พวกเขาพอใจกับการทำร้าย ดังนั้นไม่สำคัญว่าโลน่าจะไม่ยอมทำตาม
 
 Lona/PeeonHead_testWIN
-They were satisfied with Lona's begging and began to think of more interesting things to do with Lona.
+พวกเขาพอใจกับการขอร้องของโลน่าและเริ่มคิดหาสิ่งที่น่าสนใจมากขึ้นที่จะทำกับโลน่า
 
 Lona/peeon_begin
-They surrounded Lona, intending to mark her body with their urine.
+พวกเขาล้อมรอบโลน่า เพื่อทำเครื่องหมายร่างกายของเธอด้วยปัสสาวะของพวกเขา
 
 Lona/peeon_end
-Lona's entire body was soaked with the foul urine. The stench burned Lona's sinuses everytime she breathed.
-They chuckled and seemed to be quite satisfied with the living meat toilet.
+ร่างกายทั้งหมดของโลน่าถูกปกคลุมด้วยปัสสาวะที่เหม็น กลิ่นเหม็นไหม้จมูกของโลน่าทุกครั้งที่เธอหายใจ
+พวกเขาหัวเราะและดูเหมือนจะพอใจกับห้องน้ำเนื้อมีชีวิต
 
 Lona/peeon_end_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/peeon_end_tsun
-\c[6]Lona：\c[0]    Guuuaaagh...! W-Why would you... do this...?
+\c[6]Lona：\c[0]    อ๊าก...! ทำไมคุณ... ทำแบบนี้...?
 
 Lona/peeon_end_weak
-\c[6]Lona：\c[0]    *Sniff*... Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    *สะอึก*... อ๊าก...! *สะอึก*...
 
 Lona/peeon_end_slut
-\c[6]Lona：\c[0]    Haaah... Ahhh... Teehee...! Everyone loves me!~ ♥
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก... ฮิฮิ...! ทุกคนรักฉัน!~ ♥
 
 Lona/peeon_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/peeon_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------DeepThroat 深喉
 
 Lona/DeepThroat_begin
-They were getting impatient and intended to thrust their cocks down Lona's throat.
+พวกเขาเริ่มไม่อดทนและตั้งใจจะสอดควยลงคอของโลน่า
 
 Lona/DeepThroat_begin2_normal
-\c[6]Lona：\c[0]    \{W-Wait! Please don't-...!
+\c[6]Lona：\c[0]    \{รอ! ขอร้องอย่า-...!
 
 Lona/DeepThroat_begin2_tsun
-\c[6]Lona：\c[0]    \{No! Get that thing away from me!
+\c[6]Lona：\c[0]    \{ไม่! เอาของนั้นออกไปจากฉัน!
 
 Lona/DeepThroat_begin2_weak
-\c[6]Lona：\c[0]    Please... f-forgive me... *Whimper*...
+\c[6]Lona：\c[0]    ขอร้อง... ให้อภัยฉัน... *สะอึก*...
 
 Lona/DeepThroat_begin2_slut
-\c[6]Lona：\c[0]    Cock!~ ♥
+\c[6]Lona：\c[0]    ควย!~ ♥
 
 Lona/DeepThroat_begin2_overfatigue
 \c[6]Lona：\c[0]    ...
 
 Lona/DeepThroat_begin2_block
-\c[6]Lona：\c[0]    \{Mmmnnnph!!!
+\c[6]Lona：\c[0]    \{อิมมม!!!
 
 Lona/DeepThroat_begin3
-\narr The large cock continued thrusting down Lona's esophagus and trachea.
+\narr ควยขนาดใหญ่ยังคงสอดลงคอและหลอดลมของโลน่า
 
 Lona/DeepThroat_begin4
-\narr Lona felt as if she was about to suffocate.
+\narr โลน่ารู้สึกเหมือนกำลังจะขาดใจ
 
 Lona/DeepThroat_begin5
-\narr The pulsation of the dick tickled Lona's mouth, as it begins to ejaculate.
+\narr การสั่นของควยกระตุ้นปากของโลน่า เมื่อมันเริ่มปล่อยน้ำอสุจิ
 
 Lona/DeepThroat_begin6
-\narr He groaned in excitement, his movements becoming more rough.
+\narr เขาครวญด้วยความตื่นเต้น การเคลื่อนไหวของเขาเริ่มหยาบกร้านมากขึ้น
 
 Lona/DeepThroat_begin7
-\narr The slimy semen blocked off Lona's esophagus and began overflowing from Lona's mouth.
+\narr น้ำอสุจิที่เหนียวขวางกั้นหลอดอาหารของโลน่าและเริ่มล้นออกมาจากปากของโลน่า
 
 Lona/DeepThroat_end
-\narr It took a long time for Lona to catch her breath. She began gasping and panting for air.
+\narr ใช้เวลานานกว่าโลน่าจะหายใจได้ เธอเริ่มหอบและหายใจแรงๆ
 
 Lona/DeepThroat_end2_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/DeepThroat_end2_tsun
-\c[6]Lona：\c[0]    Guuuaaagh...! W-Why would you... do this...?
+\c[6]Lona：\c[0]    อ๊าก...! ทำไมคุณ... ทำแบบนี้...?
 
 Lona/DeepThroat_end2_weak
-\c[6]Lona：\c[0]    *Sniff*... Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    *สะอึก*... อ๊าก...! *สะอึก*...
 
 Lona/DeepThroat_end2_slut
-\c[6]Lona：\c[0]    Haaah... Ahhh... Teehee...! Everyone loves me!~ ♥
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก... ฮิฮิ...! ทุกคนรักฉัน!~ ♥
 
 Lona/DeepThroat_end2_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/DeepThroat_end2_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------PEEON 尿浴 
 
 Lona/peeon_begin
-They surrounded Lona, intending to defile Lona's body with their piss.
+พวกเขาล้อมรอบโลน่า เพื่อทำลายร่างกายของโลน่าด้วยปัสสาวะของพวกเขา
 
 Lona/peeon_end
-Lona's entire body was soaked with the foul urine. The stench burned Lona's sinuses everytime she breathed.
-They chuckled and seemed to be quite satisfied with the living meat toilet.
+ร่างกายทั้งหมดของโลน่าถูกปกคลุมด้วยปัสสาวะที่เหม็น กลิ่นเหม็นไหม้จมูกของโลน่าทุกครั้งที่เธอหายใจ
+พวกเขาหัวเราะและดูเหมือนจะพอใจกับห้องน้ำเนื้อมีชีวิต
 
 Lona/peeon_end_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/peeon_end_tsun
-\c[6]Lona：\c[0]    Guuuaaagh...! W-Why would you... do this...?
+\c[6]Lona：\c[0]    อ๊าก...! ทำไมคุณ... ทำแบบนี้...?
 
 Lona/peeon_end_weak
-\c[6]Lona：\c[0]    *Sniff*... Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    *สะอึก*... อ๊าก...! *สะอึก*...
 
 Lona/peeon_end_slut
-\c[6]Lona：\c[0]    Haaah... Ahhh... Teehee...! Everyone loves me!~ ♥
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก... ฮิฮิ...! ทุกคนรักฉัน!~ ♥
 
 Lona/peeon_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/peeon_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------FloorClearnPee  清理地板 尿 \call[Data/Batch/puke_value_control.rb] 
 
 Lona/FloorClearnPee_begin1
-\c[6]Lona：\c[0]    Kyaaah!
-They pushed Lona down and demanded her to clean the urine off the ground.
+\c[6]Lona：\c[0]    อ๊าก!
+พวกเขาผลักโลน่าลงและเรียกร้องให้เธอทำความสะอาดปัสสาวะออกจากพื้น
 
 Lona/FloorClearnPee_begin2
-(Ugh... So disgusting.) \n The rancid smell of mud mixed with the odor of urine constantly stung Lona's nose.
+(อ๊าก... น่าขยะแขยง.) \n กลิ่นเหม็นของโคลนผสมกับกลิ่นปัสสาวะทำให้จมูกของโลน่าแสบตลอดเวลา
 
 Lona/FloorClearnPee_choice1
-(Should... Should I...?) \optD[Do it...<t=5>,Don't do it!]
+(ฉันควร... ฉันควร...?) \optD[ทำมัน...<t=5>,ไม่ทำ!]
 
 Lona/FloorClearnPee_choice2
-\c[6]Lona：\c[0]    Uwuuahhh... Please... don't...
-(What should I do...?) \optD[Do it...<t=5>,There's no way... I can't!]
+\c[6]Lona：\c[0]    อ๊าก... ขอร้อง... อย่า...
+(ฉันควรทำอย่างไร...?) \optD[ทำมัน...<t=5>,ไม่มีทาง... ฉันทำไม่ได้!]
 
 Lona/FloorClearnPee_choice3
-\c[6]Lona：\c[0]    *Whimper*...
-(Should... Should I...?) \optD[Obey them...<t=5>,I refuse! Even if they'll kill me!!!]
+\c[6]Lona：\c[0]    *สะอึก*...
+(ฉันควร... ฉันควร...?) \optD[ทำตามพวกเขา...<t=5>,ฉันปฏิเสธ! แม้พวกเขาจะฆ่าฉัน!!!]
 
 Lona/FloorClearnPee_choice_no
-Lona shook her head "no" with tears in her eyes.
+โลน่าสั่นหัวปฏิเสธด้วยน้ำตาในดวงตา
 
 Lona/FloorClearnPee_testLOSE
-They were displeased that Lona refused to suck the urine off the floor.
+พวกเขาไม่พอใจที่โลน่าปฏิเสธที่จะดูดปัสสาวะออกจากพื้น
 
 Lona/FloorClearnPee_testLOSE_end
-\c[6]Lona：\c[0]    Aaah... Ahhh...
-They were satisfied with the abuse, so it didn't matter if Lona disobeyed.
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
+พวกเขาพอใจกับการทำร้าย ดังนั้นไม่สำคัญว่าโลน่าจะไม่ยอมทำตาม
 
 Lona/FloorClearnPee_testWIN
-They were satisfied with Lona's begging.
-They decided to find something else more fun to do with Lona.
+พวกเขาพอใจกับการขอร้องของโลน่า
+พวกเขาตัดสินใจหาสิ่งที่สนุกสนานมากขึ้นที่จะทำกับโลน่า
 
 Lona/FloorClearnPee_begin3
-\c[6]Lona：\c[0]    Please don't hit me! ...I'll do it!
+\c[6]Lona：\c[0]    อย่าตีฉัน! ...ฉันจะทำ!
 
 Lona/FloorClearnPee_begin4
-\c[6]Lona：\c[0]    Guhwuuah *Sluuurp*...
-(I really want to vomit...)
+\c[6]Lona：\c[0]    อ๊าก *ดูด*...
+(ฉันอยากอาเจียนจริงๆ...)
 
 Lona/FloorClearnPee_begin5
-\c[6]Lona：\c[0]    Guhwuuu *Slurp*...
-(...Is it over yet?)
+\c[6]Lona：\c[0]    อ๊าก *ดูด*...
+(...มันจบหรือยัง?)
 
 Lona/FloorClearnPee_begin6
-\c[6]Lona：\c[0]    Gaaack *Suuuck*...
-(I'm... going to throw up...)
+\c[6]Lona：\c[0]    อ๊าก *ดูด*...
+(ฉัน... จะอาเจียน...)
 
 Lona/FloorClearnPee_end
-\c[6]Lona：\c[0]    Almost... *Gag* Done... *Retch* F-Finally...
-Lona's tiny mouth was covered with urine and mud.
-They howled with laughter at Lona. She actually drank the muddy urine like an obedient toilet.
+\c[6]Lona：\c[0]    เกือบ... *อาเจียน* เสร็จ... *อาเจียน* ในที่สุด...
+ปากเล็กๆ ของโลน่าถูกปกคลุมด้วยปัสสาวะและโคลน
+พวกเขาหัวเราะอย่างดังที่โลน่า เธอดื่มปัสสาวะที่เป็นโคลนเหมือนห้องน้ำที่เชื่อฟัง
 
 Lona/FloorClearnPee_end_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah...
+\c[6]Lona：\c[0]    อ๊าก...
 
 Lona/FloorClearnPee_end_tsun
-\c[6]Lona：\c[0]    Guuuaaagh...! W-Why would you... do this...?
+\c[6]Lona：\c[0]    อ๊าก...! ทำไมคุณ... ทำแบบนี้...?
 
 Lona/FloorClearnPee_end_weak
-\c[6]Lona：\c[0]    *Sniff*... Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    *สะอึก*... อ๊าก...! *สะอึก*...
 
 Lona/FloorClearnPee_end_slut
-\c[6]Lona：\c[0]    Haaah... Ahhh... Haaaff...
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก... อ๊าก...
 
 Lona/FloorClearnPee_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/FloorClearnPee_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------FloorClearnCums 清理地板 精液
 
 Lona/FloorClearnCums_begin1
-\c[6]Lona：\c[0]    Kyaaah!
-They pushed Lona down and demanded that she eats the semen on the ground.
+\c[6]Lona：\c[0]    อ๊าก!
+พวกเขาผลักโลน่าลงและเรียกร้องให้เธอกินน้ำอสุจิบนพื้น
 
 Lona/FloorClearnCums_begin2
-(Guh... So gross...)
-The rancid smell of mud mixed with the stench of semen constantly stung Lona's nose.
+(อ๊าก... น่าขยะแขยง...)
+กลิ่นเหม็นของโคลนผสมกับกลิ่นน้ำอสุจิทำให้จมูกของโลน่าแสบตลอดเวลา
 
 Lona/FloorClearnCums_choice1
-(What should I do...?)\optD[Eat it...<t=5>,Don't do it!]
+(ฉันควรทำอย่างไร...?) \optD[กินมัน...<t=5>,ไม่ทำ!]
 
 Lona/FloorClearnCums_choice2
-\c[6]Lona：\c[0]    Uwuuahhh... I'm sorry! D-Don't hurt me...
-(Should I...?)\optD[Eat it...<t=5>,There's no way... I can't!]
+\c[6]Lona：\c[0]    อ๊าก... ขอโทษ! อย่าทำร้ายฉัน...
+(ฉันควร...?) \optD[กินมัน...<t=5>,ไม่มีทาง... ฉันทำไม่ได้!]
 
 Lona/FloorClearnCums_choice3
-\c[6]Lona：\c[0]    *Whimper*...
-(Should I do it...?)\optD[Obey them...<t=5>,I refuse! Even if they'll kill me!!!]
+\c[6]Lona：\c[0]    *สะอึก*...
+(ฉันควรทำมัน...?) \optD[ทำตามพวกเขา...<t=5>,ฉันปฏิเสธ! แม้พวกเขาจะฆ่าฉัน!!!]
 
 Lona/FloorClearnCums_choice_no
-Lona shook her head no with tears in her eyes.
+โลน่าสั่นหัวปฏิเสธด้วยน้ำตาในดวงตา
 
 Lona/FloorClearnCums_testLOSE
-They were angry at Lona's defiance...
+พวกเขาโกรธมากที่โลน่าไม่ยอมทำตาม...
 
 Lona/FloorClearnCums_testLOSE_end
-\c[6]Lona：\c[0]    Ahhh...  Aaah...
-They were satisfied with the abuse, so it didn't matter if Lona disobeyed.
+\c[6]Lona：\c[0]    อ๊าก...  อ๊าก...
+พวกเขาพอใจกับการทำร้าย ดังนั้นไม่สำคัญว่าโลน่าจะไม่ยอมทำตาม
 
 Lona/FloorClearnCums_testWIN
-They were satisfied with Lona's begging.
-They decided to continue having some more fun with Lona.
+พวกเขาพอใจกับการขอร้องของโลน่า
+พวกเขาตัดสินใจที่จะสนุกกับโลน่าต่อไป
 
 Lona/FloorClearnCums_begin3
-\c[6]Lona：\c[0]    Please dont hit me! ...I-I'll do it!
+\c[6]Lona：\c[0]    อย่าตีฉัน! ...ฉันจะทำ!
 
 Lona/FloorClearnCums_begin4
-\c[6]Lona：\c[0]    Guuuh... Bleeeah...
-(I really want to vomit...)
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก...
+(ฉันอยากอาเจียนจริงๆ...)
 
 Lona/FloorClearnCums_begin5
-\c[6]Lona：\c[0]    Guhwuu *Sluuurp*...
-(...Is it over yet?)
+\c[6]Lona：\c[0]    อ๊าก *ดูด*...
+(...มันจบหรือยัง?)
 
 Lona/FloorClearnCums_begin6
-\c[6]Lona：\c[0]    Bleaaah *Slurp*... Nnnyaaah *Lick*...
-(I'm... going to throw up...)
+\c[6]Lona：\c[0]    อ๊าก *ดูด*... อ๊าก *เลีย*...
+(ฉัน... จะอาเจียน...)
 
 Lona/FloorClearnCums_end
-\c[6]Lona：\c[0]    Almost... *Slurp* G-Gone... *Gag* Finally...
-Lona's tiny mouth was covered with semen and dirt.
-They kept laughing at Lona, being satisfied with the obedient meat toilet.
+\c[6]Lona：\c[0]    เกือบ... *ดูด* หายไป... *อาเจียน* ในที่สุด...
+ปากเล็กๆ ของโลน่าถูกปกคลุมด้วยน้ำอสุจิและสิ่งสกปรก
+พวกเขาหัวเราะเยาะโลน่า พอใจกับห้องน้ำเนื้อที่เชื่อฟัง
 
 Lona/FloorClearnCums_end_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah... *Burp*...
+\c[6]Lona：\c[0]    อ๊าก... *เรอ*...
 
 Lona/FloorClearnCums_end_tsun
-\c[6]Lona：\c[0]    Guuuaaagh...! *Gag* W-Why would you... do this...
+\c[6]Lona：\c[0]    อ๊าก...! *อาเจียน* ทำไมคุณ... ทำแบบนี้...
 
 Lona/FloorClearnCums_end_weak
-\c[6]Lona：\c[0]    *Sniff*... Uwaaahhh...! *Whimper*...
+\c[6]Lona：\c[0]    *สะอึก*... อ๊าก...! *สะอึก*...
 
 Lona/FloorClearnCums_end_slut
-\c[6]Lona：\c[0]    Haaah...! Ohhh... Ooooh...~
+\c[6]Lona：\c[0]    อ๊าก...! อ๊าก... อ๊าก...~
 
 Lona/FloorClearnCums_end_overfatigue
-\c[6]Lona：\c[0]    Guuuh... Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 
 Lona/FloorClearnCums_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------FloorClearnScat 清理地板 屎
 
 Lona/FloorClearnScat_begin1
-\c[6]Lona：\c[0]    Kyaaah!
-They pressed Lona down and demanded her to eat the feces on the ground.
+\c[6]Lona：\c[0]    อ๊าก!
+พวกเขากดโลน่าลงและเรียกร้องให้เธอกินอุจจาระบนพื้น
 
 Lona/FloorClearnScat_begin2
-(UGH...! It reeks! S-So disgusting...)
-(No... I'm going to throw up...)
-The fecal stench curdled in Lona's nose.
+(อ๊าก...! มันเหม็น! น่าขยะแขยง...)
+(ไม่... ฉันจะอาเจียน...)
+กลิ่นอุจจาระทำให้จมูกของโลน่าเป็นก้อน
 
 Lona/FloorClearnScat_choice1
-(Should I eat it...?)\optD[Eat it...<t=5>,NO WAY!]
+(ฉันควรกินมัน...?) \optD[กินมัน...<t=5>,ไม่มีทาง!]
 
 Lona/FloorClearnScat_choice2
-\c[6]Lona：\c[0]    Uwuuahhh... Please... S-Stop...
-(Should I obey them...?)\optD[Eat it...<t=5>,There's no way... I WON'T!]
+\c[6]Lona：\c[0]    อ๊าก... ขอร้อง... หยุด...
+(ฉันควรทำตามพวกเขา...?) \optD[กินมัน...<t=5>,ไม่มีทาง... ฉันไม่ทำ!]
 
 Lona/FloorClearnScat_choice3
-\c[6]Lona：\c[0]    *Whimper*...
-(What should I do...?)\optD[Eat it...<t=5>,I'D RATHER DIE THAN EAT POOP!!!]
+\c[6]Lona：\c[0]    *สะอึก*...
+(ฉันควรทำอย่างไร...?) \optD[กินมัน...<t=5>,ฉันยอมตายดีกว่ากินอึ!!!]
 
 Lona/FloorClearnScat_choice_no
-Lona shook her head no with tears in her eyes.
+โลน่าสั่นหัวปฏิเสธด้วยน้ำตาในดวงตา
 
 Lona/FloorClearnScat_testLOSE
-They were outraged at Lona's refusal to eat the pile of shit.
+พวกเขาโกรธมากที่โลน่าปฏิเสธที่จะกินกองอึ
 
 Lona/FloorClearnScat_testLOSE_end
-\c[6]Lona：\c[0]    Ahhh... *Gag*  Aaah...
-They were satisfied with the abuse, so it didn't matter if Lona refused to eat the feces.
+\c[6]Lona：\c[0]    อ๊าก... *อาเจียน*  อ๊าก...
+พวกเขาพอใจกับการทำร้าย ดังนั้นไม่สำคัญว่าโลน่าจะปฏิเสธที่จะกินอุจจาระ
 
 Lona/FloorClearnScat_testWIN
-They were satisfied with Lona's begging.
-They decided to have some even more fun with her.
+พวกเขาพอใจกับการขอร้องของโลน่า
+พวกเขาตัดสินใจที่จะสนุกกับเธอมากขึ้น
 
 Lona/FloorClearnScat_begin3
-\c[6]Lona：\c[0]    Please don't hit me! I'll... I'll eat it!
+\c[6]Lona：\c[0]    อย่าตีฉัน! ฉันจะ... ฉันจะกินมัน!
 
 Lona/FloorClearnScat_begin4
-\c[6]Lona：\c[0]    Nom... *RETCH*... GAAACK......
-(I really want to... NO, I NEED to vomit...!)
+\c[6]Lona：\c[0]    กิน... *อาเจียน*... อ๊าก......
+(ฉันอยาก... ไม่, ฉันต้องอาเจียน...!)
 
 Lona/FloorClearnScat_begin5
-\c[6]Lona：\c[0]    Nom... *Chew* Uwuuunnngh... *GAG*...
-(The feces in front of me seems to have been reduced.)
-(...Is it o-over yet?)
+\c[6]Lona：\c[0]    กิน... *เคี้ยว* อ๊าก... *อาเจียน*...
+(อุจจาระข้างหน้าฉันดูเหมือนจะลดลง)
+(...มันจบหรือยัง?)
 
 Lona/FloorClearnScat_begin6
-\c[6]Lona：\c[0]    Guhpluh... *RETCH*... Shlurrrp...
-(I'm not... gonna... make it...)
+\c[6]Lona：\c[0]    กลืน... *อาเจียน*... ดูด...
+(ฉันไม่... จะ... ทำได้...)
 
 Lona/FloorClearnScat_end
-\c[6]Lona：\c[0]    Gwuuuaaagh... *Retch*... Nneewuuh......
-Lona's little mouth was covered with fecal matter.
-They howled with laughter at Lona. She was actually eating the pile of shit like an obedient toilet.
+\c[6]Lona：\c[0]    อ๊าก... *อาเจียน*... อ๊าก......
+ปากเล็กๆ ของโลน่าถูกปกคลุมด้วยอุจจาระ
+พวกเขาหัวเราะอย่างดังที่โลน่า เธอกินกองอึเหมือนห้องน้ำที่เชื่อฟัง
 
 Lona/FloorClearnScat_puke1
-\c[6]Lona：\c[0]    \{*RETCH*... GUUUH! *GAG*!!!
+\c[6]Lona：\c[0]    \{*อาเจียน*... อ๊าก! *อาเจียน*!!!
 
 Lona/FloorClearnScat_puke2
-\c[6]Lona：\c[0]    \{URK! \{BLEEAAARRRUGH!!!
-Lona began to puke her brains out.
+\c[6]Lona：\c[0]    \{อ๊าก! \{อ๊าก!!!
+โลน่าเริ่มอาเจียนออกมาจนหมด
 
 Lona/FloorClearnScat_puke_end
-\c[6]Lona：\c[0]    Guuugh... *GAG*... Uwuuunnngh...
-Lona's vomit merged together with the half-eaten pile of feces on the floor.
-They laughed even louder at the disgusting sight.
+\c[6]Lona：\c[0]    อ๊าก... *อาเจียน*... อ๊าก...
+อาเจียนของโลน่าผสมกับกองอึที่กินไม่หมดบนพื้น
+พวกเขาหัวเราะดังขึ้นที่ภาพที่น่าขยะแขยง
 
 Lona/FloorClearnScat_end_normal
-\c[6]Lona：\c[0]    Nnnighnnaaah... *Gag*...
+\c[6]Lona：\c[0]    อ๊าก... *อาเจียน*...
 
 Lona/FloorClearnScat_end_tsun
-\c[6]Lona：\c[0]    Guuuaaagh... *Whimper*...
+\c[6]Lona：\c[0]    อ๊าก... *สะอึก*...
 
 Lona/FloorClearnScat_end_weak
-\c[6]Lona：\c[0]    Uwaaahhh... *Retch*... *Whimper*...
+\c[6]Lona：\c[0]    อ๊าก... *อาเจียน*... *สะอึก*...
 
 Lona/FloorClearnScat_end_slut
-\c[6]Lona：\c[0]    Bleeah... *Gag*... Uwuuu...
+\c[6]Lona：\c[0]    อ๊าก... *อาเจียน*... อ๊าก...
 
 Lona/FloorClearnScat_end_overfatigue
-\c[6]Lona：\c[0]    *Retch*... *Gag*...
+\c[6]Lona：\c[0]    *อาเจียน*... *อาเจียน*...
 
 Lona/FloorClearnScat_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 ##_------------------------------feeding Milking
 
 Lona/FeedingChild_begin
-\narr The children greedily sucked on Lona's breast.
+\narr เด็กๆ ดูดหน้าอกของโลน่าอย่างโลภ
 
 Lona/FeedingChild_MilkNotEnough
-\narr Lona's milk was not enough for the remaining children. They left to find more milk.
+\narr น้ำนมของโลน่าไม่พอสำหรับเด็กที่เหลือ เด็กๆ จึงออกไปหาน้ำนมเพิ่ม
 
 Lona/FeedingChild_item1
-Lona’s child is hungry. Use item #{$story_stats["HiddenOPT0"]} to feed?
+ลูกของโลน่าหิว ใช้ไอเท็ม #{$story_stats["HiddenOPT0"]} เพื่อให้อาหาร?
 
 Lona/FeedingChild_item2
-\narr The children feel satisfied...
+\narr เด็กๆ รู้สึกพอใจ...
 
 ##_------------------------------fORCE Feed
 
 Lona/ForceFeeding_OrkindRapeLoop
-\ph\narr They decided it's time to force feed Lona.
-\narr The Orkinds will make sure that their pregnant breeding sows won't starve...
+\ph\narr พวกเขาตัดสินใจว่าถึงเวลาที่จะบังคับให้โลน่ากินอาหาร
+\narr ออร์คินด์จะทำให้แน่ใจว่าหมูพันธุ์ที่ตั้งครรภ์ของพวกเขาจะไม่อดตาย...
 
 Lona/ForceFeeding_AbomRapeLoop
-\ph\narr They didn't care if the seedbed was hungry or not.
-\narr Force feeding seedbeds at any moment was just part of their nature.
+\ph\narr พวกเขาไม่สนใจว่าเตียงเมล็ดพันธุ์จะหิวหรือไม่
+\narr การบังคับให้เตียงเมล็ดพันธุ์กินอาหารในทุกช่วงเวลาเป็นเพียงส่วนหนึ่งของธรรมชาติของพวกเขา
 
 Lona/ForceFeeding_FishkindRapeLoop
-\ph\narr They decided it's time to force feed Lona.
-\narr The Deepones had to make sure their brood mothers can give birth to healthy offsprings...
+\ph\narr พวกเขาตัดสินใจว่าถึงเวลาที่จะบังคับให้โลน่ากินอาหาร
+\narr ดีปโอนต้องทำให้แน่ใจว่าแม่พันธุ์ของพวกเขาสามารถคลอดลูกที่แข็งแรงได้...
 
 Lona/ForceFeeding_begin1
-\c[6]Lona：\c[0]    Don't! Let me go!
+\c[6]Lona：\c[0]    อย่า! ปล่อยฉัน!
 
 Lona/ForceFeeding_begin2
-\c[6]Lona：\c[0]    No, I don't want to eat this!
+\c[6]Lona：\c[0]    ไม่, ฉันไม่อยากกินอันนี้!
 
 Lona/ForceFeeding_begin3
-\c[6]Lona：\c[0]    \{Mmmnnnph! *Gulp*! *Glug*!
+\c[6]Lona：\c[0]    \{อิมมม! *กลืน*! *กลืน*!
 
 Lona/ForceFeeding_begin4
-\c[6]Lona：\c[0]    \{*GASP*! Ahhhguh...! Guaahya!
+\c[6]Lona：\c[0]    \{*หอบ*! อ๊าก...! อ๊าก!
 
 Lona/ForceFeeding_begin5
-\c[6]Lona：\c[0]    \{NO!
+\c[6]Lona：\c[0]    \{ไม่!
 
 Lona/ForceFeeding_begin6
-\c[6]Lona：\c[0]    \{Guhmmmnnnph! *GLUP*!
+\c[6]Lona：\c[0]    \{อิมมม! *กลืน*!
 
 Lona/ForceFeeding_begin7
-\c[6]Lona：\c[0]    \{Gwuueeahaa! *Gurgle*!
+\c[6]Lona：\c[0]    \{อ๊าก! *กลืน*!
 
 Lona/ForceFeeding_end
-\c[6]Lona：\c[0]    \{D-Don't! Please... w... wait!
+\c[6]Lona：\c[0]    \{อย่า! ขอร้อง... ร... รอ!
 
 Lona/ForceFeeding_end1
-\c[6]Lona：\c[0]    \{I can't eat anymore...! Please!
+\c[6]Lona：\c[0]    \{ฉันกินไม่ได้อีกแล้ว...! ขอร้อง!
 
 Lona/ForceFeeding_end2
-\c[6]Lona：\c[0]    \{Please-...! KYAAAH!!!
+\c[6]Lona：\c[0]    \{ขอร้อง-...! อ๊าก!!!
 
 Lona/ForceFeedingRunBatch1
-\c[6]Lona：\c[0]    \{Gluuuggguuh.........
+\c[6]Lona：\c[0]    \{กลืน.........
 
 Lona/ForceFeedingRunBatch2
-\c[6]Lona：\c[0]    \{Gluuurrph......
+\c[6]Lona：\c[0]    \{กลืน......
 
 Lona/ForceFeedingRunBatch3
-\c[6]Lona：\c[0]    \{Guhmmmnnnph...
+\c[6]Lona：\c[0]    \{อิมมม...
 
 Lona/ForceFeedingRunBatch_end
-\narr No matter how much Lona begged for mercy, they continued to pour food down her throat.
-\narr This lasted for a long time...
+\narr ไม่ว่าโลน่าจะขอร้องให้เมตตาเท่าไหร่ พวกเขาก็ยังคงเทอาหารลงคอของเธอ
+\narr นี่ใช้เวลานานมาก...
 
 Lona/ForceFeedingRunBatch1_end
 .........
@@ -2862,221 +2864,221 @@ Lona/ForceFeedingRunBatch3_end
 ############################################################### SuckDick ####################################
 
 Lona/SuckDickNormal
-\m[confused]\prf An ordinary penis appeared!
+\m[confused]\prf ควยธรรมดาปรากฏขึ้น!
 
 Lona/SuckDickHairly
-\m[flirty]\prf It's a penis hidden deep in a forest of pubic hair!
+\m[flirty]\prf ควยที่ซ่อนอยู่ในป่าของขนหมอย!
 
 Lona/SuckDickSmegma
-\m[fear]\prf It's penis that hasn't been cleaned in a long time!\n White smegma covers the cock's head.
+\m[fear]\prf ควยที่ไม่ได้ทำความสะอาดมานาน!\n สเมกมาสีขาวปกคลุมหัวควย
 
 Lona/SuckDickMega
-\m[shocked]\prf A giant, monster-like penis towers over you!
+\m[shocked]\prf ควยยักษ์ คล้ายปีศาจ ตั้งตระหง่านเหนือคุณ!
 
 #################
 
 Lona/SuckDick1_typical
-\m[shy]\c[6]Lona：\c[0]    I just have to make you feel good until you cum, right? \optB[Blowjob<t=5>,Forget it]
+\m[shy]\c[6]Lona：\c[0]    ฉันแค่ต้องทำให้คุณรู้สึกดีจนถึงจุด ใช่ไหม? \optB[เป่าหี<t=5>,ลืมเถอะ]
 
 Lona/SuckDick1_tsundere
-\m[serious]\c[6]Lona：\c[0]    Bleh! G-Gross! Should I really do this...? \optB[Blowjob<t=5>,Forget it]
+\m[serious]\c[6]Lona：\c[0]    เฮ้! น่าขยะแขยง! ฉันควรทำจริงๆ... ? \optB[เป่าหี<t=5>,ลืมเถอะ]
 
 Lona/SuckDick1_gloomy
-\m[tired]\c[6]Lona：\c[0]    *Whimper*... \optB[Blowjob<t=5>,Forget it]
+\m[tired]\c[6]Lona：\c[0]    *สะอึก*... \optB[เป่าหี<t=5>,ลืมเถอะ]
 
 Lona/SuckDick1_slut
-\m[lewd]\c[6]Lona：\c[0]    Oooh! ♥ This one looks really yummy...~ \optB[Suck on the yummy cock<t=5>,Forget it]
+\m[lewd]\c[6]Lona：\c[0]    อ๊าก! ♥ อันนี้ดูน่ากินจริงๆ...~ \optB[ดูดควยอร่อยๆ<t=5>,ลืมเถอะ]
 
 ##################
 
 Lona/SuckDick2_Normal
-This penis looks normal.
+ควยนี้ดูธรรมดา
 
 Lona/SuckDick2_Hairly
-This penis is covered with pubic hair.
+ควยนี้ถูกปกคลุมด้วยขนหมอย
 
 Lona/SuckDick2_Smegma
-The smegma-covered penis gave off an unpleasant, fishy smell.
+ควยที่ปกคลุมด้วยสเมกมาปล่อยกลิ่นไม่พึงประสงค์ กลิ่นปลา
 
 Lona/SuckDick2_Mega
-This penis is thicker than Lona's fist...
+ควยนี้หนากว่ากำปั้นของโลน่า...
 
 #########################
 
 Lona/SuckDick3_Normal
-It shouldn't be difficult for Lona to perform fellatio.
+ไม่น่าจะยากสำหรับโลน่าที่จะทำการเป่าหี
 
 Lona/SuckDick3_Hairly
-If Lona performs fellatio, her entire face would be buried in his pubic hair.
+ถ้าโลน่าทำการเป่าหี ใบหน้าทั้งหมดของเธอจะถูกฝังอยู่ในขนหมอยของเขา
 
 Lona/SuckDick3_Smegma
-They asked Lona to lick their penis as it hasn't been cleaned for a long time.
+พวกเขาขอให้โลน่าลิ้มลองควยของพวกเขาเพราะมันไม่ได้ทำความสะอาดมานาน
 
 Lona/SuckDick3_Mega
-Hold on a sec...! T-This just simply isn't possible!
+รอสักครู่...! นี่มันเป็นไปไม่ได้เลย!
 
 Lona/SuckDick_Failed
-They were furious at Lona's mistake.
+พวกเขาโกรธมากที่โลน่าทำผิดพลาด
 
 #########################
 
 Lona/SuckDick_GoodQA0
-Big and hard<t=5>
+ใหญ่และแข็ง<t=5>
 
 Lona/SuckDick_GoodQA1
-Majestic<t=5>
+สง่างาม<t=5>
 
 Lona/SuckDick_GoodQA2
-Strong<t=5>
+แข็งแรง<t=5>
 
 Lona/SuckDick_Bad1QA0
-Tiny
+เล็ก
 
 Lona/SuckDick_Bad1QA1
-Small and weak
+เล็กและอ่อนแอ
 
 Lona/SuckDick_Bad1QA2
-Impotent
+หมดสมรรถภาพ
 
 Lona/SuckDick_Bad2QA0
-Ugly
+น่าเกลียด
 
 Lona/SuckDick_Bad2QA1
-Gross
+น่าขยะแขยง
 
 Lona/SuckDick_Bad2QA2
-Terrible
+แย่มาก
 
 ############################################################ Human
 
 Lona/SuckDick4_Human0
-\Lshake\c[6]Man：\c[0]    \{Oooough!
-\Lshake\c[6]Man：\c[0]    \{That's right! Lick around the head!
+\Lshake\c[6]Man：\c[0]    \{อ๊าก!
+\Lshake\c[6]Man：\c[0]    \{ถูกต้อง! ลิ้มลองรอบๆ หัว!
 
 Lona/SuckDick4_Human1
-\Lshake\c[6]Man：\c[0]    \{Hnnngh!
-\Lshake\c[6]Man：\c[0]    \{Ooooh! Lick over there too!
+\Lshake\c[6]Man：\c[0]    \{อ๊าก!
+\Lshake\c[6]Man：\c[0]    \{อ๊าก! ลิ้มลองที่นั่นด้วย!
 
 Lona/SuckDick4_Human2
-\Lshake\c[6]Man：\c[0]    \{Oooowuuuoh!
-\Lshake\c[6]Man：\c[0]    \{Haaah! Yeah, keep lickin' there!
+\Lshake\c[6]Man：\c[0]    \{อ๊าก!
+\Lshake\c[6]Man：\c[0]    \{อ๊าก! ใช่ ลิ้มลองตรงนั้นต่อไป!
 
 Lona/SuckDick_HumanCumOutside0
-\Lshake\c[6]Man：\c[0]    \{Oh! Ohhhhugh! Gonna cum!
+\Lshake\c[6]Man：\c[0]    \{อ๊าก! อ๊าก! กำลังถึงจุด!
 
 Lona/SuckDick_HumanCumOutside1
-\Lshake\c[6]Man：\c[0]    \{HNNNGH! C-COOMING!
+\Lshake\c[6]Man：\c[0]    \{อ๊าก! กำลังถึงจุด!
 
 Lona/SuckDick_HumanCumOutside2
-\Lshake\c[6]Man：\c[0]    \{OHHHhhh waaaah!
+\Lshake\c[6]Man：\c[0]    \{อ๊าก! อ๊าก!
 
 Lona/SuckDick_HumanCumInside0
-\Lshake\c[6]Man：\c[0]    \{Ohhhguah! Cumming! Use your mouth! Drink it all! \optD[Swallow his semen<t=5>,Gross! No way!]
+\Lshake\c[6]Man：\c[0]    \{อ๊าก! กำลังถึงจุด! ใช้ปากของเธอ! กลืนมันทั้งหมด! \optD[กลืนน้ำอสุจิของเขา<t=5>,น่าขยะแขยง! ไม่มีทาง!]
 
 Lona/SuckDick_HumanCumInside1
-\Lshake\c[6]Man：\c[0]    \{Hnnnighaaah! I'm cumming! Catch my cum with your mouth! \optD[Let him cum inside your mouth<t=5>,No way!]
+\Lshake\c[6]Man：\c[0]    \{อ๊าก! ฉันกำลังถึงจุด! รับน้ำอสุจิของฉันด้วยปากของเธอ! \optD[ให้เขาถึงจุดในปากของคุณ<t=5>,ไม่มีทาง!]
 
 Lona/SuckDick_HumanCumInside2
-\Lshake\c[6]Man：\c[0]    \{Hoooougaaah! Inside your mouth! Hurry! \optD[Let him cum inside your mouth<t=5>,Don't let him!]
+\Lshake\c[6]Man：\c[0]    \{อ๊าก! ในปากของเธอ! รีบ! \optD[ให้เขาถึงจุดในปากของคุณ<t=5>,อย่าให้เขาทำ!]
 
 Lona/SuckDick_HumanPeeInside0
-\Lshake\c[6]Man：\c[0]    Oooohngh! Time to piss! Open your mouth and drink up girl! \optD[Obey and drink his piss...<t=5>,No way!]
+\Lshake\c[6]Man：\c[0]    อ๊าก! ถึงเวลาปัสสาวะแล้ว! เปิดปากและดื่มมันสิ สาว! \optD[ทำตามและดื่มปัสสาวะของเขา...<t=5>,ไม่มีทาง!]
 
 Lona/SuckDick_HumanPeeInside1
-\Lshake\c[6]Man：\c[0]    Ahhh! Here it comes!
-It seems he's about to pee in your mouth. \optD[Drink his urine...<t=5>,No way!]
+\Lshake\c[6]Man：\c[0]    อ๊าก! มันกำลังมา!
+ดูเหมือนเขากำลังจะปัสสาวะในปากของคุณ \optD[ดื่มปัสสาวะของเขา...<t=5>,ไม่มีทาง!]
 
 Lona/SuckDick_HumanPeeInside2
-\Lshake\c[6]Man：\c[0]    Time to pee!
-It seems he's about to piss in your mouth. \optD[Drink his urine...<t=5>,No! I don't want to!]
+\Lshake\c[6]Man：\c[0]    ถึงเวลาปัสสาวะแล้ว!
+ดูเหมือนเขากำลังจะปัสสาวะในปากของคุณ \optD[ดื่มปัสสาวะของเขา...<t=5>,ไม่! ฉันไม่อยากทำ!]
 
 ################ QA BEGIN
 
 Lona/SuckDick_HumanQA0
-\Lshake\c[6]Man：\c[0]    Not bad, what did ya think about my little man?
+\Lshake\c[6]Man：\c[0]    ไม่เลว คิดยังไงกับควยเล็กๆ ของฉัน?
 
 Lona/SuckDick_HumanQA1
-\Lshake\c[6]Man：\c[0]    How was it? Isn't my dick fuckin' awesome?
+\Lshake\c[6]Man：\c[0]    มันเป็นยังไง? ควยของฉันมันเทพมากใช่ไหม?
 
 Lona/SuckDick_HumanQA2
-\Lshake\c[6]Man：\c[0]    Oooh! Nice mouth! How's my cock taste? Tastes good, right?
+\Lshake\c[6]Man：\c[0]    อ๊าก! ปากดีจัง! ควยของฉันรสชาติยังไง? อร่อยใช่ไหม?
 
 ################ FAILED
 
 Lona/SuckDick_HumanFailed0
-\Lshake\c[6]Man：\c[0]    \{You stupid bitch! You're fuckin' dead!!!
+\Lshake\c[6]Man：\c[0]    \{ไอ้สาวโง่! แกตายแน่!!!
 
 Lona/SuckDick_HumanFailed1
-\Lshake\c[6]Man：\c[0]    \{The fuck?! How dare you! You fuckin' slut!!!
+\Lshake\c[6]Man：\c[0]    \{เดี๋ยวนี้?! แกกล้ามาก! ไอ้สาวโสเภณี!!!
 
 Lona/SuckDick_HumanFailed2
-\Lshake\c[6]Man：\c[0]    \{I'm going to kill you! You fuckin' whore!!!
+\Lshake\c[6]Man：\c[0]    \{ฉันจะฆ่าแก! ไอ้สาวโสเภณี!!!
 
 ################ WIN
 
 Lona/SuckDick_HumanWin0
-\Lshake\c[6]Man：\c[0]    Gya ha ha! That's what all the ladies say!
+\Lshake\c[6]Man：\c[0]    ก๊ากๆ! นั่นแหละที่สาวๆ ทุกคนพูด!
 
 Lona/SuckDick_HumanWin1
-\Lshake\c[6]Man：\c[0]    I'd like to think so too.
+\Lshake\c[6]Man：\c[0]    ฉันก็คิดแบบนั้นเหมือนกัน
 
 Lona/SuckDick_HumanWin2
-\Lshake\c[6]Man：\c[0]    Of course it is! Ho ho!
+\Lshake\c[6]Man：\c[0]    แน่นอนว่าเป็นอย่างนั้น! ฮ่าๆ!
 
 ##_------------------------------ 肉魔
 
 Lona/AbomRapeLoopEnd
-\narr All of this was just the beginning......
-\narr The sowing of the seedbed by the Abominations was endless.
+\narr ทั้งหมดนี้เป็นเพียงจุดเริ่มต้น......
+\narr การหว่านเมล็ดพันธุ์ของเตียงเมล็ดพันธุ์โดยเหล่าปีศาจไม่มีวันสิ้นสุด
 
 ##_------------------------------ 肉魔 體內改造 僅用於ABOM
 
 Lona/AbomBellyPara_begin1
-A long needle began protruding out of the monster's appendage.\n It seems like it was about to be inserted into Lona's belly.
+เข็มยาวเริ่มโผล่ออกมาจากแขนของปีศาจ\n ดูเหมือนมันกำลังจะถูกสอดเข้าไปในท้องของโลน่า
 
 Lona/AbomBellyPara_begin2
-\c[4](They want to stab that in my stomach?!)
-\{\c[4](...N-NO WAY! IT'LL RIP ME IN HALF! I'LL DIE!)
+\c[4](พวกเขาต้องการแทงมันเข้าไปในท้องของฉัน?!)
+\{\c[4](...ไม่มีทาง! มันจะฉีกฉันครึ่งตัว! ฉันจะตาย!)
 
 Lona/AbomBellyPara_begin3
-The appendage began injecting its flesh and seed into Lona's belly.
-The parasites inside Lona will soon change her body and mind.
+แขนของปีศาจเริ่มฉีดเนื้อและเมล็ดพันธุ์เข้าไปในท้องของโลน่า
+ปรสิตในร่างกายของโลน่าจะเปลี่ยนร่างกายและจิตใจของเธอในไม่ช้า
 
 Lona/AbomBellyPara_end_normal
-\c[4](M-My stomach feels weird...)
+\c[4](ท้องของฉันรู้สึกแปลกๆ...)
 
 Lona/AbomBellyPara_end_tsun
-\c[4](I can feel something wriggling around in my stomach...)
+\c[4](ฉันรู้สึกมีอะไรขยับๆ อยู่ในท้องของฉัน...)
 
 Lona/AbomBellyPara_end_weak
-\c[4](I'm sorry... I couldn't-......)
+\c[4](ขอโทษ... ฉันทำไม่ได้-......)
 
 Lona/AbomBellyPara_end_slut
-\c[4](Wh-What's going to happen to my body...?)
+\c[4](อะไรจะเกิดขึ้นกับร่างกายของฉัน...?)
 
 Lona/AbomBellyPara_end_overfatigue
-\c[6]Lona：\c[0]    Guuughhh... A-Ahhh......
+\c[6]Lona：\c[0]    อ๊าก... อ๊าก......
 .........
 
 Lona/AbomBellyPara_end_mouth_block
-\c[6]Lona：\c[0]    Mmmnnnph...
+\c[6]Lona：\c[0]    อิมมม...
 
 #######################################333 extra parasite
 
 Lona/Qmsg_OgrasmPolypWorm0
-Tummy...feels hot...
+ท้อง... รู้สึกร้อน...
 
 Lona/Qmsg_OgrasmPolypWorm1
-A worm has squirmed out of her hole!!
+หนอนได้คลานออกมาจากรูของเธอ!!
 
 Lona/Qmsg_OgrasmPolypWorm2
-* Whimper *...
+*สะอึก*...
 
 Lona/Qmsg_PukeHookWorm0
-Uaaagh!!
+อ๊าก!!
 
 Lona/Qmsg_PukeHookWorm1
-Ouuugh!!
+อ๊าก!!
 
 Lona/Qmsg_PukeHookWorm2
-Guh-rrrngh!!
+อ๊าก!!

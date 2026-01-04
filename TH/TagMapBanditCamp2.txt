@@ -1,192 +1,194 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-Abandoned copper mining town.\optB[Leave,Enter]
+เมืองเหมืองทองแดงที่ถูกทิ้งร้าง\optB[ออก,เข้า]
 
 ######################################################################################################
 
 GateOnGuard/Qmsg0
-impossible
+เป็นไปไม่ได้
 
 GateOnGuard/Qmsg1
-someone watching
+มีคนกำลังจับตามอง
 
 ###################################################################################################### game over
 
 GameOver/begin0
-\C[4]BanditA：\C[0]    I recognize her! How dare this sow mess around!
-\C[4]BanditB：\C[0]    \{kill her! ! !\}
+\C[4]BanditA：\C[0]    กูจำมึงได้! อีหมาเนี่ยกล้ำเข้ามาได้ไง!
+\C[4]BanditB：\C[0]    \{ฆ่ามัน! ! !\}
 
 GameOver/begin1
-\C[4]BanditA：\C[0]    What next?
-\C[4]BanditB：\C[0]    We keep the hands and feet, but feed the internal organs to\C[6]Bobo\C[0]?
-\C[4]BanditA：\C[0]    Good idea, just do it!
+\C[4]BanditA：\C[0]    แล้วต่อไปจะทำไง?
+\C[4]BanditB：\C[0]    เราเก็บมือกับเท้าไว้ แต่เอาไส้ให้\C[6]Bobo\C[0]กิน?
+\C[4]BanditA：\C[0]    ดีเลย ทำไปเลย!
 
 GameOver/begin0_noBobo
-\C[4]BanditA：\C[0]    I recognize this sow! She was the one who came in to make trouble before!
-\C[4]BanditB：\C[0]    I do too! Is it her? ! \{kill her! ! !\}
+\C[4]BanditA：\C[0]    กูจำอีหมาได้! มันเป็นตัวที่เข้ามาก่อกวนก่อนหน้านี้!
+\C[4]BanditB：\C[0]    กูก็จำได้! เป็นมันไหม? ! \{ฆ่ามัน! ! !\}
 
 GameOver/begin1_noBobo
-\C[4]BanditA：\C[0]    What next?
-\C[4]BanditB：\C[0]    We keep the hands and feet, but the offal is for the dogs to eat.
-\C[4]BanditA：\C[0]    Good idea, just do it!
+\C[4]BanditA：\C[0]    แล้วต่อไปจะทำไง?
+\C[4]BanditB：\C[0]    เราเก็บมือกับเท้าไว้ แต่เอาไส้ให้หมากิน
+\C[4]BanditA：\C[0]    ดีเลย ทำไปเลย!
 
 ######################################################################################################
 
 Rogue/NapSpot
-\SETpl[MobHumanCommoner]\Lshake\C[4]Bandit：\C[0]    It's a woman!
-\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    What!? What are you going to do!?
-\SETpl[MobHumanCommoner]\Lshake\prf\C[4]Bandit：\C[0]    Catch her!
+\SETpl[MobHumanCommoner]\Lshake\C[4]Bandit：\C[0]    เป็นผู้หญิง!
+\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    อะไรนะ!? จะทำอะไรกัน!?
+\SETpl[MobHumanCommoner]\Lshake\prf\C[4]Bandit：\C[0]    จับมัน!
 
 Wake/FirstRape0
-\CBmp[guard1,20]\C[4]Bandit：\C[0]    Boss, the bitch is sneaking around here.
-\CBmp[guard2,20]\C[4]Bandit：\C[0]    How to deal with her?
+\CBmp[guard1,20]\C[4]Bandit：\C[0]    หัวหน้า อีหมากำลังแอบเข้ามาที่นี่
+\CBmp[guard2,20]\C[4]Bandit：\C[0]    จะทำยังไงกับมัน?
 
 Wake/FirstRape1
-\CBmp[Boss,8]\C[4]bandit leader：\C[0]    Bitch? Let me see...
+\CBmp[Boss,8]\C[4]bandit leader：\C[0]    อีหมา? ให้กูดูหน่อย...
 
 Wake/FirstRape2
-\CBmp[Boss,5]\C[4]bandit leader：\C[0]    Throw her to\C[6]Bobo\C[0].
-\CBmp[guard2,20]\C[4]Bandit：\C[0]    What?!
-\CBmp[guard1,20]\C[4]Bandit：\C[0]    It's a woman, at least let's have fun, shall we?
-\CBmp[Boss,20]\C[4]bandit leader：\C[0]    This is my kingdom! I tell what to do!
-\CBmp[Boss,5]\C[4]bandit leader：\C[0]    With such a dark complexion, the blood of this bitch is definitely polluted by all kinds of low animals.
-\CBmp[Boss,20]\C[4]bandit leader：\C[0]    Throw her to\C[6]Bobo\C[0], right now!
-\BonMP[guard1,20]\BonMP[guard2,20]\C[4]Bandit：\C[0]    Yes!
+\CBmp[Boss,5]\C[4]bandit leader：\C[0]    โยนมันให้\C[6]Bobo\C[0]
+\CBmp[guard2,20]\C[4]Bandit：\C[0]    อะไรนะ?!
+\CBmp[guard1,20]\C[4]Bandit：\C[0]    เป็นผู้หญิงนะ อย่างน้อยก็ให้เราสนุกกันหน่อยสิ
+\CBmp[Boss,20]\C[4]bandit leader：\C[0]    นี่เป็นอาณาจักรของกู! กูบอกให้ทำอะไรก็ทำ!
+\CBmp[Boss,5]\C[4]bandit leader：\C[0]    ด้วยสีผิวที่มืดแบบนี้ เลือดของอีหมาตัวนี้แน่นอนว่าถูกปนเปื้อนด้วยสัตว์ต่ำๆ ทุกชนิด
+\CBmp[Boss,20]\C[4]bandit leader：\C[0]    โยนมันให้\C[6]Bobo\C[0] ตอนนี้เลย!
+\BonMP[guard1,20]\BonMP[guard2,20]\C[4]Bandit：\C[0]    ครับ!
 
 Wake/FirstRape3
-\CBct[6]\m[bereft]\Rshake\c[6]Lona：\c[0]    Let me go, please!
-\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    Bitch! go in!
+\CBct[6]\m[bereft]\Rshake\c[6]Lona：\c[0]    ปล่อยหนูไปทีเถอะ!
+\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    อีหมา! เข้าไป!
 
 Wake/FirstRape4
-\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    Boss is not interested in you.
-\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    Congratulations, you are going to be pigslop for \C[6]Bobo\C[0]!
+\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    หัวหน้าไม่สนใจมึงหรอก
+\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    ยินดีด้วย มึงจะกลายเป็นอาหารหมูของ\C[6]Bobo\C[0]!
 
 Wake/FirstRape5
-\CBct[2]\m[fear]\Rshake\c[6]Lona：\c[0]    \C[4]Bobo's\C[0]... pigslop?!
+\CBct[2]\m[fear]\Rshake\c[6]Lona：\c[0]    \C[4]Bobo's\C[0]... อาหารหมู?!
 
 Wake/FirstRape6
-\CBct[20]\m[terror]\Rshake\c[6]Lona：\c[0]    \{AIEEE-EEE-EEE! !\}
+\CBct[20]\m[terror]\Rshake\c[6]Lona：\c[0]    \{อ๊ากกก-อี๊-อี๊! !\}
 
 Wake/FirstRape7
-\CBct[20]\m[bereft]\Rshake\c[6]Lona：\c[0]    I don't want to! Don't eat me! I don't want to die!
+\CBct[20]\m[bereft]\Rshake\c[6]Lona：\c[0]    หนูไม่อยาก! อย่ากินหนู! หนูไม่อยากตาย!
 
 Wake/FirstRape8
-\BonMP[guard1,20]\plf\BonMP[guard2,20]\prf\C[4]Bandit：\C[0]    Eat her!
-\CBct[8]\m[pain]\plf\Rshake\c[6]Lona：\c[0]    sob sob...
+\BonMP[guard1,20]\plf\BonMP[guard2,20]\prf\C[4]Bandit：\C[0]    กินมัน!
+\CBct[8]\m[pain]\plf\Rshake\c[6]Lona：\c[0]    ฮือๆ...
 
 Wake/FirstRape9
-\SndLib[SwineSpot]\SETpl[BoboNormal]\plf\BonMP[Piggy,4]\m[p5shame]\Rshake\c[6]Lona：\c[0]    Don't smell me there....
-\SndLib[SwineSpot]\SETpl[BoboNormal]\plf\BonMP[Piggy,4]\m[p5shame]\Rshake\c[6]Lona：\c[0]    My meat is not safe for consumption!
+\SndLib[SwineSpot]\SETpl[BoboNormal]\plf\BonMP[Piggy,4]\m[p5shame]\Rshake\c[6]Lona：\c[0]    อย่าดมตรงนั้น....
+\SndLib[SwineSpot]\SETpl[BoboNormal]\plf\BonMP[Piggy,4]\m[p5shame]\Rshake\c[6]Lona：\c[0]    เนื้อหนูไม่ปลอดภัยสำหรับการกิน!
 
 Wake/FirstRape10
-\SndLib[SwineSpot]\BonMP[Piggy,4]\m[p5crit_damage]\Rshake\c[6]Lona：\c[0]    AIEEEEE!\{Eee! !\}
+\SndLib[SwineSpot]\BonMP[Piggy,4]\m[p5crit_damage]\Rshake\c[6]Lona：\c[0]    อ๊ากกกก!\{อี๊! !\}
 
 Wake/FirstRape11
-\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    What? !\C[6]Bobo\C[0]Actually fucked her? !
-\CBmp[guard2,20]\prf\C[4]Bandit：\C[0]    Go and call everyone! A miracle happened! The \C[6]Saint\C[0] was here!
+\CBmp[guard1,20]\prf\C[4]Bandit：\C[0]    อะไรนะ! \C[6]Bobo\C[0]จริงๆ แล้วยัดใส่มันได้?!
+\CBmp[guard2,20]\prf\C[4]Bandit：\C[0]    ไปเรียกทุกคนมา! ปาฏิหาริย์เกิดขึ้นแล้ว! \C[6]นักบุญ\C[0]มาที่นี่!
 
 Wake/FirstRape12
-\CBmp[guard4,20]\plf\prf\C[4]Bandit：\C[0]    Strange, isn't it? It actually fucked this woman!
-\CBct[6]\m[hurt]\plf\Rshake\c[6]Lona：\c[0]    sob sob sob...
+\CBmp[guard4,20]\plf\prf\C[4]Bandit：\C[0]    แปลกนะ ใช่ไหม? มันจริงๆ แล้วยัดใส่ผู้หญิงคนนี้ได้!
+\CBct[6]\m[hurt]\plf\Rshake\c[6]Lona：\c[0]    ฮือๆๆ...
 
 Wake/FirstRape12_1
-\CBmp[guard1,20]\plf\C[4]Bandit：\C[0]    Hahahaha, this is super funny.
-\CBmp[guard1,20]\plf\C[4]Bandit：\C[0]    It seems\C[6]Bobo\C[0] treats her like a sow.
+\CBmp[guard1,20]\plf\C[4]Bandit：\C[0]    ฮ่าๆๆๆ นี่มันตลกมาก
+\CBmp[guard1,20]\plf\C[4]Bandit：\C[0]    ดูเหมือน\C[6]Bobo\C[0]จะมองมันเป็นหมูตัวเมีย
 
 Wake/FirstRape13
-\narr\C[4]Bobo's\C[0]penis penetrated\c[6]Lona's\c[0] womb, and kept constantly churning within.
-\narrOFF\SndLib[SwineSpot]\BonMP[Piggy,4]\m[p5_cuming]\Rshake\c[6]Lona：\c[0]    \{AIEEE! !\} It hurts! It hurts!
+\narr\C[4]Bobo's\C[0]ควยเจาะเข้าไปในมดลูกของ\c[6]Lona\c[0] และคอยขยับอยู่ตลอด
+\narrOFF\SndLib[SwineSpot]\BonMP[Piggy,4]\m[p5_cuming]\Rshake\c[6]Lona：\c[0]    \{อ๊ากกก! !\} เจ็บ! เจ็บ!
 
 Wake/FirstRape14
-\SndLib[SwineSpot]\SETpl[BoboNormal]\Lshake\BonMP[Piggy,4]\m[p5_cuming]\Rshake\c[6]Lona：\c[0]    \{Stop it! Stop it now!\}
-\SndLib[SwineSpot]\SETpl[BoboYell]\Lshake\BonMP[Piggy,4]\m[p5_cuming_ahegao]\Rshake\c[6]Lona：\c[0]    \{My stomach is going to burst!\}
-\narrright\C[4]Bobo\C[0]This ejaculation was only the beginning, and its orgasm lasted for a long, long time.
+\SndLib[SwineSpot]\SETpl[BoboNormal]\Lshake\BonMP[Piggy,4]\m[p5_cuming]\Rshake\c[6]Lona：\c[0]    \{หยุด! หยุดเดี๋ยวนี้!\}
+\SndLib[SwineSpot]\SETpl[BoboYell]\Lshake\BonMP[Piggy,4]\m[p5_cuming_ahegao]\Rshake\c[6]Lona：\c[0]    \{ท้องหนูจะแตก!\}
+\narrright\C[4]Bobo\C[0]การหลั่งครั้งนี้เป็นแค่จุดเริ่มต้น และการสุดยอดของมันกินเวลานานมาก
 
 Wake/FirstRape15
 \CBmp[Boss,8]\C[4]bandit leader：\C[0]    \...\...\...
-\CBmp[Boss,20]\C[4]bandit leader：\C[0]    It seems my\C[6]Bobo\C[0]Also thinks she is a sow.
-\CBmp[Boss,5]\C[4]bandit leader：\C[0]    Sure enough, the cheap whore is a disgusting sow.
+\CBmp[Boss,20]\C[4]bandit leader：\C[0]    ดูเหมือน\C[6]Bobo\C[0]ของกูก็คิดว่ามันเป็นหมูตัวเมีย
+\CBmp[Boss,5]\C[4]bandit leader：\C[0]    แน่นอน อีหีถูกๆ มันเป็นหมูตัวเมียที่น่ารังเกียจ
 
 Wake/FirstRape15_1
-\C[4]Bandit：\C[0]    For the first time in my life I saw a bitch being fucked by a pig.
-\C[4]Bandit：\C[0]    So she's not a bitch, she's a sow!
-\C[4]Bandit：\C[0]    Let other people come and watch next time.
+\C[4]Bandit：\C[0]    ชีวิตนี้กูเห็นอีหมาโดนหมูยัดใส่เป็นครั้งแรก
+\C[4]Bandit：\C[0]    ดังนั้นมันไม่ใช่อีหมา มันเป็นหมูตัวเมีย!
+\C[4]Bandit：\C[0]    ครั้งหน้าให้คนอื่นมาดูด้วย
 
 Wake/FirstRape16
-\narr Lona lost consciousness amidst the jeers of the thieves.
+\narr Lona สลบไปท่ามกลางเสียงหัวเราะเยาะของโจร
 
 ######################################################################################################
 
 RapeLoop/DailyJob1
-\BonMP[guard1,5]\C[4]Bandit：\C[0]    Sow, get up!
-\BonMP[guard2,5]\C[4]Bandit：\C[0]    \{Wake up quickly!\}
+\BonMP[guard1,5]\C[4]Bandit：\C[0]    หมูตัวเมีย ตื่นขึ้น!
+\BonMP[guard2,5]\C[4]Bandit：\C[0]    \{ตื่นเร็วๆ!\}
 
 RapeLoop/DailyJob2
-\CBct[6]\m[tired]\Rshake\c[6]Lona：\c[0]    sob sob... What's wrong....
+\CBct[6]\m[tired]\Rshake\c[6]Lona：\c[0]    ฮือๆ... เกิดอะไรขึ้น....
 
 RapeLoop/DailyJob3_Vag
-\CBmp[guard3,4]\C[4]Bandit：\C[0]    We're going to see how the sow mates with the boar♥
+\CBmp[guard3,4]\C[4]Bandit：\C[0]    เราจะมาดูว่าหมูตัวเมียผสมพันธุ์กับหมูตัวผู้ยังไง♥
 
 RapeLoop/DailyJob3_Anal
-\CBmp[guard4,4]\C[4]Bandit：\C[0]    We want to see how sows do anal with boars♥
+\CBmp[guard4,4]\C[4]Bandit：\C[0]    เราอยากเห็นหมูตัวเมียทำรูตูดกับหมูตัวผู้♥
 
 RapeLoop/DailyJob3_Mouth
-\CBmp[guard3,4]\C[4]Bandit：\C[0]    We want to watch the sow blow the trumpet of the boar♥
+\CBmp[guard3,4]\C[4]Bandit：\C[0]    เราอยากดูหมูตัวเมียเป่าแตรของหมูตัวผู้♥
 
 RapeLoop/DailyJob3_RimJob
-\CBmp[guard2,4]\C[4]Bandit：\C[0]    We want to see the sow lick the boar's asshole♥
-\CBmp[guard1,4]\C[4]Bandit：\C[0]    Right! Are you not a sow? Help it clean its asshole!
+\CBmp[guard2,4]\C[4]Bandit：\C[0]    เราอยากเห็นหมูตัวเมียเลียรูตูดของหมูตัวผู้♥
+\CBmp[guard1,4]\C[4]Bandit：\C[0]    ถูกต้อง! มึงไม่ใช่หมูตัวเมียหรอ? ช่วยมันทำความสะอาดรูตูดด้วย!
 
 RapeLoop/DailyJob3_Dance
-\CBmp[guard1,4]\C[4]Bandit：\C[0]    Hello! sow! wake up! Go wake your husband up!
+\CBmp[guard1,4]\C[4]Bandit：\C[0]    หวัดดี! หมูตัวเมีย! ตื่นขึ้น! ไปปลุกสามีมึง!
 
 RapeLoop/DailyJob4
-\CBmp[guard4,5]\prf\C[4]Bandit：\C[0]    Hurry up! Otherwise you are dead!
-\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    I....
-\CBmp[guard1,4]\prf\C[4]Bandit：\C[0]    Quick! We are waiting for your performance♥
+\CBmp[guard4,5]\prf\C[4]Bandit：\C[0]    เร็วๆ! ไม่งั้นมึงตาย!
+\CBct[6]\m[tired]\PRF\c[6]Lona：\c[0]    หนู....
+\CBmp[guard1,4]\prf\C[4]Bandit：\C[0]    เร็วๆ! เรากำลังรอการแสดงของมึง♥
 
 ####################################################### common
 
 RapeLoop/DailyJob_PlayBegin0
-\CBct[8]\m[fear]do you really want to do it......\optB[No way!,I have to...]
+\CBct[8]\m[fear]มึงจะทำจริงๆ......\optB[ไม่มีทาง!,หนูต้องทำ...]
 
 RapeLoop/DailyJob_PlayBegin1
-\CBct[8]\PLF\m[sad]I have to...
+\CBct[8]\PLF\m[sad]หนูต้องทำ...
 
 RapeLoop/DailyJob_EndRng0
-\plf\C[4]Bandit：\C[0]    Ha ha ha ha♥
+\plf\C[4]Bandit：\C[0]    ฮ่าๆๆๆ♥
 
 RapeLoop/DailyJob_EndRng1
-\C[4]Bandit：\C[0]    Hee hee hee♥
+\C[4]Bandit：\C[0]    ฮิๆๆ♥
 
 RapeLoop/DailyJob_EndRng2
-\C[4]Bandit：\C[0]    Hello! Listen to her squealing like a pig♥
+\C[4]Bandit：\C[0]    หวัดดี! ฟังเสียงมันร้องเหมือนหมู♥
 
 RapeLoop/DailyJob_EndRng3
-\C[4]Bandit：\C[0]    What's the name of the sow?♥
+\C[4]Bandit：\C[0]    หมูตัวเมียชื่ออะไร?♥
 
 RapeLoop/DailyJob_EndRng4
-\C[4]Bandit：\C[0]    Look at her, this is not human! It's a pig♥
+\C[4]Bandit：\C[0]    ดูมันสิ นี่ไม่ใช่คน! เป็นหมู♥
 
 RapeLoop/DailyJob_EndRng5
-\C[4]Bandit：\C[0]    Wow! Wow! Wow! Twice quickly for Grandpa♥
+\C[4]Bandit：\C[0]    ว้าว! ว้าว! ว้าว! รีบทำสองครั้งให้ตากับ♥
 
 RapeLoop/DailyJob_EndRng6
-\C[4]Bandit：\C[0]    Hahahaha, so funny♥
+\C[4]Bandit：\C[0]    ฮ่าๆๆๆ ตลกมาก♥
 
 RapeLoop/DailyJob_EndRng7
-\C[4]Bandit：\C[0]    What a smelly sow!
+\C[4]Bandit：\C[0]    หมูตัวเมียเหม็นชะมัด!
 
 RapeLoop/DailyJob_EndRng8
-\C[4]Bandit：\C[0]    There is no dignity left in her!
+\C[4]Bandit：\C[0]    ไม่เหลือศักดิ์ศรีอะไรแล้ว!
 
 RapeLoop/DailyJob5
-\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    Again... Do you still want it?
+\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    อีกแล้ว... ยังอยากอีกเหรอ?
 
 RapeLoop/DailyJob6
-\CBct[8]\m[hurt]\PRF\c[6]Lona：\c[0]    Please...be gentle...
+\CBct[8]\m[hurt]\PRF\c[6]Lona：\c[0]    ขอร้อง... อ่อนโยนหน่อย...
 
 RapeLoop/DailyJob7
-\CBct[8]\plf\c[6]Lona：\c[0]    sob sob...
+\CBct[8]\plf\c[6]Lona：\c[0]    ฮือๆ...
 
 RapeLoop/DailyJob9
 \CBct[8]\m[tired]\c[6]Lona：\c[0]    .....
@@ -194,21 +196,21 @@ RapeLoop/DailyJob9
 ####################################################### mouth
 
 RapeLoop/DailyJob_PlayMouth0
-\narr \c[6]Lona\c[0]Puts the corkscrew in her tiny mouth and sucks the tip...
+\narr \c[6]Lona\c[0]ใส่ควยเกลียวเข้าไปในปากเล็กๆ และดูดปลาย...
 
 RapeLoop/DailyJob_PlayAnal0
-\narr \c[6]Lona\c[0]Puts the thick, spiral cock into her asshole...
+\narr \c[6]Lona\c[0]ใส่ควยหนาๆ เกลียวเข้าไปในรูตูด...
 
 RapeLoop/DailyJob_PlayRimJob0
-\narr \c[6]Lona\c[0]sticks her tongue in the pig's dirty asshole...
+\narr \c[6]Lona\c[0]ยื่นลิ้นเข้าไปในรูตูดสกปรกของหมู...
 
 RapeLoop/DailyJob_PlayRimJob1
-\CBct[8]\m[p5sta_damage]\Rshake It smells so nauseating, I can't take it anymore...
+\CBct[8]\m[p5sta_damage]\Rshake มันเหม็นมาก หนูทนไม่ไหวแล้ว...
 
 RapeLoop/DailyJob_PlayRimJob2
-\CBmp[guard1,4]\C[4]Bandit：\C[0]    Hey! Go lick the shit off of its balls too!
+\CBmp[guard1,4]\C[4]Bandit：\C[0]    หวัดดี! ไปเลียขี้ที่ลูกอัณฑะของมันด้วย!
 
 RapeLoop/DailyJob_PlayDance0
-\CBct[8]\m[shy]\PRF\c[6]Lona：\c[0]    Ok it woke up....
-\CBmp[guard4,4]\prf\C[4]Bandit：\C[0]    Then dance for your daddies♥
-\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    Yes...
+\CBct[8]\m[shy]\PRF\c[6]Lona：\c[0]    โอเค มันตื่นแล้ว....
+\CBmp[guard4,4]\prf\C[4]Bandit：\C[0]    แล้วก็เต้นให้พ่อๆ ดู♥
+\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    ค่ะ...

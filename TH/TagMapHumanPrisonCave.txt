@@ -1,48 +1,50 @@
+XXXXXXXX
+
 #Original translation by a MTL monkey. Massive rewrites and clean-up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 HumanPrisonCave/OvermapEnter
-\m[confused]Crystal Mine \optB[Leave,Enter]
+\m[confused]เหมืองคริสตัล \optB[ออก,เข้า]
 
 ####################################### 狩獵ABOM任務相關 ######################################################
 
 Manager/Qprog1
-\CBmp[Manager,20]\m[normal]\c[4]Mine Warden：\c[0]    Are you here to help get rid of the monsters?
-\CBmp[Manager,20]\prf\c[4]Mine Warden：\c[0]    They send a runt like you over here? And a female, no less.
-\CBct[2]\m[confused]\PLF\c[6]Lona：\c[0]    Ummm...?
-\CBmp[Manager,20]\prf\c[4]Mine Warden：\c[0]    Whatever.
-\CBmp[Manager,20]\prf\c[4]Mine Warden：\c[0]    Most of the monsters gather around deep in the pits of the mine.
-\CBmp[Manager,20]\prf\c[4]Mine Warden：\c[0]    Be careful, try not to get too close to the resting area of the miners.
-\CBmp[Manager,20]\prf\c[4]Mine Warden：\c[0]    The miners here haven't seen a woman in a long time.
+\CBmp[Manager,20]\m[normal]\c[4]ผู้คุมเหมือง：\c[0]    มึงมาช่วยกำจัดปีศาจหรือเปล่า?
+\CBmp[Manager,20]\prf\c[4]ผู้คุมเหมือง：\c[0]    ส่งคนแคระอย่างมึงมาที่นี่? ยังกะผู้หญิงอีกต่างหาก
+\CBct[2]\m[confused]\PLF\c[6]โลน่า：\c[0]    อืม...?
+\CBmp[Manager,20]\prf\c[4]ผู้คุมเหมือง：\c[0]    ไม่สนหรอก
+\CBmp[Manager,20]\prf\c[4]ผู้คุมเหมือง：\c[0]    ปีศาจส่วนใหญ่รวมตัวกันอยู่ลึกในหลุมเหมือง
+\CBmp[Manager,20]\prf\c[4]ผู้คุมเหมือง：\c[0]    ระวังตัวด้วย อย่าเข้าใกล้ที่พักของคนงานเหมืองมากเกินไป
+\CBmp[Manager,20]\prf\c[4]ผู้คุมเหมือง：\c[0]    คนงานเหมืองที่นี่ไม่ได้เห็นผู้หญิงมานานแล้ว
 
 Manager/Qprog1_KillCounted
-\CBct[20]\m[triumph]\c[6]Lona：\c[0]    Great! Seems like most of the spores have been cleared out.
-\CBmp[Manager,19]\m[pleased]\c[6]Lona：\c[0]    I should report back to the Mine Warden soon.
+\CBct[20]\m[triumph]\c[6]โลน่า：\c[0]    ดีมาก! ดูเหมือนว่าสปอร์ส่วนใหญ่จะถูกกำจัดออกไปแล้ว
+\CBmp[Manager,19]\m[pleased]\c[6]โลน่า：\c[0]    หนูควรรีบกลับไปรายงานกับผู้คุมเหมือง
 
 Manager/Qprog2
-\CBmp[Manager,20]\prf\m[normal]\c[4]Mine Warden：\c[0]    Huh! The runt actually did a great job.
-\CBmp[Manager,20]\prf\m[normal]\c[4]Mine Warden：\c[0]    Alright, here's a commission token as proof of finishing the job.
-\CBct[20]\m[flirty]\c[6]Lona：\c[0]    Thank you!
+\CBmp[Manager,20]\prf\m[normal]\c[4]ผู้คุมเหมือง：\c[0]    ฮึ! คนแคระอย่างมึงทำได้ดีจริงๆ
+\CBmp[Manager,20]\prf\m[normal]\c[4]ผู้คุมเหมือง：\c[0]    ได้ นี่คือโทเค็นค่าคอมมิชชั่นเป็นหลักฐานการทำงานเสร็จ
+\CBct[20]\m[flirty]\c[6]โลน่า：\c[0]    ขอบคุณ!
 
 ####################################### Captured ######################################################
 
 Narr/Captured0
-\narr The mine guards surrounded Lona...
+\narr ยามเหมืองล้อมรอบโลน่า...
 
 Narr/Captured1
-\SETpl[Mreg_pikeman]\c[4]Guard A：\c[0]    What's with this little girl just lying here?
-\SETpr[Mreg_guardsman]\c[4]Guard B：\c[0]    I dunno, maybe she came here after seeing the recruitment post at the docks?
-\prf\PLF\c[4]Guard A：\c[0]    And people still fall for it? She really believed that?
-\PRF\plf\c[4]Guard B：\c[0]    Who knows, there's always bound to be one. Right?
-\prf\PLF\c[4]Guard A：\c[0]    Tsk tsk... This world...
-\PRF\plf\c[4]Guard B：\c[0]    Oh well, let's bring her in and introduce her.
+\SETpl[Mreg_pikeman]\c[4]ยาม A：\c[0]    เด็กผู้หญิงตัวเล็กๆ นี่นอนอยู่ทำไม?
+\SETpr[Mreg_guardsman]\c[4]ยาม B：\c[0]    ไม่รู้สิ อาจจะมาที่นี่หลังจากเห็นป้ายรับสมัครที่ท่าเรือ?
+\prf\PLF\c[4]ยาม A：\c[0]    ยังมีคนหลงเชื่ออยู่เหรอ? เธอเชื่อจริงๆ เหรอ?
+\PRF\plf\c[4]ยาม B：\c[0]    ใครจะรู้ ยังไงก็ต้องมีสักคน ใช่มั้ย?
+\prf\PLF\c[4]ยาม A：\c[0]    ทศกัณฐ์... โลกนี้...
+\PRF\plf\c[4]ยาม B：\c[0]    ไม่เป็นไร พาเธอเข้าไปแนะนำกันเถอะ
 
 Narr/Captured2
-\m[confused]\prh\narr Lona was captured and imprisoned...
+\m[confused]\prh\narr โลน่าถูกจับและถูกขัง...
 
 ####################################### 逃跑 ######################################################
 
 HumanPrisonCave/guard_yelling
-\SETpl[Mreg_guardsman]\PLF\c[4]Guard：\c[0]\n    ALERT! SOMEONE'S TRYING TO ESCAPE!
+\SETpl[Mreg_guardsman]\PLF\c[4]ยาม：\c[0]\n    เตือน! มีคนพยายามหนี!
 \m[shocked]!!!!!!
 
 ####################################### 虐待演出 ######################################################
@@ -51,278 +53,278 @@ HumanPrisonCave/RapeLoopTorture_begin1
 .........
 ......
 ...
-\SETpl[Mfat_tortruer]\m[pain]\Lshake\SND[SE/Whip02.ogg]\Rshake\c[4]Unknown：\c[0]    \{HEY BITCH! WAKE UP!!!
+\SETpl[Mfat_tortruer]\m[pain]\Lshake\SND[SE/Whip02.ogg]\Rshake\c[4]ไม่ทราบชื่อ：\c[0]    \{เฮ้ อีกระหรี่! ตื่นมาซะ!!!
 
 HumanPrisonCave/RapeLoopTorture_begin2_1
-\m[shocked]\PRF\c[6]Lona：\c[0]    AH?!
+\m[shocked]\PRF\c[6]โลน่า：\c[0]    อ๊าก?!
 
 HumanPrisonCave/RapeLoopTorture_begin2_1
-\SETpl[Mfat_tortruer]\m[hurt]\Lshake\SND[SE/Whip01.ogg]\c[4]Torturer：\c[0]    I SAID, WAKE THE FUCK UP!
+\SETpl[Mfat_tortruer]\m[hurt]\Lshake\SND[SE/Whip01.ogg]\c[4]ผู้ทรมาน：\c[0]    ฉันบอกให้ตื่นมาซะ อีหัวควย!
 
 HumanPrisonCave/RapeLoopTorture_begin2_2
-\SETpl[Mfat_tortruer]\m[p5sta_damage]\Lshake\SND[SE/Whip02.ogg]\c[4]Torturer：\c[0]    Watch carefully, you useless worms!
+\SETpl[Mfat_tortruer]\m[p5sta_damage]\Lshake\SND[SE/Whip02.ogg]\c[4]ผู้ทรมาน：\c[0]    ดูให้ดี พวกหนอนไร้ประโยชน์!
 
 HumanPrisonCave/RapeLoopTorture_begin2_3
-\SETpl[Mfat_tortruer]\m[p5health_damage]\Lshake\SND[SE/Whip01.ogg]\c[4]Torturer：\c[0]    ............
+\SETpl[Mfat_tortruer]\m[p5health_damage]\Lshake\SND[SE/Whip01.ogg]\c[4]ผู้ทรมาน：\c[0]    ............
 
 HumanPrisonCave/RapeLoopTorture_begin2_4
-\SETpl[Mfat_tortruer]\m[p5health_damage]\Lshake\SND[SE/Whip01.ogg]\c[4]Torturer：\c[0]    ......
+\SETpl[Mfat_tortruer]\m[p5health_damage]\Lshake\SND[SE/Whip01.ogg]\c[4]ผู้ทรมาน：\c[0]    ......
 
 HumanPrisonCave/RapeLoopTorture_begin2_5
-\SETpl[Mfat_tortruer]\m[p5health_damage]\Lshake\SND[SE/Whip02.ogg]\c[4]Torturer：\c[0]    ...
+\SETpl[Mfat_tortruer]\m[p5health_damage]\Lshake\SND[SE/Whip02.ogg]\c[4]ผู้ทรมาน：\c[0]    ...
 
 HumanPrisonCave/RapeLoopTorture_begin2_6
-\SETpl[Mfat_tortruer]\m[p5health_damage]\Lshake\SND[SE/Whip01.ogg]\c[4]Torturer：\c[0]    Disobey us, or fail to pay the daily output... And this will be your fate!
+\SETpl[Mfat_tortruer]\m[p5health_damage]\Lshake\SND[SE/Whip01.ogg]\c[4]ผู้ทรมาน：\c[0]    ถ้าไม่เชื่อฟัง หรือไม่สามารถส่งผลผลิตประจำวัน... นี่จะเป็นชะตากรรมของมึง!
 
 HumanPrisonCave/RapeLoopTorture_begin3
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    Very good, tomorrow you'll need to turn in 
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    ดีมาก พรุ่งนี้มึงต้องส่ง 
 
 HumanPrisonCave/RapeLoopTorture2_begin3
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    Very good, tomorrow you'll need to turn in 
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    ดีมาก พรุ่งนี้มึงต้องส่ง 
 
 HumanPrisonCave/RapeLoopTorture_begin3_reflag
- Crystal Ores. Otherwise, I'll make sure you're punished!
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    DISMISSED!
+ คริสตัล. ไม่งั้นฉันจะทำให้มึงถูกลงโทษ!
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    พักก่อน!
 
 HumanPrisonCave/RapeLoopTorture2_begin3_reflag
- Crystal Ores.
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    LISTEN UP! You guys better not be exhausted after having fun with her and forget about work!
+ คริสตัล.
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    ฟังให้ดี! พวกมึงอย่าเพลิดเพลินกับเธอจนลืมงานนะ!
 
 HumanPrisonCave/RapeLoopTorture_begin4
 \ph\narr\..\..\..
 
 HumanPrisonCave/RapeLoopTorture_end
-Lona lost consciousness, and the other prisoners carried Lona to her bed.
+โลน่าสูญเสียสติ และนักโทษคนอื่นๆ ช่วยพาโลน่าไปที่เตียงของเธอ
 
 HumanPrisonCave/RapeLoopTorture_nonplayer_begin1
-\SND[SE/Whip02.ogg]\{ATT-EEEN-TION!!!
+\SND[SE/Whip02.ogg]\{ตั้งใจฟัง!!!
 
 HumanPrisonCave/RapeLoopTorture_nonplayer_begin2_1
-\SETpl[Mfat_tortruer]\m[fear]\Rshake\SND[SE/Whip01.ogg]\Lshake\c[4]Torturer：\c[0]    ...............
+\SETpl[Mfat_tortruer]\m[fear]\Rshake\SND[SE/Whip01.ogg]\Lshake\c[4]ผู้ทรมาน：\c[0]    ...............
 
 HumanPrisonCave/RapeLoopTorture_nonplayer_begin2_2
-\SETpl[Mfat_tortruer]\m[terror]\Rshake\SND[SE/Whip02.ogg]\Lshake\c[4]Torturer：\c[0]    ............
+\SETpl[Mfat_tortruer]\m[terror]\Rshake\SND[SE/Whip02.ogg]\Lshake\c[4]ผู้ทรมาน：\c[0]    ............
 
 HumanPrisonCave/RapeLoopTorture_nonplayer_begin2_3
-\SETpl[Mfat_tortruer]\m[sad]\Rshake\SND[SE/Whip01.ogg]\Lshake\c[4]Torturer：\c[0]    ......
+\SETpl[Mfat_tortruer]\m[sad]\Rshake\SND[SE/Whip01.ogg]\Lshake\c[4]ผู้ทรมาน：\c[0]    ......
 
 HumanPrisonCave/RapeLoopTorture_nonplayer_begin2_4
-\SETpl[Mfat_tortruer]\m[fear]\Rshake\SND[SE/Whip01.ogg]\Lshake\c[4]Torturer：\c[0]    ...
+\SETpl[Mfat_tortruer]\m[fear]\Rshake\SND[SE/Whip01.ogg]\Lshake\c[4]ผู้ทรมาน：\c[0]    ...
 
 HumanPrisonCave/RapeLoopTorture_nonplayer_begin3_0
-\m[sad] (That person looks like they're already dead.)
+\m[sad] (คนนั้นดูเหมือนจะตายไปแล้ว)
 
 HumanPrisonCave/RapeLoopTorture_nonplayer_begin3_1
-\m[sad] (That person looks like they're about to die.)
+\m[sad] (คนนั้นดูเหมือนจะใกล้ตาย)
 
 HumanPrisonCave/RapeLoopTorture_FristTime0
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    OH! It looks like we got a newbie here joinin' the happy slave life!
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    It's a\..\..\.. LITTLE GIRL!
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    โอ้! ดูเหมือนเราจะได้คนใหม่มาร่วมชีวิตทาสที่สุขสันต์!
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    เป็น\..\..\.. เด็กผู้หญิง!
 
 HumanPrisonCave/RapeLoopTorture_FristTime1
-\m[wtf]\Rshake (Not good! He's talking about me...)
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    I believe her name was... Lona? What an adorable name!
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    Everyone, remember to love each other with her as well!
+\m[wtf]\Rshake (ไม่ดีเลย! เขากำลังพูดถึงฉัน...)
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    ฉันเชื่อว่าชื่อเธอคือ... โลน่า? ชื่อที่น่ารักจัง!
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    ทุกคน อย่าลืมรักกันด้วยนะ!
 
 HumanPrisonCave/RapeLoopTorture_FristTime2
-\m[shy]\cg[event_Eyes] (Everyone's eyes begin to leer at me...)
-\m[fear] (What are their wicked eyes plotting to do?)
-\m[terror]\cgoff (I mustn't allow myself to look too weak, or else I'll be attacked.)
+\m[shy]\cg[event_Eyes] (ทุกคนเริ่มมองฉันด้วยสายตาที่ไม่ดี...)
+\m[fear] (สายตาชั่วร้ายของพวกเขากำลังวางแผนอะไร?)
+\m[terror]\cgoff (ฉันไม่ควรแสดงความอ่อนแอมากเกินไป ไม่งั้นจะถูกโจมตี)
 
 ####################################### 排隊肉便器 ######################################################
 
 HumanPrisonCave/RapeLoopMeattoilet_begin1
-\m[hurt]\SND[SE/Chain_move01.ogg]\Rshake\c[6]Lona：\c[0]    EEEYAAAH!!!
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    Everyone's been workin' so hard today!
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    I saw many of you focused on working...!
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    WHILE THIS FUCKIN' BITCH DECIDES TO JUST LAZE AROUND!
+\m[hurt]\SND[SE/Chain_move01.ogg]\Rshake\c[6]โลน่า：\c[0]    อี๊ยยยย!!!
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    ทุกคนทำงานหนักมากวันนี้!
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    ฉันเห็นหลายคนตั้งใจทำงาน...!
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    ขณะที่อีหัวควยนี่ตัดสินใจจะนอนเล่น!
 
 HumanPrisonCave/RapeLoopMeattoilet_begin1_1
-\m[p5health_damage]\SND[SE/Whip01.ogg]\Rshake\Lshake\c[6]Lona：\c[0]    GAAAHHH!!!
-\m[terror]\c[6]Lona：\c[0]    N-No! I wasn't being lazy! I really tried my best!
+\m[p5health_damage]\SND[SE/Whip01.ogg]\Rshake\Lshake\c[6]โลน่า：\c[0]    อ๊ากกก!!!
+\m[terror]\c[6]โลน่า：\c[0]    ไม่! หนูไม่ได้ขี้เกียจ! หนูพยายามอย่างเต็มที่แล้ว!
 
 HumanPrisonCave/RapeLoopMeattoilet_begin1_2
-\SETpl[Mfat_tortruer]\m[p5health_damage]\SND[SE/Whip01.ogg]\Rshake\Lshake\c[4]Torturer：\c[0]    \{SHUDDUP!
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    For today, everyone will being using this little bitch's body as their reward!
-\SETpl[raper_group]\Lshake\c[4]Mine Slaves：\c[0]    GIRL!
-\SETpl[raper_group]\Lshake\c[4]Mine Slaves：\c[0]    It's a girl! We can fuck a real girl!
-\SETpl[raper_group]\Lshake\c[4]Mine Slaves：\c[0]    Holy shit! I haven't enjoyed myself for a long time!
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    QUIET! One by one! Everyone'll get a turn!\ph
+\SETpl[Mfat_tortruer]\m[p5health_damage]\SND[SE/Whip01.ogg]\Rshake\Lshake\c[4]ผู้ทรมาน：\c[0]    \{เงียบ!
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    วันนี้ทุกคนจะได้ใช้ร่างกายของอีหัวควยนี่เป็นรางวัล!
+\SETpl[raper_group]\Lshake\c[4]ทาสเหมือง：\c[0]    ผู้หญิง!
+\SETpl[raper_group]\Lshake\c[4]ทาสเหมือง：\c[0]    เป็นผู้หญิง! เราจะได้ยัดควยจริงๆ!
+\SETpl[raper_group]\Lshake\c[4]ทาสเหมือง：\c[0]    โคตรเจ๋ง! ฉันไม่ได้สนุกมานานแล้ว!
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    เงียบ! ทีละคน! ทุกคนจะได้ลอง!\ph
 
 HumanPrisonCave/RapeLoopMeattoilet_begin1_3
 .........
 
 HumanPrisonCave/RapeLoopMeattoilet_begin2_typical
-\m[bereft]\c[6]Lona：\c[0]    No! L-Let me go! Please...!
+\m[bereft]\c[6]โลน่า：\c[0]    ไม่! ปล่อยหนูไป! ขอร้อง...!
 
 HumanPrisonCave/RapeLoopMeattoilet_begin2_tsundere
-\m[angry]\c[6]Lona：\c[0]    NO! Don't you guys dare touch me!
+\m[angry]\c[6]โลน่า：\c[0]    ไม่! อย่าคิดจะแตะต้องหนู!
 
 HumanPrisonCave/RapeLoopMeattoilet_begin2_gloomy
-\m[terror]\c[6]Lona：\c[0]    N-No......
-\m[fear] (There's too many people, I'm going to die!)
+\m[terror]\c[6]โลน่า：\c[0]    ไม่......
+\m[fear] (คนเยอะเกินไป หนูจะตายแน่ๆ!)
 
 HumanPrisonCave/RapeLoopMeattoilet_begin2_slut
-\m[lewd]\c[6]Lona：\c[0]    Teehee! I don't plan on losing to you guys...~ ♥
+\m[lewd]\c[6]โลน่า：\c[0]    ฮิฮิ! หนูไม่ยอมแพ้พวกมึงหรอก...~ ♥
 
 HumanPrisonCave/RapeLoopMeattoilet_end
-\SETpl[raper3]\Lshake\c[4]Mine Slave：\c[0]    Me next!
-\SETpl[raper2]\Lshake\c[4]Mine Slave：\c[0]    NO! Me next!
-\SETpl[raper1]\Lshake\c[4]Mine Slave：\c[0]    Fuck me! I'm going to be last!
-\ph The miners' fuck fest continued into the evening.
-During the endless rape, Lona lost consciousness. The other miners carried Lona to her bed.
+\SETpl[raper3]\Lshake\c[4]ทาสเหมือง：\c[0]    ฉันต่อไป!
+\SETpl[raper2]\Lshake\c[4]ทาสเหมือง：\c[0]    ไม่! ฉันต่อไป!
+\SETpl[raper1]\Lshake\c[4]ทาสเหมือง：\c[0]    ฉันเอาเลย! ฉันจะเป็นคนสุดท้าย!
+\ph การร่วมรักของคนงานเหมืองดำเนินต่อไปจนถึงเย็น
+ในระหว่างการข่มขืนที่ไม่มีที่สิ้นสุด โลน่าสูญเสียสติ คนงานคนอื่นๆ ช่วยพาโลน่าไปที่เตียงของเธอ
 
 ####################################### 一般守衛 ######################################################
 
 HumanPrisonCave/Guard_begin1_slave
-\c[4]Guard：\c[0]    Work! Damn slave!
+\c[4]ยาม：\c[0]    ทำงาน! อีนักโทษ!
 
 HumanPrisonCave/Guard_begin1_maggot
-\c[4]Guard：\c[0]    Filthy worms! Get to work!
+\c[4]ยาม：\c[0]    พวกหนอนสกปรก! ไปทำงาน!
 
 HumanPrisonCave/Guard_begin1_sexy
-\c[4]Guard：\c[0]    Get to work! Bitch!
+\c[4]ยาม：\c[0]    ไปทำงาน! อีกระหรี่!
 
 HumanPrisonCave/Guard_begin1_weaker
-\c[4]Guard：\c[0]    Get back to work! Maggot!
+\c[4]ยาม：\c[0]    กลับไปทำงาน! อีหนอน!
 
 HumanPrisonCave/Guard_begin1_moot
-\c[4]Guard：\c[0]    Do what you're supposed to do!
+\c[4]ยาม：\c[0]    ทำตามที่ต้องทำ!
 
 HumanPrisonCave/Guard_begin1_lona
-\c[4]Guard：\c[0]    Get back to work!
+\c[4]ยาม：\c[0]    กลับไปทำงาน!
 
 HumanPrisonCave/Guard_Opt
-\m[confused]\c[6]Lona：\c[0]    Ummm? \optB[Forget it,Barter,Sexual service<r=HiddenOPT1>]
+\m[confused]\c[6]โลน่า：\c[0]    อืม? \optB[ลืมเถอะ,ต่อรอง,บริการทางเพศ<r=HiddenOPT1>]
 
 ####################################### 一般男性礦工 ######################################################
 
 HumanPrisonCave/MinerM_begin1_slave
-\c[4]Mine Slave：\c[0]    Shoo! Don't touch me!
+\c[4]ทาสเหมือง：\c[0]    ไป! อย่าแตะฉัน!
 
 HumanPrisonCave/MinerM_begin1_maggot
-\c[4]Mine Slave：\c[0]    Scram! Don't touch me!
+\c[4]ทาสเหมือง：\c[0]    ไปซะ! อย่าแตะฉัน!
 
 HumanPrisonCave/MinerM_begin1_sexy
-\c[4]Mine Slave：\c[0]    Heheee...
+\c[4]ทาสเหมือง：\c[0]    ฮิฮิ...
 
 HumanPrisonCave/MinerM_begin1_weaker
-\c[4]Mine Slave：\c[0]    Huh?
+\c[4]ทาสเหมือง：\c[0]    อะไรนะ?
 
 HumanPrisonCave/MinerM_begin1_moot
-\c[4]Mine Slave：\c[0]    Don't bother me!
+\c[4]ทาสเหมือง：\c[0]    อย่ามารบกวน!
 
 HumanPrisonCave/MinerM_begin1_lona
-\c[4]Mine Slave：\c[0]    Whaddya want?
+\c[4]ทาสเหมือง：\c[0]    มึงต้องการอะไร?
 
 ####################################### 搶劫型礦工 ######################################################
 
 HumanPrisonCave/MinerHairTriggerM_begin_basic
-\c[4]Mine Slave：\c[0]    Your things are mine, my things are STILL MINE!
+\c[4]ทาสเหมือง：\c[0]    ของมึงเป็นของฉัน ของฉันยังเป็นของฉัน!
 
 HumanPrisonCave/MinerHairTriggerM_Opt_basic
-\m[confused]\c[6]Lona：\c[0]    Ummm? \optB[Forget it,Sexual service<r=HiddenOPT1>]
+\m[confused]\c[6]โลน่า：\c[0]    อืม? \optB[ลืมเถอะ,บริการทางเพศ<r=HiddenOPT1>]
 
 HumanPrisonCave/MinerHairTriggerM_begin_aggro
-\c[4]Mine Slave：\c[0]    Hey, little girl. Give me all of your crystals.
+\c[4]ทาสเหมือง：\c[0]    เฮ้ เด็กผู้หญิง ให้คริสตัลทั้งหมดของมึงมา
 
 HumanPrisonCave/MinerHairTriggerM_Opt_aggro
-\m[shocked]\c[6]Lona：\c[0]    \optD[Give him your Crystal Ores...<t=5>,No way!]
+\m[shocked]\c[6]โลน่า：\c[0]    \optD[ให้คริสตัลของมึงไป...<t=5>,ไม่มีทาง!]
 
 HumanPrisonCave/MinerHairTriggerM_Opt_aggro_no
-\m[angry]\c[6]Lona：\c[0]    No way! Why should I?!
-\c[4]Mine Slave：\c[0]    You dare say no to me?!
+\m[angry]\c[6]โลน่า：\c[0]    ไม่มีทาง! ทำไมหนูต้องให้?!
+\c[4]ทาสเหมือง：\c[0]    มึงกล้าปฏิเสธฉัน?!
 
 HumanPrisonCave/MinerHairTriggerM_Opt_aggro_yes
-\m[sad]\c[6]Lona：\c[0]    Everything... I'll give you everything! Just please don't hurt me...
-\c[4]Mine Slave：\c[0]    Huheheee! Hehee... That's a good girl.
+\m[sad]\c[6]โลน่า：\c[0]    ทุกอย่าง... หนูจะให้ทุกอย่าง! ขอแค่อย่าทำร้ายหนู...
+\c[4]ทาสเหมือง：\c[0]    ฮ่าๆ! ฮ่า... นี่มันเด็กดีนี่
 
 ####################################### 礦坑交易員 ######################################################
 
 HumanPrisonCave/CaveTrader_begin
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\c[4]Guard：\c[0]    What are you looking at? Lost? Have you turned in your crystals for today?
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\c[4]ยาม：\c[0]    มึงมองอะไร? หลงทางหรือเปล่า? มึงส่งคริสตัลของวันนี้แล้วหรือยัง?
 
 HumanPrisonCave/CaveTrader_Opt
-\CBmp[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Ummm? \optB[Never mind,Barter,Talk,Turn in Crystal Ores,Sexual service<r=HiddenOPT1>]
+\CBmp[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม? \optB[ไม่เป็นไร,ต่อรอง,คุย,ส่งคริสตัล,บริการทางเพศ<r=HiddenOPT1>]
 
 HumanPrisonCave/CaveTrader_Talk1
-\CBmp[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Errr...
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    You must turn in the required crystals before tomorrow, otherwise you will be punished.
-\CBid[-1,5]\Lshake\prf\c[4]Guard：\c[0]    It's the same if you want to eat and drink, exchange us crystal ores for food. If you don't work, you won't eat!
-\CBmp[6]\m[fear]\plf\PRF\c[6]Lona：\c[0]    Un-... -Understood.
+\CBmp[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อือ...
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ยาม：\c[0]    มึงต้องส่งคริสตัลที่ต้องการก่อนพรุ่งนี้ ไม่งั้นจะถูกลงโทษ
+\CBid[-1,5]\Lshake\prf\c[4]ยาม：\c[0]    ถ้าอยากกินอยากดื่มก็เหมือนกัน แลกคริสตัลเป็นอาหาร ถ้าไม่ทำงาน ก็ไม่ได้กิน!
+\CBmp[6]\m[fear]\plf\PRF\c[6]โลน่า：\c[0]    อือ... เข้าใจ
 
 HumanPrisonCave/CaveTrader_AnsSexService
-\CBid[-1,5]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    I'm not interested!
+\CBid[-1,5]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ยาม：\c[0]    ไม่สนใจ!
 
 HumanPrisonCave/CaveTrader_GiveMineral_begin
-\CBmp[6]\m[fear]\plf\PRF\c[6]Lona：\c[0]    This is how much I've manged to collect......
-\CBid[-1,8]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    Uh huh...
+\CBmp[6]\m[fear]\plf\PRF\c[6]โลน่า：\c[0]    นี่คือที่หนูเก็บมาได้......
+\CBid[-1,8]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ยาม：\c[0]    อืม...
 \..\..\..\..
 
 HumanPrisonCave/CaveTrader_GiveMineral_end_OkayButMore
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    NOT ENOUGH! Go back and keep digging for more!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ยาม：\c[0]    ไม่พอ! กลับไปขุดเพิ่ม!
 
 HumanPrisonCave/CaveTrader_GiveMineral_end_None
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    \{FUCK! YOU DARE LIE TO ME?!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ยาม：\c[0]    \{ฟัก! มึงกล้าโกหกฉัน?!
 
 HumanPrisonCave/CaveTrader_GiveMineral_end_Full
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    Well done! Keep digging for more until the day you die!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ยาม：\c[0]    ทำได้ดี! ขุดเพิ่มไปเรื่อยๆ จนกว่าจะตาย!
 
 HumanPrisonCave/CaveTrader_end
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    Hurry up and get to work! You little bitch!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ยาม：\c[0]    รีบไปทำงาน! อีกระหรี่!
 
 HumanPrisonCave/CaveTrader_mineneed0
-You still need 
+มึงยังต้องการ 
 
 HumanPrisonCave/CaveTrader_mineneed1
- more Crystal Ores.
+ คริสตัลเพิ่มอีก
 
 ####################################### 隱藏出口 ######################################################
 
 HumanPrisonCave/Windcave_frist_time
-\CBct[8]\m[shocked]\cg[map_region_hole]\c[6]Lona：\c[0]    A breeze?!
-\CBct[2]\m[normal]\c[6]Lona：\c[0]    If I can feel the wind, then this should lead to the outside.
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    My body's not that big.\n If I can dig this hole just a bit bigger......
+\CBct[8]\m[shocked]\cg[map_region_hole]\c[6]โลน่า：\c[0]    ลม?!
+\CBct[2]\m[normal]\c[6]โลน่า：\c[0]    ถ้าหนูรู้สึกถึงลม ที่นี่น่าจะนำไปสู่ภายนอก
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    ร่างกายของหนูไม่ใหญ่ขนาดนั้น\n ถ้าหนูขุดรูนี้ให้ใหญ่ขึ้นอีกนิด......
 
 HumanPrisonCave/Windcave_Opt
-\CBct[8]\m[confused]\cg[map_region_hole]A hole in the wall. You can feel wind blowing through the hole. \optB[Don't waste your energy...,Attempt to dig the hole!<r=HiddenOPT1>]
+\CBct[8]\m[confused]\cg[map_region_hole]รูในผนัง หนูรู้สึกถึงลมที่พัดผ่านรู \optB[อย่าเสียแรงเปล่า...,พยายามขุดรู!<r=HiddenOPT1>]
 
 HumanPrisonCave/Windcave_Opt_dig
-\CBct[8]\m[normal]How much stamina will be used? \optB[Don't waste your energy...,10,20<r=HiddenOPT1>,40<r=HiddenOPT2>,80<r=HiddenOPT3>,160<r=HiddenOPT4>,240<r=HiddenOPT5>]
+\CBct[8]\m[normal]จะใช้พลังงานเท่าไหร่? \optB[อย่าเสียแรงเปล่า...,10,20<r=HiddenOPT1>,40<r=HiddenOPT2>,80<r=HiddenOPT3>,160<r=HiddenOPT4>,240<r=HiddenOPT5>]
 
 HumanPrisonCave/Windcave_Opt_diged
-\CBct[20]\m[pleased]\c[6]Lona：\c[0]    Seems like I dug out a lot of the hole.
-\CBct[6]\m[tired]\c[6]Lona：\c[0]    But... *Huff*... S-So tired...
+\CBct[20]\m[pleased]\c[6]โลน่า：\c[0]    ดูเหมือนหนูจะขุดรูได้เยอะ
+\CBct[6]\m[tired]\c[6]โลน่า：\c[0]    แต่... *หอบ*... เหนื่อยมาก...
 
 HumanPrisonCave/Windcave_Opt_diged_open
 \CBct[1]\m[shocked]!!!!!!
 \CBct[1]\m[shocked]!!!!!!!!!
 \CBct[1]\m[pleased]!!!!!!!!!!!!
-\CBct[20]\m[triumph]\c[6]Lona：\c[0]    Alright! I can get out now!
+\CBct[20]\m[triumph]\c[6]โลน่า：\c[0]    ได้แล้ว! หนูออกไปได้แล้ว!
 
 ####################################### RAND RAPE LOOP ######################################################
 
 HumanPrisonCave/RapeLoop_begin1
-\m[shocked]\c[6]Lona：\c[0]    !!!!!!
-\SETpl[raper_group]\prf\c[4]Prisoners：\c[0]    \{GIRL!
-\SETpl[raper_group]\prf\c[4]Prisoners：\c[0]    \{Heehee, a girl!
-\SETpl[raper_group]\prf\c[4]Prisoners：\c[0]    It's been so long since we've fucked someone!
-\m[terror]\PRF\c[6]Lona：\c[0]    HUH?! W-Wait!
+\m[shocked]\c[6]โลน่า：\c[0]    !!!!!!
+\SETpl[raper_group]\prf\c[4]นักโทษ：\c[0]    \{ผู้หญิง!
+\SETpl[raper_group]\prf\c[4]นักโทษ：\c[0]    \{ฮิฮิ ผู้หญิง!
+\SETpl[raper_group]\prf\c[4]นักโทษ：\c[0]    นานแล้วที่เราไม่ได้ยัดใคร!
+\m[terror]\PRF\c[6]โลน่า：\c[0]    อะไร?! ร-รอก่อน!
 
 ####################################### Miner Trader ######################################################
 
 HumanPrisonCave/DirtyJohnson_begin1
-\CBid[-1,20]\SETpl[DirtyJohnson]\m[normal]\Lshake\prf\c[4]Miner：\c[0]    Hey, see anything ya want? As long as ya got somethin' to pay for it.
+\CBid[-1,20]\SETpl[DirtyJohnson]\m[normal]\Lshake\prf\c[4]คนงานเหมือง：\c[0]    เฮ้ เห็นอะไรที่อยากได้มั้ย? ตราบใดที่มึงมีอะไรจะจ่าย
 
 HumanPrisonCave/DirtyJohnson_WhoreWork_win_new
-\CBid[-1,20]\SETpl[DirtyJohnson]\m[shy]\Lshake\prf\c[4]Miner：\c[0]    Oh ho ho!!!
-\CBid[-1,20]\SETpl[DirtyJohnson_penis]\m[shy]\Lshake\prf\c[4]Miner：\c[0]    It's been such a long time. A lotta dirts been stickin' onto my cock.
-\CBid[-1,20]\SETpl[DirtyJohnson_angry_penis]\m[shy]\Lshake\prf\c[4]Miner：\c[0]    Help clean it all up for me, will ya?
+\CBid[-1,20]\SETpl[DirtyJohnson]\m[shy]\Lshake\prf\c[4]คนงานเหมือง：\c[0]    โอ้ โฮ่ โฮ่!!!
+\CBid[-1,20]\SETpl[DirtyJohnson_penis]\m[shy]\Lshake\prf\c[4]คนงานเหมือง：\c[0]    นานแล้ว สิ่งสกปรกเกาะควยฉันเยอะมาก
+\CBid[-1,20]\SETpl[DirtyJohnson_angry_penis]\m[shy]\Lshake\prf\c[4]คนงานเหมือง：\c[0]    ช่วยทำความสะอาดให้ฉันหน่อยได้มั้ย?
 
 HumanPrisonCave/DirtyJohnson_WhoreWork_win_old
-\CBid[-1,20]\SETpl[DirtyJohnson]\m[shy]\Lshake\prf\c[4]Miner：\c[0]    Oooh hoo!!!
-\CBid[-1,20]\SETpl[DirtyJohnson_penis]\m[shy]\Lshake\prf\c[4]Miner：\c[0]    What a good girl...
-\CBid[-1,20]\SETpl[DirtyJohnson_angry_penis]\m[shy]\Lshake\prf\c[4]Miner：\c[0]    I need ya to help me clean my cock this time too.
+\CBid[-1,20]\SETpl[DirtyJohnson]\m[shy]\Lshake\prf\c[4]คนงานเหมือง：\c[0]    โอ้ โฮ่!!!
+\CBid[-1,20]\SETpl[DirtyJohnson_penis]\m[shy]\Lshake\prf\c[4]คนงานเหมือง：\c[0]    เด็กดีจริงๆ...
+\CBid[-1,20]\SETpl[DirtyJohnson_angry_penis]\m[shy]\Lshake\prf\c[4]คนงานเหมือง：\c[0]    ฉันต้องการให้มึงช่วยทำความสะอาดควยฉันอีกครั้ง
 
 HumanPrisonCave/DirtyJohnson_WhoreWork_failed
-\CBid[-1,20]\SETpl[DirtyJohnson_angry]\m[sad]\Lshake\prf\c[4]Miner：\c[0]    I'm not interested! Go away!
+\CBid[-1,20]\SETpl[DirtyJohnson_angry]\m[sad]\Lshake\prf\c[4]คนงานเหมือง：\c[0]    ไม่สนใจ! ไปซะ!

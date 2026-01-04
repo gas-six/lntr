@@ -1,324 +1,326 @@
+XXXXXXXX
+
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 NoerDock/OvermapEnter
-\m[confused]Port of Noer \optB[Leave,Enter]
+\m[confused]ท่าเรือ Noer \optB[ออกไป,เข้าไป]
 
 #---------------------------------------Noer Dock cOMMON ppl ----------------------------------
 
 SailerGuard/GoAway0
-Don't make any trouble!
+อย่ามาทำกรรมกริยา!
 
 SailerGuard/GoAway1
-Go away!
+ไปให้พ้น!
 
 SailerGuard/GoAway2
-Get back!
+ถอยหลัง!
 
 ##---------------------------------------
 
 NightFapper/Fapper0
-I am the king of the world!
+กูคือราชาแห่งโลก!
 
 NightFapper/Fapper1
-Child! Go and conquer the world!
+ลูก! ไปพิชิตโลกเถอะ!
 
 NightFapper/Fapper2
-Cumming! Cumming!!!
+เสร็จ! เสร็จ!!!
 
 NightFapper/Fapper3
-I'm cooming!
+กูเสร็จ!
 
 ##---------------------------------------
 
 RiotPPL1/Yelling0
-Let me go up! I'm a noble!
+ปล่อยให้กูขึ้นไป! กูเป็นขุนนาง!
 
 RiotPPL1/Yelling1
-I have a ticket!
+กูมีตั๋ว!
 
 RiotPPL1/Yelling2
-This is bullshit! I've spent money!
+นี่มันกากหมด! กูเสียเงินไปแล้ว!
 
 RiotPPL2/Yelling0
-This is all I got...
+นี่คือทั้งหมดที่กูมี...
 
 RiotPPL2/Yelling1
-I beg you, let me board!
+ขอร้องเถอะ ปล่อยให้กูขึ้นเรือ!
 
 RiotPPL2/Yelling2
-Please! Let us board!
+ขอร้อง! ปล่อยให้พวกเราขึ้นเรือ!
 
 RiotPPL3/Yelling0
-Let me get on the boat!
+ปล่อยให้กูขึ้นเรือ!
 
 RiotPPL3/Yelling1
-Money! I have money!
+เงิน! กูมีเงิน!
 
 RiotPPL3/Yelling2
-Why is the price rising again?!
+ทำไมราคามันขึ้นอีก?!
 
 ##---------------------------------------
 
 BoardReader1/Read0
-Monster everywhere?
+มีสัตว์ประหลาดทุกที่?
 
 BoardReader1/Read1
-Slave trading... What's next?
+ค้าทาส... ต่อไปจะเป็นอะไร?
 
 BoardReader1/Read2
-Muggings are normal now...
+การปล้นชินแล้ว...
 
 BoardReader2/Read0
-The world is ending.
+โลกกำลังจะจบ.
 
 BoardReader2/Read1
-Friends, family... All dead...
+เพื่อน ครอบครัว... ตายหมด...
 
 BoardReader2/Read2
-What else can I do?
+กูจะทำอะไรได้อีก?
 
 ##---------------------------------------
 
 SlaveChild/Talk0
-Mama...
+แม่...
 
 SlaveChild/Talk1
-I wanna go home...
+กูอยากกลับบ้าน...
 
 SlaveChild/Talk2
-Why did you leave me...?
+ทำไมแกทิ้งกู...?
 
 SlaveAdult1/Talk0
-Cheated, I must have been cheated!
+โดนหลอก กูต้องโดนหลอกแน่ๆ!
 
 SlaveAdult1/Talk1
-No! I don't wanna be a slave!
+ไม่! กูไม่อยากเป็นทาส!
 
 SlaveAdult1/Talk2
-I shouldn't be here! I'm a noble!
+กูไม่ควรอยู่ที่นี่! กูเป็นขุนนาง!
 
 SlaveAdult2/Talk0
-Where are we going?
+เราจะไปไหน?
 
 SlaveAdult2/Talk1
-What will we be doing?
+เราจะทำอะไร?
 
 SlaveAdult2/Talk2
-I'm scared......
+กูกลัว......
 
 ##---------------------------------------
 
 Board/FishKindPplTrade
-\board[Acquisition of refugees]
-No food? Confident in your physical strength? Sell yourself, we will protect you.
-Virgin： 6 Large Copper Coins
-Child： 3 Large Copper Coins
-Adult： 1 Large Copper Coin
-Price varies depending on the physical condition and the appearance of the product, men and infertile women need not apply.
-Please visit the fish market, right of the docks, for details.
+\board[การรับผู้ลี้ภัย]
+ไม่มีอาหาร? มั่นใจในความแข็งแรงของตัวเอง? ขายตัวเองเถอะ เราจะปกป้องแก
+พรหมจารี： 6 เหรียญทองแดงใหญ่
+เด็ก： 3 เหรียญทองแดงใหญ่
+ผู้ใหญ่： 1 เหรียญทองแดงใหญ่
+ราคาจะแตกต่างกันขึ้นอยู่กับสภาพร่างกายและรูปลักษณ์ของสินค้า ผู้ชายและผู้หญิงที่ไม่สามารถมีลูกได้ไม่ต้องสมัคร
+โปรดไปที่ตลาดปลา ทางขวาของท่าเรือ เพื่อรายละเอียดเพิ่มเติม
 
 ##---------------------------------------
 
 Board/IttWorker
-\board[Mine worker recruitment]
-Come work in the Crystal Mines, we hire all.
-One month's worth of copper coins can be yours to earn.
-Three lucky men are drawn out each month to leave with the mine carrier.
+\board[รับสมัครคนงานเหมือง]
+มาทำงานที่เหมืองคริสตัล เรารับทุกคน
+เหรียญทองแดงหนึ่งเดือนสามารถเป็นของแกได้
+มีการจับสลากสามคนทุกเดือนเพื่อออกไปกับรถขนส่งเหมือง
 
 ##---------------------------------------
 
 Board/PirateAround
-\board[Flying Spaghetti]
-The infamous pirate ship; The Flying Spaghetti, is believed to be lurking nearby Noer waters.
-3 Gold Coins to those who can capture the ship's crew.
-1 Gold Coin for any information about the ship and her crew.
+\board[เส้นด้ายบิน]
+เรือโจรสลัดที่มีชื่อเสียง; เส้นด้ายบิน คาดว่ากำลังซุ่มอยู่ใกล้น้ำ Noer
+3 เหรียญทองให้กับผู้ที่สามารถจับลูกเรือได้
+1 เหรียญทองสำหรับข้อมูลใดๆ เกี่ยวกับเรือและลูกเรือ
 
 ##--------------------------------------- fISHkIND ----------------------------------
 
 FrogmanTrader/begin
-\SndLib[FishkindLgSpot]\SETpl[Mfat_FrogFisher]\Lshake\Lshack\c[4]Fishman：\c[0]    Fish...! Pure... Fish!!!
-\m[shocked]\Rshake\c[6]Lona：\c[0]    Eeep! \optB[Stay away from him...,Barter]
+\SndLib[FishkindLgSpot]\SETpl[Mfat_FrogFisher]\Lshake\Lshack\c[4]คนปลา：\c[0]    ปลา...! บริสุทธิ์... ปลา!!!
+\m[shocked]\Rshake\c[6]โลน่า：\c[0]    อี๊บ! \optB[อยู่ห่างๆ เขาไว้...,ต่อรอง]
 
 FrogmanTrader/begin_trade
-\SETpl[Mfat_FrogFisher]\Lshack\c[4]Fishman：\c[0]    Girl... You buy... Fish...!
+\SETpl[Mfat_FrogFisher]\Lshack\c[4]คนปลา：\c[0]    สาว... แกซื้อ... ปลา...!
 
 FrogmanTrader/begin_WhoreWorkWin
-\SETpl[Mfat_FrogFisher]\Lshack\c[4]Fishman：\c[0]    Sowing...! Sowing!
+\SETpl[Mfat_FrogFisher]\Lshack\c[4]คนปลา：\c[0]    หว่าน...! หว่าน!
 
 FrogmanTrader/begin_WhoreWorkFail
-\SETpl[Mfat_FrogFisher]\Lshack\c[4]Fishman：\c[0]    Get... Away!
+\SETpl[Mfat_FrogFisher]\Lshack\c[4]คนปลา：\c[0]    ไป... ให้พ้น!
 
 RandBusinessMan/talk1
-\m[confused]\c[4]Passerby：\c[0]    These "fish" people look hideous... But the irony is that most of the food now comes from them.\optD["Fish" people?]
+\m[confused]\c[4]คนผ่านทาง：\c[0]    พวก "ปลา" นี่ดูน่าเกลียด... แต่ที่น่าขำคืออาหารส่วนใหญ่ตอนนี้มาจากพวกมัน\optD["คนปลา"?]
 
 RandBusinessMan/talk2
-\c[4]Passerby：\c[0]    Never seen them before? It's no wonder, they were natives of an island with mixed-races, until we kicked them out.
-Just look at them. The port reeks of fish, and no one wants to approach them.
+\c[4]คนผ่านทาง：\c[0]    ไม่เคยเห็นพวกมันมาก่อนเหรอ? ไม่แปลกหรอก เขาเป็นชาวพื้นเมืองของเกาะที่มีเชื้อชาติผสม จนกว่าเราจะไล่พวกมันออก
+ดูพวกมันสิ ท่าเรือเต็มไปด้วยกลิ่นปลา ไม่มีใครอยากเข้าใกล้พวกมัน
 
 RandBusinessMan/Qtalk0
-They bought a lot of women.
+พวกมันซื้อผู้หญิงมาเยอะ.
 
 RandBusinessMan/Qtalk1
-Dunno what'll happen to them.
+ไม่รู้ว่าจะเกิดอะไรขึ้นกับพวกมัน.
 
 FrogmanPrayer/Pray0
-Sea Witch...! Hear... prayer!
+แม่มดทะเล...! ฟัง... คำอธิษฐาน!
 
 FrogmanPrayer/Pray1
-Must praise... Sea Witch!
+ต้องสรรเสริญ... แม่มดทะเล!
 
 FrogmanPrayer/Pray2
-The Sea Witch... graces me!
+แม่มดทะเล... ประทานพรให้กู!
 
 ##-------------------------------------- SlaveDealer
 
 SlaveDealer/TalkNonSlave
-\SndLib[FishkindLgSpot]\CBmp[SlaveDealer,8]\c[4]Slave Trader：\c[0]    Human... We can... Guarantee your safety... If you accept... Offer of being... Our slave...\optB[No thanks!,I accept...]
+\SndLib[FishkindLgSpot]\CBmp[SlaveDealer,8]\c[4]พ่อค้าทาส：\c[0]    มนุษย์... เราสามารถ... รับประกันความปลอดภัยของแก... ถ้าแกยอมรับ... ข้อเสนอที่จะ... เป็นทาสของเรา...\optB[ไม่เอา!,กูยอม...]
 
 SlaveDealer/TalkNonSlave_yes
-\SndLib[FishkindLgSpot]\CBmp[SlaveDealer,20]\c[4]Slave Trader：\c[0]    Very... Good! One look... And I know you will... Be good brood mother...
-\SndLib[FishkindLgSpot]\CBmp[SlaveDealer,20]\c[4]Slave Trader：\c[0]    Come... On!
+\SndLib[FishkindLgSpot]\CBmp[SlaveDealer,20]\c[4]พ่อค้าทาส：\c[0]    ดี... มาก! แค่มองก็รู้ว่าแกจะ... เป็นแม่พันธุ์ที่ดี...
+\SndLib[FishkindLgSpot]\CBmp[SlaveDealer,20]\c[4]พ่อค้าทาส：\c[0]    มา... นี่!
 
 SlaveDealer/TalkIsSlave
-\SndLib[FishkindLgSpot]\CBmp[RelayTrader,19]\c[4]Slave Trader：\c[0]    Poor... Little slave... Tell brothers... Near ferry... You want go to... Fishtopia Isle...
-\SndLib[FishkindLgSpot]\CBmp[RelayTrader,19]\c[4]Slave Trader：\c[0]    We will... Keep you safe... Good place living... No more worse...
+\SndLib[FishkindLgSpot]\CBmp[RelayTrader,19]\c[4]พ่อค้าทาส：\c[0]    ทาสน้อย... บอกพี่น้อง... ใกล้ท่าเรือ... แกอยากไป... เกาะ Fishtopia...
+\SndLib[FishkindLgSpot]\CBmp[RelayTrader,19]\c[4]พ่อค้าทาส：\c[0]    เราจะ... ดูแลแกให้ปลอดภัย... ที่นี่ดีสำหรับการอยู่อาศัย... ไม่มีอะไรแย่กว่านี้...
 
 SlaveDealer/Talk_failed
-\SndLib[FishkindLgSpot]\CBid[-1,5]\c[4]Slave Trader：\c[0]    You are... *Snort* Boy...? We don't... Accept males!
-\CBct[8]\m[flirty]\c[6]Lona：\c[0]    Uhhh...
+\SndLib[FishkindLgSpot]\CBid[-1,5]\c[4]พ่อค้าทาส：\c[0]    แกเป็น... *จาม* ผู้ชาย...? เราไม่... รับผู้ชาย!
+\CBct[8]\m[flirty]\c[6]โลน่า：\c[0]    อืมม...
 
 #################################YAMATO CAPTAIN ############################
 
 Captain/Welcome_unknow
-\CBid[-1,2]\SETpl[Mfat_DockCaptain]\m[confused]\prf\c[4]???：\c[0]    Ahoy lass, name's Edward. Wishing ta leave this here island?
+\CBid[-1,2]\SETpl[Mfat_DockCaptain]\m[confused]\prf\c[4]???：\c[0]    สวัสดีสาวน้อย ชื่อกูเอ็ดเวิร์ด อยากจะออกจากเกาะนี้ไหม?
 
 Captain/Welcome_unknow_detail
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I... I really want to leave this place.
-\CBid[-1,8]\SETpl[Mfat_DockCaptain]\PLF\prf\c[4]Edward：\c[0]    Me passage is already full, but ye still be havin' two options.
-\CBid[-1,20]\PLF\prf\c[4]Edward：\c[0]    First option is ta become a slave. Don't ye worry...
-\CBid[-1,20]\PLF\prf\c[4]Edward：\c[0]    If ya have kin in the West, they can still buy ye back.
-\CBct[2]\m[fear]\plf\PRF\c[6]Lona：\c[0]    ...Become a slave......
-\CBid[-1,20]\PLF\prf\c[4]Edward：\c[0]    Hummmph, yer expression says it all.
-\CBid[-1,20]\PLF\prf\c[4]Edward：\c[0]    The second is ta give me 20 Gold Coins,\n then I can consider vacating a seat for ye.
-\CBct[20]\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Tw-Twenty Gold Coins?!
-\CBct[20]\m[wtf]\plf\PRF\c[6]Lona：\c[0]    You could buy a house with that much in Sybaris!
-\CBid[-1,20]\PLF\prf\c[4]Edward：\c[0]    Not me problem if ya wish ta board me ship. Don't take too long, me price will increase over time.
-\CBid[-1,20]\PLF\prf\c[4]Edward：\c[0]    No coins? Then get lost, I'm busy.
-\CBct[8]\m[sad]\plf\PRF 20 Gold Coins...
-\CBct[8]\m[serious]...I have to try, maybe there's still a chance.
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    กู... กูอยากออกจากที่นี่จริงๆ.
+\CBid[-1,8]\SETpl[Mfat_DockCaptain]\PLF\prf\c[4]เอ็ดเวิร์ด：\c[0]    ที่นั่งของกูเต็มแล้ว แต่แกยังมีตัวเลือกอีกสองอย่าง
+\CBid[-1,20]\PLF\prf\c[4]เอ็ดเวิร์ด：\c[0]    ตัวเลือกแรกคือการเป็นทาส อย่ากังวล...
+\CBid[-1,20]\PLF\prf\c[4]เอ็ดเวิร์ด：\c[0]    ถ้าแกมีญาติทางตะวันตก เขาสามารถซื้อแกกลับได้
+\CBct[2]\m[fear]\plf\PRF\c[6]โลน่า：\c[0]    ...เป็นทาส......
+\CBid[-1,20]\PLF\prf\c[4]เอ็ดเวิร์ด：\c[0]    ฮึมม์ สีหน้าของแกบอกทุกอย่าง
+\CBid[-1,20]\PLF\prf\c[4]เอ็ดเวิร์ด：\c[0]    ตัวเลือกที่สองคือให้กู 20 เหรียญทอง,\n แล้วกูจะพิจารณาว่างที่นั่งให้แก
+\CBct[20]\m[shocked]\plf\PRF\Rshake\c[6]โลน่า：\c[0]    \{ยี่-ยี่สิบเหรียญทอง?!
+\CBct[20]\m[wtf]\plf\PRF\c[6]โลน่า：\c[0]    แกซื้อบ้านได้เลยนะใน Sybaris!
+\CBid[-1,20]\PLF\prf\c[4]เอ็ดเวิร์ด：\c[0]    ไม่ใช่ปัญหาของกูถ้าแกอยากขึ้นเรือของกู อย่าใช้เวลานานเกินไป ราคาของกูจะเพิ่มขึ้นเรื่อยๆ
+\CBid[-1,20]\PLF\prf\c[4]เอ็ดเวิร์ด：\c[0]    ไม่มีเหรียญ? แล้วก็ไปให้พ้น กูยุ่ง
+\CBct[8]\m[sad]\plf\PRF 20 เหรียญทอง...
+\CBct[8]\m[serious]...กูต้องลอง อาจจะยังมีโอกาส
 
 Captain/Welcome_talked
-\CBid[-1,2]\m[confused]\SETpl[Mfat_DockCaptain]\c[4]Edward：\c[0]    Ahoy lass, we meet again. What be yer choice?
+\CBid[-1,2]\m[confused]\SETpl[Mfat_DockCaptain]\c[4]เอ็ดเวิร์ด：\c[0]    สวัสดีสาวน้อย เรามาเจอกันอีกแล้ว แกเลือกอะไร?
 
 Captain/OPT_HowMuch
-How much is it now?
+ราคาเท่าไหร่ตอนนี้?
 
 Captain/OPT_GiveMoney
-Give Gold Coins
+ให้เหรียญทอง
 
 Captain/OPT_BeSlave
-Become a slave...
+เป็นทาส...
 
 Captain/Price_today
-\CBid[-1,8]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    Today's price be costin' ye 
+\CBid[-1,8]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    ราคาวันนี้คือ 
 
 Captain/Price_today_link
- Gold Coins. Ya best hurry lass, me price will continue ta rise the longer yer wait...
+ เหรียญทอง แกรีบหน่อยนะสาวน้อย ราคาของกูจะเพิ่มขึ้นเรื่อยๆ ถ้าแกรอ...
 
 Captain/Leave_NotEnoughMoney
-\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    ...This be some sort of trickery?
-\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    Ye dare ta cause me trouble?! WASTE ME TIME?! Men! Kill this wench!!!
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    WHAT?! W-Wait!
+\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    ...นี่มันเล่นตุกติกอะไร?
+\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    แกกล้ามาทำกรรมกริยากับกู?! เสียเวลากู?! พวก! ฆ่าอีนี่!!!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อะไร?! ร-รอก่อน!
 
 Captain/Leave_WithEnoughMoney
-\CBid[-1,8]\cg[event_Coins]\SND[SE/Chain_move01.ogg]\m[trumph]\plf\PRF\c[6]Lona：\c[0]    \..\..\..
-\cgoff\CBid[-1,1]\m[shy]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    Do ya actually have ta coins lass? Let me count 'em...
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ...So......?
-\CBid[-1,4]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    Blimey! Yer really be bringing the coins!
-\CBid[-1,4]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    I be surprised a little lassie like ye can take care of herself and survive.
-\CBid[-1,4]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    Hurry up and board me ship lass. \CamCT
+\CBid[-1,8]\cg[event_Coins]\SND[SE/Chain_move01.ogg]\m[trumph]\plf\PRF\c[6]โลน่า：\c[0]    \..\..\..
+\cgoff\CBid[-1,1]\m[shy]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    แกมีเหรียญจริงๆ เหรอสาวน้อย? ปล่อยให้กูนับ...
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    ...เป็นไง......?
+\CBid[-1,4]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    ว้าว! แกนำเหรียญมาจริงๆ!
+\CBid[-1,4]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    กูประหลาดใจที่สาวน้อยอย่างแกสามารถดูแลตัวเองและรอดชีวิตได้
+\CBid[-1,4]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    รีบขึ้นเรือของกูสิสาวน้อย \CamCT
 
 ##################################################################################
 
 Captain/WithArrears0
-\CamMP[Captain]\BonMP[Captain,5]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    \{Now men! Get her!
-\CamCT\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    \{WHAT?!!! W-Wait!
+\CamMP[Captain]\BonMP[Captain,5]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    \{ตอนนี้พวก! จับเธอ!
+\CamCT\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    \{อะไร?! ร-รอก่อน!
 
 Captain/WithArrears1
-\CamCT\m[p5sta_damage]\plf\Rshake\c[6]Lona：\c[0]    S-Stop!
-\m[p5sta_damage]\plf\Rshake\c[6]Lona：\c[0]    Let go... Let go of me!!!
-\m[p5health_damage]\plf\Rshake\c[6]Lona：\c[0]    Nnnighnnn...!
-\m[p5health_damage]\plf\Rshake\c[6]Lona：\c[0]    You evil b-bastards...!!!
-\m[p5puke]\plf\Rshake\c[6]Lona：\c[0]    GUUUH...!
-\m[p5ahegao]\plf\Rshake\c[6]Lona：\c[0]    *Gurgle* Gack...
-\m[p5ahegao]\plf\Rshake\c[6]Lona：\c[0]    Ohhhhhh......~
-\narr Lona was choked-out and lost consciousness.
+\CamCT\m[p5sta_damage]\plf\Rshake\c[6]โลน่า：\c[0]    ห-หยุด!
+\m[p5sta_damage]\plf\Rshake\c[6]โลน่า：\c[0]    ปล่อย... ปล่อยกู!!!
+\m[p5health_damage]\plf\Rshake\c[6]โลน่า：\c[0]    อินนิกนนน...!
+\m[p5health_damage]\plf\Rshake\c[6]โลน่า：\c[0]    พวกมึงชั่วร้าย...!!!
+\m[p5puke]\plf\Rshake\c[6]โลน่า：\c[0]    อ่าห์...!
+\m[p5ahegao]\plf\Rshake\c[6]โลน่า：\c[0]    *กลืน* ก๊าก...
+\m[p5ahegao]\plf\Rshake\c[6]โลน่า：\c[0]    โอ๊ะๆๆๆๆ......~
+\narr โลน่าถูกบีบคอจนสลบไป
 
 Captain/WithArrears2
-\CamMP[Captain]\BonMP[Captain,2]\SETpl[Mfat_DockCaptain]\SETpr[NoerGangBoss]\Lshake\prf\c[4]Edward：\c[0]    How does this wench be?
-\SETpr[NoerGangBoss]\plf\Rshake\c[4]Thug：\c[0]    The bitch'll be fine. Just out cold.
-\CamMP[Captain]\BonMP[Captain,8]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    Stupid girl ought ta know not to run when debts need ta be paid.
-\SETpr[NoerGangBoss]\plf\Rshake\c[4]Thug：\c[0]    So, like we agreed to. We'll collect the goods, and you'll get your reward.
-\CamMP[Captain]\BonMP[Captain,3]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]     Aye. Happy doing business with ye lads.
+\CamMP[Captain]\BonMP[Captain,2]\SETpl[Mfat_DockCaptain]\SETpr[NoerGangBoss]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    อีนี่เป็นยังไง?
+\SETpr[NoerGangBoss]\plf\Rshake\c[4]นักเลง：\c[0]    อีนี่จะไม่เป็นอะไร แค่สลบ
+\CamMP[Captain]\BonMP[Captain,8]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    สาวโง่ควรรู้ว่าอย่าหนีเมื่อต้องจ่ายหนี้
+\SETpr[NoerGangBoss]\plf\Rshake\c[4]นักเลง：\c[0]    ตามที่ตกลงกันไว้ เราจะเก็บของ และแกจะได้รับรางวัล
+\CamMP[Captain]\BonMP[Captain,3]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]     ใช่ ยินดีทำธุรกิจกับพวกแก
 
 ################################################################################## Dock HEV
 
 FishKindDoor/Hev0
-\c[4]Slave A：\c[0]    Hey! Don't push me!
+\c[4]ทาส A：\c[0]    หยุด! อย่าผลักกู!
 
 FishKindDoor/Hev1
-\c[4]Slave B：\c[0]    They said there's no monsters in Fishtopia Isle, but...
+\c[4]ทาส B：\c[0]    เขาบอกว่าไม่มีสัตว์ประหลาดในเกาะ Fishtopia แต่...
 
 FishKindDoor/Hev1_1
-\c[4]Slave A：\c[0]    What's going to happen to us...?
+\c[4]ทาส A：\c[0]    จะเกิดอะไรขึ้นกับเรา...?
 
 FishKindDoor/Hev2
-\c[4]Slave C：\c[0]    *Sigh*...
+\c[4]ทาส C：\c[0]    *ถอนหายใจ*...
 
 FishKindDoor/Hev3
-\c[4]Fishman：\c[0]    Quiet... Move up... For branding...
+\c[4]คนปลา：\c[0]    เงียบ... เดินขึ้นไป... เพื่อปั๊มแบรนด์...
 
 FishKindDoor/Hev4
-\c[4]Fishman：\c[0]    Branding... Eat fish... Won't be hungry...
-\c[4]Fishman：\c[0]    We're... Going home... To beautiful place...
+\c[4]คนปลา：\c[0]    ปั๊มแบรนด์... กินปลา... จะไม่หิว...
+\c[4]คนปลา：\c[0]    เรา... กลับบ้าน... ไปที่สวยงาม...
 
 FishKindDoor/Hev5
-\narr Although they were worried, they did not resist...
-\narr It even seems like many of them volunteered for this.
+\narr แม้ว่าพวกเขาจะกังวล แต่ก็ไม่ได้ต่อต้าน...
+\narr ดูเหมือนว่าหลายคนจะสมัครใจทำเช่นนี้
 
 FishKindDoor/Lona0
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Is Fishtopia Isle really safe?
-\m[confused]\plf\PRF\c[6]Lona：\c[0]    Did they all became slaves voluntarily?
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    เกาะ Fishtopia ปลอดภัยจริงๆ เหรอ?
+\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    พวกเขาสมัครใจเป็นทาสกันหมดเหรอ?
 
 ################################################################################## SLAVE on Board
 
 Captain/Leave_Slave
-\CBct[6]\m[fear]\plf\Rshake\c[6]Lona：\c[0]    Excuse me... You said if I become a slave... I will be allowed to board the ship...
-\CBid[-1,8]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    Hmm\...\...\...
-\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    The crew does lack women who can serve them, and we could use you.
-\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    So, are you sure you want to become our slave?
+\CBct[6]\m[fear]\plf\Rshake\c[6]โลน่า：\c[0]    ขอโทษ... แกบอกว่าถ้ากูเป็นทาส... กูจะได้ขึ้นเรือ...
+\CBid[-1,8]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    ฮึม\...\...\...
+\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    ลูกเรือขาดผู้หญิงที่จะรับใช้พวกมัน และเราสามารถใช้แกได้
+\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    งั้น แกแน่ใจว่าอยากเป็นทาสของเรา?
 
 Captain/Leave_Slave_yes0
-\CBct[8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Okay... Yes... Yes I do...
-\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    Great, we got another one boys!
+\CBct[8]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    โอเค... ใช่... กูยอม...
+\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    ดีเลย เราได้อีกคนแล้วพวก!
 
 Captain/Leave_Slave_yes1
-\m[p5shame]\Rshake\c[6]Lona：\c[0]    You... what are you going to do!?
-\SETpl[AnonMale1]\Lshake\CamCT\C[4]Crewman：\C[0]    Don't move! If you fuck up the brand, your value will be reduced!
-\m[p5sta_damage]\Rshake\c[6]Lona：\c[0]    No, let me go!
-\cg[event_SlaveBrand]\SETpl[AnonMale1]\Lshake\CamCT\C[4]Crewman：\C[0]    I told you not to move! You hear me?!
-\SndLib[sound_AcidBurnLong]\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    \{KYAAAAAAAAAA!
-\SndLib[sound_AcidBurnLong]\m[p5crit_damage]\Rshake\c[6]Lona：\c[0]    \{AIEEEAAAAAAHAHAAA!
-\SndLib[sound_AcidBurnLong]\m[p5crit_damage]\Rshake\c[6]Lona：\c[0]    \{AIEEE-EEE-EEE!
-\narr\ph Lona lost consciousness from the pain\...\...\...
+\m[p5shame]\Rshake\c[6]โลน่า：\c[0]    แก... จะทำอะไรกับกู!?
+\SETpl[AnonMale1]\Lshake\CamCT\C[4]ลูกเรือ：\C[0]    อย่าขยับ! ถ้าแกทำให้แบรนด์เสีย ค่าตัวแกจะลด!
+\m[p5sta_damage]\Rshake\c[6]โลน่า：\c[0]    ไม่ ปล่อยกู!
+\cg[event_SlaveBrand]\SETpl[AnonMale1]\Lshake\CamCT\C[4]ลูกเรือ：\C[0]    กูบอกให้อย่าขยับ! ได้ยินมั้ย?!
+\SndLib[sound_AcidBurnLong]\m[p5health_damage]\Rshake\c[6]โลน่า：\c[0]    \{กรี๊ดดดดดด!
+\SndLib[sound_AcidBurnLong]\m[p5crit_damage]\Rshake\c[6]โลน่า：\c[0]    \{อี๊ดดดดดดดดด!
+\SndLib[sound_AcidBurnLong]\m[p5crit_damage]\Rshake\c[6]โลน่า：\c[0]    \{อี๊ด-อี๊ด-อี๊ด!
+\narr\ph โลน่าสลบไปเพราะความเจ็บปวด\...\...\...
 
 Captain/Leave_Slave_no
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uh... let's forget it.
+\CBct[6]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม... ลืมมันไปก่อนเถอะ
 
 Captain/Leave_SlaveTR1
-\SETpr[AnonMale1]\Rshake\C[4]Crewman：\C[0]    Captain, is this...?
-\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    A runaway slave! Take her to the ship.
-\SETpr[AnonMale1]\Rshake\plf\C[4]Crewman：\C[0]    Yes Captain!
+\SETpr[AnonMale1]\Rshake\C[4]ลูกเรือ：\C[0]    กัปตัน นี่...?
+\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    ทาสหนี! พาอีนี่ไปที่เรือ
+\SETpr[AnonMale1]\Rshake\plf\C[4]ลูกเรือ：\C[0]    ครับกัปตัน!
 
 #Captain/Leave_Slave
-#\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]Edward：\c[0]    Go to the backstreets lass, or look for them strange Fishfolks if yer wishin' ta be a slave.
+#\CBid[-1,20]\SETpl[Mfat_DockCaptain]\Lshake\prf\c[4]เอ็ดเวิร์ด：\c[0]    ไปที่ซอยหลังบ้านสาวน้อย หรือไปหาพวกคนปลาแปลกๆ ถ้าแกอยากเป็นทาส

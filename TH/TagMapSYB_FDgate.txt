@@ -1,2 +1,4 @@
+XXXXXXXX
+
 ThisMap/OmEnter
-\m[confused]Sybaris Southwest Gate\optB[Leave,Enter]
+\m[confused]ประตูทิศใต้ตะวันตกของไซบาริส\optB[ออก,เข้า]

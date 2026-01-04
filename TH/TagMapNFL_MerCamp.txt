@@ -1,165 +1,167 @@
+XXXXXXXX
+
 NFL_MerCamp/OvermapEnter
-\cg[event_DarkPot]\m[confused]Mercenary's Camp\optB[Leave,Enter]
+\cg[event_DarkPot]\m[confused]ค่ายทหารรับจ้าง\optB[ออก,เข้า]
 
 ##################################################################
 
 NorthFL_AtkOrkCamp/0_1
-\SETpl[AnonMale1]\Lshake\c[4]mercenary：\c[0]    It's a monster! The green skins are here!
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Greenskins? Orcs?! Where?!
+\SETpl[AnonMale1]\Lshake\c[4]ทหารรับจ้าง：\c[0]    มันเป็นปีศาจ! พวกผิวเขียวมาถึงแล้ว!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    พวกผิวเขียว? ออร์ค?! ที่ไหน?! 
 
 NorthFL_AtkOrkCamp/0_2
-\BonMP[YellingSub,20]\SETpl[AnonMale1]\Lshake\c[4]mercenary：\c[0]    Run for your lives!
-\CBct[2]\m[terror]\plh\Rshake\c[6]Lona：\c[0]    What? Are you talking about me?!
+\BonMP[YellingSub,20]\SETpl[AnonMale1]\Lshake\c[4]ทหารรับจ้าง：\c[0]    วิ่งหนีชีวิตกันเถอะ!
+\CBct[2]\m[terror]\plh\Rshake\c[6]โลน่า：\c[0]    อะไรนะ? แกพูดถึงหนูหรือเปล่า?!
 
 NorthFL_AtkOrkCamp/0_3
-\BonMP[Leader,20]\SETpr[WildSwordmanLeader]\Rshake\c[4]Mercenary Captain：\c[0]    \{Halt!!
+\BonMP[Leader,20]\SETpr[WildSwordmanLeader]\Rshake\c[4]หัวหน้าทหารรับจ้าง：\c[0]    \{หยุด!!
 
 NorthFL_AtkOrkCamp/0_4
-\BonMP[Leader,20]\SETpr[WildSwordmanLeader]\Rshake\c[4]Mercenary Captain：\c[0]    Take another look! Those are people, living people!
+\BonMP[Leader,20]\SETpr[WildSwordmanLeader]\Rshake\c[4]หัวหน้าทหารรับจ้าง：\c[0]    มองให้ดีอีกที! นั่นคือคน คนที่ยังมีชีวิต!
 
 NorthFL_AtkOrkCamp/0_5
-\BonMP[Leader,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    What are you doing standing there, come in quickly!
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    \{Yes!
+\BonMP[Leader,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    แกยืนอยู่ทำไม รีบเข้ามาสิ!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    \{ได้!
 
 Leader/RecQuestNorthFL_AtkOrkCamp2_1
-\CBid[-1,8]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    I didn't expect to encounter any living people who had escaped from the city.
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    From the city? You mean \c[4]Sybaris\c[0]?
-\CBct[20]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Well\..\..\.. Yes, I escaped from the city a long time ago.
-\CBid[-1,8]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    \..\..\..\Lshake So what are you doing? Why did you come back? This is hell, a battlefield!
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Well... Just passing by?
-\CBid[-1,8]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    \..\..\..Passing by?
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Yes, I want to go home and see what happened to my house.
-\CBid[-1,8]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    .....
+\CBid[-1,8]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    ไม่คิดว่าจะเจอคนที่หนีออกมาจากเมืองได้.
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    จากเมือง? แกหมายถึง \c[4]ไซบาริส\c[0]?
+\CBct[20]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    อืม\..\..\.. ใช่ หนูหนีออกจากเมืองมานานแล้ว.
+\CBid[-1,8]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    \..\..\..\Lshake แล้วแกทำอะไรอยู่? ทำไมถึงกลับมา? ที่นี่คือนรก สนามรบ!
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม... แค่ผ่านมา?
+\CBid[-1,8]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    \..\..\..ผ่านมา?
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    ใช่ หนูอยากกลับบ้านและดูว่าบ้านหนูเป็นยังไงบ้าง.
+\CBid[-1,8]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    ......
 
 Leader/OPT_About0
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    So...What is this place? What are you doing here?
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    We are trying to rescue those who have escaped from the city....
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Rescue? Aren't you mercenaries?
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    Yes, in name. I originally opened a small hotel in the west port area of ​​the city, where I had a family and children.
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    We formed the mercenary group to find our families, but now we are also in trouble.
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    We didn't succeed in rescuing anyone, and even got our own people killed.
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    He is my best mate and I have to bring him out. Even if he's dead already, I just have to get him out somehow.
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    .......
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    งั้น...ที่นี่คือที่ไหน? แกทำอะไรที่นี่?
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    เรากำลังพยายามช่วยคนที่หนีออกมาจากเมือง....
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    ช่วย? แกไม่ใช่ทหารรับจ้างหรอ?
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    ใช่ ในนาม ตอนแรกผมเปิดโรงแรมเล็กๆ ที่ท่าเรือตะวันตกของเมือง ที่นั่นผมมีครอบครัวและลูกๆ.
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    เราตั้งกลุ่มทหารรับจ้างเพื่อหาครอบครัวของเรา แต่ตอนนี้เราก็มีปัญหาเหมือนกัน.
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    เราไม่สำเร็จในการช่วยใคร และยังทำให้คนของเราเสียชีวิต.
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    เขาคือเพื่อนที่ดีที่สุดของผม ผมต้องพาตัวเขาออกมา แม้ว่าเขาจะตายไปแล้ว ผมก็ต้องหาทางพาตัวเขาออกมาให้ได้.
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    .......
 
 Leader/OPT_Mail0
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Um.... I have a letter here from Coastal Fortress?
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Should it be for you?
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    Letter?
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    That's right! From the captain of Coastal Fortress.
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม.... หนูมีจดหมายจากป้อมปราการชายฝั่ง?
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    น่าจะเป็นของแกใช่มั้ย?
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    จดหมาย?
+\CBct[20]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    ใช่! จากหัวหน้าป้อมปราการชายฝั่ง.
 
 Leader/OPT_Mail1
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\c[4]Mercenary Captain：\c[0]    Salt?
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Salt?
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    What did he mean by salt?!
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Well...Besides salt, what else did he say about saving the world?...
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I don't understand either, but he seems to be very serious about it.
-\CBid[-1,5]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    I've done so much and killed so many brothers just for this stupid salt?!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Well... Are you okay?
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\c[4]หัวหน้าทหารรับจ้าง：\c[0]    เกลือ?
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    เกลือ?
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    เขาหมายถึงเกลืออะไร?!
+\CBct[20]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม... นอกจากเกลือ เขาพูดถึงการช่วยโลกอะไรอีก?...
+\CBct[20]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    หนูก็ไม่เข้าใจเหมือนกัน แต่เขาดูจริงจังมาก.
+\CBid[-1,5]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    ผมทำมากมายและสังหารพี่น้องมากมายเพียงเพราะเกลือโง่ๆ นี้?!
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม... แกโอเคมั้ย?
 
 Leader/OPT_Work0
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    Um\..\..\..
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    My companions got lost while investigating the greenskin camp to the east.
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    We have to save them, and I'm sure you can help us.
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Well... But I'm just a passersby....
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    อืม\..\..\..
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    เพื่อนร่วมทางของผมหายตัวไปขณะสำรวจค่ายพวกผิวเขียวทางตะวันออก.
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    เราต้องช่วยพวกเขา และผมแน่ใจว่าแกช่วยเราได้.
+\CBct[20]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม... แต่หนูแค่คนผ่านทาง....
 
 Leader/OPT_Work1_board
-\board[Save teammates]
-Goal： Save the mercenary captain's companion.
-Reward： 1 Big Copper Coin
-Client： Mercenary Captain
-Quest Term： Single offer
-Go to the orkind camp in the east of this campsite,
-And save the mercenary captain's companion.
+\board[ช่วยเพื่อนร่วมทีม]
+เป้าหมาย： ช่วยเพื่อนของหัวหน้าทหารรับจ้าง.
+รางวัล： เหรียญทองแดงใหญ่ 1 เหรียญ
+ผู้ว่าจ้าง： หัวหน้าทหารรับจ้าง
+เงื่อนไขภารกิจ： ข้อเสนอเดี่ยว
+ไปที่ค่ายพวกออร์คทางตะวันออกของค่ายนี้,
+และช่วยเพื่อนของหัวหน้าทหารรับจ้าง.
 
 Leader/OPT_Work2_accept
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Okay, that should be no problem.
+\CBct[20]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    \..\..\..
+\CBct[20]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    โอเค ไม่น่าจะมีปัญหา.
 
 Leader/OPT_Work2_no
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    I'm sorry... I have something else to do...
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    ขอโทษ... หนูมีธุระอื่น...
 
 Leader/OPT_Work2_accept1
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    Good, lets meet in there.
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    ดี มาเจอกันที่นั่น.
 
 Invade/NFL_MerCamp_Invade_3
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\c[4]Mercenary Captain：\c[0]    Well done, I didn't expect you to survive.
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\c[4]หัวหน้าทหารรับจ้าง：\c[0]    ทำได้ดี ไม่คิดว่าแกจะรอด.
 
 Leader/else
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\c[4]Mercenary Captain：\c[0]    ....
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\c[4]หัวหน้าทหารรับจ้าง：\c[0]    .....
 
 OrcSlaveMaster/begin
-\CBmp[OrcSlaveMaster,20]\SndLib[sound_OrcSkill]\SETpl[OrcSlaveMaster_mask]\Lshake\c[4]Leather Face：\c[0]    \C[1]\{Horse Cock!!！
+\CBmp[OrcSlaveMaster,20]\SndLib[sound_OrcSkill]\SETpl[OrcSlaveMaster_mask]\Lshake\c[4]หน้าหนัง：\c[0]    \C[1]\{ควยม้า!!！
 
 ################################################################## Commoner
 
 commoner/BeginRNG0
-\CBid[-1,20]\c[4]mercenary：\c[0]    You are a survivor from the city?
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    แกเป็นผู้รอดชีวิตจากเมือง?
 
 commoner/BeginRNG1
-\CBid[-1,20]\c[4]mercenary：\c[0]    Is there anyone alive in the city? !
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    มีใครยังมีชีวิตอยู่ในเมืองไหม? !
 
 commoner/BeginRNG2
-\CBid[-1,20]\c[4]mercenary：\c[0]    Maybe my family is still alive too?
+\CBid[-1,20]\c[4]ทหารรับจ้าง：\c[0]    อาจจะครอบครัวผมยังมีชีวิตอยู่ด้วย?
 
 commoner/WhoreWork_failed0
-\CBid[-1,5]\c[4]mercenary：\c[0]    I don't have time for this!
+\CBid[-1,5]\c[4]ทหารรับจ้าง：\c[0]    ไม่มีเวลาทำอย่างนี้!
 
 commoner/WhoreWork_failed1
-\CBid[-1,5]\c[4]mercenary：\c[0]    You're going to die and you're still doing this?
+\CBid[-1,5]\c[4]ทหารรับจ้าง：\c[0]    แกจะตายแล้วยังทำอย่างนี้อยู่?
 
 commoner/WhoreWork_failed2
-\CBid[-1,5]\c[4]mercenary：\c[0]    Let’s survive first.
+\CBid[-1,5]\c[4]ทหารรับจ้าง：\c[0]    รอดชีวิตก่อนดีกว่า.
 
 ################################################################## #NFL_MerCamp_Invade
 
 Invade/0
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Um?
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม?
 
 Invade/1
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    \..\..\..
-\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]Mercenary Captain：\c[0]    Incoming! East side!
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    \..\..\..
+\CBid[-1,20]\SETpl[WildSwordmanLeader]\Lshake\prf\c[4]หัวหน้าทหารรับจ้าง：\c[0]    มาแล้ว! ทางตะวันออก!
 
 Invade/2_typical
-\CBct[2]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    Incoming? What's coming in??
+\CBct[2]\m[flirty]\plf\Rshake\c[6]โลน่า：\c[0]    มาแล้ว? อะไรมา?
 
 Invade/2_tsundere
-\CBct[6]\m[serious]\plf\Rshake\c[6]Lona：\c[0]    Incoming? Orkinds?!
+\CBct[6]\m[serious]\plf\Rshake\c[6]โลน่า：\c[0]    มาแล้ว? พวกออร์ค?!
 
 Invade/2_gloomy
-\CBct[6]\m[fear]\plf\PRF\c[6]Lona：\c[0]    What's coming? Is it the Monsters?!
+\CBct[6]\m[fear]\plf\PRF\c[6]โลน่า：\c[0]    อะไรมา? เป็นปีศาจหรือเปล่า?!
 
 Invade/2_slut
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Coming? You said you were going?
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    มา? แกบอกว่าแกจะไป?
 
 Invade/3_wave2
-Here we go again! East!
+มาอีกแล้ว! ทางตะวันออก!
 
 Invade/3_wave3
-More! Big one!
+มากขึ้น! ตัวใหญ่!
 
 Invade/3_waveEND
-\BonMP[Leader,20]\SETpl[WildSwordmanLeader]\Lshake\c[4]Mercenary Captain：\c[0]    It looks like it's over. Are you still alive?
+\BonMP[Leader,20]\SETpl[WildSwordmanLeader]\Lshake\c[4]หัวหน้าทหารรับจ้าง：\c[0]    ดูเหมือนจะจบแล้ว แกยังมีชีวิตอยู่มั้ย?
 
 Invade/4_BossDefeat0
-\BonID[-1,8]\m[confused]\PRF\c[6]Lona：\c[0]    \..\..\..\Rshake\m[flirty]I don’t know why, but I always think it looks cute?
+\BonID[-1,8]\m[confused]\PRF\c[6]โลน่า：\c[0]    \..\..\..\Rshake\m[flirty]ไม่รู้ทำไม แต่หนูรู้สึกว่ามันน่ารัก?
 
 Invade/4_BossDefeat1
-\BonMP[Leader,20]\SETpl[WildSwordmanLeader]\Lshake\c[4]Mercenary Captain：\c[0]    Success! We drove them away!
+\BonMP[Leader,20]\SETpl[WildSwordmanLeader]\Lshake\c[4]หัวหน้าทหารรับจ้าง：\c[0]    สำเร็จ! เราขับไล่พวกมันได้!
 
 Leader/BattleQmsg0
-Man the fighting positions!
+เตรียมตำแหน่งรบ!
 
 Leader/BattleQmsg1
-Here they come!
+มันมาแล้ว!
 
 Commoner/BattleQmsg0
-Greenskins again!
+พวกผิวเขียวอีกแล้ว!
 
 Commoner/BattleQmsg1
-We are surrounded!
+เราถูกล้อม!
 
 Commoner/Qmsg_lose0
-Run away quickly!
+รีบหนี!
 
 Commoner/Qmsg_lose1
-I don't want to die!
+ไม่อยากตาย!

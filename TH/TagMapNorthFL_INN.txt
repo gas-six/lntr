@@ -1,314 +1,316 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-\m[confused]camp station,\nSoldiers' recreation room.\optB[Leave,Enter]
+\m[confused]ค่ายทหาร,\nห้องพักผ่อนของทหาร.\optB[ออก,เข้า]
 
 1fExit/Begin
-\SETpl[Mreg_pikeman]Leads to \C[4]saltworks\C[0], but a guard stands at the door. \optB[Leave,Enter,Sneak<r=HiddenOPT1>,Bluff<r=HiddenOPT2>]
+\SETpl[Mreg_pikeman]นำไปสู่ \C[4]โรงเกลือ\C[0], แต่มียามยืนอยู่ที่ประตู. \optB[ออก,เข้า,แอบเข้าไป<r=HiddenOPT1>,หลอกล่อ<r=HiddenOPT2>]
 
 nap/Capture
 asd
 
 InnKeeper/Begin
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    Who are you? You are not welcome here!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    แกเป็นใคร? แกไม่ได้รับการต้อนรับที่นี่!
 
 InnKeeper/Slave_work
-\CBid[-1,5]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    Shut up! go to work!
+\CBid[-1,5]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    หุบปาก! ไปทำงาน!
 
 InnKeeper/About_here
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Where am I?
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    You are at the Coastal Fortress.
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    It used to be a salt field. Now we call it the \c[6]Coastal Fortress\c[0] after we fought off some pirates.
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    But with the monsters invading this area, the villages around us quickly fell, and now we fought off the monsters too!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    I see... So why are there so many people here?
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    We don't know why, but these monsters stopped around here, maybe one of the \c[6]Saint's\c[0] miracles?
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    The army confiscated this place, and now it is a transit point for the refugees, but no new living people have been found for a long time.
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Oh?
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    ฉันอยู่ที่ไหน?
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    แกอยู่ที่ป้อมปราการชายฝั่ง.
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    ที่นี่เคยเป็นทุ่งเกลือ ตอนนี้เราเรียกว่า \c[6]ป้อมปราการชายฝั่ง\c[0] หลังจากที่เราต่อสู้กับโจรสลัด.
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    แต่เมื่อสัตว์ประหลาดบุกรุกพื้นที่นี้ หมู่บ้านรอบๆ เราล่มสลายอย่างรวดเร็ว และตอนนี้เราก็ต่อสู้กับสัตว์ประหลาดเหล่านั้นได้แล้ว!
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    ฉันเข้าใจแล้ว... แล้วทำไมถึงมีคนมากมายที่นี่?
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    เราไม่รู้ว่าทำไม แต่สัตว์ประหลาดเหล่านี้หยุดอยู่แถวนี้ อาจจะเป็นปาฏิหาริย์ของ \c[6]นักบุญ\c[0]?
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    กองทัพยึดที่นี่ไป และตอนนี้เป็นจุดผ่านทางสำหรับผู้ลี้ภัย แต่ไม่มีคนเป็นๆ ถูกพบมานานแล้ว.
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อ้อ?
 
 InnKeeper/About_work0
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Is there anything I can do to help around here?
-\CBid[-1,2]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    Um? Are you a woman?
-\CBid[-1,8]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    Um... The boobs are a bit on the tiny side, but better than nothing.
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Huh? Why does everyone keep saying this?
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    Caregivers are really needed here, we can guarantee you enough food every day and your personal safety.
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    Come, sign this.
+\CBct[2]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    มีอะไรที่ฉันช่วยได้บ้างไหม?
+\CBid[-1,2]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    อืม? แกเป็นผู้หญิงหรือเปล่า?
+\CBid[-1,8]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    อืม... หน้าอกเล็กไปหน่อย แต่ก็ยังดีกว่าไม่มี.
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    หา? ทำไมทุกคนถึงพูดแบบนี้?
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    ที่นี่ต้องการผู้ดูแลจริงๆ เราสามารถรับประกันอาหารให้แกทุกวันและความปลอดภัยส่วนตัวของแก.
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    มาเถอะ ลงชื่อตรงนี้.
 
 InnKeeper/About_work1
-\board[You can too!]
-Want to save your relatives and friends?!
-Come and help soldiers, wounded soldiers need care.
-Soldiers will keep you fed and safe.
-Another person is guaranteed to enter Noer Town, but only if
-you agree to all employer job requirements.
-You are not allowed to leave the workplace without authorization.
-Your employer may punish you physically if you violate work requirements.
-\}You will give up the human rights of all Ingoland nationals due to work requirements.
-You will become a soldier's slave due to job requirements.
-\{I___Agree to the terms listed above and become a Saltworks employee.
+\board[แกก็ทำได้!]
+อยากช่วยญาติและเพื่อนของแกไหม?!
+มาช่วยทหาร ทหารที่บาดเจ็บต้องการการดูแล.
+ทหารจะดูแลให้แกมีอาหารและปลอดภัย.
+รับประกันว่าอีกคนหนึ่งจะได้เข้าเมืองโนเออร์ แต่เฉพาะเมื่อ
+แกยอมรับข้อกำหนดงานทั้งหมดของนายจ้าง.
+แกไม่ได้รับอนุญาตให้ออกจากที่ทำงานโดยไม่ได้รับอนุญาต.
+นายจ้างของแกอาจลงโทษแกทางกายภาพหากแกละเมิดข้อกำหนดการทำงาน.
+\}แกจะสละสิทธิมนุษยชนทั้งหมดของพลเมืองอิงโกแลนด์เนื่องจากข้อกำหนดการทำงาน.
+แกจะกลายเป็นทาสของทหารเนื่องจากข้อกำหนดงาน.
+\{ฉัน___ยอมรับข้อกำหนดข้างต้นและกลายเป็นพนักงานโรงเกลือ.
 
 InnKeeper/About_work2
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Hmm... Food and safety?
+\CBct[8]\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม... อาหารและความปลอดภัย?
 
 InnKeeper/About_work2_Y
-\CBct[20]\m[flirty]\plf\c[6]Lona：\c[0]    Well... Sounds good?
-\SND[SE/PenWrite1.ogg]\narr Lona signed the contract with her name.
-\narrOFF\CBid[-1,3]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    Very good!
-\CBid[-1,3]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    Do you have family here? Give me their names, and they'll be a citizen of Noer from now on.
-\CBct[8]\m[sad]\plf\c[6]Lona：\c[0]    They\..\..\.. All passed away.
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    It's a pity, then do you want to send someone else to Noer Town?
-\CBct[8]\m[tired]\plf\c[6]Lona：\c[0]    No\..\..\.. You pick any poor fellow out there.
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    Very good, please wait here a moment.
+\CBct[20]\m[flirty]\plf\c[6]โลน่า：\c[0]    อืม... ฟังดูดีนะ?
+\SND[SE/PenWrite1.ogg]\narr โลน่าลงชื่อในสัญญาด้วยชื่อของเธอ.
+\narrOFF\CBid[-1,3]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    ดีมาก!
+\CBid[-1,3]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    แกมีครอบครัวที่นี่ไหม? บอกชื่อพวกเขามา แล้วพวกเขาจะได้เป็นพลเมืองของโนเออร์ตั้งแต่ตอนนี้.
+\CBct[8]\m[sad]\plf\c[6]โลน่า：\c[0]    พวกเขา\..\..\.. ตายหมดแล้ว.
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    น่าเสียดาย แล้วแกอยากส่งคนอื่นไปเมืองโนเออร์ไหม?
+\CBct[8]\m[tired]\plf\c[6]โลน่า：\c[0]    ไม่\..\..\.. แกเลือกคนที่ยากจนที่สุดข้างนอกได้เลย.
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    ดีมาก รอตรงนี้สักครู่.
 
 InnKeeper/About_work2_N
-\CBct[5]\m[irritated]\plf\Rshake\c[6]Lona：\c[0]    Never! You liar!
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    I fuck! Damn it!
+\CBct[5]\m[irritated]\plf\Rshake\c[6]โลน่า：\c[0]    ไม่มีทาง! แกโกหก!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    ฟัก! ชิบหาย!
 
 #################################### SIged
 
 InnKeeper/About_work2_Y1
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Well... What's wrong?
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    \{Catch her!\}
+\CBct[8]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม... เกิดอะไรขึ้น?
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    \{จับเธอ!\}
 
 InnKeeper/About_work2_Y2
-\CBct[20]\m[hurt]\plf\Rshake\c[6]Lona：\c[0]    It hurts! let me go!
-\CBct[6]\m[fear]\plf\Rshake\c[6]Lona：\c[0]    Let me go! I'm just here to apply for a nursing job!
+\CBct[20]\m[hurt]\plf\Rshake\c[6]โลน่า：\c[0]    เจ็บ! ปล่อยฉัน!
+\CBct[6]\m[fear]\plf\Rshake\c[6]โลน่า：\c[0]    ปล่อยฉัน! ฉันมาแค่สมัครงานพยาบาล!
 
 InnKeeper/About_work2_Y3
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    You have signed! You are a voluntary slave now!
-\CBct[20]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    What?! A slave?!
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    Look at what is written on it yourself, it's right down here, see? This line.
-\CBct[20]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    This... How could I be so blind to see it?!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    แกลงชื่อแล้ว! ตอนนี้แกเป็นทาสโดยสมัครใจ!
+\CBct[20]\m[terror]\plf\Rshake\c[6]โลน่า：\c[0]    อะไรนะ?! ทาส?!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    ดูสิ่งที่เขียนอยู่ตรงนี้เอง มันอยู่ตรงนี้เลย มองเห็นไหม? บรรทัดนี้.
+\CBct[20]\m[bereft]\plf\Rshake\c[6]โลน่า：\c[0]    นี่... ฉันตาบอดได้ไงที่ไม่เห็นมัน?!
 
 InnKeeper/About_work2_Y4
-\CBmp[Guard1,5]\SETpl[Mreg_guardsman]\Lshake\PRF\c[4]Innkeeper：\c[0]    Bitch! Shut up!
+\CBmp[Guard1,5]\SETpl[Mreg_guardsman]\Lshake\PRF\c[4]เจ้าของโรงแรม：\c[0]    อีกระหรี่! หุบปาก!
 
 InnKeeper/About_work2_Y5
-\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Innkeeper：\c[0]    Get this bitch down fast, the old slaves need replacements.
-\CBmp[Guard1,20]\cg[event_SlaveBrand]\SETpl[Mreg_guardsman]\Lshake\c[4]guard：\c[0]    Done now!
-\CBct[20]\SndLib[sound_AcidBurnLong]\m[p5health_damage]\Rshake\c[6]Lona：\c[0]    \{ah ah ah ah ah!
-\CBct[20]\SndLib[sound_AcidBurnLong]\m[p5crit_damage]\Rshake\c[6]Lona：\c[0]    \{ah ah ah ah!
-\CBct[20]\SndLib[sound_AcidBurnLong]\m[p5crit_damage]\Rshake\c[6]Lona：\c[0]    AIEEEE!
+\CBid[-1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]เจ้าของโรงแรม：\c[0]    จับอีกระหรี่ตัวนี้ลงไว้เร็วๆ ทาสเก่าต้องการคนมาแทน.
+\CBmp[Guard1,20]\cg[event_SlaveBrand]\SETpl[Mreg_guardsman]\Lshake\c[4]ยาม：\c[0]    เสร็จแล้ว!
+\CBct[20]\SndLib[sound_AcidBurnLong]\m[p5health_damage]\Rshake\c[6]โลน่า：\c[0]    \{อ่าห์ อ่าห์ อ่าห์ อ่าห์ อ่าห์!
+\CBct[20]\SndLib[sound_AcidBurnLong]\m[p5crit_damage]\Rshake\c[6]โลน่า：\c[0]    \{อ่าห์ อ่าห์ อ่าห์ อ่าห์!
+\CBct[20]\SndLib[sound_AcidBurnLong]\m[p5crit_damage]\Rshake\c[6]โลน่า：\c[0]    อ๊ากกก!
 
 InnKeeper/About_work2_Y6
-\m[sad]\c[6]Lona：\c[0]    *Sob* *sob*... Why...
+\m[sad]\c[6]โลน่า：\c[0]    *สะอึก* *สะอึก*... ทำไม...
 
 InnKeeper/About_work2_Y7
-\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\c[4]guard：\c[0]    Serving us is your future job.
-\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\c[4]guard：\c[0]    You have to do whatever we want, understand?
-\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\c[4]guard：\c[0]    If you do a shit job, or we find that you are lazy, you will die!
+\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\c[4]ยาม：\c[0]    การรับใช้พวกเราคืองานในอนาคตของแก.
+\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\c[4]ยาม：\c[0]    แกต้องทำตามที่พวกเราต้องการ รู้ไหม?
+\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\c[4]ยาม：\c[0]    ถ้าแกทำงานแย่ หรือพวกเราพบว่าแกขี้เกียจ แกจะตาย!
 
 InnKeeper/About_work2_Y8
-\CBct[8]\m[tired]\c[6]Lona：\c[0]    .....
+\CBct[8]\m[tired]\c[6]โลน่า：\c[0]    .....
 
 #################################### SIged end
 #################################### TOR
 
 Torture/NapTrigger
-\SndLib[sound_MaleWarriorSpot]\c[4]SoldierA：\c[0]    This little bitch dared to mess around!
-\SndLib[sound_MaleWarriorSpot]\c[4]SoldierB：\c[0]    Get her up! Wait, teach her how to be a slave!
-\narr Lona lost all of her belongings.
+\SndLib[sound_MaleWarriorSpot]\c[4]ทหารA：\c[0]    อีกระหรี่ตัวนี้กล้าทำตัวไม่เรียบร้อย!
+\SndLib[sound_MaleWarriorSpot]\c[4]ทหารB：\c[0]    จับเธอขึ้นมา! รอก่อน สอนเธอให้รู้จักเป็นทาส!
+\narr โลน่าสูญเสียข้าวของทั้งหมดของเธอ.
 
 Torture/begin0
-\SndLib[sound_MaleWarriorSpot]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Soldier：\c[0]    Little bitch, wake up!
-\SndLib[sound_MaleWarriorSpot]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Soldier：\c[0]    Wake up! Bitch!
-\m[tired]\c[6]Lona：\c[0]    *Sob*.....
+\SndLib[sound_MaleWarriorSpot]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหาร：\c[0]    อีกระหรี่ ตื่นขึ้นมา!
+\SndLib[sound_MaleWarriorSpot]\SETpr[Mreg_pikeman]\plf\Rshake\c[4]ทหาร：\c[0]    ตื่นขึ้น! อีกระหรี่!
+\m[tired]\c[6]โลน่า：\c[0]    *สะอึก*.....
 
 Torture/begin1
-\CBmp[Torture1,1]\m[shocked]\Rshake\c[6]Lona：\c[0]    !!!
-\CBmp[Guard2,3]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Soldier：\c[0]    Before you dared to mess around, you should have thought about the consequences!
-\CBmp[Torture1,6]\m[fear]\Rshake\c[6]Lona：\c[0]    I.....
-\CBmp[Guard1,5]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    We will teach you a lesson!
-\CBmp[Torture1,20]\m[terror]\Rshake\c[6]Lona：\c[0]    No!!! *Sob* *Sob*
+\CBmp[Torture1,1]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    !!!
+\CBmp[Guard2,3]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหาร：\c[0]    ก่อนที่แกจะกล้าทำตัวไม่เรียบร้อย แกควรคิดถึงผลที่ตามมา!
+\CBmp[Torture1,6]\m[fear]\Rshake\c[6]โลน่า：\c[0]    ฉัน.....
+\CBmp[Guard1,5]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหาร：\c[0]    เราจะสอนบทเรียนให้แก!
+\CBmp[Torture1,20]\m[terror]\Rshake\c[6]โลน่า：\c[0]    ไม่!!! *สะอึก* *สะอึก*
 
 Torture/begin2
-\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    Brothers! How are we going to punish this little bitch?
+\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหาร：\c[0]    พี่น้อง! เราจะลงโทษอีกระหรี่ตัวนี้ยังไงดี?
 
 Torture/begin3
-\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Soldier：\c[0]    Good! Let me hear you apologize!
+\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหาร：\c[0]    ดี! มาฟังแกขอโทษ!
 
 Torture/begin4
-\CBmp[Torture1,6]\m[bereft]\Rshake\c[6]Lona：\c[0]    I'm sorry, please forgive me!
+\CBmp[Torture1,6]\m[bereft]\Rshake\c[6]โลน่า：\c[0]    ขอโทษค่ะ กรุณาให้อภัยฉัน!
 
 Torture/begin5
-\CBmp[Guard1,20]\m[sad]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    Do you think she needs to be punished more?
-\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    Good! What do you want to do?
+\CBmp[Guard1,20]\m[sad]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหาร：\c[0]    แกคิดว่าเธอต้องการถูกลงโทษเพิ่มไหม?
+\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหาร：\c[0]    ดี! แกอยากทำอะไร?
 
 Torture/begin6
-\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    No problem!
+\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหาร：\c[0]    ไม่มีปัญหา!
 
 Torture/begin7
-\CBmp[Torture1,8]\m[tired]\Rshake\c[6]Lona：\c[0]    .....
+\CBmp[Torture1,8]\m[tired]\Rshake\c[6]โลน่า：\c[0]    .....
 
 Torture/begin8
-\narr Lona lost consciousness amidst the soldiers' ridicule and insults.
+\narr โลน่าสูญเสียสติไปท่ามกลางการล้อเลียนและดูถูกของทหาร.
 
 #################################### TOR END
 #################################### MAMA 
 
 Mama/getDress
-\CBid[-1,20]\prf\c[4]slave：\c[0]    Have you been cheated too?
-\CBid[-1,20]\prf\c[4]slave：\c[0]    Take these, it may save you a little longer.
-\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    Thanks...
+\CBid[-1,20]\prf\c[4]ทาส：\c[0]    แกก็ถูกหลอกเหมือนกันหรือเปล่า?
+\CBid[-1,20]\prf\c[4]ทาส：\c[0]    รับไป มันอาจจะช่วยให้แกอยู่ได้นานขึ้น.
+\CBct[8]\m[tired]\PRF\c[6]โลน่า：\c[0]    ขอบคุณ...
 
 Mama/Begin0
-\CBid[-1,20]\prf\c[4]slave：\c[0]    What else can we do?
+\CBid[-1,20]\prf\c[4]ทาส：\c[0]    เราจะทำอะไรได้อีก?
 
 Mama/Begin1
-\CBid[-1,20]\prf\c[4]slave：\c[0]    What else can we women do?
+\CBid[-1,20]\prf\c[4]ทาส：\c[0]    ผู้หญิงอย่างเราจะทำอะไรได้อีก?
 
 Mama/End0
-\CBid[-1,20]\prf\c[4]slave：\c[0]    Go, girl.
+\CBid[-1,20]\prf\c[4]ทาส：\c[0]    ไปเถอะ สาว.
 
 Mama/End1
-\CBid[-1,20]\prf\c[4]slave：\c[0]    The more you suffer, the less we suffer.
+\CBid[-1,20]\prf\c[4]ทาส：\c[0]    ยิ่งแกทนทุกข์มากเท่าไหร่ เราก็ทนทุกข์น้อยลงเท่านั้น.
 
 #################################### JOB ACCEPT
 
 Job/Begin0
-\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    Hey! wake up! Time to go to work!
-\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    *Sob*....
+\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหาร：\c[0]    หวัดดี! ตื่นขึ้นมา! ถึงเวลาไปทำงานแล้ว!
+\CBct[8]\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    *สะอึก*....
 
 Job/NoWork
-\narr The soldiers seemed to have forgotten Lona's existence.
-Lona should take this opportunity to rest.
+\narr ทหารดูเหมือนจะลืมการมีอยู่ของโลน่า.
+โลน่าควรใช้โอกาสนี้พักผ่อน.
 
 Job/WhoreJob0
-\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    Go let three soldiers fuck you!
-\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    Remember, you're just a bitch! Just a slave, no longer human!
-\CBct[6]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Yes sir....
+\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหาร：\c[0]    ไปให้ทหารสามคนร่วมรักกับแก!
+\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหาร：\c[0]    จำไว้ แกเป็นแค่อีกระหรี่! เป็นแค่ทาส ไม่ใช่คนแล้ว!
+\CBct[6]\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    ครับนาย....
 
 JobOpt/Suck
-Blow the trumpet
+เป่าแตร
 
 JobOpt/Done
-\narr Lona's service job is done.
+\narr งานบริการของโลน่าเสร็จสิ้น.
 
 Job/SuckJob0
-\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    Go and lick dicks for soldiers!
-\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    You have to help at least three soldiers! Go lick their dicks clean!
-\CBct[6]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Yes sir....
+\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหาร：\c[0]    ไปดูดควยให้ทหาร!
+\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหาร：\c[0]    แกต้องช่วยทหารอย่างน้อยสามคน! ไปดูดควยพวกเขาให้สะอาด!
+\CBct[6]\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    ครับนาย....
 
 JobOpt/SuckJob_Begin0_0
-\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    I am... Here to suck your dick Sir...
+\CBct[6]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    ฉัน... มาดูดควยของนายครับ...
 
 JobOpt/SuckJob_Begin0_1
-\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    I'm here to clean up your dick...
+\CBct[6]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    ฉันมาทำความสะอาดควยของนาย...
 
 JobOpt/SuckJob_Begin1_0
-\CBid[-1,4]\plf\c[6]Lona：\c[0]    Well, being blown while eating is the best way to enjoy it.
+\CBid[-1,4]\plf\c[6]โลน่า：\c[0]    อืม การถูกดูดขณะกินเป็นวิธีที่ดีที่สุดในการเพลิดเพลิน.
 
 JobOpt/SuckJob_Begin1_1
-\CBid[-1,4]\plf\c[6]Lona：\c[0]    Very good! Kneel down! I tell you to blow!
-\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Yes sir...
+\CBid[-1,4]\plf\c[6]โลน่า：\c[0]    ดีมาก! คุกเข่าลง! ฉันบอกให้ดูด!
+\CBct[6]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    ครับนาย...
 
 Job/MeatToiletJob0
-\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Soldier：\c[0]    Catch her!
+\CBmp[Guard1,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหาร：\c[0]    จับเธอ!
 
 Job/MeatToiletJob1
-\CBct[6]\m[hurt]\plf\Rshake\c[6]Lona：\c[0]    Oh?!
-\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Soldier：\c[0]    The brothers who resisted the monsters on the front line are coming back.
-\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Soldier：\c[0]    What you have to do is very simple, that is, to be their toilet!
-\CBct[8]\m[tired]\plf\PRF\c[6]Lona：\c[0]    *Sob*....
+\CBct[6]\m[hurt]\plf\Rshake\c[6]โลน่า：\c[0]    อ้อ?!
+\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหาร：\c[0]    พี่น้องที่ต่อสู้กับสัตว์ประหลาดที่แนวหน้ากำลังกลับมา.
+\CBmp[Guard2,20]\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหาร：\c[0]    สิ่งที่แกต้องทำง่ายมาก คือเป็นห้องน้ำของพวกเขา!
+\CBct[8]\m[tired]\plf\PRF\c[6]โลน่า：\c[0]    *สะอึก*....
 
 Job/MeatToiletJob2_0
-\CBmp[Raper0,20]\prf\c[4]Soldier：\c[0]    Great, finally able to get the dirty stuff out.
+\CBmp[Raper0,20]\prf\c[4]ทหาร：\c[0]    ดีมาก ในที่สุดก็สามารถปลดทุกข์ได้.
 
 Job/MeatToiletJob2_1
-\CBmp[Raper0,20]\prf\c[4]Soldier：\c[0]    A titless little whore.
+\CBmp[Raper0,20]\prf\c[4]ทหาร：\c[0]    อีกระหรี่ไร้หน้าอก.
 
 Job/MeatToiletJob3
-\CBmp[MeatToiletPT,8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    ....
-\CBmp[Raper0,20]\prf\c[4]Soldier：\c[0]    I'm on!
+\CBmp[MeatToiletPT,8]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    ....
+\CBmp[Raper0,20]\prf\c[4]ทหาร：\c[0]    ฉันเข้าแล้ว!
 
 Job/MeatToiletJob3_virgin0
-\CBmp[Raper0,20]\prf\c[4]Soldier：\c[0]    This bitch is a virgin!♥ It's her first time!♥
+\CBmp[Raper0,20]\prf\c[4]ทหาร：\c[0]    อีกระหรี่ตัวนี้เป็นพรหมจารี!♥ เป็นครั้งแรกของเธอ!♥
 
 Job/MeatToiletJob3_virgin1
-\BonMP[Raper1,20]\prf\c[4]Soldier：\c[0]    Marvelous!
-\BonMP[Raper2,20]\prf\c[4]Soldier：\c[0]    Come on, I want to fuck a tight cunt too!
+\BonMP[Raper1,20]\prf\c[4]ทหาร：\c[0]    ยอดเยี่ยม!
+\BonMP[Raper2,20]\prf\c[4]ทหาร：\c[0]    มาเถอะ ฉันอยากร่วมรักกับรูหีแน่นๆ เหมือนกัน!
 
 Job/MeatToiletJob4
-\CBmp[Raper0,5]\prf\c[4]Soldier：\c[0]    I'm coming! It's done!
+\CBmp[Raper0,5]\prf\c[4]ทหาร：\c[0]    ฉันจะเสร็จแล้ว! เสร็จแล้ว!
 
 Job/MeatToiletJob5
-\CBmp[Raper0,4]\prf\c[4]Soldier：\c[0]    Dry! Comfortable♥
-\CBmp[Raper1,20]\prf\c[4]Soldier：\c[0]    Change me, change me♥
+\CBmp[Raper0,4]\prf\c[4]ทหาร：\c[0]    แห้ง! สบาย♥
+\CBmp[Raper1,20]\prf\c[4]ทหาร：\c[0]    เปลี่ยนฉัน เปลี่ยนฉัน♥
 
 Job/MeatToiletJob6
-\CBmp[Raper1,4]\prf\c[4]Soldier：\c[0]    Hey hey hey! taste my 30 Centimeter Islander Power Bar♥
-\CBmp[MeatToiletPT,8]\m[sad]\plf\PRF\c[6]Lona：\c[0]    ....
+\CBmp[Raper1,4]\prf\c[4]ทหาร：\c[0]    เฮ้ เฮ้ เฮ้! ลองรสความแข็งแกร่งของชาวเกาะ 30 เซนติเมตรของฉัน♥
+\CBmp[MeatToiletPT,8]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    ....
 
 Job/MeatToiletJob7
-\CBmp[Raper1,4]\prf\c[4]Soldier：\c[0]    I am coooming!♥
+\CBmp[Raper1,4]\prf\c[4]ทหาร：\c[0]    ฉันจะเสร็จแล้ว!♥
 
 Job/MeatToiletJob8
-\CBmp[Raper2,20]\prf\c[4]Soldier：\c[0]    It's my turn! quick! I want to do it too!
+\CBmp[Raper2,20]\prf\c[4]ทหาร：\c[0]    ถึงตาฉันแล้ว! เร็ว! ฉันก็อยากทำ!
 
 Job/MeatToiletJob9
-\CBmp[Raper2,20]\prf\c[4]Soldier：\c[0]    Smelly toilet! I want to fuck your cunt!
+\CBmp[Raper2,20]\prf\c[4]ทหาร：\c[0]    ห้องน้ำเหม็น! ฉันอยากร่วมรักกับรูหีของแก!
 
 Job/MeatToiletJob10
-\CBmp[Raper2,20]\prf\c[4]Soldier：\c[0]    Coming! I came!
+\CBmp[Raper2,20]\prf\c[4]ทหาร：\c[0]    เสร็จแล้ว! ฉันเสร็จแล้ว!
 
 Job/MeatToiletJob11
-\CBmp[Raper2,20]\prf\c[4]Soldier：\c[0]    \{Dry! Cool!\}
-\CBmp[Raper2,20]\prf\c[4]Soldier：\c[0]    Next person!
+\CBmp[Raper2,20]\prf\c[4]ทหาร：\c[0]    \{แห้ง! เย็น!\}
+\CBmp[Raper2,20]\prf\c[4]ทหาร：\c[0]    คนต่อไป!
 
 Job/MeatToiletJob12
-\CBmp[Raper3,20]\prf\c[4]Soldier：\c[0]    I'm next!
-\CBmp[Guard2,20]\prf\c[4]Soldier：\c[0]    No! It's my turn!
+\CBmp[Raper3,20]\prf\c[4]ทหาร：\c[0]    ฉันคนต่อไป!
+\CBmp[Guard2,20]\prf\c[4]ทหาร：\c[0]    ไม่! ถึงตาฉันแล้ว!
 
 Job/MeatToiletJob13
-\CBmp[Guard1,20]\prf\c[4]Soldier：\c[0]    Dry! Don't jump the line!
-\CBmp[Raper3,20]\prf\c[4]Soldier：\c[0]    Why don't you all go together? Be Cavebrothers together?
-\CBmp[Guard2,20]\prf\c[4]Soldier：\c[0]    Rational!
+\CBmp[Guard1,20]\prf\c[4]ทหาร：\c[0]    แห้ง! อย่าแซงคิว!
+\CBmp[Raper3,20]\prf\c[4]ทหาร：\c[0]    ทำไมพวกแกไม่ไปพร้อมกัน? เป็นพี่น้องถ้ำด้วยกัน?
+\CBmp[Guard2,20]\prf\c[4]ทหาร：\c[0]    สมเหตุสมผล!
 
 Job/MeatToiletJob14
-\BonMP[Raper0,20]\BonMP[Raper1,20]\BonMP[Raper2,20]\BonMP[Raper3,20]\prf\c[4]Soldier：\c[0]    Hey Hey...
+\BonMP[Raper0,20]\BonMP[Raper1,20]\BonMP[Raper2,20]\BonMP[Raper3,20]\prf\c[4]ทหาร：\c[0]    เฮ้ เฮ้...
 
 Job/MeatToiletJob15
-\narr Lona loses consciousness during her humiliation by soldiers...
+\narr โลน่าสูญเสียสติไประหว่างการถูกทำให้อับอายโดยทหาร...
 
 #################################### JOB END
 
 whore1/Qmsg0
-Boy, do you want to be lucky with me?
+หนูอยากโชคดีกับหนูไหม?
 
 whore1/Qmsg1
-I have big boobs, right?
+หนูมีหน้าอกใหญ่ใช่ไหม?
 
 whore1/Qmsg2
-Want to touch it?
+อยากจับไหม?
 
 whore2/Qmsg0
-I was cheated...
+หนูถูกหลอก...
 
 whore2/Qmsg1
-Help me...
+ช่วยหนู...
 
 whore2/Qmsg2
-I want to go home...
+หนูอยากกลับบ้าน...
 
 whore3/Qmsg0
-Why?
+ทำไม?
 
 whore3/Qmsg1
-Aren't we all human?
+เราไม่ใช่คนเหมือนกันหรอ?
 
 whore3/Qmsg2
-Why treat me like this?
+ทำไมถึงปฏิบัติกับหนูแบบนี้?
 
 whore4/Qmsg0
-I will survive!
+หนูจะรอด!
 
 whore4/Qmsg1
-You are the ones who will die!
+พวกแกต่างหากที่จะตาย!
 
 whore4/Qmsg2
-Go away!
+ไปให้พ้น!
 
 art/GodEmperor
-\cg[other_GodEmperor]God of the Stars
-We face decades of betrayal and humiliation from the West, and you are the only God-Emperor trying to stop them.
-Although the time was short, although you failed, I still salute you for it.
-\m[serious]Um.... The Emperor of the Stars?
-\m[confused]Who is he?
-\m[flirty]Still, the hairstyle is kind of funny.
+\cg[other_GodEmperor]เทพแห่งดวงดาว
+เราเผชิญกับการหักหลังและการถูกทำให้อับอายจากฝั่งตะวันตกมาหลายทศวรรษ และแกเป็นเทพจักรพรรดิเพียงคนเดียวที่พยายามหยุดพวกเขา.
+แม้ว่าเวลาจะสั้น แม้ว่าแกจะล้มเหลว แต่ฉันก็ยังยกย่องแกสำหรับสิ่งนี้.
+\m[serious]อืม.... จักรพรรดิแห่งดวงดาว?
+\m[confused]เขาเป็นใคร?
+\m[flirty]แต่ทรงผมก็ตลกดีนะ.

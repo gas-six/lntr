@@ -1,144 +1,146 @@
+XXXXXXXX
+
 #by joko, need sync and clearn up
 #Recently touched up by Partisan 27-10-24
 
 DavidBorn/KnownBegin
-\CBmp[DavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\C[4]Davidborn：\C[0]    Hey! Ain't it the girl champ?
-\CBct[2]\m[confused]\plf\PRF\C[4]Davidborn：\C[0]     Girl champ?
+\CBmp[DavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\C[4]Davidborn：\C[0]    หวัดดี! ไม่ใช่แชมป์สาวหรอกเหรอ?
+\CBct[2]\m[confused]\plf\PRF\C[4]Davidborn：\C[0]     แชมป์สาว?
 
 DavidBorn/BasicOpt
-\m[confused]\optB[Cancel,Team up<r=HiddenOPT0>,Disband<r=HiddenOPT1>]
+\m[confused]\optB[ยกเลิก,ร่วมทีม<r=HiddenOPT0>,ยุบทีม<r=HiddenOPT1>]
 
 DavidBorn/CompData
 \board[Davidborn]
-\C[2]Position：\C[0]Front
-\C[2]Combat Type：\C[0]Melee, Defense
-\C[2]Faction：\C[0]Bandits (Evil)
-\C[2]Hated Foe：\C[0]Evil Creatures, Guards
-\C[2]Cost：\C[0]Less than 100 Weakness
-\C[2]Duration：\C[0]3 days
-\C[2]Unique：\C[0]Does not respawn after death.
-The legendary Dragon Slayer. At least so he says...
+\C[2]ตำแหน่ง：\C[0]หน้า
+\C[2]ประเภทการต่อสู้：\C[0]ประชิดตัว, ป้องกัน
+\C[2]ฝ่าย：\C[0]โจร (ชั่วร้าย)
+\C[2]ศัตรูที่เกลียด：\C[0]สิ่งมีชีวิตชั่วร้าย, ทหารรักษาการณ์
+\C[2]ค่าใช้จ่าย：\C[0]น้อยกว่า 100 จุดอ่อน
+\C[2]ระยะเวลา：\C[0]3 วัน
+\C[2]เฉพาะ：\C[0]ไม่ฟื้นคืนชีพหลังตาย
+ผู้สังหารมังกรตำนาน อย่างน้อยเขาก็พูดอย่างนั้น...
 
 DavidBorn/Comp_win
-\SETpl[DavidBorn_happy]\Lshake\prf\C[4]Davidborn：\C[0]    A new adventure? Let's go!
+\SETpl[DavidBorn_happy]\Lshake\prf\C[4]Davidborn：\C[0]    ผจญภัยใหม่? ไปกันเถอะ!
 
 DavidBorn/Comp_failed
-\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    You are too weak!
+\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    แกอ่อนแอเกินไป!
 
 DavidBorn/Comp_failed_slave
-\SETpl[DavidBorn_angry]\Lshake\prf\C[4]Davidborn：\C[0]    Fuck off, slave! How dare you point at me?!
+\SETpl[DavidBorn_angry]\Lshake\prf\C[4]Davidborn：\C[0]    ไปกันเถอะ ทาส! แกกล้าชี้หน้ากูเหรอ?!
 
 DavidBorn/Comp_disband
-\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    The adventure.. is it over..
+\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    การผจญภัย.. มันจบแล้วหรือ..
 
 DavidBorn/CompCommand
-\SETpl[DavidBorn_normal]\PLF\prf\C[4]Davidborn：\C[0]    Hehe...
+\SETpl[DavidBorn_normal]\PLF\prf\C[4]Davidborn：\C[0]    ฮ่าๆ...
 
 ################################################################### QMSG ################################################################################# 
 
 DavidBorn/CommandWait0
-Is there anything ahead?
+มีอะไรข้างหน้าไหม?
 
 DavidBorn/CommandWait1
-Okay.
+โอเค
 
 DavidBorn/CommandFollow0
-I'll hold them off! Don't be afraid!
+กูจะหยุดพวกมัน! อย่ากลัว!
 
 DavidBorn/CommandFollow1
-Nothing to be afraid of!
+ไม่มีอะไรต้องกลัว!
 
 DavidBorn/OvermapPop0
-I've seen it! A flying horse!
+กูเห็นแล้ว! ม้าบิน!
 
 DavidBorn/OvermapPop1
-Dragon slaying? Too easy!
+สังหารมังกร? ง่ายเกิน!
 
 DavidBorn/OvermapPop2
-Bears are just the worst!
+หมีมันแย่ที่สุด!
 
 DavidBorn/OvermapPop3
-Somebody stole my sweetcake!
+มีคนขโมยเค้กหวานของกู!
 
 #DavidBorn/OvermapPop0
 ##asdasdasdasdasdasdasdasdaasd       #length
-#I've seen it! A flying horse!
+#กูเห็นแล้ว! ม้าบิน!
 #
 #DavidBorn/OvermapPop1
-#Dragon slaying? Too easy!
+#สังหารมังกร? ง่ายเกิน!
 #
 #DavidBorn/OvermapPop2
-#Bears are just the worst!
+#หมีมันแย่ที่สุด!
 #
 #DavidBorn/OvermapPop3
-#Somebody stole my sweetcake!
+#มีคนขโมยเค้กหวานของกู!
 
 ###################################################################### QUEST
 
 DavidBorn/CampSpot1
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]Unknown：\C[0]    Who's there!
-\CBct[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?
-\CBmp[UniqueDavidBorn,8]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Unknown：\C[0]    \..\..\..
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_happy]\Lshake\prf\C[4]Unknown：\C[0]    How did you get in?!
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]ไม่รู้จัก：\C[0]    ใครอยู่นั่น!
+\CBct[1]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    หา?
+\CBmp[UniqueDavidBorn,8]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]ไม่รู้จัก：\C[0]    \..\..\..
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_happy]\Lshake\prf\C[4]ไม่รู้จัก：\C[0]    แกเข้ามาได้ยังไง?!
 
 DavidBorn/CampSpot3
-\CamCT\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Ah? Aaahhh!!!
+\CamCT\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    อะ? อ๊ากกก!!!
 
 DavidBorn/Unknow
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\prf\C[4]Unknown：\C[0]    I heard monsters have come here. It took me a whole month to get here by boat, and I have decided not to go to Sybaris.
-\CBmp[UniqueDavidBorn,8]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Unknown：\C[0]    I have purged those demons like a Saint. I used to be a powerful adventurer.
-\CBmp[UniqueDavidBorn,8]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]Unknown：\C[0]    In the beginning I led a group of refugees to flee, but now I have become a leader of thieves.
-\CBmp[UniqueDavidBorn,5]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]Unknown：\C[0]    As long as a hero keep making decisions, things will just keep spiraling out of control.
-\CBmp[UniqueDavidBorn,8]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Unknown：\C[0]    Whether it's good or bad.
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uh?
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_happy]\Lshake\prf\C[4]Unknown：\C[0]    I was a powerful adventurer, \C[6]Davidborn\C[0].
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\prf\C[4]ไม่รู้จัก：\C[0]    กูได้ยินว่ามีปีศาจมาที่นี่ กูใช้เวลาทั้งเดือนมาทางเรือ และกูตัดสินใจไม่ไป Sybaris แล้ว
+\CBmp[UniqueDavidBorn,8]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]ไม่รู้จัก：\C[0]    กูกำจัดพวกปีศาจเหมือนนักบุญ กูเคยเป็นนักผจญภัยที่ทรงพลัง
+\CBmp[UniqueDavidBorn,8]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]ไม่รู้จัก：\C[0]    ตอนแรกกูนำพวกผู้ลี้ภัยหนี แต่ตอนนี้กูกลายเป็นหัวหน้าโจร
+\CBmp[UniqueDavidBorn,5]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]ไม่รู้จัก：\C[0]    ตราบใดที่ฮีโร่ยังคงตัดสินใจ สิ่งต่างๆ ก็จะยังคงเลวร้ายลงไปเรื่อยๆ
+\CBmp[UniqueDavidBorn,8]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]ไม่รู้จัก：\C[0]    ไม่ว่าจะดีหรือร้าย
+\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    อืม?
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_happy]\Lshake\prf\C[4]ไม่รู้จัก：\C[0]    กูเคยเป็นนักผจญภัยที่ทรงพลัง, \C[6]Davidborn\C[0].
 
 DavidBorn/CampSpot4_opt
-\CamCT\m[fear]\plf\Rshake\c[6]Lona：\c[0]    Huh？\optD[I'm leaving now! This is not right!<r=HiddenOPT1>]
+\CamCT\m[fear]\plf\Rshake\c[6]Lona：\c[0]    หา？\optD[หนูจะไปตอนนี้! นี่มันไม่ถูกต้อง!<r=HiddenOPT1>]
 
 DavidBorn/CampSpot4_failed
-\CBmp[UniqueDavidBorn,8]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]Davidborn：\C[0]    You will die right here!
+\CBmp[UniqueDavidBorn,8]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]Davidborn：\C[0]    แกจะตายตรงนี้แหละ!
 
 DavidBorn/CampSpot4_win
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Why not help the people of Noer? They need help there!
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\prf\C[4]Davidborn：\C[0]    Am I not helping them?
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\prf\C[4]Davidborn：\C[0]    They needed more slaves and I provided them.
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\prf\C[4]Davidborn：\C[0]    They asked me to stop the refugees, and I did that.
-\CamCT\m[wtf]\plf\PRF\c[6]Lona：\c[0]    How is that helping? Kidnapping people is not right! 
-\CBct[5]\m[confused]\plf\PRF\c[6]Lona：\c[0]    I am pretty sure what you are doing is evil!
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    I just follow the guidance of the Saints...
-\CBct[3]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    It's not too late to turn back. Go to the Mercenary Guild office in Noer, and make yourself useful there.
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    Ugh\..\..\.. What have I done......
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ทำไมไม่ช่วยคนที่ Noer ล่ะ? ที่นั่นต้องการความช่วยเหลือ!
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\prf\C[4]Davidborn：\C[0]    กูไม่ได้ช่วยพวกเขาหรอกเหรอ?
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\prf\C[4]Davidborn：\C[0]    พวกเขาต้องการทาสมากขึ้น และกูก็จัดหาให้
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\prf\C[4]Davidborn：\C[0]    พวกเขาขอให้กูหยุดผู้ลี้ภัย และกูก็ทำแบบนั้น
+\CamCT\m[wtf]\plf\PRF\c[6]Lona：\c[0]    นี่มันช่วยเหลือยังไง? การลักพาตัวคนมันไม่ถูกต้อง! 
+\CBct[5]\m[confused]\plf\PRF\c[6]Lona：\c[0]    หนูแน่ใจว่าสิ่งที่แกทำมันชั่วร้าย!
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    กูแค่ทำตามคำแนะนำของนักบุญ...
+\CBct[3]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    ยังไม่สายเกินไปที่จะกลับตัว ไปที่สำนักงานสมาคมนักรับจ้างใน Noer แล้วทำตัวให้เป็นประโยชน์ที่นั่น
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    อ๊าก\..\..\.. กูทำอะไรลงไป......
 
 DavidBorn/CampSpot4_win2
-\ph\narr\c[4]Davidborn\c[0]Go away...
-\CBct[8]\narrOFF\m[confused]\PRF\c[6]Lona：\c[0]    Uh... What should I do next？
+\ph\narr\c[4]Davidborn\c[0]ไปซะ...
+\CBct[8]\narrOFF\m[confused]\PRF\c[6]Lona：\c[0]    อืม... หนูควรทำอะไรต่อดี？
 
 ##################### DEFEAT him
 
 DavidBorn/CampLost0
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    No！ No more！ Spare me, champion!\optD[Whatever, I'll let you go]
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    ไม่！ ไม่อีกแล้ว！ อย่าฆ่ากูเลย แชมป์!\optD[ไม่เป็นไร กูจะปล่อยแกไป]
 
 DavidBorn/CampLost0_fqu
-\CBct[5]\m[overkill]\plf\PRF\c[6]Lona：\c[0]    You can't trick me!
+\CBct[5]\m[overkill]\plf\PRF\c[6]Lona：\c[0]    แกหลอกหนูไม่ได้หรอก!
 
 DavidBorn/CampLost0_okay
-\CBct[8]\m[wtf]\plf\PRF\c[6]Lona：\c[0]    Huh? That's it?
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    Don't kill me! I'm just following the guidance of the Saints!
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uh....
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    Thank you champion! I will repay you for sparing me! 
+\CBct[8]\m[wtf]\plf\PRF\c[6]Lona：\c[0]    หา? แค่นี้เอง?
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    อย่าฆ่ากู! กูแค่ทำตามคำแนะนำของนักบุญ!
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อืม....
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    ขอบคุณแชมป์! กูจะตอบแทนที่แกปล่อยกูไป! 
 
 DavidBorn/CampLost0_okay2
-\CBct[8]\m[wtf]\PRF\c[6]Lona：\c[0]    Uh... But I haven't said anything yet?
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Nevermind...
+\CBct[8]\m[wtf]\PRF\c[6]Lona：\c[0]    อืม... แต่หนูยังไม่ได้พูดอะไรเลยนะ?
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    ไม่เป็นไร...
 
 DavidBorn/QuRec2to3_1
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]Davidborn：\C[0]    Ungh!
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    What？
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]Davidborn：\C[0]    Hoo-ah!
-\CBct[8]\m[normal]\plf\PRF\c[6]Lona：\c[0]    Excuse me...
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    Hah! Yeah, champ?
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uh.... Why are you here？
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\prf\C[4]Davidborn：\C[0]    After listening to you, I have opened my eyes! I decided to follow the adventurer's path again! To become a hero!
-\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_happy]\Lshake\prf\C[4]Davidborn：\C[0]    The girl champion! Thank you for your guidance!
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uh.. alright then...
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]Davidborn：\C[0]    อ่า!
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อะไร？
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_angry]\Lshake\prf\C[4]Davidborn：\C[0]    ฮู-อ่า!
+\CBct[8]\m[normal]\plf\PRF\c[6]Lona：\c[0]    ขอโทษ...
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_shocked]\Lshake\prf\C[4]Davidborn：\C[0]    ฮ่า! ว่าไง แชมป์?
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    อืม.... ทำไมแกถึงอยู่ที่นี่？
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_normal]\Lshake\prf\C[4]Davidborn：\C[0]    หลังจากฟังแก กูก็เปิดหูเปิดตา! กูตัดสินใจจะกลับไปเดินทางผจญภัยอีกครั้ง! เพื่อเป็นฮีโร่!
+\CBmp[UniqueDavidBorn,20]\SETpl[DavidBorn_happy]\Lshake\prf\C[4]Davidborn：\C[0]    แชมป์สาว! ขอบคุณที่แนะนำ!
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อืม.. ก็ได้นะ...

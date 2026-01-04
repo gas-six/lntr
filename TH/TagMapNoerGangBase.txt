@@ -1,20 +1,22 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-The stronghold of the Broad Blade Gang is the territory of the bad guys.\optB[Leave,Enter]
+ฐานที่มั่นของแก๊งดาบกว้างเป็นดินแดนของพวกอีกระหรี่\optB[ออก,เข้า]
 
 Nap/failed0_normal
-\SETpl[MobHumanCommoner]\Lshake\prf\C[4]rogueA：\C[0]    Where did the little bastard come from?
-\SETpl[MobHumanWarrior]\plf\Rshake\C[4]rogueB：\C[0]    Get her up!
+\SETpl[MobHumanCommoner]\Lshake\prf\C[4]rogueA：\C[0]    มึงมาจากไหนวะ ลูกอีดอก?
+\SETpl[MobHumanWarrior]\plf\Rshake\C[4]rogueB：\C[0]    จับมันขึ้นมา!
 
 Nap/failed_normal_if_Non_Slave
-\SETpl[MobHumanCommoner]\Lshake\prf\C[4]rogueA：\C[0]    Oh? She's not bad looking, get her into a back street as a whore.
-\SETpr[MobHumanWarrior]\plf\Rshake\C[4]rogueB：\C[0]    Brand her as a slave first!
+\SETpl[MobHumanCommoner]\Lshake\prf\C[4]rogueA：\C[0]    โอ้? หน้าตาดีนี่ จับไปเป็นโสเภณีในซอยหลังได้เลย
+\SETpr[MobHumanWarrior]\plf\Rshake\C[4]rogueB：\C[0]    ต้องประทับตราทาสก่อน!
 
 #to all fans translator, donot translate This message has been blocked because it does not comply with national security regulations   its china censor joke.
 
 ArtPlague/art
-\cg[other_ArtPlauge]We cannot directly call his filthy name, he is the leader of the disaster, he is the angel of the plague, and he brings endless suffering to the world.
-\m[flirty]\PRF\c[6]Lorna：\c[0]    Well... Yellow bear?
-\m[confused]\PRF\c[6]Lorna：\c[0]    Um.....
+\cg[other_ArtPlauge]เราไม่สามารถเรียกชื่อสกปรกของมันโดยตรงได้ เขาเป็นผู้นำแห่งภัยพิบัติ เป็นเทพบุตรแห่งโรคระบาด และนำความทุกข์ทรมานมาสู่โลก
+\m[flirty]\PRF\c[6]Lorna：\c[0]    อืม... หมีเหลือง?
+\m[confused]\PRF\c[6]Lorna：\c[0]    อืม.....
 \m[shocked]\Rshake\narr This message has been blocked because it does not comply with national security regulations\...\...\...\...
 \m[confused]\Rshake\narr This message has been blocked because it does not comply with national security regulations\...\...\...
 \m[flirty]\Rshake\narr This message has been blocked because it does not comply with national security regulations\...\...

@@ -1,146 +1,148 @@
+XXXXXXXX
+
 #Translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 common/closed
-\narr Closed
+\narr ปิด
 
-##################################### 諾爾鎮 大門守衛 #############################################
+##################################### ประตูเมืองนอร์ ยามประจำประตู #############################################
 
 GateGuard/begin1
-\cg[map_NoerGate]The gate of the Town of Noer.
-\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    Stop right there! \optB[Cancel,Enter,Sneak<r=HiddenOPT1>,Bluff<r=HiddenOPT2>]
+\cg[map_NoerGate]ประตูเมืองนอร์
+\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ยาม：\c[0]    หยุดเดี๋ยวนี้! \optB[ยกเลิก,เข้าไป,แอบเข้า<r=HiddenOPT1>,หลอกลวง<r=HiddenOPT2>]
 
 GateNobGuard/begin1
-\cg[map_region_RoadNoerNob]The entrance of Rudesind Slope
-\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Guard：\c[0]    You there! HALT! \optB[Cancel,Enter,Sneak<r=HiddenOPT1>,Bluff<r=HiddenOPT2>]
+\cg[map_region_RoadNoerNob]ทางเข้าของเนินรูเดซินด์
+\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ยาม：\c[0]    แก! หยุด! \optB[ยกเลิก,เข้าไป,แอบเข้า<r=HiddenOPT1>,หลอกลวง<r=HiddenOPT2>]
 
 GateGuard/enter_no_passport_dir6
-\prf\c[4]Guard：\c[0]    There's no problem if you leave the city gates. But when you return, you must present your ID paper.
+\prf\c[4]ยาม：\c[0]    ไม่มีปัญหาถ้าแกออกนอกเมือง แต่ถ้ากลับเข้ามา ต้องแสดงบัตรประจำตัว
 
 GateGuard/enter_no_passport_dir4
-\prf\PLF\c[4]Guard：\c[0]    We have orders to not allow anyone entry without identification.
-\m[confused]\plf\PRF\c[6]Lona：\c[0]    Okay then...
+\prf\PLF\c[4]ยาม：\c[0]    เราได้รับคำสั่งไม่ให้ใครเข้ามาโดยไม่มีบัตรประจำตัว
+\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    ได้ค่ะ...
 
 GateGuard/enter_with_passport
-\prf\c[4]Guard：\c[0]    Hmmm......
-\prf\c[4]Guard：\c[0]    Alright, you may pass.
+\prf\c[4]ยาม：\c[0]    ฮึมม์......
+\prf\c[4]ยาม：\c[0]    ได้ เข้าไปได้
 
 GateGuard/enter_LowMorality
-\prf\PLF\c[4]Guard：\c[0]    Huh? Hey you! STOP RIGHT THERE!!!
-\Lshake\c[4]Guard：\c[0]    I recognize your face! \n\{GET HER!
+\prf\PLF\c[4]ยาม：\c[0]    หะ? แก! หยุดเดี๋ยวนี้!!!
+\Lshake\c[4]ยาม：\c[0]    จำหน้าแกได้! \n\{จับมัน!
 
 GateGuard/enter_failed_typical
-\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{No, wait!
+\m[shocked]\plf\PRF\Rshake\c[6]โลน่า：\c[0]    \{ไม่ รอก่อน!
 
 GateGuard/enter_failed_tsundere
-\m[irritated]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Shit!!!
+\m[irritated]\plf\PRF\Rshake\c[6]โลน่า：\c[0]    \{กาก!!!
 
 GateGuard/enter_failed_gloomy
-\m[bereft]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{E-Eeep!
+\m[bereft]\plf\PRF\Rshake\c[6]โลน่า：\c[0]    \{อี๊-อี๊!
 
 GateGuard/enter_failed_slut
-\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    \{Oh no!
+\m[shocked]\plf\PRF\Rshake\c[6]โลน่า：\c[0]    \{โอ้ ไม่!
 
 GateGuard/enter_wait
 \plf\prf\narr\..\..\..
 
 GateGuard/enter_sneak_win
-\m[flirty]\PRF\c[6]Lona：\c[0]    Phew! I made it...
+\m[flirty]\PRF\c[6]โลน่า：\c[0]    ฟิว! ผ่านมาได้...
 
 GateGuard/enter_sneak_failed
-\prf\PLF\c[4]Guard：\c[0]    Huh? Hey you! STOP RIGHT THERE!!!
-\Lshake\c[4]Guard：\c[0]    Where are you going?! \n\{GET HER!
+\prf\PLF\c[4]ยาม：\c[0]    หะ? แก! หยุดเดี๋ยวนี้!!!
+\Lshake\c[4]ยาม：\c[0]    แกจะไปไหน?! \n\{จับมัน!
 
 GateGuard/enter_wisdom
-\PRF\c[6]Lona：\c[0]    Are you not aware? This was commanded from your higher-ups.
-\PLF\prf\c[4]Guard：\c[0]    Hmmm, is that right?
+\PRF\c[6]โลน่า：\c[0]    แกไม่รู้เหรอ? นี่เป็นคำสั่งจากเจ้านายของแก
+\PLF\prf\c[4]ยาม：\c[0]    ฮึมม์ จริงเหรอ?
 \plf\prf\narr\..\..\..
 
 GateGuard/enter_wisdom_win_lona
-\PLF\c[4]Guard：\c[0]    Seems like it is... Carry on then.
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Phew! I can't believe that worked!
+\PLF\c[4]ยาม：\c[0]    ดูเหมือนจะจริง... เข้าไปได้
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]     ฟิว! ไม่คิดว่าจะได้ผล!
 
 GateGuard/enter_wisdom_win_slave1
-\PLF\c[4]Guard：\c[0]    I didn't know slaves could come and go freely...
+\PLF\c[4]ยาม：\c[0]    ไม่รู้เลยว่าทาสเข้าออกได้อิสระ...
 
 GateGuard/enter_wisdom_win_slave2
-\PLF\c[4]Guard：\c[0]    All right, get going, don't make your Master wait!
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Okay, he ate it...
+\PLF\c[4]ยาม：\c[0]    ได้ รีบไป อย่าให้นายรอ
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]     ได้ค่ะ เขากินเรื่องนี้...
 
 GateGuard/enter_wisdom_win_maggot
-\PLF\c[4]Guard：\c[0]    Ugh! You reek! Do all Sybarians smell like shit?
-\PLF\c[4]Guard：\c[0]    You are a disgrace! Move along and don't you come near me!
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     I'm sorry Sir!
+\PLF\c[4]ยาม：\c[0]    อ๊าก! แกเหม็นมาก! คนซีบาเรียนทุกคนเหม็นขี้แบบนี้เหรอ?
+\PLF\c[4]ยาม：\c[0]    แกเป็นตัวประหลาด! รีบไป อย่าเข้ามาใกล้ฉัน!
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]     ขอโทษค่ะ นายท่าน!
 
 GateGuard/enter_wisdom_win_sexy
-\PLF\c[4]Guard：\c[0]    Came to make some money, little whore?
-\PLF\c[4]Guard：\c[0]    Aren't you cute? Be sure to stop by the barracks on your way back.
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     I-I-I will, Sir...
+\PLF\c[4]ยาม：\c[0]    มาหาเงินเหรอ น้องโสเภณี?
+\PLF\c[4]ยาม：\c[0]    น่ารักจังเลย อย่าลืมแวะที่กรมทหารตอนกลับนะ
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]     ห-ห-หนูจะไปค่ะ นายท่าน...
 
 GateGuard/enter_wisdom_win_weaker
-\PLF\c[4]Guard：\c[0]    Stop gawking and move along, peasant!
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Yes Sir!
+\PLF\c[4]ยาม：\c[0]    อย่ามองโง่ๆ รีบไป ชาวนา!
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]     ครับ นายท่าน!
 
 GateGuard/enter_wisdom_win_SexyWeak1
-\PLF\c[4]Guard：\c[0]    Slut! come here. Let me check you.
-\m[sad]\plf\PRF\c[6]Lona：\c[0]     Nngh... Yes Sir.
+\PLF\c[4]ยาม：\c[0]    โสเภณี! มาทางนี้ ปล่อยให้ฉันตรวจ
+\m[sad]\plf\PRF\c[6]โลน่า：\c[0]     อื้อ... ครับ นายท่าน
 
 GateGuard/enter_wisdom_win_SexyWeak2
-\PLF\c[4]Guard：\c[0]    Move along now, before we change our minds and make you stay...
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Phew... they were all looking at me...
+\PLF\c[4]ยาม：\c[0]    รีบไปก่อนที่เราจะเปลี่ยนใจแล้วให้แกอยู่...
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]     ฟิว... พวกเขามองหนูตลอด...
 
 GateGuard/enter_wisdom_win_SexSlave1
-\PLF\c[4]Guard：\c[0]    I'll have to search you, spread your legs.
-\m[sad]\plf\PRF\c[6]Lona：\c[0]     Nngh... Yes Sir...
+\PLF\c[4]ยาม：\c[0]    ฉันต้องตรวจแก แยกขา
+\m[sad]\plf\PRF\c[6]โลน่า：\c[0]     อื้อ... ครับ นายท่าน...
 
 GateGuard/enter_wisdom_win_SexSlave2
-\PLF\prf\c[4]Guard：\c[0]    Disgusting, it stinks, move along.
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     How humiliating...
+\PLF\prf\c[4]ยาม：\c[0]    น่าขยะแขยง มันเหม็น รีบไป
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]     อับอายจัง...
 
 GateGuard/enter_wisdom_win_SexSlaveRuined1
-\PLF\c[4]Guard：\c[0]    Spread your legs you little shit, let's see if your fuckhole is still passable.
-\m[sad]\plf\PRF\c[6]Lona：\c[0]     Nngh... Yes Sir.
+\PLF\c[4]ยาม：\c[0]    แยกขาเด็กห่วย มาดูว่ารูหีของแกยังใช้ได้อยู่ไหม
+\m[sad]\plf\PRF\c[6]โลน่า：\c[0]     อื้อ... ครับ นายท่าน
 
 GateGuard/enter_wisdom_win_SexSlaveRuined2
-\PLF\prf\c[4]Guard：\c[0]    Whoa, what a grimy cunt! Get out of my sight!
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Yes Sir! Sorry Sir!
+\PLF\prf\c[4]ยาม：\c[0]    โอ้ รูหีสกปรกจัง! หายไปจากสายตาฉัน!
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]     ครับ นายท่าน! ขอโทษครับ นายท่าน!
 
 GateGuard/enter_wisdom_win_moot
-\PLF\c[4]Guard：\c[0]    All right, everything seems to be in order here. Move along, hurry!
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]     Phew... He believed it!
+\PLF\c[4]ยาม：\c[0]    ได้ ทุกอย่างดูเรียบร้อย รีบไป รีบ!
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]     ฟิว... เขาเชื่อแล้ว!
 
 GateGuard/enter_failed
-\PLF\c[4]Guard：\c[0]    Stay back! We guards have to deal with vagrants like you every single day!
+\PLF\c[4]ยาม：\c[0]    อยู่ให้ห่าง! เราต้องจัดการกับคนจรจัดแบบแกทุกวัน!
 
 GateGuard/enter_passport_NoDir
-\prf\c[4]Guard：\c[0]    Alright, you may pass.
+\prf\c[4]ยาม：\c[0]    ได้ เข้าไปได้
 
 GateGuard/enter_failedDirt1
-\PLF\Lshake\c[4]Guard：\c[0]    Beggars are not allowed here! Go away, shoo!
+\PLF\Lshake\c[4]ยาม：\c[0]    ไม่ให้ขอทานเข้ามา! ไป ไป!
 
 GateGuard/enter_failedDirt2
-\narr Lona looks too dirty...
+\narr โลน่าดูสกปรกเกินไป...
 
-####################################################### 諾爾鎮外
+####################################################### นอกเมืองนอร์
 
 GateGuardOuta/enter_LowMorality
-\prf\c[4]Guard：\c[0]    We know you! Criminal scum! You're not welcomed here!
+\prf\c[4]ยาม：\c[0]    เรารู้จักแก! พวกอาชญากร! ไม่ต้อนรับแกที่นี่!
 
 GateGuardOuta/enter_failed_typical
-\m[shocked]\plf\PRF\Rshake\c[6]Lona：\c[0]    Ehhh?!
+\m[shocked]\plf\PRF\Rshake\c[6]โลน่า：\c[0]    เอ๊ะ?!
 
 GateGuardOuta/enter_failed_tsundere
-\m[irritated]\plf\PRF\Rshake\c[6]Lona：\c[0]   Damn!
+\m[irritated]\plf\PRF\Rshake\c[6]โลน่า：\c[0]   กาก!
 
 GateGuardOuta/enter_failed_gloomy
-\m[sad]\plf\PRF\Rshake\c[6]Lona：\c[0]    Sorry...
+\m[sad]\plf\PRF\Rshake\c[6]โลน่า：\c[0]    ขอโทษ...
 
 GateGuardOuta/enter_failed_slut
-\m[flirty]\plf\PRF\Rshake\c[6]Lona：\c[0]    Okay...
+\m[flirty]\plf\PRF\Rshake\c[6]โลน่า：\c[0]    โอเค...
 
 ####################################################### DEEPONE UNIQUE
 
 GateGuard/LonaIsTrueDeepone
-\narr The guards begin to go crazy with lust and sexual desires at the sight of the young Sea Witch...
-They lost any sense of reason and being to hunt down Lona, with the intent of copulating with the monster girl...
+\narr ยามเริ่มบ้าคลั่งด้วยความใคร่และความปรารถนาทางเพศเมื่อเห็นแม่มดทะเลหนุ่ม...
+พวกเขาสูญเสียเหตุผลและเริ่มล่าโลน่า เพื่อจะได้ผสมพันธุ์กับสาวปีศาจ...
 
 #Translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

@@ -1,139 +1,141 @@
+XXXXXXXX
+
 ThisMap/OmEnter
-\m[confused]Sybaris South West Gate Barn\optB[Leave,Enter]
+\m[confused]Sybaris South West Gate Barn\optB[ออก,เข้า]
 
 QuProgSybBarn1/EnterQuestMode0
-\cg[map_region_AbomTown]\m[flirty]\PRF\c[6]Lona：\c[0]    Hmm... This should be the place, right?
-\SETpl[Mreg_guardsman]\plf\PRF\c[4]Mercenary：\c[0]    Hey! What are you doing out here?! Out of my way!
-\SndLib[sound_punch_hit]\SETpl[Mreg_guardsman]\m[hurt]\Lshake\prf\c[6]Lona：\c[0]    Ow! Watch it!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    We found this place first it's ours to loot!
-\m[confused]\plf\PRF\c[6]Lona：\c[0]    What...
+\cg[map_region_AbomTown]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม... นี่น่าจะเป็นที่นั่นใช่ไหม?
+\SETpl[Mreg_guardsman]\plf\PRF\c[4]ทหารรับจ้าง：\c[0]    หยุด! แกทำอะไรอยู่ตรงนี้?! หลีกทางซะ!
+\SndLib[sound_punch_hit]\SETpl[Mreg_guardsman]\m[hurt]\Lshake\prf\c[6]โลน่า：\c[0]    อ่าห์! ระวังหน่อย!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    พวกเราเจอที่นี่ก่อน มันเป็นของพวกเราให้ปล้น!
+\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อะไร...
 \narr\ph\..\..\SndLib[sys_DoorLock]\..\..\SndLib[sys_DoorLock]\..\..\SndLib[sys_DoorLock]
-\narrOFF\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Any progress? Still locked?
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Hey! Come here, let's try to break it open!
-\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Mercenary：\c[0]    All right, let's try.
+\narrOFF\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    มีความคืบหน้าไหม? ยังล็อกอยู่เหรอ?
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    หยุด! มาทางนี้ ลองทุบมันเปิดดู!
+\SETpr[Mreg_pikeman]\plf\Rshake\c[4]ทหารรับจ้าง：\c[0]    ได้เลย ลองดู.
 \narr\ph\..\..\SndLib[sound_punch_hit]\..\..\SndLib[sound_punch_hit]\..\..\SndLib[sound_punch_hit]
-\narrOFF\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Mercenary：\c[0]    It's useless, it's stuck.
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Let's get out of here! It's fucking useless.
+\narrOFF\SETpr[Mreg_pikeman]\plf\Rshake\c[4]ทหารรับจ้าง：\c[0]    ไร้ประโยชน์ มันติดแน่น.
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    ไปกันเถอะ! มันไร้ประโยชน์เสียบ้า!
 
 QuProgSybBarn1/EnterQuestMode1_OPT
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Um...\optD[look aside,let me try<r=HiddenOPT0>]
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม...\optD[มองข้างๆ,ให้หนูลองดู<r=HiddenOPT0>]
 
 QuProgSybBarn1/EnterQuestMode1_WAIT
-\ph\narr\..\..\.. After a long time...
-\narrOFF\SETpl[Mreg_guardsman]\Lshake\c[4]Mercenary：\c[0]    Finally got it open.
-\SETpr[Mreg_pikeman]\plf\Rshake\c[4]Mercenary：\c[0]    I just told you to try it like this!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    You say outside little girl, wait for us to return!
-\m[confused]\plf\PRF\c[6]Lona：\c[0]    ......
-\ph\narr\..\..\.. After a long time... \SndLib[BreedlingAtk]\..\..\SndLib[BreedlingAtk]
-\cg[map_AbomBreedlingRaid]\narrOFF\m[shocked]\Rshake\c[6]Lona：\c[0]    Monsters!!!
-\cgoff\ph\narr Lona followed them into the barn.....
+\ph\narr\..\..\.. ผ่านไปนาน...
+\narrOFF\SETpl[Mreg_guardsman]\Lshake\c[4]ทหารรับจ้าง：\c[0]    สุดท้ายก็เปิดได้.
+\SETpr[Mreg_pikeman]\plf\Rshake\c[4]ทหารรับจ้าง：\c[0]    หนูบอกให้ลองทำแบบนี้!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    อยู่นอกนั้นเถอะ เด็กน้อย รอพวกเรากลับมา!
+\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    ......
+\ph\narr\..\..\.. ผ่านไปนาน... \SndLib[BreedlingAtk]\..\..\SndLib[BreedlingAtk]
+\cg[map_AbomBreedlingRaid]\narrOFF\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ปีศาจ!!!
+\cgoff\ph\narr โลน่าตามพวกเขาเข้าไปในคอกวัว.....
 
 QuProgSybBarn1/EnterQuestMode1_SCU
-\m[confused]\plf\PRF\c[6]Lona：\c[0]    Well... I could try...
+\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม... หนูอาจจะลองได้...
 \narr\ph\..\..\SndLib[sys_DoorLock]\..\..\SndLib[sys_DoorLock]\..\..\SndLib[sys_DoorLock]\..\..\SndLib[openChest]
-\narrOFF\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Oh! It wasn't that difficult!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Well done little girl!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Good! We'll let you have a small portion of the loot.
-\m[confused]\plf\PRF\c[6]Lona：\c[0]    Well... In fact, I accepted the guild's mission to come here and do some investigation.
-\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    Guild mission? You little brat!
-\m[serious]\plf\PRF\c[6]Lona：\c[0]    I'm not a brat!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Let's not waste more time! Get to work!
-\SETpl[Mreg_guardsman]\Lshake\prf\c[4]Mercenary：\c[0]    Come, let's go inside little girl, help us move the loot.
-\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Yes Sir!
+\narrOFF\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    โอ้! ไม่ยากเลย!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    ทำได้ดี เด็กน้อย!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    ดี! เราจะให้ส่วนแบ่งเล็กน้อยจากของที่ปล้นมา.
+\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    อืม... จริงๆ แล้วหนูมารับภารกิจจากสมาคมเพื่อมาสืบสวนที่นี่.
+\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    ภารกิจสมาคม? เด็กน้อยอย่างแก!
+\m[serious]\plf\PRF\c[6]โลน่า：\c[0]    หนูไม่ใช่เด็กน้อย!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    อย่าเสียเวลาเพิ่ม! มาทำงานกัน!
+\SETpl[Mreg_guardsman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    มา เข้าไปข้างใน เด็กน้อย ช่วยพวกเราย้ายของที่ปล้นมา.
+\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    ครับนายทหาร!
 
 #########################################################################################
 
 Op/Begin0_3
-\CBmp[OpGuard2,20]\c[4]refugee：\c[0]    More survivors! The prophecy of the holy priestess is true!
-\CBmp[OpGuard1,5]\c[4]refugee：\c[0]    Shut the door now! The apostles will come in!
-\CBmp[mama,20]\c[4]holy priestess：\c[0]    How do you know they are real? Or a bunch of wolves in sheep's clothes?
-\CBmp[OpGuard1,2]\c[4]refugee：\c[0]    They too....?  No way!
-\CBmp[mama,20]\c[4]holy priestess：\c[0]    Silence! Close the door quickly!
+\CBmp[OpGuard2,20]\c[4]ผู้ลี้ภัย：\c[0]    ผู้รอดชีวิตมากขึ้น! คำทำนายของนักบวชศักดิ์สิทธิ์เป็นจริง!
+\CBmp[OpGuard1,5]\c[4]ผู้ลี้ภัย：\c[0]    ปิดประตูเดี๋ยวนี้! อัครทูตจะเข้ามา!
+\CBmp[mama,20]\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    แกรู้ได้ยังไงว่าพวกเขาจริง? หรือเป็นหมาป่าในชุดแกะ?
+\CBmp[OpGuard1,2]\c[4]ผู้ลี้ภัย：\c[0]    พวกเขาด้วย...? ไม่มีทาง!
+\CBmp[mama,20]\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    เงียบ! ปิดประตูเร็ว!
 
 Op/Begin0
-\CBmp[OpGuard2,20]\c[4]refugee：\c[0]    Here we go again! More survivors!
-\CBmp[OpGuard1,5]\c[4]refugee：\c[0]    Shut the door now! The apostles will come in!
-\CBmp[mama,20]\c[4]holy priestess：\c[0]    This must be a trick too! They must be filthy unbelievers!
+\CBmp[OpGuard2,20]\c[4]ผู้ลี้ภัย：\c[0]    เริ่มอีกแล้ว! ผู้รอดชีวิตมากขึ้น!
+\CBmp[OpGuard1,5]\c[4]ผู้ลี้ภัย：\c[0]    ปิดประตูเดี๋ยวนี้! อัครทูตจะเข้ามา!
+\CBmp[mama,20]\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    นี่ต้องเป็นกลอุบายอีกแล้ว! พวกเขาต้องเป็นคนไม่เชื่อศาสนาที่สกปรก!
 
 Op/Begin1_3
-\CBmp[Gpicker,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    Didn't expect there'd be people still alive here...
-\CBmp[Gscout,20]\SETpr[Mreg_guardsman]\plf\Rshake\c[4]Mercenary：\c[0]    Let's see... The contract from the Rudesind Company says they'll pay a big copper coin for each survivor.
-\CBmp[Gpicker,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    We made a fortune, there's a dozen in here!
+\CBmp[Gpicker,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    ไม่คิดว่าจะมีคนยังมีชีวิตอยู่ที่นี่...
+\CBmp[Gscout,20]\SETpr[Mreg_guardsman]\plf\Rshake\c[4]ทหารรับจ้าง：\c[0]    ลองดู... สัญญาจากบริษัท Rudesind บอกว่าจะจ่ายเหรียญทองแดงใหญ่หนึ่งเหรียญต่อผู้รอดชีวิต.
+\CBmp[Gpicker,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    เราทำเงินได้เยอะ มีสิบกว่าคนในนี้!
 
 Op/Begin1
-\ph\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    What's going on in here?
-\CBmp[mama,20]\c[4]holy priestess：\c[0]    Are you a believer?
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    I\..\..\.. Hmm, maybe?
-\CBmp[mama,20]\prf\c[4]holy priestess：\c[0]    Believers, today we shall witness a miracle of the Saint.
-\CBmp[mama,20]\prf\c[4]holy priestess：\c[0]    Our relatives and friends have been captured by the apostles in the basement, and we need your assistance.
-\CBmp[OpGuard2,6]\c[4]refugee：\c[0]    My holy priestess! She is just a survivor herself! She is just a child!
-\CBmp[mama,20]\prf\c[4]holy priestess：\c[0]    Silence! This is the will of the Saint! I have heard the will of the Saint! We must test these liars.
-\CBmp[OpGuard2,8]\c[4]refugee：\c[0]    \..\..\..Yes...
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    What are you on about? What apostles?
+\ph\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    เกิดอะไรขึ้นที่นี่?
+\CBmp[mama,20]\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    แกเป็นผู้เชื่อไหม?
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    หนู\..\..\.. อืม อาจจะ?
+\CBmp[mama,20]\prf\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    ผู้เชื่อ วันนี้เราจะได้เห็นปาฏิหาริย์ของนักบุญ.
+\CBmp[mama,20]\prf\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    ญาติพี่น้องของเราถูกอัครทูตจับไปในห้องใต้ดิน เราต้องการความช่วยเหลือจากแก.
+\CBmp[OpGuard2,6]\c[4]ผู้ลี้ภัย：\c[0]    นักบวชศักดิ์สิทธิ์ของผม! เธอเป็นแค่ผู้รอดชีวิตเอง! เธอเป็นแค่เด็ก!
+\CBmp[mama,20]\prf\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    เงียบ! นี่คือพระประสงค์ของนักบุญ! ฉันได้ยินพระประสงค์ของนักบุญ! เราต้องทดสอบพวกโกหกเหล่านี้.
+\CBmp[OpGuard2,8]\c[4]ผู้ลี้ภัย：\c[0]    \..\..\..ใช่...
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    แกพูดอะไร? อัครทูตคืออะไร?
 
 Op/Begin2
-\CBmp[mama,20]\prf\c[4]holy priestess：\c[0]    Come with me, you can surely help us.
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    I-I think so?
+\CBmp[mama,20]\prf\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    มากับฉัน แกช่วยเราได้แน่.
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    หนู-หนูคิดว่าได้?
 
 Op/Begin2_3
-\CBmp[Gpicker,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    Apostles? I think she means the monsters.
-\CBmp[Gscout,20]\SETpr[Mreg_guardsman]\plf\Rshake\c[4]Mercenary：\c[0]    Listen, this is none of our business, we are not here to fight monsters, we just report the survivors to the Rudesind Company sla-uhh... rescuers.
-\CBct[20]\m[serious]\PRF\c[6]Lona：\c[0]    We need to help them! What kind of a man are you? It's your moral obligation!
-\CBmp[Gpicker,8]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    \..\..\..
-\CBmp[Gpicker,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    The brat is actually right... We need these people alive...
+\CBmp[Gpicker,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    อัครทูต? ฉันคิดว่าเธอหมายถึงปีศาจ.
+\CBmp[Gscout,20]\SETpr[Mreg_guardsman]\plf\Rshake\c[4]ทหารรับจ้าง：\c[0]    ฟังนะ นี่ไม่ใช่เรื่องของเรา เราไม่ได้มาต่อสู้กับปีศาจ เราแค่รายงานผู้รอดชีวิตให้กับบริษัท Rudesind ทาส-อืม... ผู้ช่วยเหลือ.
+\CBct[20]\m[serious]\PRF\c[6]โลน่า：\c[0]    เราต้องช่วยพวกเขา! แกเป็นคนแบบไหน? นี่คือหน้าที่ทางศีลธรรมของแก!
+\CBmp[Gpicker,8]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    \..\..\..
+\CBmp[Gpicker,20]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    เด็กน้อยพูดถูก... เราต้องการให้คนเหล่านี้มีชีวิตอยู่...
 
 Op/Begin3
-\CBmp[mama,20]\prf\c[4]holy priestess：\c[0]    This is where the apostles of false gods appeared!
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    There's nothing here except some infestation...
+\CBmp[mama,20]\prf\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    นี่คือที่ที่อัครทูตของเทพเท็จปรากฏ!
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    ไม่มีอะไรที่นี่นอกจากการติดเชื้อ...
 
 Op/Begin3_3
-\CBmp[Gpicker,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    Wicked... These disgusting things again.
-\CBmp[Gscout,6]\SETpr[Mreg_guardsman]\plf\Rshake\c[4]Mercenary：\c[0]    It reeks! I heard rumors that if you inhale too much of the scent, you turn into one of them... Nothing will happen, right?
+\CBmp[Gpicker,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    ชั่วร้าย... สิ่งสกปรกเหล่านี้อีกแล้ว.
+\CBmp[Gscout,6]\SETpr[Mreg_guardsman]\plf\Rshake\c[4]ทหารรับจ้าง：\c[0]    มันเหม็น! ฉันได้ยินลือว่าถ้าสูดดมกลิ่นนี้มากเกินไป แกจะกลายเป็นหนึ่งในพวกมัน... ไม่มีอะไรเกิดขึ้น ใช่ไหม?
 
 Op/Begin4
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Well....?
-\CBmp[mama,20]\prf\c[4]holy priestess：\c[0]    Your test shall begin soon, be patient...
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    ...........
-\CBmp[mama,8]\prf\c[4]holy priestess：\c[0]    ......
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม...?
+\CBmp[mama,20]\prf\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    การทดสอบของแกจะเริ่มต้นในไม่ช้า อดทนไว้...
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    ...........
+\CBmp[mama,8]\prf\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    ......
 
 Op/Begin5
-\CBmp[mama,20]\c[4]holy priestess：\c[0]    ........................
-\CBmp[mama,20]\c[4]holy priestess：\c[0]    I am right! Those people are hypocritical liars!!!
-\CBmp[OpGuard2,20]\c[4]refugee：\c[0]    Are they really not human?!
-\CBmp[OpGuard1,20]\c[4]refugee：\c[0]    The apostles ate them! They are liars!
-\CBmp[OpGuard2,20]\c[4]refugee：\c[0]    What the holy priestess said is true!
-\CBmp[mama,20]\c[4]holy priestess：\c[0]    Thank you Saint! Praise be the Saint!
+\CBmp[mama,20]\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    ........................
+\CBmp[mama,20]\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    ฉันถูกต้อง! คนเหล่านั้นเป็นคนโกหกที่หน้าซื่อใจคด!!!
+\CBmp[OpGuard2,20]\c[4]ผู้ลี้ภัย：\c[0]    พวกเขาไม่ใช่คนจริงๆ หรือ?!
+\CBmp[OpGuard1,20]\c[4]ผู้ลี้ภัย：\c[0]    อัครทูตกินพวกเขา! พวกเขาเป็นคนโกหก!
+\CBmp[OpGuard2,20]\c[4]ผู้ลี้ภัย：\c[0]    สิ่งที่นักบวชศักดิ์สิทธิ์พูดเป็นจริง!
+\CBmp[mama,20]\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    ขอบคุณนักบุญ! สรรเสริญนักบุญ!
 
 Op/Begin6
-\CBmp[OpGuard2,20]\CBmp[OpGuard1,20]\CBmp[mama,20]\c[4]crowd：\c[0]    Thank you Saint! Praise be the Saint!
+\CBmp[OpGuard2,20]\CBmp[OpGuard1,20]\CBmp[mama,20]\c[4]ฝูงชน：\c[0]    ขอบคุณนักบุญ! สรรเสริญนักบุญ!
 
 Op/Begin7
-\c[6]Lona：\c[0]    \{AAAAAAAAAH!!!
+\c[6]โลน่า：\c[0]    \{อ๊ากกก!!!
 
 Op/Begin8
-\CBmp[6]\m[fear]\PRF\c[6]Lona：\c[0]    Here it is\..\..\..
+\CBmp[6]\m[fear]\PRF\c[6]โลน่า：\c[0]    นี่มัน\..\..\..
 
 Op/Begin9
-\CBmp[20]\m[terror]\Rshake\c[6]Lona：\c[0]    \{The lair of the flesh monsters!
+\CBmp[20]\m[terror]\Rshake\c[6]โลน่า：\c[0]    \{รังของปีศาจเนื้อ!
 
 Op/Begin9_3
-\CBmp[Gpicker,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    This... What the hell is this place?
-\CBmp[Gscout,6]\SETpr[Mreg_guardsman]\plf\Rshake\c[4]Mercenary：\c[0]    The walls are alive!
-\CBmp[Gpicker,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]Mercenary：\c[0]    Oh Saint! Is this wall eating people?
+\CBmp[Gpicker,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    นี่... ที่นี่คืออะไรกัน?
+\CBmp[Gscout,6]\SETpr[Mreg_guardsman]\plf\Rshake\c[4]ทหารรับจ้าง：\c[0]    กำแพงมีชีวิต!
+\CBmp[Gpicker,6]\SETpl[Mreg_pikeman]\Lshake\prf\c[4]ทหารรับจ้าง：\c[0]    โอ้ นักบุญ! กำแพงนี้กินคนหรือ?
 
 Op/Begin9_31
-\CBmp[Gscout,6]\SETpr[Mreg_guardsman]\plf\Rshake\c[4]Mercenary：\c[0]    Damn girl! This is your fault! Get us out of this damned place!
+\CBmp[Gscout,6]\SETpr[Mreg_guardsman]\plf\Rshake\c[4]ทหารรับจ้าง：\c[0]    อีดอก! นี่เป็นความผิดของแก! พาเราออกจากที่นี่ได้แล้ว!
 
 Op/Begin9_board
 \board[barn survivor]
-Goal： Leave the barn and go back to South Gate Campsite
-Reward： 3 Big Copper Coins
-Client： South Gate Campsite
-Quest Term： Single Fulfillment
-Return alive to the \c[4]South Gate Campsite\c[0] and turn the quest in at the \c[6]Hope Inn\c[0] mercenary union station.
+เป้าหมาย： ออกจากคอกวัวและกลับไปที่แคมป์ประตูใต้
+รางวัล： เหรียญทองแดงใหญ่ 3 เหรียญ
+ผู้ว่าจ้าง： แคมป์ประตูใต้
+เงื่อนไขภารกิจ： ทำครั้งเดียว
+กลับมาที่ \c[4]แคมป์ประตูใต้\c[0] และส่งภารกิจที่ \c[6]โรงแรมความหวัง\c[0] สถานีสหภาพทหารรับจ้าง.
 
 #################################### other
 mama/LastWords
-\CBmp[mama,7]\c[4]holy priestess：\c[0]    No! It is not my fault!
-\CBmp[mama,9]\c[4]holy priestess：\c[0]    I am right! I can't be wrong! It's all the fault of those liars!
-\CBmp[mama,5]\c[4]holy priestess：\c[0]    \{Ahhhhh!!!
+\CBmp[mama,7]\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    ไม่! ไม่ใช่ความผิดของฉัน!
+\CBmp[mama,9]\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    ฉันถูกต้อง! ฉันไม่มีทางผิด! ทั้งหมดเป็นความผิดของพวกโกหก!
+\CBmp[mama,5]\c[4]นักบวชศักดิ์สิทธิ์：\c[0]    \{อ๊ากกก!!!

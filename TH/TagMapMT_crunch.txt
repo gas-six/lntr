@@ -1,11 +1,13 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-Mountain Monastery\optB[Leave,Enter]
+Mountain Monastery\optB[ออก,เข้า]
 
 #---------------------#-------------------#---------------------  -------------------------------
 Priest/begin0
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\C[4]Priest：\c[0]    The Saints has already cast down retribution.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\C[4]Priest：\c[0]    Those who perished unjustly rise once again.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\C[4]Priest：\c[0]    What bothers you, my child?
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\C[4]Priest：\c[0]    นักบุญได้ลงโทษแล้ว
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\C[4]Priest：\c[0]    ผู้ที่ตายอย่างไม่ยุติธรรมกลับมามีชีวิตอีกครั้ง
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\C[4]Priest：\c[0]    อะไรทำให้เธอกังวล ลูกน้อยของฉัน?
 
 Priest/opt_MT_crunch
 Mountain Monastery
@@ -20,168 +22,168 @@ Priest/opt_SaintMonastery
 Saint's Request
 
 Priest/Ans_crunch
-\CBct[2]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    Uhm...what sort of place is this?
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    \c[6]Mountain Monastery\c[0]，a place where those who break off from the world
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    can commune with the truth of the Saint.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    Untainted by the vile prattle of the false believers and Liars.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    It is by their hand that man has strayed from the Saint's path!
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    We practice medicine here and aid the nearby villagers and travelers.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    We are the true followers of the Saint!
-\CBct[8]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    I see...
+\CBct[2]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    อืม...ที่นี่เป็นที่แบบไหน?
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    \c[6]Mountain Monastery\c[0]，ที่ที่ผู้ที่แยกตัวออกจากโลก
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    สามารถสื่อสารกับความจริงของนักบุญได้
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    ไม่ถูกทำให้เปื้อนด้วยคำพูดสกปรกของผู้ที่เชื่อผิดและผู้โกหก
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    มนุษย์หลงทางจากเส้นทางของนักบุญเพราะพวกเขา!
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    เราทำการแพทย์ที่นี่และช่วยเหลือชาวบ้านและนักเดินทางใกล้เคียง
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    เราคือผู้ติดตามนักบุญที่แท้จริง!
+\CBct[8]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    เข้าใจแล้ว...
 \CBid[-1,8]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    \..\..\..
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    We are aware of the chaos out there. Have you come to learn of medicine as well?
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    A shame. The doctors sent out a month ago have yet to return.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    Yet the dead within the tombs are beckoned once more by false Gods. 
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    We lack the manpower to handle this.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    O' Liars, pray to the Saints!
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    For all of this surely is the Saint's divine chastising of faithless Liars.
-\CBct[8]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    Okay...
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    เรารู้ถึงความวุ่นวายข้างนอก เธอมาเพื่อเรียนรู้การแพทย์ด้วยหรือ?
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    น่าเสียดาย หมอที่ส่งออกไปเมื่อเดือนที่แล้วยังไม่กลับมา
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    แต่ผู้ตายในสุสานถูกเรียกขึ้นมาอีกครั้งโดยพระเจ้าปลอม
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    เราขาดกำลังคนที่จะจัดการกับเรื่องนี้
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    โอ้ ผู้โกหก ขอให้สวดมนต์ถึงนักบุญ!
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    ทั้งหมดนี้คือการลงโทษทางศาสนาของนักบุญต่อผู้โกหกที่ไร้ศรัทธา
+\CBct[8]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    โอเค...
 \CBid[-1,8]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    \..\..\..
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    Travelers may rest here in peace. We offer safe shelter for those like yourself.
-\CBct[20]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    Is that so? Thank you.
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    นักเดินทางสามารถพักผ่อนที่นี่ได้อย่างสงบ เรามีที่พักปลอดภัยสำหรับคนอย่างเธอ
+\CBct[20]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    จริงหรือ? ขอบคุณ
 
 Lona/Ans_SaintMonastery
-\CBct[20]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    Um...do you have any doctors here?
-\CBct[20]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    The people at \c[6]Saint's Church\c[0] are hoping you could lend them some doctors.
+\CBct[20]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    อืม...ที่นี่มีหมอไหม?
+\CBct[20]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    คนที่ \c[6]Saint's Church\c[0] หวังว่าที่นี่จะส่งหมอไปช่วย
 \CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    \c[6]Saint's Church\c[0]\..\..\..
-\CBid[-1,5]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    Return and tell those false believers tainted by baser filth to solve their own problems!
-\CBct[20]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    Well...alright.
+\CBid[-1,5]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    กลับไปบอกผู้ที่เชื่อผิดที่ถูกทำให้เปื้อนด้วยสิ่งสกปรกให้แก้ปัญหาของตัวเอง!
+\CBct[20]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    อืม...ได้เลย
 
 Lona/UndeadClearn
-\CBct[20]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    Phew...that should be everything dealt with.
-\CBct[20]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Time to leave this creepy place.
+\CBct[20]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    ฟิว...น่าจะจัดการทุกอย่างเสร็จแล้ว
+\CBct[20]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    ถึงเวลาออกจากที่น่ากลัวนี้แล้ว
 
 Priest/EndTalk
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    May the Saints light your path.
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    ขอให้นักบุญส่องทางเธอ
 
 Priest/TooWeak
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    You do not appear to be a mercenary.
-\narr Lona looks too weak
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    เธอไม่ดูเหมือนจะเป็นทหารรับจ้าง
+\narr Lona ดูอ่อนแอเกินไป
 
 Priest/Ans_accept
-\CBct[8]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    Well...er...no problem?
-\CBid[-1,4]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    Great!You truly are a soldier of the Saint.
+\CBct[8]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    อืม...ไม่มีปัญหา?
+\CBid[-1,4]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    ดีมาก! เธอเป็นทหารของนักบุญจริงๆ
 
 Pitcher/UndeadGate_b4QU0
-\CBid[-1,20]\C[4]Monk：\c[0]    Don't come any closer. There is nothing but undead in there.
+\CBid[-1,20]\C[4]Monk：\c[0]    อย่าเข้ามาใกล้ มีแต่ผีดิบอยู่ข้างใน
 
 Pitcher/UndeadGate_b4QU1
-\CBid[-1,20]\C[4]Monk：\c[0]    This is the fury of the Saint. Such has already been foretold.
+\CBid[-1,20]\C[4]Monk：\c[0]    นี่คือความโกรธของนักบุญ มันถูกทำนายไว้แล้ว
 
 Pitcher/UndeadGate_b4QU2
-\CBid[-1,1]\C[4]Monk：\c[0]    You are\..\..\..a girl?
+\CBid[-1,1]\C[4]Monk：\c[0]    เธอ\..\..\..เป็นผู้หญิง?
 
 SaintState/begin0
 \board[Nameless Saint]
-Nameless Saint spaketh： Incinvible am I whilst rolling, for the flames of the false gods harm me not at all.
+Nameless Saint กล่าวว่า： ข้าไม่อาจถูกทำลายได้ขณะกลิ้งตัว เพราะเปลวไฟของพระเจ้าปลอมไม่สามารถทำร้ายข้าได้เลย
 Gospel of the Saints 66：6
 
 ##################################################################################### Undead Hunt
 
 Priest/Ans_Undead
-\CBct[2]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    Uh...did you say undead?
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    The dead began to move a few months ago. All of this must be linked to the world's present calamity.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    This truly is the Saint's divine punishment for the Liars.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    Are you a mercenary? Solve this conundrum for us and we shall reward you adequately.
+\CBct[2]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    อืม...เธอพูดถึงผีดิบ?
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    ผู้ตายเริ่มเคลื่อนไหวเมื่อไม่กี่เดือนก่อน ทั้งหมดนี้ต้องเชื่อมโยงกับภัยพิบัติของโลกในปัจจุบัน
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    นี่คือการลงโทษทางศาสนาของนักบุญสำหรับผู้โกหก
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    เธอเป็นทหารรับจ้างหรือไม่? แก้ปัญหานี้ให้เราแล้วเราจะให้รางวัลเธออย่างเหมาะสม
 
 Priest/Ans_Undead_brd
 \board[Eliminate the undead]
-Goal：Eliminate the undead in the tombs of the Mountain Monastery
-Reward：Large Copper Coin 2
-Client：Mountain Monastery
-Time Limit：Until Completion
-Speak with the monk outside the tomb then eliminate all undead there.
+เป้าหมาย：กำจัดผีดิบในสุสานของ Mountain Monastery
+รางวัล：เหรียญทองแดงใหญ่ 2
+ผู้ว่าจ้าง：Mountain Monastery
+เวลาที่จำกัด：จนกว่าจะเสร็จสิ้น
+พูดคุยกับพระภิกษุหน้าสุสานแล้วกำจัดผีดิบทั้งหมดที่นั่น
 
 Pitcher/UndeadGate0
-\CBid[-1,20]\C[4]Monk：\c[0]    Are you the mercenary here to dispose of the undead?
-\CBct[20]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    I guess?
-\CBid[-1,20]\prf\C[4]Monk：\c[0]    Praise the Saint!
+\CBid[-1,20]\C[4]Monk：\c[0]    เธอเป็นทหารรับจ้างที่มากำจัดผีดิบหรือ?
+\CBct[20]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    คงจะใช่?
+\CBid[-1,20]\prf\C[4]Monk：\c[0]    สรรเสริญนักบุญ!
 
 Pitcher/UndeadGate1
-\CBid[-1,20]\C[4]Monk：\c[0]    I shall leave the rest to you. I won't have to face those corpses again.
+\CBid[-1,20]\C[4]Monk：\c[0]    ข้าจะปล่อยให้เธอจัดการต่อไป ข้าไม่ต้องเผชิญกับศพเหล่านั้นอีกแล้ว
 
 lona/EnterCave
 \CBct[8]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    \..\..\..
-\CBct[6]\m[tired]\plf\PRF\C[0]\C[6]Lona：\C[0]    It sure is dark down here...
+\CBct[6]\m[tired]\plf\PRF\C[0]\C[6]Lona：\C[0]    มืดจริงๆ ที่นี่...
 
 Priest/KillAllUndead0
-\CBct[2]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    Um...I think it's done?
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    Oh? Allow me to check...
+\CBct[2]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    อืม...คิดว่าเสร็จแล้ว?
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    อ้อ? ปล่อยให้ข้าตรวจสอบ...
 
 Priest/KillAllUndead1
-\CBid[-1,4]\SETpl[HumPriest2]\Lshake\C[4]Priest：\c[0]    Well done! You deserve this!
+\CBid[-1,4]\SETpl[HumPriest2]\Lshake\C[4]Priest：\c[0]    ทำได้ดี! เธอสมควรได้รับนี่!
 
 Priest/KillAllUndead2
-\CBct[3]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Thank you!
+\CBct[3]\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    ขอบคุณ!
 
 ##################################################################################### Doctor Search in OrkindCamp
 
 Priest/Ans_doctor
-\CBct[2]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    So doctors come here to train?
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    Yes, but as I have said they are no longer here.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    They have been gone for some time, and not a word has returned.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    They had traveled north to visit a hunter's homestead.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    It was after then that we heard word of the world's calamity.
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    We need mercenaries like yourself to confirm their well being.
-\CBct[2]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    Me?
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    Yes. You!
+\CBct[2]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    หมอมาที่นี่เพื่อฝึกฝน?
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    ใช่ แต่อย่างที่ข้าบอกไป พวกเขาไม่อยู่ที่นี่แล้ว
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    พวกเขาหายไปนานแล้ว และไม่มีข่าวคราวกลับมา
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    พวกเขาเดินทางไปทางเหนือเพื่อเยี่ยมบ้านของนักล่า
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    หลังจากนั้นเราก็ได้ยินข่าวเรื่องภัยพิบัติของโลก
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    เราต้องการทหารรับจ้างอย่างเธอเพื่อยืนยันความปลอดภัยของพวกเขา
+\CBct[2]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    ฉัน?
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    ใช่ เธอ!
 
 Priest/Ans_doctor_brd
 \board[Monk's Wellbeing]
-Goal：Head to the homestead up north
-Reward：Large Copper Coin 2
-Client：Mountain Monastery
-Time Limit：Until Completion
-Head towards the hunter's homestead in the north to confirm the monk's wellbeing.
+เป้าหมาย：ไปที่บ้านของนักล่าทางเหนือ
+รางวัล：เหรียญทองแดงใหญ่ 2
+ผู้ว่าจ้าง：Mountain Monastery
+เวลาที่จำกัด：จนกว่าจะเสร็จสิ้น
+ไปที่บ้านของนักล่าทางเหนือเพื่อยืนยันความปลอดภัยของพระภิกษุ
 
 DcSearch/Qmsg0
-Monk's Corpse
+ศพของพระภิกษุ
 
 DcSearch/Qmsg1
-Priest's Corpse
+ศพของพระ
 
 DcSearch/Qmsg2
-Believer's Corpse
+ศพของผู้เชื่อ
 
 DcSearch/Done0
-\CBct[8]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    Guess they're all dead...
+\CBct[8]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    คงตายหมดแล้ว...
 \CBct[8]\m[tired]\PRF\C[0]\C[6]Lona：\C[0]    ....
-\CBct[5]\m[serious]\PRF\C[0]\C[6]Lona：\C[0]    Keep it together!I should head back to the \c[4]Mountain Monastery\c[0].
+\CBct[5]\m[serious]\PRF\C[0]\C[6]Lona：\C[0]    สู้ต่อไป! ฉันควรกลับไปที่ \c[4]Mountain Monastery\c[0]
 
 Priest/doctor_Done0
-\CBct[8]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    Um...
-\CBct[20]\m[tired]\plf\PRF\C[0]\C[6]Lona：\C[0]    I went to the homestead and the doctors there are all dead.
-\CBid[-1,8]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    Is that so...as expected...
-\CBct[20]\m[sad]\plf\PRF\C[0]\C[6]Lona：\C[0]    Sorry...
-\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    This is not your fault. It must be just rewards for their lack of faith.
+\CBct[8]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    อืม...
+\CBct[20]\m[tired]\plf\PRF\C[0]\C[6]Lona：\C[0]    ฉันไปที่บ้านของนักล่าแล้ว หมอที่นั่นตายหมด
+\CBid[-1,8]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    จริงหรือ...ตามที่คาดไว้...
+\CBct[20]\m[sad]\plf\PRF\C[0]\C[6]Lona：\C[0]    ขอโทษ...
+\CBid[-1,20]\SETpl[HumPriest2]\Lshake\prf\C[4]Priest：\c[0]    ไม่ใช่ความผิดของเธอ นี่คงเป็นการตอบแทนที่เหมาะสมสำหรับความไร้ศรัทธาของพวกเขา
 
 ##################################################################################### Cocona unique
 
 cocona/Home0
-\CBfB[20]\SETlpl[cocona_shocked]\prf\Lshake\c[4]Cocona：\c[0]    Big sis!
-\CBct[6]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    What's wrong?
-\CBfB[4]\SETlpl[cocona_happy]\Lshake\prf\c[4]Cocona：\c[0]    This smell! Just like home!
-\CBct[2]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    Home?
-\CBfB[4]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Yes! My home! Underground!
-\CBct[6]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    Oh okay. That's good to know.
+\CBfB[20]\SETlpl[cocona_shocked]\prf\Lshake\c[4]Cocona：\c[0]    พี่สาว!
+\CBct[6]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    เกิดอะไรขึ้น?
+\CBfB[4]\SETlpl[cocona_happy]\Lshake\prf\c[4]Cocona：\c[0]    กลิ่นนี้! เหมือนบ้านเลย!
+\CBct[2]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    บ้าน?
+\CBfB[4]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    ใช่! บ้านของฉัน! ใต้ดิน!
+\CBct[6]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    โอเค ดีจังที่รู้
 
 UndeadX/cocona0
-\CBid[-1,8]\c[4]Undead：\c[0]    Hurr...brains...
+\CBid[-1,8]\c[4]Undead：\c[0]    ฮือ...สมอง...
 \CBct[6]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    ...
 
 UndeadX/cocona1
-\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Big sis! Wait! Friend!
-\CBct[2]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    Huh? Friend?
-\CBfB[20]\SETlpl[cocona_happy]\Lshake\prf\c[4]Cocona：\c[0]    Yes! Friend!
+\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    พี่สาว! รอ! เพื่อน!
+\CBct[2]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    หา? เพื่อน?
+\CBfB[20]\SETlpl[cocona_happy]\Lshake\prf\c[4]Cocona：\c[0]    ใช่! เพื่อน!
 
 UndeadX/cocona2
 \CBct[8]\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    .....
 
 UndeadX/cocona3
-\CBfB[20]\SETlpl[cocona_happy]\Lshake\c[4]Cocona：\c[0]    Big sis! Friend came back!
-\CBct[2]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    Um...is that so? Uh... Yeah.
-\CBfB[20]\SETlpl[cocona_happy]\Lshake\prf\c[4]Cocona：\c[0]    Friend believes in Saint. Friend say he likes big sis so he gifts you this!
+\CBfB[20]\SETlpl[cocona_happy]\Lshake\c[4]Cocona：\c[0]    พี่สาว! เพื่อนกลับมาแล้ว!
+\CBct[2]\m[confused]\plf\PRF\C[0]\C[6]Lona：\C[0]    อืม...จริงหรือ? อืม... ใช่
+\CBfB[20]\SETlpl[cocona_happy]\Lshake\prf\c[4]Cocona：\c[0]    เพื่อนเชื่อในนักบุญ เพื่อนบอกว่าชอบพี่สาวเลยให้ของขวัญนี้!
 
 UndeadX/cocona4
-\CBct[2]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    Oh...I'm at a loss for words. Great?
-\CBfB[3]\SETlpl[cocona_happy]\Lshake\prf\c[4]Cocona：\c[0]    Yes! Great! Believers of Saint are all friends!
+\CBct[2]\m[flirty]\plf\PRF\C[0]\C[6]Lona：\C[0]    โอ้...ฉันไม่รู้จะพูดอะไร ดีมาก?
+\CBfB[3]\SETlpl[cocona_happy]\Lshake\prf\c[4]Cocona：\c[0]    ใช่! ดีมาก! ผู้เชื่อในนักบุญทุกคนเป็นเพื่อนกัน!

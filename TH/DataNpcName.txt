@@ -12,324 +12,324 @@ Abomination
 ###########################################################  NPC PART ###########################################################
 
 part/arm
-'s arm
+แขน
 
 part/penis
-'s penis
+ควย
 
 part/mouth
-'s mouth
+ปาก
 
 part/beads
-beads
+ลูกปัด
 
 part/enema
-enema sack
+ถุงยาถ่าย
 
 ###########################################################  NPC RACE ###########################################################
 
 race/Human
-Human
+มนุษย์
 
 race/Moot
-Mixed-Race
+ลูกครึ่ง
 
 race/Orkind
-Orc
+ออร์ค
 
 race/Goblin
-Goblin
+ก็อบลิน
 
 race/Abomination
-Abomination
+สิ่งประหลาด
 
 race/Deepone
-Deepone
+ดีปวัน
 
 race/Fishkind
-Fishkind
+ปลาคน
 
 race/Troll
-Troll
+ทรอลล์
 
 race/Animal
-Animal
+สัตว์
 
 race/OthersElise
-Unknown Creature
+สิ่งมีชีวิตไม่ทราบชนิด
 
 race/Others
-Other
+อื่นๆ
 
 race/Dog
-Dog
+หมา
 
 race/Horse
-Horse
+ม้า
 
 race/DeeponeLona
-Smelly Human
+มนุษย์เหม็น
 
 race/AbomLona
-Sick Human
+มนุษย์ป่วย
 
 race/AbomMootLona
-Unwell Mixed-Race
+ลูกครึ่งไม่สบาย
 
 ###########################################################  NPC NAME ###########################################################
 
 name/nameCreatureBat
-Mutant Bat
+ค้างคาวกลายพันธุ์
 
 name/nameCreatureGroundSpore
-Monster Spore
+สปอร์ปีศาจ
 
 name/nameCreatureMeatWorm
-Meat Worm
+หนอนเนื้อ
 
 name/nameCreatureSpore
-Floating Spore
+สปอร์ลอย
 
 name/nameCreatureSummonSpore
-Malicious Spore
+สปอร์ร้าย
 
 name/nameCreatureTentacle
-Fanged Tentacle
+หนวดมีเขี้ยว
 
 name/nameCreatureTentacleSummoned
-Fanged Tentacle
+หนวดมีเขี้ยว
 
 name/Baby_nameinationBaby
-Infant
+ทารก
 
 name/Baby_FishkindBaby
-Infant
+ทารก
 
 name/Baby_GoblinBaby
-Infant
+ทารก
 
 name/Baby_OgreChild
-Child
+เด็ก
 
 name/Baby_OrcBaby
-Infant
+ทารก
 
 name/Baby_OrcChild
-Child
+เด็ก
 
 goblin/GoblinBow
-Archer
+นักธนู
 
 name/GoblinClub
-Soldier
+ทหาร
 
 name/GoblinCommoner
-
+ชาวบ้าน
 
 name/GoblinCommoner_focused
-
+ชาวบ้านที่มุ่งมั่น
 
 name/GoblinSpear
-Spearman
+ทหารหอก
 
 name/GoblinWarrior
-Warrior
+นักรบ
 
 name/GoblinWatcher
-Scout
+ลาดตระเวน
 
 name/HobgoblinBow
-Archer
+นักธนู
 
 name/HobgoblinClub
-Soldier
+ทหาร
 
 name/HobgoblinCommoner
-
+ชาวบ้าน
 
 name/HobgoblinCommoner_focused
-
+ชาวบ้านที่มุ่งมั่น
 
 name/HobgoblinShaman
-Shaman
+หมอผี
 
 name/HobgoblinSpear
-Pikeman
+ทหารหอก
 
 name/HobgoblinWarrior
-Warrior
+นักรบ
 
 name/HobgoblinWatcher
-Scout
+ลาดตระเวน
 
 name/HumanBow
-Archer
+นักธนู
 
 name/HumanExecutioner
-Executioner
+มือประหาร
 
 name/HumanLawbringer
-Law Enforcer
+ผู้บังคับใช้กฎหมาย
 
 name/HumanScout
-Scout
+ลาดตระเวน
 
 name/HumanSpear
-Spearman
+ทหารหอก
 
 name/HumanTorturer
-Interrogator
+ผู้สอบสวน
 
 name/HumanWarrior
-Warrior
+นักรบ
 
 name/MobHumanClub
-Mob
+โจร
 
 name/MobHumanCommoner
-Mob
+โจร
 
 name/MobHumanHighLander
-Son of the Dragon
+ลูกมังกร
 
 name/MobHumanPickAxe
-Mob
+โจร
 
 name/MobHumanRogueBow
-Bandit
+โจร
 
 name/MobHumanRogueCatcher
-Bandit
+โจร
 
 name/MobHumanRogueSpear
-Bandit
+โจร
 
 name/MobHumanRogueWarrior
-Bandit
+โจร
 
 name/MobHumanSpear
-Bandit
+โจร
 
 name/NatureMerchant
-Merchant
+พ่อค้า
 
 name/NeutralHumanBow
-Archer
+นักธนู
 
 name/NeutralHumanPrisonMinerF
-Female Mine Slave
+ทาสเหมืองหญิง
 
 name/NeutralHumanPrisonMinerM
-Mine Slave
+ทาสเหมือง
 
 name/NeutralHumanPrisonMinerRaperM
-Mine Slave Rapist
+ทาสเหมืองข่มขืน
 
 name/NeutralHumanPrisonMineTrader
-Prison Guard
+ยามเหมือง
 
 name/NeutralHumanPrisonOfficer
-Prison Warden
+ผู้คุมเรือนจำ
 
 name/NeutralHumanPrisonSpear
-Prison Guard
+ยามเรือนจำ
 
 name/NeutralHumanPrisonTorturer
-Prison Interrogator
+ผู้สอบสวนเรือนจำ
 
 name/NeutralHumanPrisonWarrior
-Prison Guard
+ยามเรือนจำ
 
 name/NeutralHumanScout
-Scout
+ลาดตระเวน
 
 name/NeutralHumanWarrior
-Warrior
+นักรบ
 
 name/OrcBow
-Archer
+นักธนู
 
 name/OrcCatcher
-Hunter
+นักล่า
 
 name/OrcClub
-Soldier
+ทหาร
 
 name/OrcCommoner
-asdf unused
+asdf ไม่ใช้
 
 name/OrcCommoner_focused
-asdf unused
+asdf ไม่ใช้
 
 name/OrcWarrior
-Warrior
+นักรบ
 
 name/PlayernameinationBaby
-Infant
+ทารก
 
 name/PlayerFishkindBaby
-Infant
+ทารก
 
 name/PlayerGoblinBaby
-Infant
+ทารก
 
 name/PlayerOgreChild
-Child
+เด็ก
 
 name/PlayerOrcBaby
-Infant
+ทารก
 
 name/WildBoar
-Boar
+หมูป่า
 
 name/WildDog
-Stray Dog
+หมาจรจัด
 
 name/WildGiantMice
-Giant Rat
+หนูยักษ์
 
 name/WildHorse
-Horse
+ม้า
 
 name/WildApeF
-Female Monkey
+ลิงเพศเมีย
 
 name/WildApeM
-Monkey
+ลิง
 
 name/UniquePigBobo
-Bobo the Breeder
+โบโบผสมพันธุ์
 
 name/HorseCarry
-Draft Horse
+ม้าบรรทุก
 
 name/WildAlphaPig
-Alpha Hog
+หมูอัลฟ่า
 
 name/AbomCreatureManager
-Fiend
+ปีศาจ
 
 name/AbomCreatureScorpion
-Crawler
+แมงป่อง
 
 name/AbomCreatureSpider
-Spider
+แมงมุม
 
 name/AbomCreatureZombie
-Mutant
+มนุษย์กลายพันธุ์
 
 name/AbomCreatureBreedling
-Breedling
+ลูกผสม
 
 name/UniqueDirtyJohnson
-Dirty Johnson
+จอห์นสันสกปรก
 
 ######################## EVENT  ######################################
 
 fraction/nature
-Neutral
+เป็นกลาง
 
 fraction/evil
-Evil Creatures
+สิ่งมีชีวิตชั่วร้าย
 
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

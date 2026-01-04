@@ -1,223 +1,225 @@
+XXXXXXXX
+
 Milo/CecilyGroupQmsg0
-Guards!
+ทหาร!
 
 Milo/CecilyGroupQmsg1
-Kill them!
+ฆ่าพวกมัน!
 
 Milo/InBarBegin_unknow0
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    I'm Milo Von Rudesind, and you are?
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Hello, I'm Lona Falldin.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..\..\n Lona. An insignificant worm? I don't remember you being on the list.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    Go away, worm.
-\CamCT\m[wtf]\plf\PRF\c[6]Lona：\c[0]    Huh?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    กูคือมิโล ฟ็อน รูเดซินด์ แล้วมึงล่ะ?
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    สวัสดี หนูชื่อโลน่า ฟอลดิน
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..\..\n โลน่า หนอนตัวเล็กๆ? กูไม่จำได้ว่ามึงอยู่ในลิสต์
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    ไปเลย หนอน
+\CamCT\m[wtf]\plf\PRF\c[6]Lona：\c[0]    อะไรนะ?
 
 Milo/InBarBegin_know
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    You are not welcome here.
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Sorry.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    มึงไม่ได้รับการต้อนรับที่นี่
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ขอโทษค่ะ
 
 Milo/elseBegin
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Is something the matter? \optB[Cancel, Rudesind, Noer Town, Sybaris]
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    มีอะไรหรือเปล่า? \optB[ยกเลิก, รูเดซินด์, เมืองโนเออร์, ไซบาริส]
 
 Milo/elseBegin_Rudesind
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    As you know, the Rudesind estate controls the upper class.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Our reach stretches all over the world.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Without me, there would be no Noer Town right now.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    อย่างที่มึงรู้ ตระกูลรูเดซินด์ควบคุมชนชั้นสูง
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    อิทธิพลของเรากว้างขวางไปทั่วโลก
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ถ้าไม่มีกู เมืองโนเออร์ก็คงไม่มีอยู่ในตอนนี้
 
 Milo/elseBegin_Noer
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Like the name of this island, Noer Island.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    This was the earliest populated place on the island, and it was built bit by bit by our family.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    This used to be the main trading port for the East-West naval trade.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Sybaris was built with the intention of replacing this city.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    And the plague in Noer decades ago accelerated that.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    เหมือนชื่อเกาะนี้ เกาะโนเออร์
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ที่นี่เป็นที่ตั้งถิ่นฐานแรกบนเกาะ และถูกสร้างขึ้นทีละน้อยโดยครอบครัวของเรา
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ที่นี่เคยเป็นท่าเรือการค้าหลักสำหรับการค้าทางทะเลตะวันออก-ตะวันตก
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ไซบาริสถูกสร้างขึ้นเพื่อทดแทนเมืองนี้
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    และโรคระบาดในโนเออร์เมื่อหลายสิบปีก่อนก็ทำให้เร่งการเปลี่ยนแปลงนี้
 
 Milo/elseBegin_Sybaris
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    We don't have a deep-water port, Noer Town can't bear the increasing sea trade demand.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Who knew that ships would just get bigger and bigger?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Around 70 years ago a city was founded by business representatives all over the world.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    The city of Sybaris.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    And yes, our family was also involved, but everything has gone to dust now.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    เราไม่มีท่าเรือน้ำลึก เมืองโนเออร์ไม่สามารถรองรับความต้องการการค้าทางทะเลที่เพิ่มขึ้นได้
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    ใครจะรู้ว่าเรือจะใหญ่ขึ้นเรื่อยๆ
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ราวๆ 70 ปีก่อน เมืองหนึ่งถูกก่อตั้งโดยตัวแทนธุรกิจทั่วโลก
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    เมืองไซบาริส
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    และใช่ ครอบครัวของเราก็มีส่วนร่วมด้วย แต่ทุกอย่างก็พังทลายไปหมดแล้ว
 
 ######################################################################## Hunting ##################################
 
 Milo/QuestMilo_2to3_1
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Yes? Who might you be?
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Hello... I have an invitation letter here. From Mr... Milo?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    I'm Milo. And you mentioned an invitation? Let me see it.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    อะไรนะ? มึงเป็นใคร?
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    สวัสดี... หนูมีจดหมายเชิญที่นี่ จากคุณ... มิโล?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    กูคือมิโล แล้วมึงพูดถึงจดหมายเชิญ? ให้กูดูหน่อย
 \BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    Interesting... The rumored warrior is actually just a worm.
-\CamCT\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Me? A worm?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Merely a jest. You're competent, no? I'm sure you must be talented.
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Talented....？
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Yes, we need competent people.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Milo：\c[0]    น่าสนใจ... นักรบที่ลือกันว่าเก่งกล้า กลับเป็นแค่หนอน
+\CamCT\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    หนูเหรอ? หนอน?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    แค่ล้อเล่น มึงเก่งไม่ใช่เหรอ? กูแน่ใจว่ามึงต้องมีพรสวรรค์
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    มีพรสวรรค์...?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    ใช่ เราต้องการคนที่เก่ง
 
 Milo/QuestMilo_3to4_1
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    As you already know, Noer has been surrounded by vagrants. These poor worms are all over the city.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    I understand, I don't blame them.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Each of them carry a sob story. I have grown weary of it.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Yet there are some of them who would dare to undermine the order I have worked so diligently to establish.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    They dream about taking back Sybaris... As if such a thing is possible.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    And do you know what happens when order collapses?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    You're familiar with it, aren't you? Such is the lot of you who fled from Sybaris.
-\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    Yes, I've seen it happen....
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    You understand then.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    We've received a report of a troublemaker outside of town.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    They call him... Adam?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Bring me his head, and I will reward you handsomely.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    อย่างที่มึงรู้ โนเออร์ถูกล้อมรอบด้วยคนเร่ร่อน พวกหนอนยากจนเต็มเมือง
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    กูเข้าใจ กูไม่โทษพวกมัน
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    แต่ละคนมีเรื่องราวที่น่าสงสาร กูเบื่อแล้ว
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    แต่ก็มีบางคนที่กล้าทำลายความเป็นระเบียบที่กูพยายามสร้างขึ้น
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    พวกมันฝันว่าจะยึดไซบาริสคืน... เหมือนว่าจะทำได้
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    แล้วมึงรู้ไหมว่าจะเกิดอะไรขึ้นถ้าความเป็นระเบียบพังทลาย?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    มึงคุ้นเคยกับมันไม่ใช่เหรอ? นี่คือชะตากรรมของพวกที่หนีออกจากไซบาริส
+\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    ใช่ หนูเคยเห็นมันเกิดขึ้น....
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    มึงเข้าใจแล้ว
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    เราได้รับรายงานว่ามีคนก่อความวุ่นวายอยู่นอกเมือง
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    พวกมันเรียกว่า... อาดัม?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    นำหัวของมันมาให้กู กูจะให้รางวัลมึงอย่างงดงาม
 
 Milo/QuestMilo_3to4_QuBoard
-\board[Preserve Order]
-Goal： Kill Adam
-Reward：5 Large Copper coins, Reputation +5
-Client： Milo von Rudesind
-Term： Single
-Our scouts report he is staying in an abandoned house in the Northeast.
-I need a capable assassin to deal with this.
+\board[รักษาความเป็นระเบียบ]
+เป้าหมาย： ฆ่าอาดัม
+รางวัล：เหรียญทองแดงขนาดใหญ่ 5 เหรียญ, ชื่อเสียง +5
+ผู้ว่าจ้าง： มิโล ฟ็อน รูเดซินด์
+เงื่อนไข： ครั้งเดียว
+ลูกน้องของเรารายงานว่าเขาอยู่ในบ้านร้างทางตะวันออกเฉียงเหนือ
+กูต้องการนักฆ่าที่มีความสามารถมาจัดการกับเรื่องนี้
 
 Milo/QuestMilo_3to4_no
-\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    I won't!
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    What a pity, so you're just a worm?
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    I'm sure you'll change your mind.
-\CamCT\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    I am not a worm!
+\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    หนูไม่ทำ!
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    น่าเสียดาย มึงก็แค่หนอน?
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    กูแน่ใจว่ามึงจะเปลี่ยนใจ
+\CamCT\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    หนูไม่ใช่หนอน!
 
 Milo/QuestMilo_3to4_yes
-\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    I'll do it! I'm not a bug! I can do this!
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Good! I'll be waiting for your return!
+\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    หนูจะทำ! หนูไม่ใช่แมลง! หนูทำได้!
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ดี! กูจะรอมึงกลับมา!
 
 Milo/QuestMilo_3to4_yes_adamDed0
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Uhm... I think he's dead...
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    What?
-\CamCT\m[confused]\plf\PRF\c[6]Lona：\c[0]    Adam... I saw him die...
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Really?
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    อืม... หนูคิดว่าเขาตายแล้ว...
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    อะไรนะ?
+\CamCT\m[confused]\plf\PRF\c[6]Lona：\c[0]    อาดัม... หนูเห็นเขาตาย...
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    จริงเหรอ?
 
 Milo/QuestMilo_3to4_yes_adamDed1
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Really....
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Uhm......
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Our world really is filled with pain.....
-\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    Yes...
+\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    จริงๆ....
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    อืม......
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    โลกของเราจริงๆ แล้วเต็มไปด้วยความเจ็บปวด.....
+\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    ใช่...
 
 Milo/QuestMilo_6to7
-\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    I'm back!
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Good! Let's talk.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Did you bring me his head?
+\CamCT\m[serious]\plf\PRF\c[6]Lona：\c[0]    หนูกลับมาแล้ว!
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ดี! มาคุยกัน
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    มึงเอาหัวของมันมาให้กูไหม?
 
 Milo/QuestMilo_6to7_withHead0
-\CamCT\m[fear]\plf\PRF\c[6]Lona：\c[0]    Yes..  Eww...
+\CamCT\m[fear]\plf\PRF\c[6]Lona：\c[0]    ใช่.. อ๊ะ...
 
 Milo/QuestMilo_6to7_withHead1
-\BonMP[Milo,4]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Ah...Adam. A job well done!
-\BonMP[Milo,5]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    This naughty worm had been causing trouble all over town.
-\BonMP[Milo,15]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Many townspeople and guards died because of him.
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Aren't you happy now that this menace was felled by your hand?
-\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    Uhm....
+\BonMP[Milo,4]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    อ๋อ... อาดัม ทำได้ดี!
+\BonMP[Milo,5]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    หนอนตัวนี้ก่อความวุ่นวายทั่วเมือง
+\BonMP[Milo,15]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    ชาวเมืองและทหารหลายคนตายเพราะมัน
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    มึงไม่ดีใจหรือที่ภัยคุกคามนี้ถูกมึงจัดการ?
+\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    อืม....
 
 Milo/QuestMilo_6to7_withHead2
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Don't be sad, think of the people who will get to live because of you.
-\CamCT\m[sad]\plf\PRF\c[6]Lona：\c[0]    Yes, Lord Rudesind.....
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    อย่าเสียใจ คิดถึงคนที่จะได้มีชีวิตอยู่เพราะมึง
+\CamCT\m[sad]\plf\PRF\c[6]Lona：\c[0]    ใช่ ลอร์ดรูเดซินด์.....
 
 Milo/QuestMilo_6to7_NoHead0
-\CamCT\m[fear]\plf\PRF\c[6]Lona：\c[0]    I accidentaly lost his head.....
+\CamCT\m[fear]\plf\PRF\c[6]Lona：\c[0]    หนูทำหัวของเขาหาย....
 \BonMP[Milo,8]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..
 \CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    \..\..\..
 \BonMP[Milo,8]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..
-\CamCT\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    But.. I really did kill him，I wouldn't lie to you！
-\CamCT\m[shocked]\plf\PRF\c[6]Lona：\c[0]    His body's still there！Really！ Send someone to check！
+\CamCT\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    แต่.. หนูจริงๆ แล้วฆ่าเขา หนูไม่โกหกมึง!
+\CamCT\m[shocked]\plf\PRF\c[6]Lona：\c[0]    ศพของเขายังอยู่ที่นั่น! จริงๆ! ส่งคนไปตรวจสอบ!
 \BonMP[Milo,8]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..
-\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    Uhm....
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    It's okay, I believe you！
+\CamCT\m[tired]\plf\PRF\c[6]Lona：\c[0]    อืม....
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ไม่เป็นไร กูเชื่อมึง!
 
 Milo/QuestMilo_6to7_NoHead1
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Take it.
-\CamCT\Bon[1]\m[sad]\plf\PRF\c[6]Lona：\c[0]    This\..\..\..
-\CamCT\Bon[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Thank you very much! Thank you Lord Rudesind!
-\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Don't need to grovel. I have more work for you in the near future.
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    รับไป
+\CamCT\Bon[1]\m[sad]\plf\PRF\c[6]Lona：\c[0]    นี่\..\..\..
+\CamCT\Bon[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    ขอบคุณมาก! ขอบคุณลอร์ดรูเดซินด์!
+\BonMP[Milo,20]\CamMP[Milo]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ไม่ต้องคุกเข่า กูมีงานให้มึงทำในอนาคตอันใกล้
 
 Milo/QuestMilo_6to7_NoHead2
-\CamCT\Bon[6]\m[pleased]\plf\PRF\c[4]Milo is a great guy！
+\CamCT\Bon[6]\m[pleased]\plf\PRF\c[4]มิโลเป็นคนดีมาก!
 \BonMP[Milo,8]\CamMP[Milo]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..\..
 
 #################################################################################### betray Cecily? ###########################
 
 Milo/QuestMilo_9_Ignore
-\CBid[-1,20]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    Lona, the little bug, right?
-\CBid[-1,5]\SETpl[MiloAngry]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    I'm sorry, you've made your choice already. Begone.
-\CamCT\m[wtf]\plf\PRF\c[6]Lona：\c[0]    Huh？
+\CBid[-1,20]\SETpl[MiloNormal]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    โลน่า หนอนตัวเล็กๆ ใช่ไหม?
+\CBid[-1,5]\SETpl[MiloAngry]\m[confused]\Lshake\prf\c[4]Unknown：\c[0]    ขอโทษ มึงเลือกไปแล้ว ไปเลย
+\CamCT\m[wtf]\plf\PRF\c[6]Lona：\c[0]    อะไรนะ?
 
 Milo/QuestMilo_9to10_1
-\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Yes, hello? I received your invitation letter.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Oh! Cute little worm, you finally returned.
-\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    What's wrong?
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    You've met \c[6]Cecily\c[0] right？
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    I've met her, she's very zealous!
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Will you tell me about her? I'd like to be friends with her.
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uhm....\optD[No,Sure]
+\CBct[8]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    ใช่ สวัสดี? หนูได้รับจดหมายเชิญของมึง
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    โอ้! หนอนน้อยน่ารัก มึงกลับมาแล้ว
+\CBct[2]\m[confused]\plf\PRF\c[6]Lona：\c[0]    เกิดอะไรขึ้น?
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    มึงเจอ \c[6]เซซิลี่\c[0] ใช่ไหม?
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    หนูเจอเธอ เธอเป็นคนที่มีความกระตือรือร้นมาก!
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    มึงจะเล่าเรื่องเธอให้กูฟังไหม? กูอยากเป็นเพื่อนกับเธอ
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อืม....\optD[ไม่,แน่นอน]
 
 Milo/QuestMilo_9to10_2_0
-\CBct[20]\m[serious]\plf\PRF\c[6]Lona：\c[0]    You lie! She said you're the one to blame for all of this!
-\CBct[20]\m[angry]\plf\Rshake\c[6]Lona：\c[0]    You are responsible for the slave trade!
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    This is really just a big misunderstanding.
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    A misunderstanding?!
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Listen, I'm giving these people a way out. A way to survive.
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    If I don't, they'll eat you.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Haven't you seen it before? On your way out? Those refugees who turned into cannibals?
-\CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Uh....
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Yes, you've seen them. They're no different from monsters.
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    That's what happens when they have no way out.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Yes, I enslave them, it helps them, and where do you think the profits go?
+\CBct[20]\m[serious]\plf\PRF\c[6]Lona：\c[0]    มึงโกหก! เธอบอกว่ามึงเป็นคนที่ทำให้ทุกอย่างเป็นแบบนี้!
+\CBct[20]\m[angry]\plf\Rshake\c[6]Lona：\c[0]    มึงเป็นคนรับผิดชอบการค้าทาส!
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    นี่เป็นแค่ความเข้าใจผิดใหญ่หลวง
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    ความเข้าใจผิด?!
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    ฟังนะ กูกำลังให้ทางออกกับพวกนี้ ทางรอด
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    ถ้ากูไม่ทำ พวกมันจะกินมึง
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    มึงไม่เคยเห็นมาก่อนเหรอ? ตอนที่มึงออกไป? พวกผู้ลี้ภัยที่กลายเป็นคนกินคน?
+\CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    อืม....
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ใช่ มึงเคยเห็นพวกมัน พวกมันไม่ต่างจากปีศาจ
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    นี่คือสิ่งที่เกิดขึ้นเมื่อพวกมันไม่มีทางออก
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ใช่ กูทำให้พวกมันเป็นทาส มันช่วยพวกมัน แล้วมึงคิดว่ากำไรไปไหน?
 \CBct[20]\m[shy]\plf\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Who do you think is paying for the soldiers and mercenaries?
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    มึงคิดว่าใครจ่ายเงินให้ทหารและมือปืน?
 \CBct[20]\m[sad]\plf\PRF\c[6]Lona：\c[0]    \..\..\..
 
 Milo/QuestMilo_9to10_2_1
-\CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    Okay...
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    She's a noble from Sybaris.
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    She's a very passionate noble Lady.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    As soon as we see trouble, she rushes in head first.
-\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    And she's actually good, she's a noble who cares about the common people.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Very good, thank you, but I already knew this
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    \c[6]Cecily\c[0]practices martial arts, I've seen her do so in a banquet.
-\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Now... How does she feel about the current situation in Noer Town?
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Uh....\optD[I can't say,She's upset]
+\CBct[20]\m[tired]\plf\PRF\c[6]Lona：\c[0]    ได้...
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    เธอเป็นขุนนางจากไซบาริส
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    เธอเป็นขุนนางที่มีความกระตือรือร้นมาก
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    พอเห็นปัญหา เธอก็พุ่งเข้าไปทันที
+\CBct[20]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    และเธอก็เก่งจริงๆ เธอเป็นขุนนางที่สนใจคนทั่วไป
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    ดีมาก ขอบคุณ แต่กูรู้เรื่องนี้อยู่แล้ว
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    \c[6]เซซิลี่\c[0]ฝึกศิลปะการต่อสู้ กูเคยเห็นเธอฝึกในงานเลี้ยง
+\CBmp[Milo,20]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    ตอนนี้... เธอรู้สึกยังไงกับสถานการณ์ปัจจุบันในเมืองโนเออร์?
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อืม....\optD[หนูไม่สามารถพูดได้,เธอไม่พอใจ]
 
 Milo/QuestMilo_9to10_3
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    She's troubled with the refugees' situation, and is trying to come up with ways to help them.
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    But I don't think there's much to be done.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Recently, she's been planning an attack on those nasty slave traders!
-\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    She's a noble with a sense of justice! I admire her!
-\CBmp[Milo,2]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Attack? Tell me more.
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    I hope I can resolve this small misunderstanding between me and her.
-\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    This isn't something to be told easily...
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    We're under a terrible apocalypse, we must help each other-
-\cg[event_Coins]\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Would you like to leave Noer Island? I can provide you with the means to do so.
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    เธอกังวลกับสถานการณ์ของผู้ลี้ภัย และกำลังหาทางช่วยเหลือพวกเขา
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    แต่หนูไม่คิดว่าจะทำอะไรได้มาก
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    ล่าสุด เธอกำลังวางแผนโจมตีพวกค้าทาสที่ชั่วร้าย!
+\CBct[20]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    เธอเป็นขุนนางที่มีความยุติธรรม! หนูชื่นชมเธอ!
+\CBmp[Milo,2]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    โจมตี? เล่าให้กูฟังเพิ่มเติม
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    กูหวังว่าจะแก้ปัญหาความเข้าใจผิดเล็กๆ น้อยๆ ระหว่างกูกับเธอ
+\CBct[8]\m[confused]\plf\PRF\c[6]Lona：\c[0]    นี่ไม่ใช่เรื่องที่จะบอกได้ง่ายๆ...
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    เราอยู่ในยุคสิ้นโลกที่น่ากลัว เราต้องช่วยเหลือกัน-
+\cg[event_Coins]\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    มึงอยากจะออกจากเกาะโนเออร์ไหม? กูสามารถจัดหาวิธีให้มึงได้
 
 Milo/QuestMilo_9to10_3board
-\board[Preserve Order]
-Goal： Tell Milo about cecily's plan
-Reward： 10 Gold Coins
+\board[รักษาความเป็นระเบียบ]
+เป้าหมาย： บอกมิโลเกี่ยวกับแผนการของเซซิลี่
+รางวัล： เหรียญทอง 10 เหรียญ
 
 Milo/QuestMilo_9to10_3opt
-\cgoff\CBct[1]\m[confused]\plf\PRF\c[6]Lona：\c[0]    HUH?! THAT MUCH!??
-\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    I'm doing this for my people, trust me \optD[No,Okay]
+\cgoff\CBct[1]\m[confused]\plf\PRF\c[6]Lona：\c[0]    อะไรนะ?! มากขนาดนั้นเลย!?
+\CBmp[Milo,20]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    กูทำเพื่อคนของกู จงเชื่อกู \optD[ไม่,ตกลง]
 
 Milo/QuestMilo_9to10_yes0
-\CBct[8]\m[shy]\plf\PRF\c[6]Lona：\c[0]    Okay....
-\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    But... She hasn't told me much... I don't know the finer details.
-\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    Although... she did tell me to meet her in 5 days? Was it 5 days? Maybe? I think?
-\CBmp[Milo,8]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    Five days？
-\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Um... I don't know if this is worth the money. 
-\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    I know it's useless, but this is all I know.
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Don't worry, take the money.
+\CBct[8]\m[shy]\plf\PRF\c[6]Lona：\c[0]    ได้....
+\CBct[6]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    แต่... เธอไม่ได้บอกหนูมากนัก... หนูไม่รู้รายละเอียดที่ละเอียด
+\CBct[20]\m[confused]\plf\PRF\c[6]Lona：\c[0]    แม้ว่า... เธอบอกให้หนูไปพบเธอในอีก 5 วัน? เป็น 5 วันไหม? อาจจะ? หนูคิดว่า?
+\CBmp[Milo,8]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    ห้าวัน?
+\CBct[20]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    อืม... หนูไม่รู้ว่าข้อมูลนี้คุ้มกับเงินไหม
+\CBct[6]\m[sad]\plf\PRF\c[6]Lona：\c[0]    หนูรู้ว่ามันไร้ประโยชน์ แต่นี่คือทั้งหมดที่หนูรู้
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    อย่ากังวล รับเงินไป
 
 Milo/QuestMilo_9to10_yes1
-\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Are you sure?!
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Like I said, I just want to resolve this misundertanding.
-\CBct[8]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    Thank you, Lord Milo!
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    By the way, don't tell her we've met, she is a bit of a paranoid, I'd prefer if you would not agitate her...
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    I will personally handle this situation, the little worms need not worry about a noble's business. You may go now.
-\CBct[8]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    Yes, Lord Milo!
+\CBct[20]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    แน่ใจไหม?!
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    อย่างที่กูบอก กูแค่อยากแก้ความเข้าใจผิดนี้
+\CBct[8]\m[triumph]\plf\PRF\c[6]Lona：\c[0]    ขอบคุณ ลอร์ดมิโล!
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    นอกจากนี้ อย่าบอกเธอว่าเราเคยเจอกัน เธอเป็นคนที่ระแวง กูอยากให้มึงไม่ไปยุ่งกับเธอ...
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    กูจะจัดการเรื่องนี้เอง หนอนตัวเล็กๆ ไม่ต้องกังวลเรื่องธุรกิจของขุนนาง มึงไปได้แล้ว
+\CBct[8]\m[pleased]\plf\PRF\c[6]Lona：\c[0]    ใช่ ลอร์ดมิโล!
 
 Milo/QuestMilo_9to10_refuse
-\CBct[6]\m[serious]\plf\PRF\c[6]Lona：\c[0]    No way! She says you're a bad guy!
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    Well, now that's an honest worm.
-\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?! I thought you'd be angry!
-\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    I don't get angry, little worm... I get even...
+\CBct[6]\m[serious]\plf\PRF\c[6]Lona：\c[0]    ไม่มีทาง! เธอบอกว่ามึงเป็นคนเลว!
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    อืม นี่คือหนอนที่ซื่อสัตย์
+\CBct[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    อะไรนะ?! หนูคิดว่ามึงจะโกรธ!
+\CBmp[Milo,8]\SETpl[MiloNormal]\Lshake\prf\c[4]Milo：\c[0]    กูไม่โกรธ หนอนน้อย... กูจะเอาคืน...
 \CBmp[Milo,8]\SETpl[MiloAngry]\Lshake\prf\c[4]Milo：\c[0]    \..\..\..\..

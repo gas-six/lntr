@@ -1,172 +1,174 @@
+XXXXXXXX
+
 #Fully translated by Rrezzolution and reviewed/cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 ####################################--------------------- TagMapNoerPrison overmap
 Prison/OvermapEnter
-\m[confused]Prison \optB[Leave,Enter]
+\m[confused]คุก \optB[ออก,เข้า]
 
 Prison/CantEnter
-\SETpl[Mreg_pikeman]\c[4]Jailer：\c[0]    You should not be here.
+\SETpl[Mreg_pikeman]\c[4]ผู้คุม：\c[0]    แกไม่ควรมาที่นี่
 
 Prison/term
-Remaining sentence, 
+เวลาที่เหลือของโทษ,
 
 Prison/termD
- days left.
+ วันที่เหลือ
 
 ###################################################################     Warden
 
 Warden/Release1
-\SETpl[Mreg_guardsman]\c[4]Jailer：\c[0]    ......
-\SND[SE/DOOR_Owen_Open_stereo.ogg]\SETpl[Mreg_guardsman]\c[4]Jailer：\c[0]    PHEW... It fucking stinks in here.
-\SETpl[Mreg_guardsman]\c[4]Jailer：\c[0]    Why haven't these maggots died yet?
+\SETpl[Mreg_guardsman]\c[4]ผู้คุม：\c[0]    ......
+\SND[SE/DOOR_Owen_Open_stereo.ogg]\SETpl[Mreg_guardsman]\c[4]ผู้คุม：\c[0]    อ๊าก... มันเหม็นเอ๊กซ์ในนี้
+\SETpl[Mreg_guardsman]\c[4]ผู้คุม：\c[0]    ทำไมพวกหนอนนี้ยังไม่ตายวะ?
 
 Warden/Release2
-\SETpl[Mreg_guardsman]\c[4]Jailer：\c[0]    Hey! You still alive? ...What was your name again?
-\SETpl[Mreg_guardsman]\Lshake\c[4]Jailer：\c[0]    HEY! BITCH! Your sentence is over now!
-\SETpl[Mreg_guardsman]\Lshake\c[4]Jailer：\c[0]    \{YOU CAN GO!
+\SETpl[Mreg_guardsman]\c[4]ผู้คุม：\c[0]    อ้าว! แกยังมีชีวิตอยู่เหรอ? ...ชื่ออะไรนะ?
+\SETpl[Mreg_guardsman]\Lshake\c[4]ผู้คุม：\c[0]    อีกระหรี่! โทษของแกหมดแล้ว!
+\SETpl[Mreg_guardsman]\Lshake\c[4]ผู้คุม：\c[0]    \{แกไปได้แล้ว!
 
 Warden/Release3
-\SETpl[Mreg_guardsman]\c[4]Jailer：\c[0]    Sleeping like a corpse, huh?
+\SETpl[Mreg_guardsman]\c[4]ผู้คุม：\c[0]    นอนเหมือนศพเลยนะ?
 
 Warden/Release4
-\m[tired]\plf\c[6]Lona：\c[0]    Ughnnn...
-\PLF\prf\c[4]Jailer：\c[0]    Finally awake? Congratulations, you can get the fuck out now.
-\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    E-Eh?!
-\PLF\prf\c[4]Jailer：\c[0]    Or do you want to stay in your cell? We have no extra food left to give to garbage like you.
+\m[tired]\plf\c[6]โลน่า：\c[0]    อ่าห์...
+\PLF\prf\c[4]ผู้คุม：\c[0]    ตื่นแล้วเหรอ? ยินดีด้วย แกไปได้แล้ว
+\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    อะ-อะไรนะ?!
+\PLF\prf\c[4]ผู้คุม：\c[0]    หรือแกอยากอยู่ในเซลล์ต่อ? เราไม่มีอาหารเหลือให้ขยะอย่างแกหรอก
 
 Warden/Release5
-\plh\narr The jailer left.
+\plh\narr ผู้คุมเดินจากไป
 
 Warden/Release6
-\m[confused]\plf\Rshake\c[6]Lona：\c[0]    Wha... I...
-\m[sad]\plf\Rshake\c[6]Lona：\c[0]    What should I do now...?
+\m[confused]\plf\Rshake\c[6]โลน่า：\c[0]    อะไร... ฉัน...
+\m[sad]\plf\Rshake\c[6]โลน่า：\c[0]    ฉันควรทำอะไรต่อดี...?
 
 Warden/Qpop0
-Get the fuck out already!
+ไปซะทีเหอะ!
 
 Warden/Qpop1
-Don't bother me, I'm busy.
+อย่ามากวน กูกำลังยุ่ง
 
 ###################################################################     FOOD
 
 Warden/PlaceFood0
-\SETpl[Mreg_guardsman]\prh\c[4]Jailer：\c[0]    HEY MAGGOTS! Time to eat!
+\SETpl[Mreg_guardsman]\prh\c[4]ผู้คุม：\c[0]    อีหนอน! ถึงเวลากินแล้ว!
 
 Warden/PlaceFood1
-\ph\narr The jailer placed some food near the cell's gate.
+\ph\narr ผู้คุมวางอาหารไว้ใกล้ประตูเซลล์
 
 
 ###################################################################     Rapeloop torture
 
 Warden/torture1
-\SND[SE/Whip_slap01]\m[pain]\SETpl[Mfat_tortruer]\Lshake\Rshake\c[4]Torturer：\c[0]    \{WAKE UP!!!
-\SND[SE/Whip_slap02]\m[hurt]\SETpl[Mfat_tortruer]\Lshake\Rshake\c[6]Lona：\c[0]    \{KYAAAH!
+\SND[SE/Whip_slap01]\m[pain]\SETpl[Mfat_tortruer]\Lshake\Rshake\c[4]ผู้ทรมาน：\c[0]    \{ตื่นมาเดี๋ยวนี้!!!
+\SND[SE/Whip_slap02]\m[hurt]\SETpl[Mfat_tortruer]\Lshake\Rshake\c[6]โลน่า：\c[0]    \{กรี๊ด!
 
 Warden/torture2
-\SETpl[Mfat_tortruer]\Lshake\prf\c[4]Torturer：\c[0]    \{HEY MAGGOTS! LISTEN UP!
-\SETpl[Mfat_tortruer]\Lshake\prf\c[4]Torturer：\c[0]    Recently, a little maggot was doing something she shouldn't be doing!
-\SETpl[Mfat_tortruer]\Lshake\PRF\c[4]Torturer：\c[0]    \{SO THIS IS WHAT HAPPENS TO DISOBEDIENT MAGGOTS!
+\SETpl[Mfat_tortruer]\Lshake\prf\c[4]ผู้ทรมาน：\c[0]    \{อีหนอน! ฟังให้ดี!
+\SETpl[Mfat_tortruer]\Lshake\prf\c[4]ผู้ทรมาน：\c[0]    ล่าสุด มีหนอนตัวเล็กๆ ทำอะไรที่ไม่ควรทำ!
+\SETpl[Mfat_tortruer]\Lshake\PRF\c[4]ผู้ทรมาน：\c[0]    \{นี่คือสิ่งที่เกิดขึ้นกับหนอนที่ไม่เชื่อฟัง!
 
 
 Warden/torture_end0
-\m[pain]\plf\Rshake\c[6]Lona：\c[0]    \{GAAAH!!! EEEYAAAH!!!
-\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    \{Somebody help me! S-SAAAVE MEEE!
+\m[pain]\plf\Rshake\c[6]โลน่า：\c[0]    \{อ๊าก!!! กรี๊ด!!!
+\m[bereft]\plf\Rshake\c[6]โลน่า：\c[0]    \{ช่วยด้วย! ช่วย-ช่วยฉันด้วย!
 
 Warden/torture_end1
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    Any of you maggots who reports about a disobedient maggot will be rewarded with 10 loaves of bread!
-\SETpr[Mreg_guardsman]\c[4]Jailer：\c[0]    Such a despicable piece of trash. Toss her back in the cell once her punishment is finished.
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    ใครก็ตามที่รายงานเรื่องหนอนที่ไม่เชื่อฟังจะได้รับรางวัล 10 ก้อนขนมปัง!
+\SETpr[Mreg_guardsman]\c[4]ผู้คุม：\c[0]    ขยะชิ้นนี้น่ารังเกียจจริงๆ โยนเธอกลับเข้าเซลล์เมื่อลงโทษเสร็จ
 
 Warden/torture_end2
-\narr The pit dug by Lona was filled up.
+\narr หลุมที่โลน่าขุดถูกเติมเต็ม
 
 Torture2/popup0
-EEEYAAAH!!!
+กรี๊ด!!!
 
 Torture2/popup1
-KYAAAAAAHHH!!!
+กรี๊ดดด!!!
 
 Torture2/popup2
-EEEEEEKKK!!!
+กรี๊ดดดด!!!
 
 ###################################################################     THAT TOILET
 
 that_toilet/Opt_NoerPrison_toilet
-Examine cesspit
+ตรวจสอบหลุมขยะ
 
 Toilet/frist_time
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    This hole...
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    I should be able to fit my body through it...
-\CBct[8]\m[fear]\c[6]Lona：\c[0]    But...
-\CBct[6]\m[sad]\c[6]Lona：\c[0]    This is a cesspit......
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    หลุมนี้...
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    ฉันน่าจะลอดผ่านได้...
+\CBct[8]\m[fear]\c[6]โลน่า：\c[0]    แต่...
+\CBct[6]\m[sad]\c[6]โลน่า：\c[0]    นี่เป็นหลุมขยะ......
 
 Toilet/MainOpt
-\m[confused]A disgusting cesspit... \optB[Don't waste your energy...,Attempt to dig a hole!<r=HiddenOPT1>]
+\m[confused]หลุมขยะที่น่าขยะแขยง... \optB[อย่าเสียแรงเปล่าๆ...,พยายามขุดหลุม!<r=HiddenOPT1>]
 
 Toilet/Opt_diged_open
 \CBct[1]\m[shocked]!!!
 \CBct[1]\m[shocked]!!!!!!
 \CBct[1]\m[pleased]!!!!!!!!!
-\CBct[20]\m[triumph]\c[6]Lona：\c[0]    Good enough! I should try to see if I can fit though when nobody's watching.
+\CBct[20]\m[triumph]\c[6]โลน่า：\c[0]    ดีพอแล้ว! ฉันควรลองดูว่าลอดผ่านได้ไหมตอนไม่มีใครเห็น
 
 
 ###################################################################     begin
 
 Enter/begin1
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    This will be your new home from now on!
-\SETpr[Mreg_guardsman]\Rshake\c[4]Jailer：\c[0]    \{Say hello to your new roommates!
-\m[sad]\plf\Rshake\c[6]Lona：\c[0]    Uwuuu... *Whimper*...
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    ที่นี่จะเป็นบ้านใหม่ของแกตั้งแต่นี้เป็นต้นไป!
+\SETpr[Mreg_guardsman]\Rshake\c[4]ผู้คุม：\c[0]    \{ทักทายเพื่อนร่วมห้องใหม่ของแก!
+\m[sad]\plf\Rshake\c[6]โลน่า：\c[0]    อุ๊ว... *เสียงร้องไห้*...
 
 Enter/begin2
-\SETpl[raper3]\m[fear]\Lshake\Rshake\BonMP[RaperTop,2]\c[4]Prisoner：\c[0]    \{IT'S A GIRL!\WT[3]
+\SETpl[raper3]\m[fear]\Lshake\Rshake\BonMP[RaperTop,2]\c[4]นักโทษ：\c[0]    \{เป็นผู้หญิง!\WT[3]
 
 Enter/begin3
-\SETpl[raper2]\m[shocked]\Lshake\Rshake\BonMP[RaperDown,3]\c[4]Prisoner：\c[0]    \{Female!\WT[3]
+\SETpl[raper2]\m[shocked]\Lshake\Rshake\BonMP[RaperDown,3]\c[4]นักโทษ：\c[0]    \{ผู้หญิง!\WT[3]
 
 Enter/begin4
-\SETpl[raper1]\m[terror]\Lshake\Rshake\BonMP[RaperLeft,4]\c[4]Prisoner：\c[0]    \{It's been so long since I've fucked someone!\WT[3]
+\SETpl[raper1]\m[terror]\Lshake\Rshake\BonMP[RaperLeft,4]\c[4]นักโทษ：\c[0]    \{นานแล้วที่ไม่ได้ยัดใคร!\WT[3]
 
 Enter/begin5
-\SETpl[Mfat_tortruer]\Lshake\c[4]Torturer：\c[0]    You see? Your roommates like you very much!
-\SETpl[Mreg_guardsman]\Rshake\c[4]Jailer：\c[0]    By the Saint, it fucking REEKS in here...
+\SETpl[Mfat_tortruer]\Lshake\c[4]ผู้ทรมาน：\c[0]    เห็นมั้ย? เพื่อนร่วมห้องของแกชอบแกมาก!
+\SETpl[Mreg_guardsman]\Rshake\c[4]ผู้คุม：\c[0]    โอ้พระเจ้า มันเหม็นเอ๊กซ์ในนี้...
 
 Enter/begin_room
-\SETpl[Mreg_guardsman]\m[p5sta_damage]\Rshake\Lshake\c[4]Jailer：\c[0]    FUCK OFF! You think we can afford giving you your own private cell?!
-\m[sad]\c[6]Lona：\c[0]    \{S-Sorry...
+\SETpl[Mreg_guardsman]\m[p5sta_damage]\Rshake\Lshake\c[4]ผู้คุม：\c[0]    ไปซะ! แกคิดว่าเราจะมีเงินให้แกมีเซลล์ส่วนตัวได้เหรอ?!
+\m[sad]\c[6]โลน่า：\c[0]    \{ข-ขอโทษ...
 
 Enter/end
-\SETpl[raper_group]\m[fear]\Lshake\Rshake\c[4]Prisoners：\c[0]    \{Hurry up an' let her in! WE WANNA FUCK HER!
-\m[bereft]\Rshake\BonMP[RaperTop]\c[6]Lona：\c[0]    S-Someone... Please... H-Help me...
+\SETpl[raper_group]\m[fear]\Lshake\Rshake\c[4]นักโทษ：\c[0]    \{รีบปล่อยเธอเข้ามา! เราอยากยัดเธอ!
+\m[bereft]\Rshake\BonMP[RaperTop]\c[6]โลน่า：\c[0]    ใ-ใครสักคน... ช่วย... ช่วยฉันที...
 
 ###################################################################     COMMON NAP RAPE
 
 Prisoner/NapRape_0
-\c[4]Prisoner：\c[0]    Hehee! A girl!
+\c[4]นักโทษ：\c[0]    ฮีๆ! ผู้หญิง!
 
 Prisoner/NapRape_1
-\c[4]Prisoner：\c[0]    A real girl! I can finally fuck a girl now!
+\c[4]นักโทษ：\c[0]    ผู้หญิงจริงๆ! สุดท้ายก็ได้ยัดผู้หญิงแล้ว!
 
 Prisoner/NapRape_2
-\c[4]Prisoner：\c[0]    Fuuahhh! Fuuu! My cock's so fuckin' hard right now! ♥
+\c[4]นักโทษ：\c[0]    ฟู๊ว! ฟู๊! ควยฉันแข็งมากเลย! ♥
 
 Prisoner/NapRape1
-\c[4]Prisoner：\c[0]    Hee hehee!
+\c[4]นักโทษ：\c[0]    ฮีๆ ฮีๆ!
 
 Prisoner/NapRape2
-\narr Lona was carried away...
+\narr โลน่าถูกพาไป...
 
 Prisoner/NapRape3_0
-\c[4]Prisoner：\c[0]    Please help me clean my cock! Ain't ya able do this?!
+\c[4]นักโทษ：\c[0]    ช่วยล้างควยฉันหน่อย! แกทำได้ไหม?!
 
 Prisoner/NapRape3_1
-\c[4]Prisoner：\c[0]    Everyone here is roommates with each other. So, shouldn't ya help out your roommates with their sexual needs?!
+\c[4]นักโทษ：\c[0]    ทุกคนที่นี่เป็นเพื่อนร่วมห้องกัน แล้วแกไม่ควรช่วยเพื่อนร่วมห้องในเรื่องเซ็กซ์เหรอ?!
 
 Prisoner/NapRape3_2
-\c[4]Prisoner：\c[0]    All girls should open their legs and lemme fuck her, so I can feel good!
+\c[4]นักโทษ：\c[0]    ผู้หญิงทุกคนควรแยกขาออกแล้วให้ฉันยัด เพื่อให้ฉันรู้สึกดี!
 
 Prisoner/NapRape_withSta_Fight2
-\c[4]Prisoner：\c[0]    You fuckin' bitch! Looks like you want me to beat you, huh?!
+\c[4]นักโทษ：\c[0]    อีกระหรี่! ดูเหมือนแกอยากให้ฉันตีแกนะ?!
 
 Prisoner/NapRape_withSta_NoFight2
-\m[sad]\c[4]Prisoner：\c[0]    Eheh... ♥　Heheeeh... ♥
+\m[sad]\c[4]นักโทษ：\c[0]    อิๆ... ♥　ฮีๆ... ♥
 
 #Fully translated by Rrezzolution and reviewed/cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

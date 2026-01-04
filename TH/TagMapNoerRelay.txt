@@ -1,48 +1,50 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-Noer Town Relay \optB[Leave,Enter]
+Noer Town Relay \optB[ออก,เข้า]
 
 BoardReader1/ReadQmsg0
-The safest place is Noer.
+ที่ปลอดภัยที่สุดคือ Noer
 
 BoardReader1/ReadQmsg1
-It's a mess out there.
+ข้างนอกมันยุ่งเหยิง
 
 BoardReader2/ReadQmsg0
-My family's still out there!
+ครอบครัวหนูยังอยู่ข้างนอก!
 
 BoardReader2/ReadQmsg1
-I have to go get them!
+หนูต้องไปเอาพวกเขามา!
 
 BoardReader3/ReadQmsg0
-It's getting more expensive.
+มันแพงขึ้นเรื่อยๆ
 
 BoardReader3/ReadQmsg1
-It's not going anywhere.
+มันไม่ได้ไปไหนหรอก
 
 BoardReader4/ReadQmsg0
-Look at that giant sausage!
+ดูไส้กรอกยักษ์นั่นสิ!
 
 BoardReader4/ReadQmsg1
-I love horses!
+หนูชอบม้า!
 
 BoardReader4/ReadQmsg2
-My ass is itchy...
+ก้นหนูคัน...
 
 Board/page1
-\board[Conscripted mercenaries.]
-You think you've got what it takes? Come on! We need you!
-The Armed Forces need the help of all the good men on the street!
-We'll pay handsomely for your service!
-Please contact the station staff.
+\board[รับสมัครทหารรับจ้าง]
+คิดว่าตัวเองทำได้ไหม? มาเลย! เราต้องการแก!
+กองทัพต้องการความช่วยเหลือจากผู้ชายดีๆ บนถนน!
+เราจะจ่ายเงินให้มากมายสำหรับการบริการของแก!
+กรุณาติดต่อเจ้าหน้าที่สถานี
 
 Board/page2
-\board[Announcement]
-Currently all staging areas outside the town are out of service.
-For timely updates, please contact the station's employees.
+\board[ประกาศ]
+ปัจจุบันพื้นที่รวมพลนอกเมืองทั้งหมดไม่สามารถใช้งานได้
+สำหรับการอัปเดตที่ทันเวลา กรุณาติดต่อพนักงานสถานี
 
 Board_MrHand/page1
-\board[Warning： No bestiality!]
-The Saint is angered by acts of bestiality.
-Animals will behave violently towards perverts.
-Anyone caught violating The Saint's decree
-will be summarily execute without trial.
+\board[คำเตือน： ห้ามมีเพศสัมพันธ์กับสัตว์!]
+นักบุญโกรธเคืองการกระทำที่มีเพศสัมพันธ์กับสัตว์
+สัตว์จะแสดงพฤติกรรมรุนแรงต่อคนติดเซ็กซ์
+ผู้ใดถูกจับได้ว่าละเมิดคำสั่งของนักบุญ
+จะถูกประหารชีวิตทันทีโดยไม่ต้องขึ้นศาล

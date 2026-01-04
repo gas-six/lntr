@@ -1,114 +1,116 @@
+XXXXXXXX
+
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 EliseGynecology/OvermapEnter
-\m[confused]The tattered signboard reads\n \C[6]Elise's Obstetrics and Gynecology Clinic\C[0].\optB[Leave,Enter]
+\m[confused]ป้ายที่ขาดๆ ว่า\n \C[6]คลินิกสูตินรีเวชของอีลิส\C[0].\optB[ออก,เข้า]
 
 ################################################################ begin ############################################################################
 
 elise/StaHerbCollect0
-\SETpl[Mteen_elise_normal]\Lshake\c[4]Elise：\c[0]    Yahoo! Have you come here to deliver the herbs I ordered?!
-\m[shocked]\Rshake\c[6]Lona：\c[0]    Huh?!
-\m[flirty]\plf\c[6]Lona：\c[0]    Ah, yes...
+\SETpl[Mteen_elise_normal]\Lshake\c[4]อีลิส：\c[0]    ยูฮู! มึงมาส่งสมุนไพรที่กูสั่งเหรอ?!
+\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ห๊ะ?!
+\m[flirty]\plf\c[6]โลน่า：\c[0]    อ๋อ ใช่...
 
 elise/StaHerbCollect1
-\SETpl[Mteen_elise_happy]\Lshake\c[4]Elise：\c[0]    Thank you sooo much!!!
-\SETpl[Mteen_elise_normal]\Lshake\c[4]Elise：\c[0]    Laa La La! ♬ Laa La Laa! ♫
-\m[confused]\plf\c[6]Lona：\c[0]    ......
+\SETpl[Mteen_elise_happy]\Lshake\c[4]อีลิส：\c[0]    ขอบคุณมากๆๆๆ!!!
+\SETpl[Mteen_elise_normal]\Lshake\c[4]อีลิส：\c[0]    ลาลา! ♬ ลาลาลา! ♫
+\m[confused]\plf\c[6]โลน่า：\c[0]    ......
 
 elise/day_1TimeBegin0
-\CBmp[elise,20]\SETpl[Mteen_elise_happy]\Lshake\c[4]Unknown：\c[0]    Welcome! Have you come to see my collection?
-\CBct[2]\m[shocked]\c[6]Lona：\c[0]    Ehh?! \optD[What?,Ummm?]
+\CBmp[elise,20]\SETpl[Mteen_elise_happy]\Lshake\c[4]ไม่รู้จัก：\c[0]    ยินดีต้อนรับ! มึงมาดูคอลเลกชันของกูเหรอ?
+\CBct[2]\m[shocked]\c[6]โลน่า：\c[0]    อะไรนะ?! \optD[อะไร?,อืม?]
 
 elise/day_1TimeBegin1
-\CBmp[elise,20]\SETpl[Mteen_elise_shake]\m[shocked]\Lshake\Rshake\prf\c[4]Unknown：\c[0]    Haha! I knew you'd be interested in seeing my collection!
-\CBct[6]\m[wtf]\Rshake\PRF\c[6]Lona：\c[0]    Ah, no... Sorry, I just came to look around.
-\CBmp[elise,6]\SETpl[Mteen_elise_sad]\c[4]Unknown：\c[0]    Ah, is that so...? Alright then.
-\CBmp[elise,4]\SETpl[Mteen_elise_angry]\c[4]Unknown：\c[0]    My name is Elise, I'm a doctor! And I specialize in childbirth and women's health!
-\CBct[2]\SETpl[Mteen_elise_normal]\c[4]Elise：\c[0]    So... Is there something you need?
+\CBmp[elise,20]\SETpl[Mteen_elise_shake]\m[shocked]\Lshake\Rshake\prf\c[4]ไม่รู้จัก：\c[0]    ฮ่า! กูรู้ว่ามึงจะสนใจดูคอลเลกชันของกู!
+\CBct[6]\m[wtf]\Rshake\PRF\c[6]โลน่า：\c[0]    อ๋อ ไม่... ขอโทษนะ หนูแค่มาดูรอบๆ
+\CBmp[elise,6]\SETpl[Mteen_elise_sad]\c[4]ไม่รู้จัก：\c[0]    อ๋อ เป็นอย่างนั้นเหรอ...? ได้สิ
+\CBmp[elise,4]\SETpl[Mteen_elise_angry]\c[4]ไม่รู้จัก：\c[0]    ชื่อกูคืออีลิส กูเป็นหมอ! กูเชี่ยวชาญด้านการคลอดและสุขภาพสตรี!
+\CBct[2]\SETpl[Mteen_elise_normal]\c[4]อีลิส：\c[0]    งั้น... มีอะไรที่มึงต้องการมั้ย?
 
 elise/day_talk
-\CBmp[elise,20]\SETpl[Mteen_elise_normal]\Lshake\c[4]Elise：\c[0]    Hello again! Finally interested in seeing my collection?
+\CBmp[elise,20]\SETpl[Mteen_elise_normal]\Lshake\c[4]อีลิส：\c[0]    สวัสดีอีกครั้ง! สนใจดูคอลเลกชันของกูแล้วเหรอ?
 
 elise/DayTalkOPT_Cancel
-Cancel
+ยกเลิก
 
 elise/DayTalkOPT_Talk
-Talk
+คุย
 
 elise/DayTalkOPT_PregnancyCheck
-Pregnancy check
+ตรวจการตั้งครรภ์
 
 elise/DayTalkOPT_OrcResearch
-Orkind research
+วิจัยออร์ค
 
 elise/DayTalkOPT_FishtopiaIsle
-Fishtopia Isle
+เกาะฟิชโทเปีย
 
 elise/DayTalkOPT_LisaAbom
-Lisa
+ลิซ่า
 
 elise/DayTalkOPT_SellBaby
-Sell child
+ขายลูก
 
 elise/day_trade_mod
-\SETpl[Mteen_elise_happy]\Lshake\c[4]Elise：\c[0]    I've performed many of these operations on a lot of hookers and prostitutes! ♫
+\SETpl[Mteen_elise_happy]\Lshake\c[4]อีลิส：\c[0]    กูทำการผ่าตัดแบบนี้ให้กับโสเภณีและหญิงขายบริการมาเยอะมาก! ♫
 
 
 elise/day_talk_about0
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_normal]\PLF\prf\Lshake\c[4]Elise：\c[0]    Don't underestimate Elise!
-\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_happy]\Lshake\c[4]Elise：\c[0]    My family's from Sybaris! But this big clinic belongs to me!
-\CamCT\m[shocked]\plf\PRF\c[6]Lona：\c[0]    Woah, seriously?!
-\CamCT\m[confused]\plf\PRF\c[6]Lona：\c[0]    Aren't you younger than me? What about your family?
-\CamCT\m[confused]\plf\PRF\c[6]Lona：\c[0]    Where are they at right now?
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_normal]\PLF\prf\Lshake\c[4]Elise：\c[0]    They're all dead.
-\CamCT\m[sad]\plf\PRF\c[6]Lona：\c[0]    Oh... I'm so sorry, Miss. I shouldn't have asked.
-\CamMP[elise]\BonMP[elise,5]\SETpl[Mteen_elise_angry]\PLF\prf\Lshake\c[4]Elise：\c[0]    Hey! Also, I'm a boy!\n \{A BOY!
-\CamCT\m[sad]\plf\PRF\c[6]Lona：\c[0]    Ah? Oh... Umm... Understood.
-\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_shake]\PLF\prf\Lshake\c[4]Elise：\c[0]    Ugh! You don't understand! Elise is in a full swing these days!
-\CamCT\m[wtf]\PRF\c[6]Lona：\c[0]    Why's that?
-\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_happy]\PLF\prf\Lshake\c[4]Elise：\c[0]    Because of the increase of monsters this time! Elise's collection has grown quite a lot!
-\CamCT\m[confused]\PLF\PRF\c[6]Lona：\c[0]    What? From the start you kept talking about collections. Some kind of collectibles?
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_shake]\m[shocked]\Lshake\c[4]Elise：\c[0]    Yeah! YEAH!!! My collectibles!
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_shake]\Lshake\c[4]Elise：\c[0]    Did you know that monsters are able to easily impregnate girls?
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_normal]\cg[event_EliseCollection]\plf\prf\c[4]Elise：\c[0]    And the babies from such copulation are just sooo adorable!
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_happy]\Lshake\c[4]Elise：\c[0]    Monster babies are so much more interesting than human babies. Just look at how big they are!
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_happy]\m[fear]\cgoff\Lshake\c[4]Elise：\c[0]    Elise is a good person! So, Elise will help perform abortions on you for free!
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_normal]\m[terror]\cgoff\Lshake\c[4]Elise：\c[0]    Of course, if you plan on staying pregnant, Elise will help with childbirth too!
-\CamCT\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ummm...
-\CamMP[elise]\BonMP[elise,8]\SETpl[Mteen_elise_normal]\m[terror]\PLF\prf\Lshake\c[4]Elise：\c[0]    You look like you'll give birth to many great collectibles!
-\CamCT\BonMP[elise,4]\SETpl[Mteen_elise_happy]\m[terror]\Lshake\c[4]Elise：\c[0]    Remember to come visit Elise when you're pregnant!
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_normal]\PLF\prf\Lshake\c[4]อีลิส：\c[0]    อย่าประเมินอีลิสต่ำไป!
+\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_happy]\Lshake\c[4]อีลิส：\c[0]    ครอบครัวกูมาจากไซบาริส! แต่คลินิกใหญ่นี้เป็นของกู!
+\CamCT\m[shocked]\plf\PRF\c[6]โลน่า：\c[0]    ว้าว จริงเหรอ?!
+\CamCT\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    มึงไม่ได้อายุน้อยกว่าหนูเหรอ? ครอบครัวมึงล่ะ?
+\CamCT\m[confused]\plf\PRF\c[6]โลน่า：\c[0]    พวกเขาอยู่ที่ไหนตอนนี้?
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_normal]\PLF\prf\Lshake\c[4]อีลิส：\c[0]    พวกเขาตายหมดแล้ว
+\CamCT\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    โอ้... ขอโทษมากนะคุณ หนูไม่ควรถาม
+\CamMP[elise]\BonMP[elise,5]\SETpl[Mteen_elise_angry]\PLF\prf\Lshake\c[4]อีลิส：\c[0]    ฮ้า! อีกอย่าง กูเป็นผู้ชายนะ!\n \{ผู้ชาย!
+\CamCT\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    อะ? โอ้... อืม... เข้าใจแล้ว
+\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_shake]\PLF\prf\Lshake\c[4]อีลิส：\c[0]    อ๊าก! มึงไม่เข้าใจ! อีลิสกำลังมันส์เลยนะ!
+\CamCT\m[wtf]\PRF\c[6]โลน่า：\c[0]    ทำไมล่ะ?
+\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_happy]\PLF\prf\Lshake\c[4]อีลิส：\c[0]    เพราะจำนวนปีศาจเพิ่มขึ้นครั้งนี้! คอลเลกชันของอีลิสเพิ่มขึ้นเยอะเลย!
+\CamCT\m[confused]\PLF\PRF\c[6]โลน่า：\c[0]    อะไรนะ? ตั้งแต่แรกมึงพูดถึงคอลเลกชัน มันเป็นของสะสมอะไร?
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_shake]\m[shocked]\Lshake\c[4]อีลิส：\c[0]    ใช่! ใช่!!! ของสะสมของกู!
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_shake]\Lshake\c[4]อีลิส：\c[0]    มึงรู้มั้ยว่าปีศาจสามารถท้องผู้หญิงได้ง่ายๆ?
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_normal]\cg[event_EliseCollection]\plf\prf\c[4]อีลิส：\c[0]    และลูกที่เกิดจากการร่วมรักแบบนี้มันน่ารักมาก!
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_happy]\Lshake\c[4]อีลิส：\c[0]    ลูกปีศาจน่าสนใจกว่าลูกคนมาก ดูสิว่ามันใหญ่แค่ไหน!
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_happy]\m[fear]\cgoff\Lshake\c[4]อีลิส：\c[0]    อีลิสเป็นคนดี! เลยจะช่วยทำแท้งให้มึงฟรี!
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_normal]\m[terror]\cgoff\Lshake\c[4]อีลิส：\c[0]    แน่นอน ถ้ามึงวางแผนจะท้องต่อ อีลิสก็จะช่วยคลอดด้วย!
+\CamCT\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อืม...
+\CamMP[elise]\BonMP[elise,8]\SETpl[Mteen_elise_normal]\m[terror]\PLF\prf\Lshake\c[4]อีลิส：\c[0]    มึงดูเหมือนจะคลอดของสะสมที่ยอดเยี่ยมได้!
+\CamCT\BonMP[elise,4]\SETpl[Mteen_elise_happy]\m[terror]\Lshake\c[4]อีลิส：\c[0]    อย่าลืมมาหาอีลิสเมื่อมึงท้องนะ!
 
 elise/day_talk_about1
-\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_shake]\m[terror]\PRF\PLF\Lshake\c[4]Elise：\c[0]    \{It's free!
-\CamCT\m[fear]\prf ...(I better stay away from this kid...)
+\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_shake]\m[terror]\PRF\PLF\Lshake\c[4]อีลิส：\c[0]    \{มันฟรี!
+\CamCT\m[fear]\prf ...(หนูควรจะเลี่ยงเด็กคนนี้ดีกว่า...)
 
 ################################################################ door ############################################################################
 
 elise/day_trigger_door1
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_happy]\m[shocked]\Lshake\prf\c[4]Unknown：\c[0]    Oooh! Are you interested in seeing my collection?
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_shake]\m[wtf]\Lshake\PRF\c[4]Unknown：\c[0]    You wanna go in and see them, right?!
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_happy]\m[shocked]\Lshake\prf\c[4]ไม่รู้จัก：\c[0]    โอ้! มึงสนใจดูคอลเลกชันของกูเหรอ?
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_shake]\m[wtf]\Lshake\PRF\c[4]ไม่รู้จัก：\c[0]    มึงอยากเข้าไปดูใช่มั้ย?!
 \..\..\..\WF[60]
-\CamCT\m[triumph]\PRF\c[6]Lona：\c[0]    Ummm... No thank you.
-\CamCT\BonMP[elise,6]\SETpl[Mteen_elise_sad]\c[4]Unknown：\c[0]    Poo... Alright then...
+\CamCT\m[triumph]\PRF\c[6]โลน่า：\c[0]    อืม... ไม่ขอบคุณ
+\CamCT\BonMP[elise,6]\SETpl[Mteen_elise_sad]\c[4]ไม่รู้จัก：\c[0]    อ๊ะ... ได้สิ...
 
 elise/day_trigger_door2
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_happy]\m[shocked]\Lshake\prf\c[4]Elise：\c[0]    So, finally interested in my collection huh?
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_shake]\m[wtf]\Lshake\PRF\c[4]Elise：\c[0]    Wanna go inside and take a look now?!
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_happy]\m[shocked]\Lshake\prf\c[4]อีลิส：\c[0]    งั้น สนใจคอลเลกชันของกูแล้วเหรอ?
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_shake]\m[wtf]\Lshake\PRF\c[4]อีลิส：\c[0]    อยากเข้าไปดูตอนนี้เลยมั้ย?!
 \..\..\..\WF[60]
-\CamCT\m[triumph]\PRF\c[6]Lona：\c[0]    Mmmm... Not at the moment.
-\CamCT\BonMP[elise,6]\SETpl[Mteen_elise_sad]\c[4]Elise：\c[0]    Poo... Alright then...
+\CamCT\m[triumph]\PRF\c[6]โลน่า：\c[0]    มมม... ไม่ตอนนี้
+\CamCT\BonMP[elise,6]\SETpl[Mteen_elise_sad]\c[4]อีลิส：\c[0]    อ๊ะ... ได้สิ...
 
 #####################################################################   surgery    ###################################################################
 
 elise/surgery_begin0
-\CBid[-1,3]\SETpl[Mteen_elise_normal]\Lshake\c[4]Elise：\c[0]    Okay, come with me!
+\CBid[-1,3]\SETpl[Mteen_elise_normal]\Lshake\c[4]อีลิส：\c[0]    โอเค มากับกู!
 
 elise/surgery_begin1
-\CBid[-1,4]\SETpl[Mteen_elise_normal]\m[shocked]\Lshake\prf\c[4]Elise：\c[0]    Missus is ready! So, Elise is ready too!
+\CBid[-1,4]\SETpl[Mteen_elise_normal]\m[shocked]\Lshake\prf\c[4]อีลิส：\c[0]    คุณนายพร้อมแล้ว! อีลิสก็พร้อมเหมือนกัน!
 
 elise/surgery_begin2
-\CBct[6]\m[tired]\c[6]Lona：\c[0]    Ohhh... ZZZzzz\}zzz\{......
-\CBid[-1,4]\SETpl[Mteen_elise_happy]\m[shocked]\Lshake\prf\c[4]Elise：\c[0]    \{Let's begin!
+\CBct[6]\m[tired]\c[6]โลน่า：\c[0]    โอ้... ซี๊ด\}ซี๊ด\{......
+\CBid[-1,4]\SETpl[Mteen_elise_happy]\m[shocked]\Lshake\prf\c[4]อีลิส：\c[0]    \{เริ่มเลย!
 
 elise/surgery_begin3
 \ph\SND[SE/gore01.ogg].........
@@ -116,194 +118,194 @@ elise/surgery_begin3
 \SND[SE/gore09.ogg]...
 
 elise/surgery_begin3_Miscarriage
-\SETpl[Mteen_elise_normal]\Lshake\prh\c[4]Elise：\c[0]    ♪ Hmm hm hmmm~ Lu la laaa...~ ♫
-\SETpl[Mteen_elise_normal]\Lshake\prh\c[4]Elise：\c[0]    I wonder what kinda baby Missus is carrying?
+\SETpl[Mteen_elise_normal]\Lshake\prh\c[4]อีลิส：\c[0]    ♪ ฮม ฮม ฮมม~ ลู ลา ลา...~ ♫
+\SETpl[Mteen_elise_normal]\Lshake\prh\c[4]อีลิส：\c[0]    กูอยากรู้ว่าคุณนายท้องลูกอะไรอยู่นะ?
 
 
 elise/surgery_begin3_Miscarriage_nopreg1
-\SETpl[Mteen_elise_sad]\Lshake\c[4]Elise：\c[0]    ...Hum?
+\SETpl[Mteen_elise_sad]\Lshake\c[4]อีลิส：\c[0]    ...ฮึม?
 \SND[SE/gore01.ogg]...........
-\SETpl[Mteen_elise_angry]\Lshake\c[4]Elise：\c[0]    It's not... here?!
+\SETpl[Mteen_elise_angry]\Lshake\c[4]อีลิส：\c[0]    มันไม่... อยู่?!
 \SND[SE/gore03.ogg]......
-\SETpl[Mteen_elise_angry]\Lshake\c[4]Elise：\c[0]    \{Where is it! Where the hell are you hiding it?!! Where's the BABY?!!!
+\SETpl[Mteen_elise_angry]\Lshake\c[4]อีลิส：\c[0]    \{มันอยู่ที่ไหน! มึงซ่อนมันไว้ที่ไหนวะ?! ลูกอยู่ไหน?!!!
 \SND[SE/gore09.ogg]....
-\SETpl[Mteen_elise_angry]\Lshake\c[4]Elise：\c[0]    FUCK! She lied to me! Missus LIED TO ME...!!!
+\SETpl[Mteen_elise_angry]\Lshake\c[4]อีลิส：\c[0]    ฟัก! มันโกหกกู! คุณนายโกหกกู...!!!
 
 elise/surgery_begin3_Miscarriage_nopreg2
-\SETpl[Mteen_elise_angry]\Rflash\SND[SE/Gore_hit1.ogg]\Lshake\c[4]Elise：\c[0]    Why...?!
-\SETpl[Mteen_elise_angry]\Rflash\SND[SE/Gore_hit2.ogg]\Lshake\c[4]Elise：\c[0]    WHY DID YOU LIE TO ME?!
-\SETpl[Mteen_elise_angry]\Rflash\SND[SE/Gore_hit4.ogg]\Lshake\c[4]Elise：\c[0]    I'll kill you... I'LL KILL YOU!! I'LL KILL YOOOU!!!
+\SETpl[Mteen_elise_angry]\Rflash\SND[SE/Gore_hit1.ogg]\Lshake\c[4]อีลิส：\c[0]    ทำไม...?!
+\SETpl[Mteen_elise_angry]\Rflash\SND[SE/Gore_hit2.ogg]\Lshake\c[4]อีลิส：\c[0]    ทำไมมึงถึงโกหกกู?!
+\SETpl[Mteen_elise_angry]\Rflash\SND[SE/Gore_hit4.ogg]\Lshake\c[4]อีลิส：\c[0]    กูจะฆ่ามึง... กูจะฆ่ามึง!! กูจะฆ่ามึง!!!
 \Rflash\SND[SE/gore01.ogg].........
 
 elise/surgery_begin3_Miscarriage_endFB
 \SETpl[Mteen_elise_masked]\Rflash\Lshake\SND[SE/gore01.ogg]........
 
 elise/surgery_begin3_Miscarriage_endF1
-\SETpl[Mteen_elise_happy]\Lshake\c[4]Elise：\c[0]    Awesome! It's a 
+\SETpl[Mteen_elise_happy]\Lshake\c[4]อีลิส：\c[0]    ยอดเยี่ยม! มันเป็น 
 
 elise/surgery_begin3_Miscarriage_endF2
-'s baby!!!
+'s ลูก!!!
 
 elise/surgery_begin3_Miscarriage_endF3_preg_level0
- ...Mmmm, barely the size of a fingernail. What a waste...
+ ...มมม, แค่ขนาดเล็บมือ น่าเสียดาย...
 
 elise/surgery_begin3_Miscarriage_endF3_preg_level1
- Sooo cute! Like a little tadpole! ♫
+ น่ารักมาก! เหมือนตัวอ่อน! ♫
 
 elise/surgery_begin3_Miscarriage_endF3_preg_level2
- The hands and feet are just beginning to form! How fascinating! ♫
+ มือและเท้าเริ่มก่อตัว! น่าสนใจมาก! ♫
 
 elise/surgery_begin3_Miscarriage_endF3_preg_level3
- Awww! It's starting to look like a baby. It's looking really good. ♫
+ อ๊ะ! มันเริ่มดูเหมือนทารกแล้ว ดูดีมากเลย ♫
 
 elise/surgery_begin3_Miscarriage_endF3_preg_level4
- Wooow! It's still alive! Rest assured, Big Bro's gonna take care of ya forever! ♫
+ ว้าว! มันยังมีชีวิตอยู่! อย่ากังวล พี่ชายจะดูแลมึงตลอดไป! ♫
 
 elise/surgery_begin3_Miscarriage_endF3_preg_level5
- Go ahead and cry baby! Scream all you want! You won't be able to cry ever again soon!~ ♥
+ ร้องไห้ได้เลยลูก! ร้องเสียงดังเท่าไหร่ก็ได้! มึงจะไม่ได้ร้องไห้อีกเร็วๆ นี้!~ ♥
 
 elise/surgery_end
-\CBid[-1,3]\SETpl[Mteen_elise_happy]\Lshake\c[4]Elise：\c[0]    Wakey-wakey Miss!!! Regaining consciousness yet?
-\CBct[8]\m[tired]\PLF\c[6]Lona：\c[0]    Ahhn... Nnnighnnn...
-\CBid[-1,4]\SETpl[Mteen_elise_normal]\Lshake\c[4]Elise：\c[0]    This bed belongs to Missus! Let's rest for a while! ♫
+\CBid[-1,3]\SETpl[Mteen_elise_happy]\Lshake\c[4]อีลิส：\c[0]    ตื่นๆ คุณนาย!!! ฟื้นแล้วเหรอ?
+\CBct[8]\m[tired]\PLF\c[6]โลน่า：\c[0]    อ่าห์... อื้ออ๋อ...
+\CBid[-1,4]\SETpl[Mteen_elise_normal]\Lshake\c[4]อีลิส：\c[0]    เตียงนี้เป็นของคุณนาย! พักสักพักนะ! ♫
 
 #####################################################################   preg check    ###################################################################
 
 elise/preg_check_begin1
-\CBct[6]\m[shy]\plf\PRF\c[6]Lona：\c[0]    Excuse me... Could you help me see if I'm...-
-\CBid[-1,20]\SETpl[Mteen_elise_shake]\Lshake\prf\c[4]Elise：\c[0]    \{-IF YOU'RE PREGNANT?! No problem!!! ♥
+\CBct[6]\m[shy]\plf\PRF\c[6]โลน่า：\c[0]    ขอโทษ... ช่วยหนูดูหน่อยได้มั้ยว่าหนู...-
+\CBid[-1,20]\SETpl[Mteen_elise_shake]\Lshake\prf\c[4]อีลิส：\c[0]    \{-ท้องมั้ย?! ไม่มีปัญหา!!! ♥
 
 elise/preg_check_failed0
-\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    Nothing...
-\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    There's really nothing...
-\m[flirty]\plf\PRF\c[6]Lona：\c[0]    Ahh... I'm not pregnant...
+\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]อีลิส：\c[0]    ไม่มี...
+\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]อีลิส：\c[0]    ไม่มีจริงๆ...
+\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    อ๋อ... หนูไม่ได้ท้อง...
 
 elise/preg_check_failed1
-\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    \{BITCH! Why the heck aren't you pregnant???!!!
-\CBmp[6]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?!
-\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    \{GO TO HELL!!!
+\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]อีลิส：\c[0]    \{อีกระหรี่! ทำไมมึงไม่ท้องวะ???!!!
+\CBmp[6]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    ห๊ะ?!
+\CBid[-1,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]อีลิส：\c[0]    \{ไปตายซะ!!!
 
 elise/preg_check_win0
-\SETpl[Mteen_elise_shake]\Lshake\c[4]Elise：\c[0]    \{AHA! Gotcha! I see it!!!
-\SETpl[Mteen_elise_happy]\m[shocked]\plf\Rshake\c[6]Lona：\c[0]    Huh?!
+\SETpl[Mteen_elise_shake]\Lshake\c[4]อีลิส：\c[0]    \{อ๊ะฮ่า! จับได้! กูเห็นแล้ว!!!
+\SETpl[Mteen_elise_happy]\m[shocked]\plf\Rshake\c[6]โลน่า：\c[0]    ห๊ะ?!
 
 elise/preg_check_win1
-\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    Mhmmm\..\..\..
-\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    It'll be about #{$story_stats["HiddenOPT1"]} days before you can give birth to it!
+\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]อีลิส：\c[0]    มมม\..\..\..
+\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]อีลิส：\c[0]    อีก #{$story_stats["HiddenOPT1"]} วัน มึงก็จะคลอดมันได้!
 
 elise/preg_check_win2
-\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]Elise：\c[0]    I can't see what kind of species it is, but I'm looking forward to it!
-\prf\m[shy]I-I'm pregnant...
-\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Don't forget to visit me if you want to give birth or have it removed!!!~
+\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]อีลิส：\c[0]    กูยังไม่เห็นว่ามันเป็นสปีชีส์อะไร แต่กูตื่นเต้นรอดู!
+\prf\m[shy]หนู... ท้อง...
+\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]อีลิส：\c[0]    อย่าลืมมาหากูถ้ามึงอยากคลอดหรืออยากทำแท้ง!!!~
 
 #####################################################################   Sell Babys    ###################################################################
 
 elise/sell_baby_begin1
-\CBct[6]\m[shy]\plf\PRF\c[6]Lona：\c[0]    ......
-\CBct[20]\m[sad]\plf\PRF\c[6]Lona：\c[0]    Could you help me get rid of it...?
-\CBid[-1,1]\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]Elise：\c[0]    AH! Ahh! This is it! My lil' monster babies!!!
-\CBid[-1,3]\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]Elise：\c[0]    Thank you! Thank you sooo much!!
-\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    I will greatly reward you!
-\CBct[8]\m[flirty]\plf\PRF (It's great that I'm able to sell it to him so easily...)
+\CBct[6]\m[shy]\plf\PRF\c[6]โลน่า：\c[0]    ......
+\CBct[20]\m[sad]\plf\PRF\c[6]โลน่า：\c[0]    ช่วยหนูกำจัดมันทิ้งได้มั้ย...?
+\CBid[-1,1]\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]อีลิส：\c[0]    อ๊ะ! อ๊ะ! นี่มัน! ลูกปีศาจน้อยของกู!!!
+\CBid[-1,3]\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]อีลิส：\c[0]    ขอบคุณ! ขอบคุณมากๆๆ!!
+\CBid[-1,20]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]อีลิส：\c[0]    กูจะให้รางวัลมึงมากๆ!
+\CBct[8]\m[flirty]\plf\PRF (ดีจังที่หนูขายมันให้เขาได้ง่ายๆ...)
 
 elise/sell_baby_begin2
-\CBct[6]\m[shy]\plf\PRF\c[6]Lona：\c[0]    Ummm... T-Thank you...
+\CBct[6]\m[shy]\plf\PRF\c[6]โลน่า：\c[0]    อืม... ขอบคุณ...
 
 elise/sell_baby_begin3
-\CBct[8]\m[sad](...Was this really the right thing to do?)
-\CBct[8]\m[tired](It's still my child!)
+\CBct[8]\m[sad](...นี่มันถูกต้องแล้วเหรอ?)
+\CBct[8]\m[tired](มันก็ยังลูกของหนูนะ!)
 
 ##################################################################### B1 ###############################################################################
 
 elise/night_basic_begin
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_masked]\Lshake\c[0]\{\{Hello Missus!!!
-\CamCT\m[shocked]\Rshake\c[6]Lona：\c[0]    EEEK!
-\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_masked]\Lshake\c[4]Elise：\c[0]    \{I knew it!
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_masked]\Lshake\c[4]Elise：\c[0]    I just knew it! You must be interested in my collection!
-\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_masked]\Lshake\c[4]Elise：\c[0]    You're here to see these children, right? ♫
-\CamCT\SETpl[Mteen_elise_masked]\Lshake\c[4]Elise：\c[0]    They're just sooo beautiful! Aren't they?! \optD[Not really...<t=3>,I think so!<r=HiddenOPT1>]
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_masked]\Lshake\c[0]\{\{สวัสดีคุณนาย!!!
+\CamCT\m[shocked]\Rshake\c[6]โลน่า：\c[0]    กรี๊ด!
+\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_masked]\Lshake\c[4]อีลิส：\c[0]    \{กูรู้แล้ว!
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_masked]\Lshake\c[4]อีลิส：\c[0]    กูรู้แล้ว! มึงต้องสนใจคอลเลกชันของกู!
+\CamMP[elise]\BonMP[elise,20]\SETpl[Mteen_elise_masked]\Lshake\c[4]อีลิส：\c[0]    มึงมาดูเด็กๆ เหล่านี้ใช่มั้ย? ♫
+\CamCT\SETpl[Mteen_elise_masked]\Lshake\c[4]อีลิส：\c[0]    มันน่ารักมากเลย! ใช่มั้ย?! \optD[ไม่เท่าไหร่...<t=3>,หนูว่าใช่!<r=HiddenOPT1>]
 
 elise/night_basic_begin_no
-\CamCT\m[wtf]\c[6]Lona：\c[0]    Ummm... No, not really...
-\CamMP[elise]\BonMP[elise,5]\SETpl[Mteen_elise_masked]\Lshake\c[4]Elise：\c[0]    \{TRAITOR! BITCH!! JUST DIE!!!
-\CamCT\m[shocked]\c[6]Lona：\c[0]    B-But! Wait!
+\CamCT\m[wtf]\c[6]โลน่า：\c[0]    อืม... ไม่เท่าไหร่...
+\CamMP[elise]\BonMP[elise,5]\SETpl[Mteen_elise_masked]\Lshake\c[4]อีลิส：\c[0]    \{อีหน้าเลว! อีกระหรี่!! ไปตายซะ!!!
+\CamCT\m[shocked]\c[6]โลน่า：\c[0]    แต่! รอก่อน!
 
 elise/night_basic_begin_yes
-\CamMP[elise]\BonMP[elise,4]\m[serious]\plf\c[6]Lona：\c[0]    Yes... Seeing their cloudy eyes, the colorless complexion...
-\CamCT\m[triumph]\plf\c[6]Lona：\c[0]    This is a work of art!
-\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_masked]\PLF\prf\Lshake\c[4]Elise：\c[0]    Missus understands! Oh, what a happy day!!! ♥
-\CamCT\m[flirty]\plf\c[6]Lona：\c[0]    Hehe...
+\CamMP[elise]\BonMP[elise,4]\m[serious]\plf\c[6]โลน่า：\c[0]    ใช่... ดูตาที่ขุ่นมัว สีผิวที่ไร้สี...
+\CamCT\m[triumph]\plf\c[6]โลน่า：\c[0]    นี่คือผลงานศิลปะ!
+\CamMP[elise]\BonMP[elise,4]\SETpl[Mteen_elise_masked]\PLF\prf\Lshake\c[4]อีลิส：\c[0]    คุณนายเข้าใจ! โอ้ วันนี้มันวันแห่งความสุข!!! ♥
+\CamCT\m[flirty]\plf\c[6]โลน่า：\c[0]    ฮิฮิ...
 
 
 ##################################################################### Birth Unique EV ###############################################################################
 
 elise/GiveBirthBegin0
-\SETpl[Mteen_elise_masked]\Lshake\c[4]Elise：\c[0]    Elise can smell it! The stench of someone who's about to give birth!!!
+\SETpl[Mteen_elise_masked]\Lshake\c[4]อีลิส：\c[0]    อีลิสได้กลิ่น! กลิ่นของคนที่กำลังจะคลอด!!!
 
 elise/GiveBirthBegin1
-\CBmp[elise,20]\SndLib[BadClap]\SETpl[Mteen_elise_happy]\Lshake\c[4]Elise：\c[0]    It's Missus! Miss, you're about to give birth!
-\CBct[6]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    Eeeh?!
-\CBmp[elise,4]\SETpl[Mteen_elise_shake]\Lshake\c[4]Elise：\c[0]    Congratulations! ♥ Seriously, congratulations on your pregnancy!!!~ ♥
-\CBct[6]\SETpl[Mteen_elise_happy]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    Th-... Thank you?
+\CBmp[elise,20]\SndLib[BadClap]\SETpl[Mteen_elise_happy]\Lshake\c[4]อีลิส：\c[0]    มันคือคุณนาย! คุณนายกำลังจะคลอด!
+\CBct[6]\m[terror]\plf\Rshake\c[6]โลน่า：\c[0]    อี๊!
+\CBmp[elise,4]\SETpl[Mteen_elise_shake]\Lshake\c[4]อีลิส：\c[0]    ยินดีด้วย! ♥ จริงๆ ยินดีด้วยที่ท้อง!!!~ ♥
+\CBct[6]\SETpl[Mteen_elise_happy]\m[tired]\plf\Rshake\c[6]โลน่า：\c[0]    ข... ขอบคุณ?
 
 elise/GiveBirthBegin2
-\CBmp[elise,3]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]Elise：\c[0]    Here, take a sip of this Missus. After you drink, just let Elise take care of the rest!
-\CBct[2]\m[flirty]\plf\PRF\c[6]Lona：\c[0]    W-What is this...?
+\CBmp[elise,3]\SETpl[Mteen_elise_normal]\Lshake\prf\c[4]อีลิส：\c[0]    มาซิ คุณนาย ดื่มนี่หน่อย ดื่มแล้วก็ปล่อยให้อีลิสจัดการที่เหลือ!
+\CBct[2]\m[flirty]\plf\PRF\c[6]โลน่า：\c[0]    นี่... นี่คืออะไร...?
 
 elise/GiveBirthBegin3
-\CBmp[elise,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]Elise：\c[0]    DON'T ASK QUESTIONS! YOU BUFFOON! Just drink it, NOW!
-\CBct[6]\m[terror]\plf\Rshake\c[6]Lona：\c[0]    EEEP!\optD[Drink it,Refuse...]
+\CBmp[elise,5]\SETpl[Mteen_elise_angry]\Lshake\prf\c[4]อีลิส：\c[0]    อย่าถาม! อีโง่! ดื่มมันเดี๋ยวนี้!
+\CBct[6]\m[terror]\plf\Rshake\c[6]โลน่า：\c[0]    กรี๊ด!\optD[ดื่มมัน,ปฏิเสธ...]
 
 elise/GiveBirthBegin_NO
-\CBct[8]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    I... I don't want to...
-\CBmp[elise,5]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]Elise：\c[0]    \..\..\..
-\CBmp[elise,5]\SETpl[Mteen_elise_angry]\Rflash\Lshake\prf\c[4]Elise：\c[0]    It's-\..\..\.. -ELISE'S! RETURN ELISE'S COLLECTABLE BACK TO ELIIISSSE!!!
-\CBmp[elise,5]\SETpl[Mteen_elise_angry]\Rflash\Lshake\prf\c[4]Elise：\c[0]    STUPID BITCH! YOU'RE DEAD MEAT!!!
+\CBct[8]\m[tired]\plf\Rshake\c[6]โลน่า：\c[0]    หนู... ไม่อยากดื่ม...
+\CBmp[elise,5]\SETpl[Mteen_elise_sad]\Lshake\prf\c[4]อีลิส：\c[0]    \..\..\..
+\CBmp[elise,5]\SETpl[Mteen_elise_angry]\Rflash\Lshake\prf\c[4]อีลิส：\c[0]    มัน-\..\..\.. -ของอีลิส! คืนของสะสมของอีลิสคืนให้อีลิส!!!
+\CBmp[elise,5]\SETpl[Mteen_elise_angry]\Rflash\Lshake\prf\c[4]อีลิส：\c[0]    อีกระหรี่! มึงตายแน่!!!
 
 elise/GiveBirthBegin_YES0
-\CBct[6]\m[bereft]\plf\Rshake\c[6]Lona：\c[0]    Please don't be angry! I'll drink-! -I'll drink it!
+\CBct[6]\m[bereft]\plf\Rshake\c[6]โลน่า：\c[0]    อย่าโกรธ! หนูจะดื่ม-! -หนูจะดื่มมัน!
 
 elise/GiveBirthBegin_YES1
-\CBmp[elise,4]\SndLib[BadClap]\SETpl[Mteen_elise_shake]\Lshake\c[4]Elise：\c[0]    Very good! ♥ Missus is such a good girl!~ ♥
-\CBct[6]\SETpl[Mteen_elise_happy]\m[tired]\plf\Rshake\c[6]Lona：\c[0]    Uuunnghnnn\..\..\..
+\CBmp[elise,4]\SndLib[BadClap]\SETpl[Mteen_elise_shake]\Lshake\c[4]อีลิส：\c[0]    ดีมาก! ♥ คุณนายเป็นเด็กดี!~ ♥
+\CBct[6]\SETpl[Mteen_elise_happy]\m[tired]\plf\Rshake\c[6]โลน่า：\c[0]    อ่าาา\..\..\..
 
 elise/GiveBirthBegin_wake0
-\CBct[2]\m[confused]\plf\Rshake\c[6]Lona：\c[0]    ...! Whu-Where am I?! What am I doing here?
+\CBct[2]\m[confused]\plf\Rshake\c[6]โลน่า：\c[0]    ...! อะไร-ที่ไหนนี้?! หนูทำอะไรที่นี่?
 
 elise/GiveBirthBegin_Birth0
-\CBmp[elise,3]\SndLib[sound_Heartbeat]\Rflash\SETpl[Mteen_elise_happy]\Lshake\c[4]Elise：\c[0]    Don't worry Missus, Elise is right here!
-\CBct[8]\SndLib[sound_Heartbeat]\Rflash\m[p5sta_damage]\plf\Rshake\c[6]Lona：\c[0]    \{EEEYAAAH!
+\CBmp[elise,3]\SndLib[sound_Heartbeat]\Rflash\SETpl[Mteen_elise_happy]\Lshake\c[4]อีลิส：\c[0]    อย่ากังวลคุณนาย อีลิสอยู่ที่นี่!
+\CBct[8]\SndLib[sound_Heartbeat]\Rflash\m[p5sta_damage]\plf\Rshake\c[6]โลน่า：\c[0]    \{อี๊ยะ!
 
 elise/GiveBirthBegin_Birth1
-\CBmp[elise,3]\SndLib[sound_Heartbeat]\Rflash\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]Elise：\c[0]    Go on, take a deep breath. And then push with all your might!
-\CBct[8]\SndLib[sound_Heartbeat]\Rflash\m[p5sta_damage]\plf\Rshake\c[6]Lona：\c[0]    \{KYYYAAAAAAHHH!!!
+\CBmp[elise,3]\SndLib[sound_Heartbeat]\Rflash\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]อีลิส：\c[0]    หายใจเข้าลึกๆ แล้วก็ผลักออกให้เต็มที่!
+\CBct[8]\SndLib[sound_Heartbeat]\Rflash\m[p5sta_damage]\plf\Rshake\c[6]โลน่า：\c[0]    \{กรี๊ยะ!
 
 elise/GiveBirthBegin_Birth2
-\CBmp[elise,3]\SndLib[sound_Heartbeat]\Rflash\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]Elise：\c[0]    You can do it Missus! Elise is counting on you to add a new addition to my collection!
+\CBmp[elise,3]\SndLib[sound_Heartbeat]\Rflash\SETpl[Mteen_elise_happy]\Lshake\prf\c[4]อีลิส：\c[0]    คุณนายทำได้! อีลิสหวังว่าจะได้เพิ่มสมาชิกใหม่ในคอลเลกชันของกู!
 
 elise/GiveBirthBegin_Birth3
-\CBmp[elise,4]\SETpl[Mteen_elise_normal]\Lshake\c[4]Elise：\c[0]    Wow!~ ♥ What a great specimen. ♥
+\CBmp[elise,4]\SETpl[Mteen_elise_normal]\Lshake\c[4]อีลิส：\c[0]    ว้าว!~ ♥ นี่มันตัวอย่างที่ยอดเยี่ยม ♥
 
 
 ##################################################################### Guard ###############################################################################
 
 Guard1/rng0
-\CBid[-1,6]\c[4]Guard：\c[0]    Boss wants me to make sure this lil' brat stays safe. I gotta weird feelin' about this place though...
+\CBid[-1,6]\c[4]ยาม：\c[0]    เจ้านายสั่งให้กูดูแลเด็กคนนี้ให้ปลอดภัย แต่กูรู้สึกแปลกๆ กับที่นี่
 
 Guard1/rng1
-\CBid[-1,6]\c[4]Guard：\c[0]    Shhh\..\..\.. Be quiet, did ya hear that? I swear there's somthin' moving around in the basement.
+\CBid[-1,6]\c[4]ยาม：\c[0]    ชชช\..\..\.. เงียบๆ ได้ยินมั้ย? กูว่ามีอะไรขยับในห้องใต้ดิน
 
 Guard1/rng2
-\CBid[-1,6]\c[4]Guard：\c[0]    I'm pretty sure this kid ain't normal...
+\CBid[-1,6]\c[4]ยาม：\c[0]    กูแน่ใจว่าเด็กคนนี้ไม่ปกติ...
 
 Guard2/rng0
-\CBid[-1,6]\c[4]Guard：\c[0]    Not sure why the boss ordered me to protect him. Can't complain though, it's an easy job for me.
+\CBid[-1,6]\c[4]ยาม：\c[0]    ไม่รู้ทำไมเจ้านายถึงสั่งให้กูปกป้องเขา แต่ก็ไม่เสียหายอะไร มันงานง่ายๆ สำหรับกู
 
 Guard2/rng1
-\CBid[-1,5]\c[4]Guard：\c[0]    Boss said this child's quite important. The brat's even been kidnapped by those stinkin' fish people before!
+\CBid[-1,5]\c[4]ยาม：\c[0]    เจ้านายบอกว่าเด็กคนนี้สำคัญมาก เด็กคนนี้เคยถูกพวกคนปลาลักพาตัวมาก่อนด้วย!
 
 Guard2/rng2
-\CBid[-1,3]\c[4]Guard：\c[0]    My wife just gave birth recently, the kid's been taking care of her and my baby ever since.
-\CBid[-1,3]\c[4]Guard：\c[0]    If I'd of known about this place earlier, I woulda sent the ol' lady here to deliver my child instead.
+\CBid[-1,3]\c[4]ยาม：\c[0]    ภรรยากูเพิ่งคลอดลูก เด็กคนนี้ดูแลเธอกับลูกกูมาตลอด
+\CBid[-1,3]\c[4]ยาม：\c[0]    ถ้ากูรู้จักที่นี่ก่อนหน้านี้ กูคงส่งภรรยากูมาคลอดลูกที่นี่แทน
 
 #Fully Translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

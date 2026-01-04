@@ -1,13 +1,15 @@
+XXXXXXXX
+
 PB_WipedNote/Title
-I failed
+กูล้มเหลว
 
 PB_WipedNote/Sender
-Pirate Destroyer Fortress
+ป้อมปราการทำลายโจรสลัด
 
 PB_WipedNote/Text
-\}We were attacked by monsters while fleeing, and my wife was captured by those damned monsters.
-I used all my possessions to hire some warriors to try to rescue her.
-As a result, as you can see, I failed. I cannot save my wife.
-Don't tell my daughter.
-she called\C[4]Mary\C[0], you should be able to find her in One Piece Castle.
-Tell her we're waiting for her in Knoll.
+\}พวกเราโดนสัตว์ประหลาดโจมตีขณะหนี แล้วภรรยากูก็โดนสัตว์ประหลาดพวกนั้นจับไป
+กูใช้ของทุกอย่างที่มีจ้างนักรบมาช่วยชิงตัวเธอกลับมา
+ผลสุดท้าย อย่างที่เห็น กูล้มเหลว กูช่วยภรรยาไม่ได้
+อย่าไปบอกลูกสาวกูนะ
+เธอชื่อ\C[4]แมรี่\C[0] น่าจะหาเธอเจอได้ที่ปราสาทวันพีซ
+บอกเธอว่าพวกเรารอเธออยู่ที่นอล

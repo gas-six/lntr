@@ -1,143 +1,146 @@
+XXXXXXXX
+
 belever/NapSpot
-\SETpl[AnonMale1]\Lshake\C[4]Believer：\C[0] Intruder?
-\SETpr[AnonMale2]\Rshake\C[4]Believer：\C[0] No! It's the liars! It's the female liar!
-\SETpl[AnonMale1]\Lshake\C[4]Believer：\C[0] Saints! Thank the Saints! Let us cleanse her from her sins with the Sacred Bounty of the Saints!
+\SETpl[AnonMale1]\Lshake\C[4]Believer：\C[0] คนบุกรุก?
+\SETpr[AnonMale2]\Rshake\C[4]Believer：\C[0] ไม่! เป็นพวกโกหก! เป็นผู้หญิงโกหก!
+\SETpl[AnonMale1]\Lshake\C[4]Believer：\C[0] นักบุญ! ขอบคุณนักบุญ! มาชำระบาปของเธอด้วยพรอันศักดิ์สิทธิ์ของนักบุญกันเถอะ!
 
 beginEvent/begin
 
 #this file is MTL tier, requires SYNC and Clearn up
 
-\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] Stay there until your evil is cleansed!
-\m[sad]\plf\PRF\c[6]Lona：\c[0] What's going to happen to me...
+\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] อยู่นั่นจนกว่าความชั่วร้ายของเธอจะถูกชำระ!
+\m[sad]\plf\PRF\c[6]Lona：\c[0] จะเกิดอะไรขึ้นกับฉัน...
 
 belever/NapRape
-\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] Wake up! Sinful liars!
-\m[pain]\C[6]Lona：\C[0] Awwww.....
-\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] We must cleanse you from your sins!
+\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] ตื่นมา! พวกโกหกบาป!
+\m[pain]\C[6]Lona：\C[0] อ่าห์.....
+\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] เราต้องชำระบาปของเธอ!
 
 belever/NapTorture1
-\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] Sinful liars! Running away will only deepen your sins.
-\SETpr[AnonMale1]\Rshake\C[4]Believer：\C[0] Purify her!
-\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] \{Wake up!
+\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] พวกโกหกบาป! หนีไปจะทำให้บาปของเธอลึกขึ้น
+\SETpr[AnonMale1]\Rshake\C[4]Believer：\C[0] ชำระเธอ!
+\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] \{ตื่นมา!
 
 belever/NapTorture2
-\m[tired]\C[6]Lona：\C[0] Wha?
-\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] Get her! Hold her! We must purify her of her sins with righteousness!
-\m[terror]\C[6]Lona：\C[0] No! Stop it!
+\m[tired]\C[6]Lona：\C[0] อะไร?
+\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] จับเธอ! กดเธอ! เราต้องชำระบาปของเธอด้วยความชอบธรรม!
+\m[terror]\C[6]Lona：\C[0] ไม่! หยุดเดี๋ยวนี้!
 
 belever/NapTorture3
-\m[pain]\C[6]Lona：\C[0] \{Ouch! Ouch!
-\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] Damn it! Evil still lingers!
-\m[bereft]\C[6]Lona：\C[0] \{I'm sorry! Give me a break! I'm really sorry!
+\m[pain]\C[6]Lona：\C[0] \{อ๊าว! อ๊าว!
+\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] ชิบหาย! ความชั่วร้ายยังคงอยู่!
+\m[bereft]\C[6]Lona：\C[0] \{ขอโทษ! ให้ฉันพักหน่อย! ฉันขอโทษจริงๆ!
 
 belever/NapRape_0
-\c[4]Believer：\c[0] Let me cleanse you with a meat stick!
+\c[4]Believer：\c[0] ปล่อยให้ฉันชำระเธอด้วยควยเนื้อ!
 
 belever/NapRape_1
-\c[4]Believer：\c[0] Saint!
+\c[4]Believer：\c[0] นักบุญ!
 
 belever/NapRape_2
-\c[4]Believer：\c[0] Saint! Bless my meat stick!
+\c[4]Believer：\c[0] นักบุญ! ขอพรให้ควยเนื้อของฉัน!
 
 belever/NapRape3_0
-\c[4]Believer：\c[0] Take my sacred bounty into your body!
+\c[4]Believer：\c[0] รับพรอันศักดิ์สิทธิ์ของฉันเข้าไปในร่างกายของเธอ!
 
 belever/NapRape3_1
-\c[4]Believer：\c[0] Your sins can only be purified by my flesh!
+\c[4]Believer：\c[0] บาปของเธอสามารถชำระได้ด้วยเนื้อของฉันเท่านั้น!
 
 belever/NapRape3_2
-\c[4]Believer：\c[0] Accept the will of the Saint! Let me purify you!
+\c[4]Believer：\c[0] ยอมรับน้ำพระทัยของนักบุญ! ปล่อยให้ฉันชำระเธอ!
 
 belever/NapRape1
-\c[4]Believer：\c[0] Heh heh heh.
+\c[4]Believer：\c[0] เฮ้ เฮ้ เฮ้.
 
 belever/NapRape_withSta_NoFight2
-\m[sad]\SETpl[AnonMale1]\Lshake\C[4]Believer：\C[0] Hee hee hee ♥.
+\m[sad]\SETpl[AnonMale1]\Lshake\C[4]Believer：\C[0] ฮีๆ ฮีๆ ♥.
 
 belever/PlaceFood0
-\SETpl[AnonMale1]\Lshake\C[4]Believer：\C[0] \{Lunch is served!
+\SETpl[AnonMale1]\Lshake\C[4]Believer：\C[0] \{มื้อกลางวันเสร็จแล้ว!
 
 Camp/MobSeen
-\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] Who is it!
-\m[shocked]\Rshake\C[6]Lona：\C[0] Oops!
+\SETpl[AnonMale2]\Lshake\C[4]Believer：\C[0] ใคร!
+\m[shocked]\Rshake\C[6]Lona：\C[0] อุ๊ปส์!
 
 #---------------------#-------------------#---------------------  -------------------------------
 
 #by Saintz, remove this line after review.
 
 SlaveA/Qmsg0
-They worship my ass! 
+พวกมันนมัสการรูตูดของฉัน!
 
 SlaveA/Qmsg1
-It's theirs dicks fault!
+เป็นความผิดของควยพวกมัน!
 
 SlaveA/Qmsg2
-Why? I get food every day!
+ทำไม? ฉันได้กินทุกวัน!
 
 SlaveB/Qmsg0
-*Sob*... 
+*สะอึก*...
 
 SlaveB/Qmsg1
-They suck me off every day... 
+พวกมันดูดควยฉันทุกวัน...
 
 SlaveB/Qmsg2
-I can't feel my hips...
+ฉันรู้สึกสะโพกไม่ออก...
 
 SlaveC/Qmsg0
-I'm not moving from here!
+ฉันจะไม่ย้ายจากที่นี่!
 
 SlaveC/Qmsg1
-I was starving before!
+ก่อนหน้านี้ฉันหิวโซ!
 
 SlaveC/Qmsg2
-Feed me, then we can have some fun!
+ให้อาหารฉัน แล้วเราจะมาสนุกกัน!
 
 #---------------------#-------------------#---------------------  -------------------------------
 
 #by Saintz, remove this line after review.
 
 MIAchildMAMA/prog8
-\CBct[8]\m[confused]\PRF\C[6]Lona：\C[0]    Ehm, excuse me...
-\CBid[-1,2]\prf\C[4]Timmy：\C[0]    Can't you see I'm meditating here? The adults told me that If I work hard, I'll become a great believer!
-\CBct[20]\m[flirty]\PRF\C[6]Lona：\C[0]    Uh... But I'm here looking for \c[4]Timmy\c[0], maybe you know where I could find him?
-\CBid[-1,2]\prf\C[4]Timmy：\C[0]    That's me! I'm Acolyte \c[6]Timmy\c[0]!
-\CBct[4]\m[triumph]\Rshake\C[6]Lona：\C[0]    Really?! That's great! I've finally found you.
-\CBct[20]\m[confused]\PRF\C[6]Lona：\C[0]    You should go back to your mother, all this time she was trying to get you back.
-\CBid[-1,20]\prf\C[4]Timmy：\C[0]    No! Back then, I was always hungry. Here I can eat as much as I like! The only thing I need to do is take it up the ass.
-\CBct[8]\m[flirty]\PRF\C[6]Lona：\C[0]    Uh... Take it up your\...\...\... ass?
-\CBid[-1,5]\prf\C[4]Timmy：\C[0]    That's right! And I'm not moving from here!
-\CBid[-1,20]\prf\C[4]Timmy：\C[0]    Mother didn't care about me, but the \C[6]Followers of the Saint\C[0]... they do! I have to follow their will, the will of the \C[6] Saint\C[0]!
+\CBct[8]\m[confused]\PRF\C[6]Lona：\C[0]    อืม ขอโทษนะ...
+\CBid[-1,2]\prf\C[4]Timmy：\C[0]    มึงไม่เห็นว่าฉันกำลังนั่งสมาธิอยู่เหรอ? ผู้ใหญ่บอกฉันว่าถ้าฉันทำงานหนัก ฉันจะกลายเป็นผู้เชื่อที่ยิ่งใหญ่!
+\CBct[20]\m[flirty]\PRF\C[6]Lona：\C[0]    อืม... แต่ฉันมาที่นี่เพื่อหา \c[4]Timmy\c[0] มึงรู้ไหมว่าฉันจะหาเขาได้ที่ไหน?
+\CBid[-1,2]\prf\C[4]Timmy：\C[0]    นั่นฉัน! ฉันคือ \c[6]Timmy\c[0] นักบวช!
+\CBct[4]\m[triumph]\Rshake\C[6]Lona：\C[0]    จริงเหรอ?! ดีมาก! ฉันหาเจอเธอแล้ว
+\CBct[20]\m[confused]\PRF\C[6]Lona：\C[0]    เธอควรกลับไปหาแม่ของเธอ ตลอดเวลานี้เธอพยายามจะเอาเธอกลับไป
+\CBid[-1,20]\prf\C[4]Timmy：\C[0]    ไม่! ตอนนั้นฉันหิวตลอดเวลา ที่นี่ฉันกินได้เท่าไหร่ก็ได้! สิ่งเดียวที่ฉันต้องทำคือรับมันเข้ารูตูด
+\CBct[8]\m[flirty]\PRF\C[6]Lona：\C[0]    อืม... รับมันเข้า... รูตูด?
+\CBid[-1,5]\prf\C[4]Timmy：\C[0]    ถูกต้อง! และฉันจะไม่ย้ายจากที่นี่!
+\CBid[-1,20]\prf\C[4]Timmy：\C[0]    แม่ไม่สนใจฉัน แต่ \C[6]ผู้ติดตามนักบุญ\C[0]... พวกเขาสนใจ! ฉันต้องทำตามน้ำพระทัยของพวกเขา น้ำพระทัยของ \C[6]นักบุญ\C[0]!
 
 MIAchildMAMA/prog8_opt
-\CBct[20]\m[confused]\PRF\C[6]Lona：\C[0]    Uh\..\..\..\optB[Forget it,Trick him<r=HiddenOPT1>,Oh you cheeky brat!<r=HiddenOPT2>]
+\CBct[20]\m[confused]\PRF\C[6]Lona：\C[0]    อืม...\optB[ลืมมันเถอะ,หลอกเขา<r=HiddenOPT1>,โอ้ น้องเลวจริง!<r=HiddenOPT2>]
 
 MIAchildMAMA/prog8_opt_WIS
-\CBct[20]\m[flirty]\PRF\C[6]Lona：\C[0]    So I guess you didn't hear the rumors about your beloved \C[4]followers of the Saint\C[0]? That they're eating children. Oh, you really didn't know that?
-\CBct[8]\m[confused]\PRF\C[6]Lona：\C[0]    Or do you perhaps know already, and you're still willing to stay here?
-\CBid[-1,20]\prf\C[4]Timmy：\C[0]    What?! No way!
-\CBct[20]\m[serious]\PRF\C[6]Lona：\C[0]    I'm not lying, they let you eat all that delicious food just to make sure you turn fat and juicy.
-\CBct[20]\m[serious]\PRF\C[6]Lona：\C[0]    It's only a matter of time now...
-\CBct[20]\m[terror]\Rshake\C[6]Lona：\C[0]    A MATTER OF TIME BEFORE THEY'LL COOK YOU AND EAT YOU UP!!!
+\CBct[20]\m[flirty]\PRF\C[6]Lona：\C[0]    ฉันเดาว่าเธอไม่ได้ยินข่าวลือเกี่ยวกับ \C[4]ผู้ติดตามนักบุญ\C[0] ที่เธอรักหรอกนะ? ว่าพวกเขากินเด็ก โอ้ เธอไม่รู้จริงๆ เหรอ?
+\CBct[8]\m[confused]\PRF\C[6]Lona：\C[0]    หรือเธอรู้อยู่แล้ว และยังยอมอยู่ที่นี่?
+\CBid[-1,20]\prf\C[4]Timmy：\C[0]    อะไรนะ?! ไม่มีทาง!
+\CBct[20]\m[serious]\PRF\C[6]Lona：\C[0]    ฉันไม่ได้โกหก พวกเขาปล่อยให้เธอกินอาหารอร่อยๆ ทั้งหมดนั่นเพื่อให้แน่ใจว่าเธอจะอ้วนและน่ากิน
+\CBct[20]\m[serious]\PRF\C[6]Lona：\C[0]    ตอนนี้เป็นเพียงเรื่องของเวลา...
+\CBct[20]\m[terror]\Rshake\C[6]Lona：\C[0]    เรื่องของเวลาก่อนที่พวกเขาจะทำอาหารและกินเธอ!!!
 \CBid[-1,8]\prf\C[4]Timmy：\C[0]    \...\...\...
-\CBid[-1,8]\prf\C[4]Timmy：\C[0]    But they were so kind to me... They sucked me off every day... 
-\CBid[-1,8]\prf\C[4]Timmy：\C[0]    They also said that my dick is\...\...\... delicious.
-\CBid[-1,8]\prf\C[4]Timmy：\C[0]    So it's true?! They really want to eat me?
-\CBct[20]\m[wtf]\Rshake\C[6]Lona：\C[0]    AH?!
-\CBid[-1,20]\prf\C[4]Timmy：\C[0]    No! Please save me, I don't want to be eaten!
-\CBct[20]\m[flirty]\PRF\C[6]Lona：\C[0]    Don't worry, leave everything here to your big sister! I'll make sure you return safely to your mother.
+\CBid[-1,8]\prf\C[4]Timmy：\C[0]    แต่พวกเขาใจดีกับฉันมาก... พวกเขาดูดควยฉันทุกวัน... 
+\CBid[-1,8]\prf\C[4]Timmy：\C[0]    พวกเขายังบอกว่าควยของฉัน... อร่อย
+\CBid[-1,8]\prf\C[4]Timmy：\C[0]    มันจริงเหรอ?! พวกเขาอยากกินฉันจริงๆ?
+\CBct[20]\m[wtf]\Rshake\C[6]Lona：\C[0]    อะ?!
+\CBid[-1,20]\prf\C[4]Timmy：\C[0]    ไม่! ช่วยฉันด้วย ฉันไม่อยากถูกกิน!
+\CBct[20]\m[flirty]\PRF\C[6]Lona：\C[0]    อย่ากังวล ปล่อยทุกอย่างที่นี่ให้พี่สาวของเธอ! ฉันจะทำให้แน่ใจว่าเธอกลับไปหาแม่อย่างปลอดภัย
 
 MIAchildMAMA/prog8_opt_STA0
-\CBct[5]\m[serious]\Rshake\C[6]Lona：\C[0]    Listen to me!
+\CBct[5]\m[serious]\Rshake\C[6]Lona：\C[0]    ฟังฉันนะ!
 
 MIAchildMAMA/prog8_opt_STA1
-\CBct[20]\m[irritated]\Rshake\C[6]Lona：\C[0]    It's your mother! She didn't abandon you here, she got worried after they took you away and asked me to bring you back home!
-\CBid[-1,6]\prf\C[4]Timmy：\C[0]    *Sob*... Please don't hurt me anymore! I'll go with you! 
+\CBct[20]\m[irritated]\Rshake\C[6]Lona：\C[0]    แม่ของเธอ! เธอไม่ได้ทิ้งเธอไว้ที่นี่ เธอกังวลหลังจากที่พวกเขาพาเธอไปและขอให้ฉันพาเธอกลับบ้าน!
+\CBid[-1,6]\prf\C[4]Timmy：\C[0]    *สะอึก*... อย่าทำร้ายฉันอีกเลย! ฉันจะไปกับเธอ!
 
 MIAchildMAMA/prog9_board
 \board[her child]
-Goal：Escort \C[4]Timmy\C[0] back to his mother.
-Reward：None
-Contractor： Refugee
-Quest Term：Single Fulfillment
-Escort \C[4]Timmy\C[0] back to his mother, be sure you don't get found out.
-\C[6]Saints\C[0] will be hostile towards \C[4]Timmy\C[0].
+เป้าหมาย：นำ \C[4]Timmy\C[0] กลับไปหาแม่ของเขา
+รางวัล：ไม่มี
+ผู้ว่าจ้าง：ผู้ลี้ภัย
+เงื่อนไขภารกิจ：ทำครั้งเดียว
+นำ \C[4]Timmy\C[0] กลับไปหาแม่ของเขา ต้องแน่ใจว่าไม่ถูกจับได้
+\C[6]นักบุญ\C[0] จะเป็นศัตรูกับ \C[4]Timmy\C[0]
+        

@@ -1,164 +1,166 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-\m[confused]Nine Inch Tribe\optB[Leave,Enter]
+\m[confused]Nine Inch Tribe\optB[ออก,เข้า]
 
 ########################################### When begin
 
 rg4/FirstAlert0
-\CBmp[Archer,20]\prf\c[4]\c[4]guardA：\c[0]    Kunämänn! It belongs to Kunämänn!
+\CBmp[Archer,20]\prf\c[4]\c[4]guardA：\c[0]    คูนาเมินน์! มันเป็นของคูนาเมินน์!
 
 rg4/FirstAlert1
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    Who? Me?!
-\CBmp[Archer,20]\prf\c[4]\c[4]guardA：\c[0]    Kill her! Cut the chicken!
-\m[bereft]\Rshake\c[6]Lona：\c[0]    No! Why! Wait a moment!
-\CBmp[GuardA,20]\prf\c[4]\c[4]guardB：\c[0]    No! Wait! Maybe \c[6]shämän\c[0] said... It's about warriors!
-\CBmp[Archer,2]\prf\c[4]\c[4]guardA：\c[0]    Such a shrimp? How is it possible!
-\m[flirty]\PRF\c[6]Lona：\c[0]    So... You won't kill me after all?
+\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    ใคร? หนูเหรอ?!
+\CBmp[Archer,20]\prf\c[4]\c[4]guardA：\c[0]    ฆ่ามัน! ตัดไก่!
+\m[bereft]\Rshake\c[6]Lona：\c[0]    ไม่! ทำไม! รอสักครู่!
+\CBmp[GuardA,20]\prf\c[4]\c[4]guardB：\c[0]    ไม่! รอ! อาจจะ \c[6]ชาเมิน\c[0] พูดว่า... เกี่ยวกับนักรบ!
+\CBmp[Archer,2]\prf\c[4]\c[4]guardA：\c[0]    กุ้งตัวเล็กขนาดนี้? มันเป็นไปได้ยังไง!
+\m[flirty]\PRF\c[6]Lona：\c[0]    งั้น... แกจะไม่ฆ่าหนูสินะ?
 
 rg4/FirstAlert3
-\CBmp[Archer,20]\prf\c[4]\c[4]guardA：\c[0]    Who are you from? Who is it?
-\CBct[6]\m[fear]\PRF\c[6]Lona：\c[0]    I'm really not a bad person, I just happened to pass by.
-\CBmp[GuardA,20]\prf\c[4]\c[4]guardB：\c[0]    Take off your clothes! Showing your breasts proves that you are not a dummy!
-\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    What? M-my clothes?
-\CBmp[Archer,5]\prf\c[4]\c[4]guardA：\c[0]    Righteous breda! Take it off!
+\CBmp[Archer,20]\prf\c[4]\c[4]guardA：\c[0]    แกมาจากไหน? ใครส่งมา?
+\CBct[6]\m[fear]\PRF\c[6]Lona：\c[0]    หนูไม่ใช่คนร้ายจริงๆ หนูแค่ผ่านมาเฉยๆ
+\CBmp[GuardA,20]\prf\c[4]\c[4]guardB：\c[0]    ถอดเสื้อผ้า! โชว์หน้าอกเพื่อพิสูจน์ว่าแกไม่ใช่หุ่น!
+\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    อะไรนะ? เสื้อผ้าของหนู?
+\CBmp[Archer,5]\prf\c[4]\c[4]guardA：\c[0]    พี่น้องที่ถูกต้อง! ถอดเลย!
 
 rg4/FirstAlert3_1
-\CBct[6]\m[bereft]\Rshake\c[6]Lona：\c[0]    I'm taking it off! I'm taking it off right now, please don't hurt me!
+\CBct[6]\m[bereft]\Rshake\c[6]Lona：\c[0]    หนูถอด! หนูถอดตอนนี้เลย อย่าทำร้ายหนูเลย!
 
 rg4/FirstAlert4
-\CBmp[6]\m[shy]\PRF\c[6]Lona：\c[0]    Is this okay? Will you let me go now?
+\CBmp[6]\m[shy]\PRF\c[6]Lona：\c[0]    แบบนี้ได้มั้ย? แกจะปล่อยหนูไปตอนนี้ได้มั้ย?
 
 rg4/FirstAlert4_0
-\CBmp[1]\m[p5shame]\Rshake\c[6]Lona：\c[0]    AIEE!
+\CBmp[1]\m[p5shame]\Rshake\c[6]Lona：\c[0]    อี๊!
 
 rg4/FirstAlert4_1
-\CBmp[GuardA,20]\c[4]\c[4]guardB：\c[0]    Righteous breda! This touch is real!
+\CBmp[GuardA,20]\c[4]\c[4]guardB：\c[0]    พี่น้องที่ถูกต้อง! สัมผัสนี้มันจริง!
 
 rg4/FirstAlert5
-\m[shy]\CBmp[GuardA,20]\prf\c[4]\c[4]guardB：\c[0]    Look! As \c[6]shämän\c[0] say it! She is from the endless lake on her chest!
-\CBmp[Archer,20]\prf\c[4]\c[4]guardA：\c[0]    Hmm, \c[6]shämän\c[0] could it be true? No dick yet? And it's on the lake?!
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Huh? What lake?
-\CBmp[GuardA,20]\prf\c[4]\c[4]guardB：\c[0]    Go, kunämänn warriors! \c[6]Shämän\c[0] want to see you!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Well... Who is this \c[6]Shämän\c[0]?
+\m[shy]\CBmp[GuardA,20]\prf\c[4]\c[4]guardB：\c[0]    ดูสิ! ตามที่ \c[6]ชาเมิน\c[0] พูด! มันมาจากทะเลสาบไร้ที่สิ้นสุดบนหน้าอกของมัน!
+\CBmp[Archer,20]\prf\c[4]\c[4]guardA：\c[0]    อืม, \c[6]ชาเมิน\c[0] มันจะจริงเหรอ? ยังไม่มีควย? แล้วมันอยู่บนทะเลสาบ?!
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    หา? ทะเลสาบอะไร?
+\CBmp[GuardA,20]\prf\c[4]\c[4]guardB：\c[0]    ไปเถอะ นักรบคูนาเมินน์! \c[6]ชาเมิน\c[0] อยากเจอแก!
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    อืม... ชาเมินคนนี้คือใคร?
 
 rg4/DressCheck
-\CBmp[GuardA,20]\prf\c[4]\c[4]guardB：\c[0]    Kunämänn! You have to take off your clothes to come in!
-\CBmp[Archer,5]\prf\c[4]\c[4]guardA：\c[0]    Righteous breda! Take it off! Prove you're real!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Well...
+\CBmp[GuardA,20]\prf\c[4]\c[4]guardB：\c[0]    คูนาเมินน์! แกต้องถอดเสื้อผ้าถึงจะเข้ามาได้!
+\CBmp[Archer,5]\prf\c[4]\c[4]guardA：\c[0]    พี่น้องที่ถูกต้อง! ถอดเลย! พิสูจน์ว่าแกจริง!
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    อืม...
 
 rg4/Aggroed
-\prf\c[4]\c[4]guardA：\c[0]    \{Cut dick! Cut the chicken!\}
-\m[shocked]\Rshake\c[6]Lona：\c[0]    What are you on about?! You sound like a bunch of MTL monkeys...
-\narr The Nine Inch Tribe is now an enemy!
+\prf\c[4]\c[4]guardA：\c[0]    \{ตัดควย! ตัดไก่!\}
+\m[shocked]\Rshake\c[6]Lona：\c[0]    แกพูดอะไร? แกพูดเหมือนลิงแปลก๊อปปี้...
+\narr Nine Inch Tribe ตอนนี้เป็นศัตรู!
 
 ########################################### Commoner & fixed opj
 
 PrayKid/Qmsg0
-I want to grow up fast!
+อยากโตเร็วๆ!
 
 PrayKid/Qmsg1
-I want to hunt the bad guy's cock!
+อยากล่าควยคนร้าย!
 
 PrayKid/Qmsg2
-Hunter's cock is huge!
+ควยนักล่าใหญ่มาก!
 
 Gill/Qmsg0
-Why do I have no dick?
+ทำไมฉันไม่มีควย?
 
 Gill/Qmsg1
-Why can't I hunt dicks?
+ทำไมฉันล่าควยไม่ได้?
 
 Gill/Qmsg2
-You don't have a dick either!
+แกก็ไม่มีควยเหมือนกัน!
 
 Penis/Msg
-\narr There seems to be something engraved on it\..\..\..
+\narr ดูเหมือนจะมีอะไรแกะสลักอยู่\..\..\..
 
 Nap/GameOver0
-\c[4]\c[4]guardA：\c[0]    Kill her! Damn intruders!
-\c[4]\c[4]guardB：\c[0]    Kill her! Cut off her cock!
+\c[4]\c[4]guardA：\c[0]    ฆ่ามัน! อีกระหรี่ที่บุกรุก!
+\c[4]\c[4]guardB：\c[0]    ฆ่ามัน! ตัดควยมัน!
 
 Nap/GameOver1
-\narr The tribe cut Lona up\..\..\..
-\narr Lona will be the nourishment for the ancestors\..\..\..
+\narr เผ่าตัดโลน่าซอย\..\..\..
+\narr โลน่าจะเป็นอาหารบำรุงบรรพบุรุษ\..\..\..
 
 Commoner/RngDialog0
-\CBid[-1,20]\c[4]\c[4]guard：\c[0]    Just to drink!
+\CBid[-1,20]\c[4]\c[4]guard：\c[0]    แค่ดื่มเหล้า!
 
 Commoner/RngDialog1
-\CBid[-1,20]\c[4]\c[4]guard：\c[0]    Cut dick! drink wine!
+\CBid[-1,20]\c[4]\c[4]guard：\c[0]    ตัดควย! ดื่มไวน์!
 
 Commoner/RngDialog2
-\CBid[-1,20]\c[4]\c[4]guard：\c[0]    Karma!
+\CBid[-1,20]\c[4]\c[4]guard：\c[0]    กรรม!
 
 ########################################### the witch
 
 WitchOPT/Begin
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    O kunämänn warrior, I have seen your coming.
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    โอ้ นักรบคูนาเมินน์ ข้าเห็นการมาของเจ้าแล้ว
 
 WitchOPT/End
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    Nine Inch Cock Guides You.
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    ควยเก้านิ้วนำทางเจ้า
 
 WitchOPT/AboutHere
-Nine Inch Hunter Tribe
+เผ่านักล่าเก้านิ้ว
 
 WitchOPT/AboutWhyMe
-Shämän
+ชาเมิน
 
 WitchOPT/AboutDedOne
-Dark traveler
+นักเดินทางมืด
 
 WitchOPT/AboutHere0
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    This is from the ancestors of \c[6]Nine Inch Hunter Tribe\c[0].
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    The ancestors led us to escape from the white orangutan's lair.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    Our ancestors created us with a nine-inch penis.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    In order to prove that we are all the children of the ancestors, every young man of the tribe must cut a penis when he comes of age.
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Ah... So that's what's all the dick-cutting is about?
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    Yes, to prove that Grandpa's cock is the greatest cock.
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Oh...?
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Why did the warriors at the gate... grope me?
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    This is the way the ancestors recognize intruders.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    those ugly \c[6]murloc\c[0] They will sneak in disguised as us.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    But you are absolutely not, you are the endless lake in front of your chest.
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    I uhh... I don't think I follow...
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    ที่นี่มาจากบรรพบุรุษของ \c[6]เผ่านักล่าเก้านิ้ว\c[0]
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    บรรพบุรุษนำพาเราหนีจากรังลิงขาว
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    บรรพบุรุษสร้างเราด้วยควยยาวเก้านิ้ว
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    เพื่อพิสูจน์ว่าเราทุกคนเป็นลูกหลานของบรรพบุรุษ ทุกคนในเผ่าต้องตัดควยเมื่อถึงวัย
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    อ๋อ... นี่เหตุผลที่ต้องตัดควยกันเหรอ?
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    ใช่ พิสูจน์ว่าควยของปู่ย่าคือควยที่ยิ่งใหญ่ที่สุด
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    โอ้...?
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    ทำไมนักรบที่ประตู... ถึงคลำหนู?
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    นี่คือวิธีที่บรรพบุรุษจะจำแนกผู้บุกรุก
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    พวก \c[6]มัลล็อค\c[0] ที่น่าเกลียด พวกมันจะแอบเข้ามาแฝงตัวเป็นเรา
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    แต่เจ้าไม่ใช่แน่ๆ เจ้าคือทะเลสาบไร้ที่สิ้นสุดบนหน้าอก
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    หนู... หนูไม่เข้าใจเลย...
 
 WitchOPT/AboutWhyMe0
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Well... Are you the \c[4]shämän\c[0]?
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    Yes, kunämänn warriors.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    The \c[6]Dark Traveler\c[0] said it. The prophecy that your coming will solve our problems...
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    But I didn't expect the warrior to be so thin.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    \c[6]Spiral King\c[0] in the southeast \c[6]Spiral Forest\c[0]... Constantly causing trouble.
-\CBid[-1,20]\prf\c[4]\c[4]shämän：\c[0]    If you are a true warrior you will cut \c[6]Spiral Cock\c[0] of \c[6]Spiral King\c[0]! Bring it to me!
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    อืม... แกคือ \c[4]ชาเมิน\c[0] ใช่มั้ย?
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    ใช่ นักรบคูนาเมินน์
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    \c[6]นักเดินทางมืด\c[0] พูดไว้ นายทำนายว่าการมาของเจ้าจะแก้ปัญหาของเรา...
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    แต่ข้าไม่คิดว่านักรบจะผอมขนาดนี้
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    \c[6]ราชาสปิรัล\c[0] ในป่าสปิรัลทางตะวันออกเฉียงใต้... สร้างปัญหาอยู่ตลอด
+\CBid[-1,20]\prf\c[4]\c[4]shämän：\c[0]    ถ้าเจ้าเป็นนักรบจริงๆ เจ้าจะต้องตัด \c[6]ควยสปิรัล\c[0] ของ \c[6]ราชาสปิรัล\c[0]! นำมาให้ข้า!
 
 WitchOPT/AboutWhyMe1
 \board[Get Spiral Cock]
-Goal： Get Spiral Cock
-Reward： Nine Inch Facepaint
-Client： Nine Inch Hunter Tribe
-Quest Term： Single Fulfillment
-You must prove that you are a true warrior, go to the southeast forest to complete your trials!
+เป้าหมาย： ได้ควยสปิรัล
+รางวัล： สีหน้าเก้านิ้ว
+ผู้ว่าจ้าง： เผ่านักล่าเก้านิ้ว
+เงื่อนไขภารกิจ： ทำครั้งเดียว
+เจ้าต้องพิสูจน์ว่าเป็นนักรบจริงๆ ไปที่ป่าทางตะวันออกเฉียงใต้เพื่อทดสอบ!
 
 WitchOPT/AboutWhyMe2_yes
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Why me? I'm just passing by.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    Since \c[6]green goblin\c[0] come, we have new troubles since he appeared, but the warrior will solve everything.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    Like \c[6]Dark Traveler\c[0] said, you must have doubts about everything.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    But all this happened under the guidance of the ancestors of the city.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    Go kid, go prove your worth!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Well whatever...
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    ทำไมหนู? หนูแค่ผ่านมาเฉยๆ
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    ตั้งแต่ \c[6]ก็อบลินเขียว\c[0] มา เรามีปัญหาใหม่ตั้งแต่มันปรากฏตัว แต่นักรบจะแก้ไขทุกอย่าง
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    เหมือนที่ \c[6]นักเดินทางมืด\c[0] พูด เจ้าต้องสงสัยทุกอย่าง
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    แต่ทั้งหมดนี้เกิดขึ้นภายใต้การนำทางของบรรพบุรุษของเมือง
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    ไปเถอะ เด็ก ไปพิสูจน์คุณค่าของเจ้า!
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    อืม ไม่เป็นไร...
 
 WitchOPT/AboutDedOne0
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    \c[4]Dark Traveler\c[0]... Who is that? Why did he say I would come here?
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    He is the one who controls everything, and he met all this happening.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    He appeared in a dream in a black robe, and he told me all the truth.
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    The only unknown is you.
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Is that so?
+\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    \c[4]นักเดินทางมืด\c[0]... คนนี้คือใคร? ทำไมมันถึงบอกว่าหนูจะมาที่นี่?
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    เขาคือผู้ควบคุมทุกอย่าง และเขาเห็นทุกอย่างที่เกิดขึ้น
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    เขาปรากฏในความฝันในชุดคลุมสีดำ และเขาบอกข้าทุกความจริง
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    สิ่งเดียวที่ไม่รู้คือเจ้า
+\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    อย่างนั้นเหรอ?
 
 Witch/BoarPenid_End0
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Well... I beat the \c[5]Spiral King\c[0]! Yes, this is his \c[4]spiral cock\c[0]... Right?
-\CBid[-1,20]\prf\c[4]\c[4]shämän：\c[0]    Sure enough, as \c[6]Dark Traveler\c[0] said, you are a true warrior.
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Of course...
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    อืม... หนูเอาชนะ \c[5]ราชาสปิรัล\c[0] แล้ว! ใช่ นี่คือ \c[4]ควยสปิรัล\c[0] ของมัน... ใช่มั้ย?
+\CBid[-1,20]\prf\c[4]\c[4]shämän：\c[0]    แน่นอน ตามที่ \c[6]นักเดินทางมืด\c[0] พูด เจ้าเป็นนักรบจริงๆ
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    แน่นอน...
 
 Witch/BoarPenid_End1
-\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    Take it, here is the proof of the brave, \c[6]Dark Traveler\c[0] said you need this, put it on your face.
+\CBid[-1,8]\prf\c[4]\c[4]shämän：\c[0]    รับไป นี่คือหลักฐานของความกล้าหาญ \c[6]นักเดินทางมืด\c[0] พูดว่าเจ้าต้องการสิ่งนี้ ทาไว้บนหน้า
 
 Witch/BoarPenid_End2
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Well... Thanks, I guess?
+\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    อืม... ขอบคุณนะ คิดว่า

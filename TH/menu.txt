@@ -1,117 +1,119 @@
-#Translated and reviewed by Sugoi Soy Boy. Fuck off MTLing monkeys.
+XXXXXXXX
+
+#แปลและตรวจทานโดย Sugoi Soy Boy. ไอ้ลิง MTL ไปกันให้พ้นๆ
 
 ##################################	TITLE	#############################
 ##################################	TITLE	#############################
 ##################################	TITLE	#############################
 
 title/NEW_GAME
-NEW GAME
+เกมใหม่
 
 title/CONTINUE
-CONTINUE
+ต่อเกม
 
 title/CREDITS
-CREDITS
+เครดิต
 
 title/EXIT_GAME
-EXIT
+ออก
 
 title/OPTIONS
-OPTIONS
+ตัวเลือก
 
 title/ACH
-ACHIEVEMENTS
+ความสำเร็จ
 
 title/GamepadMode
-Gamepad Mode
+โหมดจอยสติ๊ก
 
 title/SupportMe
-SUPPORT ME
+สนับสนุนผม
 
 ##################################	Input	#############################
 
 Input/Space
-Space
+สเปซ
 
 ##################################	SHOP	#############################
 
 Shop/ConfirmWarning
-Complete this transaction?
+ยืนยันการซื้อขายนี้?
 
 Shop/Return
-Reconsider
+คิดใหม่
 
 Shop/Buy
-Buy
+ซื้อ
 
 Shop/Sell
-Sell
+ขาย
 
 Shop/Cancel
-Cancel
+ยกเลิก
 
 Shop/WtLimit
-Weight Limit
+ขีดจำกัดน้ำหนัก
 
 Shop/TPleft
-Trade Points
+แต้มการค้า
 
 Shop/Item
-Item
+ไอเท็ม
 
 Shop/ArmEquip
-Main Hand Equipment
+อาวุธมือหลัก
 
 Shop/Equip
-Other Equipment
+อุปกรณ์อื่นๆ
 
 Box/Body
-Lona
+โลน่า
 
 Box/Target
-Target
+เป้าหมาย
 
 ##################################	`	#############################
 
 GameOver/Press
-Please press
+กรุณากด
 
 GameOver/Continue_bad
-to admit your failure.
+เพื่อยอมรับความล้มเหลวของคุณ
 
 GameOver/Continue_good
-Lona thanks you for your guidance.
+โลน่าขอบคุณที่ช่วยนำทาง
 
 ##################################	CORE	#############################
 ##################################	CORE	#############################
 ##################################	CORE	#############################
 
 core/main_stats
-Main Stats
+สถานะหลัก
 
 core/body_stats
-Health Stats
+สถานะสุขภาพ
 
 core/sex_stats
-Sex Stats
+สถานะเซ็กส์
 
 core/equips
-Equip
+อุปกรณ์
 
 core/items
-Items
+ไอเท็ม
 
 core/skills
-Skills
+ทักษะ
 
 core/traits
-Traits
+ลักษณะ
 
 core/letter
-Notes
+จดหมาย
 
 core/system
-System
+ระบบ
 
 ##################################	CORE STATS	#############################
 ##################################	CORE STATS	#############################
@@ -119,22 +121,22 @@ System
 ##################################	CORE STATS	#############################
 
 core_stats/hp
-HP
+พลังชีวิต
 
 core_stats/ca
-Carry
+พกพา
 
 core_stats/sta
-STA
+พลังงาน
 
 core_stats/sat
-Food
+อาหาร
 
 core_stats/next_lv
-EXP
+ประสบการณ์
 
 core_stats/TimeLeft
-TIME
+เวลา
 
 ##################################	main	#############################
 ##################################	main	#############################
@@ -142,107 +144,107 @@ TIME
 ##################################	main	#############################
 
 main_stats/name
-Lona
+โลน่า
 
 main_stats/race
-Race
+เผ่าพันธุ์
 
 main_stats/race_Human
-Human
+มนุษย์
 
 main_stats/race_Deepone
-Human
+มนุษย์
 
 main_stats/race_Moot
-Mixed-Race
+ลูกครึ่ง
 
 main_stats/race_SeaWitch
-Sea Witch
+แม่มดทะเล
 
 #######################################################
 
 main_stats/persona
-Persona
+บุคลิก
 
 main_stats/persona_typical
-Normal
+ปกติ
 
 main_stats/persona_gloomy
-Meek
+อ่อนแอ
 
 main_stats/persona_tsundere
-Tough
+แข็งแกร่ง
 
 main_stats/persona_slut
-Slutty
+เย็ดกัน
 
 #######################################################
 
 main_stats/title
-Title
+ตำแหน่ง
 
 main_stats/level
-Level
+ระดับ
 
 main_stats/exp_need
-EXP
+ประสบการณ์
 
 main_stats/atk
-Attack
+โจมตี
 
 main_stats/def
-Defense
+ป้องกัน
 
 main_stats/move_speed
-Speed
+ความเร็ว
 
 main_stats/mood
-Mood
+อารมณ์
 
 main_stats/dirt
-Dirty
+สกปรก
 
 main_stats/arousal
-Arousal
+ความตื่นเต้น
 
 main_stats/micturition_need
-Urination Need
+ความต้องการปัสสาวะ
 
 main_stats/breast_swelling
-Breast Swelling
+เต้านมบวม
 
 main_stats/stomach_upset
-Stomach Upset
+ท้องไม่สบาย
 
 main_stats/defecation_need
-Defecation Need
+ความต้องการถ่ายอุจจาระ
 
 main_stats/date
-Date
+วันที่
 
 main_stats/date_day
-Day
+กลางวัน
 
 main_stats/date_night
-Night
+กลางคืน
 
 main_stats/carrying_capacity
-Carrying
+การพกพา
 
 main_stats/trade_point
-Trade Points
+แต้มการค้า
 
 main_stats/morality
-Morality
+ความศีลธรรม
 
 main_stats/sexy
-Sexy
+เซ็กซี่
 
 main_stats/weak
-Weak
+อ่อนแอ
 
 main_stats/baby_health
-Baby's Health
+สุขภาพทารก
 
 ##################################	BODY STATS	#############################
 ##################################	BODY STATS	#############################
@@ -250,393 +252,393 @@ Baby's Health
 ##################################	BODY STATS	#############################
 
 body_stats/common_healthy
-Healthy
+สุขภาพดี
 
 body_stats/common_wound
-Injured
+บาดเจ็บ
 
 body_stats/common_semen
-Cum Dripping
+น้ำอสุจิหยด
 
 body_stats/common_piercing
-Body Piercing
+เจาะร่างกาย
 
 body_stats/common_VaginalDamaged
-Vaginal Injury
+ช่องคลอดบาดเจ็บ
 
 body_stats/common_UrethralDamaged
-Urethral Injury
+ท่อปัสสาวะบาดเจ็บ
 
 body_stats/common_SphincterDamaged
-Anal Injury
+ทวารหนักบาดเจ็บ
 
 body_stats/common_distention
-Belly Swelling
+ท้องบวม
 
 body_stats/part_total_amount
-Total Amount
+จำนวนรวม
 
 ##################################	SEX STATS	#############################
 ##################################	SEX STATS	#############################
 ##################################	SEX STATS	#############################
 ##################################	SEX STATS	#############################
-#############################左部
+#############################ซ้าย
 
 sex_stats/main_belly
-Belly
+ท้อง
 
 sex_stats/main_belly_normal
-Okay
+ปกติ
 
 sex_stats/main_belly_preg1
-Swell
+บวม
 
 sex_stats/main_belly_preg2
-Bloat
+พอง
 
 sex_stats/main_belly_preg3
-Preg
+ท้อง
 
 sex_stats/main_vag
-Vagina
+ช่องคลอด
 
 sex_stats/main_anal
-Anus
+ทวารหนัก
 
 sex_stats/main_hole_tight
-Micro
+เล็กมาก
 
 sex_stats/main_hole_narrow
-Tight
+แน่น
 
 sex_stats/main_hole_used
-Used
+ใช้แล้ว
 
 sex_stats/main_hole_gaping
-Wide
+กว้าง
 
 sex_stats/main_hole_ruined
-Ruin
+พัง
 
-############################################## battle sex skill 右下部
-#hole skill 0~100  lv0 = 0~30,30~50,50~70,>70
+############################################## ทักษะเซ็กส์ในการต่อสู้ ขวาล่าง
+#ทักษะรู 0~100  ระดับ0 = 0~30,30~50,50~70,>70
 
 sex_stats/battle_stats_vag
-Vagina Skill
+ทักษะช่องคลอด
 
 sex_stats/battle_stats_anal
-Anal Skill
+ทักษะทวารหนัก
 
 sex_stats/battle_stats_mouth
-Oral Skill
+ทักษะปาก
 
 sex_stats/battle_stats_fapping
-Hand Skill
+ทักษะมือ
 
 sex_stats/battle_stats_inexperienced
-Awful
+แย่มาก
 
 sex_stats/battle_stats_exped
-Sexy
+เซ็กซี่
 
 sex_stats/battle_stats_skilled
-Slutty
+เย็ดกัน
 
 sex_stats/battle_stats_master
-Succubus
+ปีศาจ
 
-################################################## RECORD 右上部
+################################################## บันทึก ขวาบน
 
 sex_stats/record_giveup_hardcore
-Gave Up Survival
+ยอมแพ้การอยู่รอด
 
 sex_stats/record_giveup_PeePoo
-Scared Of Toilets
+กลัวห้องน้ำ
 
 sex_stats/record_Rebirth
-Rebirths
+การเกิดใหม่
 
 sex_stats/record_first_mouth
-First Kiss
+จูบครั้งแรก
 
 sex_stats/record_first_vag
-Virginity taken by
+สูญเสียพรหมจรรย์ให้
 
 sex_stats/record_first_anal
-First Anal
+เซ็กส์ทวารครั้งแรก
 
 sex_stats/record_last_mouth
-Last Oral Partner
+คู่เซ็กส์ปากครั้งล่าสุด
 
 sex_stats/record_last_vag
-Last Vaginal Partner
+คู่เซ็กส์ช่องคลอดครั้งล่าสุด
 
 sex_stats/record_last_anal
-Last Anal Partner
+คู่เซ็กส์ทวารครั้งล่าสุด
 
 sex_stats/record_current_married_partner
-Married To
+แต่งงานกับ
 
 sex_stats/record_urinary_damage
-Urethra Damaged
+ท่อปัสสาวะเสียหาย
 
 sex_stats/record_anal_damage
-Anus Damaged
+ทวารหนักเสียหาย
 
 sex_stats/record_whore_job
-Prostituted Self
+ขายตัว
 
 sex_stats/record_kissed
-Kissed
+จูบ
 
 sex_stats/record_privates_seen
-Bathed In Public
+อาบน้ำในที่สาธารณะ
 
 sex_stats/record_groped
-Groped
+ลวนลาม
 
 sex_stats/record_sexual_partners
-Sex Partners
+คู่เซ็กส์
 
 sex_stats/record_semen_swallowed
-Cum Swallowed
+กลืนน้ำอสุจิ
 
 sex_stats/record_frottage
-Fapped to
+ช่วยตัวเอง
 
 sex_stats/record_biggest_gangbang
-Gangbangs
+การเย็ดกลุ่มใหญ่สุด
 
 sex_stats/record_seen_peeing
-Peed In Public
+ปัสสาวะในที่สาธารณะ
 
 sex_stats/record_peed
-Peed
+ปัสสาวะ
 
 sex_stats/record_shat
-Pooped
+ถ่ายอุจจาระ
 
 sex_stats/record_cumshotted
-Bukkaked
+ถูกยิงน้ำอสุจิ
 
 sex_stats/record_seen_shat
-Pooped In Public
+ถ่ายอุจจาระในที่สาธารณะ
 
 sex_stats/record_torture
-Sexually Abused
+ถูกข่มขืน
 
 sex_stats/record_eating_fecal
-Poop Eaten
+กินอุจจาระ
 
 sex_stats/record_cunnilingus_taken
-Cunnilingus Received
+ได้รับการลิ้มลอง
 
 sex_stats/record_coma_sex
-Unconscious Sex
+เซ็กส์ขณะหมดสติ
 
 sex_stats/record_mindbreak
-Ahegaos
+อาเหมี่ยว
 
 sex_stats/record_defecate_incontinent
-Abnormal Feces
+อุจจาระผิดปกติ
 
 sex_stats/record_urinary_incontinence
-Abnormal Pee
+ปัสสาวะผิดปกติ
 
 sex_stats/record_anal_dilatation
-Anal Dilations
+การขยายทวารหนัก
 
 sex_stats/record_vag_dilatation
-Vaginal Dilations
+การขยายช่องคลอด
 
 sex_stats/record_urinary_dilatation
-Urethral Dilations
+การขยายท่อปัสสาวะ
 
 sex_stats/record_BreastFeeding
-Breast Feedings
+ให้นม
 
 sex_stats/record_MilkSplash
-Lactations
+น้ำนมพุ่ง
 
 sex_stats/record_MilkSplash_incontinence
-Abnormal Lactations
+น้ำนมพุ่งผิดปกติ
 
 sex_stats/record_pregnancy
-Live Pregnancies
+การตั้งครรภ์
 
 sex_stats/record_orgasm
-Orgasms
+ออร์กาสึม
 
 sex_stats/record_orgasm_Mouth
-Oral Orgasms
+ออร์กาสึมปาก
 
 sex_stats/record_orgasm_Torture
-Masochism Orgasms
+ออร์กาสึมจากการทรมาน
 
 sex_stats/record_orgasm_Vag
-Vaginal Orgasms
+ออร์กาสึมช่องคลอด
 
 sex_stats/record_orgasm_Milking
-Milking Orgasms
+ออร์กาสึมจากการรีดนม
 
 sex_stats/record_orgasm_Pee
-Peeing Orgasms
+ออร์กาสึมจากการปัสสาวะ
 
 sex_stats/record_orgasm_Poo
-Pooping Orgasms
+ออร์กาสึมจากการถ่ายอุจจาระ
 
 sex_stats/record_orgasm_Birth
-Child Birth Orgasms
+ออร์กาสึมจากการคลอด
 
 sex_stats/record_orgasm_Anal
-Anal Orgasms
+ออร์กาสึมทวารหนัก
 
 sex_stats/record_orgasm_Semen
-Cumshot Orgasms
+ออร์กาสึมจากการยิงน้ำอสุจิ
 
 sex_stats/record_orgasm_Breast
-Nipple Orgasms
+ออร์กาสึมจากหัวนม
 
 sex_stats/record_orgasm_Shame
-Abusive Orgasms
+ออร์กาสึมจากการถูกทำร้าย
 
 sex_stats/record_enemaed
-Enemas Recieved
+ได้รับการสวนทวาร
 
 sex_stats/record_analbeads
-Analbeads Used
+ใช้ลูกปัดทวาร
 
 sex_stats/record_pussy_wash
-Pee In Vagina
+ปัสสาวะในช่องคลอด
 
 sex_stats/record_anal_wash
-Pee In Asshole
+ปัสสาวะในทวารหนัก
 
 sex_stats/record_golden_shower
-Piss Showers
+อาบน้ำปัสสาวะ
 
 sex_stats/record_piss_drink
-Drank Piss
+ดื่มปัสสาวะ
 
 sex_stats/record_married
-Married
+แต่งงาน
 
 sex_stats/record_groin_harassment
-Pussy Grabbed
+ถูกลวนลามช่องคลอด
 
 sex_stats/record_butt_harassment
-Butt Harassments
+ถูกลวนลามก้น
 
 sex_stats/record_boob_harassment
-Breasts Groped
+ถูกลวนลามหน้าอก
 
 sex_stats/record_cunnilingus_given_count
-Vaginas Licked
+ลิ้มลองช่องคลอด
 
 sex_stats/record_handjob_count
-Hand Jobs
+ช่วยตัวเองด้วยมือ
 
 sex_stats/record_fellatio_count
-Balls Licked
+ลิ้มลองลูกอัณฑะ
 
 sex_stats/record_anal_count
-Anal Sex
+เซ็กส์ทวาร
 
 sex_stats/record_vaginal_count
-Vaginal Sex
+เซ็กส์ช่องคลอด
 
 sex_stats/record_mouth_count
-Blowjobs
+เซ็กส์ปาก
 
 sex_stats/record_cumin_vaginal
-Creampies
+ยิงในช่องคลอด
 
 sex_stats/record_cumin_anal
-Cum In Asshole
+ยิงในทวารหนัก
 
 sex_stats/record_cumin_mouth
-Cum In Mouth
+ยิงในปาก
 
 sex_stats/record_footjob_count
-Footjobs
+เซ็กส์เท้า
 
 sex_stats/record_masturbation_count
-Masturbated
+ช่วยตัวเอง
 
 sex_stats/record_FloorClearnPee
-Piss Cleaned
+ทำความสะอาดปัสสาวะ
 
 sex_stats/record_FloorClearnScat
-Poop Cleaned
+ทำความสะอาดอุจจาระ
 
 sex_stats/record_FloorClearnCums
-Cum Cleaned
+ทำความสะอาดน้ำอสุจิ
 
 sex_stats/record_miscarriage
-Miscarriages
+แท้ง
 
 sex_stats/record_baby_birth
-Baby Births
+คลอดทารก
 
 sex_stats/record_birth_Abomination
-Births - Abomination
+คลอดสิ่งประหลาด
 
 sex_stats/record_birth_Goblin
-Births - Goblin
+คลอดก็อบลิน
 
 sex_stats/record_birth_Human
-Births - Human 
+คลอดมนุษย์
 
 sex_stats/record_birth_Moot
-Births - Moot
+คลอดลูกครึ่ง
 
 sex_stats/record_birth_Orkind
-Births - Orc
+คลอดออร์ค
 
 sex_stats/record_birth_Deepone
-Births - Human 
+คลอดมนุษย์
 
 sex_stats/record_birth_Fishkind
-Births - Fishkind 
+คลอดปลา
 
 sex_stats/record_birth_PotWorm
-Births - Pot Worm
+คลอดหนอนกระถาง
 
 sex_stats/record_birth_MoonWorm
-Births - Moon Worm
+คลอดหนอนพระจันทร์
 
 sex_stats/record_birth_PolypWorm
-Births - Polypworm
+คลอดหนอนโพลิป
 
 sex_stats/record_birth_HookWorm
-Births - Hookworm
+คลอดหนอนตะขาบ
 
 sex_stats/record_birth_BabyLost
-Babies Abandoned
+ทารกที่ถูกทิ้ง
 
 sex_stats/record_CoconaVag
-Prostituted Cocona
+ขายตัวโคโคน่า
 
 sex_stats/record_CoconaOgrasm
-Cocona's Orgasms
+ออร์กาสึมของโคโคน่า
 
 sex_stats/record_CoconaPeeWith
-Peed with Cocona
+ปัสสาวะกับโคโคน่า
 
 sex_stats/record_MeatToilet_saved
-Slaves rescued
+ช่วยทาสกาม
 
 sex_stats/sensitivity_vag
-Vaginal Sensitivity
+ความไวช่องคลอด
 
 sex_stats/sensitivity_anal
-Anal Sensitivity
+ความไวทวารหนัก
 
 sex_stats/sensitivity_mouth
-Mouth Sensitivity
+ความไวปาก
 
 sex_stats/sensitivity_breast
-Breast Sensitivity
+ความไวหน้าอก
 
 ##################################	equip	#############################
 ##################################	equip	#############################
@@ -644,40 +646,40 @@ Breast Sensitivity
 ##################################	equip	#############################
 
 equip/atk
-ATK
+โจมตี
 
 equip/def
-DEF
+ป้องกัน
 
 equip/com
-COM
+สื่อสาร
 
 equip/scu
-SCU
+ความสกปรก
 
 equip/wis
-WIS
+ปัญญา
 
 equip/con
-CON
+ความอดทน
 
 equip/sur
-SUR
+การอยู่รอด
 
 equip/sexy
-SEXY
+เซ็กซี่
 
 equip/weak
-WEAK
+อ่อนแอ
 
 equip/mori
-MORA
+ความศีลธรรม
 
 equip/mood
-MOOD
+อารมณ์
 
 equip/spd
-SPD
+ความเร็ว
 
 ##################################	item	#############################
 ##################################	item	#############################
@@ -685,37 +687,36 @@ SPD
 ##################################	item	#############################
 
 items/foods
-Food
+อาหาร
 
 items/medicine
-Medicine
+ยา
 
 items/equips
-Equip
+อุปกรณ์
 
 items/other
-Other
+อื่นๆ
 
 items/confirm_accept
-Accept
+ยอมรับ
 
 items/confirm_cancel
-Cancel
+ยกเลิก
 
 items/confirm_drop
-Drop
-
+ทิ้ง
 
 ##################################	SKILLS	#############################
 
 skills/hint_Setup
-Setup
+ตั้งค่า
 
 skills/hint_Clear
-Clear
+ล้าง
 
 skills/Key
-Skill Keys
+คีย์ทักษะ
 
 ##################################	TRAITS	#############################
 ##################################	TRAITS	#############################
@@ -723,10 +724,10 @@ Skill Keys
 ##################################	TRAITS	#############################
 
 traits/point_left
-Points Left
+แต้มที่เหลือ
 
 traits/accept
-Accept
+ยอมรับ
 
 ##################################	LETTER	#############################
 ##################################	LETTER	#############################
@@ -734,34 +735,34 @@ Accept
 ##################################	LETTER	#############################
 
 letter/all
-All Letters
+จดหมายทั้งหมด
 
 letter/unread
-Unread Letters
+จดหมายที่ยังไม่อ่าน
 
 letter/read
-Read Letters
+จดหมายที่อ่านแล้ว
 
 letter/deleted
-Deleted
+ถูกลบ
 
 letter/to_delete
- Button To Delete
+ปุ่มลบ
 
 letter/sp_to_delete
-SP Button To Delete
+ปุ่ม SP ลบ
 
 letter/l1_to_delete
-L1 Button To Delete
+ปุ่ม L1 ลบ
 
 letter/accept_recover
-Accept Recover
+ยอมรับการกู้คืน
 
 letter/accept_deltete
-Accept Delete
+ยอมรับการลบ
 
 letter/cancel
-Cancel
+ยกเลิก
 
 ##################################	SYSTEM	#############################
 ##################################	SYSTEM	#############################
@@ -769,134 +770,134 @@ Cancel
 ##################################	SYSTEM	#############################
 
 system/save_game
-Save Game
+บันทึกเกม
 
 system/load_game
-Load Game
+โหลดเกม
 
 system/return_to_title
-Return to Menu
+กลับสู่เมนู
 
 system/hardcore
-Difficulty
+ความยาก
 
 system/scat_fetish
-Scat Fetish
+ความหลงใหลในอุจจาระ
 
 system/urine_fetish
-Urine Fetish
+ความหลงใหลในปัสสาวะ
 
 system/full_screen
-Fullscreen Fetish
+เต็มจอ
 
 system/MapBgMode
-Background Color
+สีพื้นหลัง
 
 system/GamePadUImode
-Controller UI Layout
+เลย์เอาต์ UI คอนโทรลเลอร์
 
 system/screen_size
-Screen Size
+ขนาดหน้าจอ
 
 system/screen_scale
-Screen Scale
+การปรับขนาดหน้าจอ
 
 system/SNDvol
-Sound Volume
+เสียงเอฟเฟกต์
 
 system/BGMvol
-Music Volume
+เสียงดนตรี
 
 system/HotkeyRosterLength
-Hotkey Rosters
+จำนวนปุ่มลัด
 
 system/KEYbind
-Key Bindings
+การผูกคีย์
 
 system/Mouse
-Mouse Input
+อินพุตเมาส์
 
 system/language
-Language
+ภาษา
 
 system/language_change
-Please Restart The Game.
+กรุณาเริ่มเกมใหม่
 
 system/language_press_z
-Confirm
+ยืนยัน
 
 system/autosave
-AUTOSAVE
+บันทึกอัตโนมัติ
 
 system/DiffHard
-HARD
+ยาก
 
 system/DiffHell
-HELL
+นรก
 
 system/DiffDoom
-DOOM
+หายนะ
 
 system/HellCoreMode0
-HELL MODE
+โหมดนรก
 
 system/HellCoreMode1
-"Raw" Foods may disappear from your inventory when Lona sleeps/faints.
+อาหาร "ดิบ" อาจหายไปจากช่องเก็บของเมื่อโลน่านอนหลับ/หมดสติ
 
 system/HellCoreMode2
-You will be unable to leave the map when engaged in combat/targeted.
+คุณจะไม่สามารถออกจากแผนที่ได้เมื่ออยู่ในการต่อสู้/ถูกเล็ง
 
 system/HellCoreMode3
-All addictions and the need to empty human waste will be enabled.
+การติดยาและความต้องการขับถ่ายจะถูกเปิดใช้งานทั้งหมด
 
 system/HellCoreMode4
-And resting does NOT restore HP.
+และการพักผ่อนจะไม่ฟื้นฟูพลังชีวิต
 
 system/DoomCoreMode0
-DOOM MODE
+โหมดหายนะ
 
 system/DoomCoreMode1
-Contains all of HELL MODE's gameplay settings.
+มีการตั้งค่าเกมเพลย์ทั้งหมดของโหมดนรก
 
 system/DoomCoreMode2_OLD
-The game will automatically save after Return to Menu.
+เกมจะบันทึกอัตโนมัติหลังจากกลับสู่เมนู
 
 system/DoomCoreMode2
-The game will automatically save after Lona wakes up.
+เกมจะบันทึกอัตโนมัติหลังจากโลน่าตื่น
 
 system/DoomCoreMode3
-Manual saving is disabled. The save will be destroyed once loaded.
+การบันทึกด้วยตนเองถูกปิดใช้งาน การบันทึกจะถูกทำลายเมื่อโหลด
 
 system/DoomCoreMode4
-Your save will be lost upon your death...
+การบันทึกของคุณจะสูญหายเมื่อคุณตาย...
 
 system/DoomCoreMode5
-"Relax" is removed from the "Rest" Skill.
+"ผ่อนคลาย" ถูกลบออกจากทักษะ "พักผ่อน"
 
 system/DoomCoreMode_Load0
-DOOM MODE
+โหมดหายนะ
 
 system/DoomCoreMode_Load1
-WARNING
+คำเตือน
 
 system/reset
-Reset
+รีเซ็ต
 
 system/remember_sex_rec
-Mothers memories
+ความทรงจำของแม่
 
 system/remember_bank
-Mothers heritage
+มรดกของแม่
 
 system/remember_exp
-Mothers strength
+ความแข็งแกร่งของแม่
 
 mod/ModDismatch1
-MOD DISMATCH!!
+MOD ไม่ตรง!!
 
 mod/ModDismatch2
-May cause unknown crashes or errors.
+อาจทำให้เกิดการค้างหรือข้อผิดพลาดที่ไม่ทราบสาเหตุ
 
 nil/nil
 
-#Translated and reviewed by Sugoi Soy Boy. Fuck off MTLing monkeys.
+#แปลและตรวจทานโดย Sugoi Soy Boy. ไอ้ลิง MTL ไปกันให้พ้นๆ

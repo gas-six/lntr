@@ -1,20 +1,22 @@
+XXXXXXXX
+
 
 CatacombMsg1/Sender
 Catacomb
 
 CatacombMsg1/Title
-Hate?
+เกลียด?
 
 CatacombMsg1/Text
-\}The plague is a lie! We are not sick!
-Poverty is not a sickness!
+\}โรคระบาดเป็นเรื่องโกหก! เราไม่ได้ป่วย!
+ความยากจนไม่ใช่โรค!
 \n
-You can't lock us in here because of poverty!
-You can't keep us down here because of objections!
-I curse you! I curse the saints! I curse this world!
+แกไม่สามารถขังเราไว้ที่นี่เพราะความยากจนได้!
+แกไม่สามารถกดเราไว้ที่นี่เพราะการคัดค้านได้!
+กูสาปแก! กูสาปนักบุญ! กูสาปโลกนี้!
 \n
-No matter who you are! When you read this letter,
-the world will be destroyed!
+ไม่ว่าแกจะเป็นใคร! เมื่อแกอ่านจดหมายนี้
+โลกจะถูกทำลาย!
 
 ################################################################
 
@@ -22,14 +24,14 @@ CatacombMsg2/Sender
 Catacomb
 
 CatacombMsg2/Title
-Sinner?
+คนบาป?
 
 CatacombMsg2/Text
-\}At first, we ate the mice and those who had recently died
-Then we ate those who too weak to resist.
+\}แรกๆ เรากินหนูและคนที่เพิ่งตาย
+แล้วเรากินคนที่อ่อนแอเกินกว่าจะต้านทาน
 \n
-In the end, we began to eat each other.
-Saints, forgive us for our sins.
+สุดท้าย เราเริ่มกินกันเอง
+นักบุญ โปรดให้อภัยเราสำหรับบาปของเรา
 
 ################################################################
 
@@ -37,24 +39,24 @@ CatacombMsg3/Sender
 Catacomb
 
 CatacombMsg3/Title
-Desperate?
+สิ้นหวัง?
 
 CatacombMsg3/Text
-\}I know we will all die in here.
-The question is how long until we do?
+\}กูรู้ว่าเราทุกคนจะตายที่นี่
+คำถามคือเราจะตายเมื่อไหร่?
 \n
-I've never believed in saints before.
-But if we can remain religious, at least the saints
-will let us a rest after death.
+กูไม่เคยเชื่อในนักบุญมาก่อน
+แต่ถ้าเรายังคงมีศาสนา อย่างน้อยนักบุญ
+จะให้เราพักผ่อนหลังตาย
 \n
-I tried to do what I could, but, unexpectedly, people
-became extremely religious.
+กูพยายามทำสิ่งที่กูทำได้ แต่อย่างไม่คาดคิด คน
+กลายเป็นผู้ศรัทธาอย่างมาก
 \n
-They believed in everything I said, no matter
-what.\n
+พวกเขาเชื่อในทุกสิ่งที่กูพูด ไม่ว่า
+อะไร\n
 \n
-They will do whatever I want, it's as if I'm a Saint.
-Maybe I'll get to live.
+พวกเขาจะทำตามที่กูต้องการ ราวกับว่ากูเป็นนักบุญ
+บางทีกูอาจจะได้มีชีวิตรอด
 
 ################################################################
 
@@ -62,23 +64,22 @@ CatacombMsg4/Sender
 Catacomb
 
 CatacombMsg4/Title
-Liar?
+คนโกหก?
 
 CatacombMsg4/Text
-\}Got to get out, just dig upwards.
-The beggar who claimed to be a man of faith
-believed that the grace of the saints could be
-obtained only by staying here.
+\}ต้องหนีออกไป ขุดขึ้นไปเถอะ
+คนขอทานที่อ้างว่าเป็นคนมีศรัทธา
+เชื่อว่าพรของนักบุญจะได้รับเฉพาะการอยู่ที่นี่
 \n
-All lies! they even sneaked attacks on my people!
-They ate her!
-They don't deserve to be called people at all.
-\n
+ทั้งหมดเป็นเรื่องโกหก! พวกเขายังแอบโจมตีคนของกู!
+พวกเขากินเธอ!
+พวกเขาไม่สมควรเรียกว่าคนเลย
 \n
 \n
-We must wage war! but there aren't many of us left.
-Come on! You will despair! I want to eat you all.
-We'll see who can live to the end.
+\n
+เราต้องทำสงคราม! แต่เหลือเราไม่มากแล้ว
+มาเถอะ! แกจะสิ้นหวัง! กูอยากกินแกทั้งหมด
+เราจะได้เห็นว่าใครจะมีชีวิตรอดถึงที่สุด
 
 ################################################################
 
@@ -86,18 +87,18 @@ CatacombMsg5/Sender
 Catacomb
 
 CatacombMsg5/Title
-innocent?
+คนบริสุทธิ์?
 
 CatacombMsg5/Text
-\}Father says the outside world is evil.
-Mother said that innocent people should not be born.
-Liars are liars, and I no longer believe them.
+\}พ่อบอกว่าโลกภายนอกชั่วร้าย
+แม่บอกว่าคนบริสุทธิ์ไม่ควรเกิด
+คนโกหกก็คือคนโกหก และกูไม่เชื่อพวกเขาอีกแล้ว
 \n
-My parents are liars and I must eat him.
-See how cute my child is.
+พ่อแม่ของกูเป็นคนโกหกและกูต้องกินเขา
+ดูสิว่าลูกของกูน่ารักแค่ไหน
 \n
-I Want to eat my baby, I have to eat him.
-The saints will stand by my side.
+กูอยากกินลูกของกู กูต้องกินเขา
+นักบุญจะยืนเคียงข้างกู
 
 ################################################################
 
@@ -105,25 +106,25 @@ CatacombMsg6/Sender
 Catacomb
 
 CatacombMsg6/Title
-Last words
+คำพูดสุดท้าย
 
 CatacombMsg6/Text
-\}Do the innocent from the outside, understand what
-I write?
+\}คนบริสุทธิ์จากภายนอก เข้าใจสิ่งที่
+กูเขียนไหม?
 \n
-I'm here to take good care of my daughter,
-her name is Cocona.
+กูอยู่ที่นี่เพื่อดูแลลูกสาวของกู
+ชื่อเธอคือโคโคนะ
 \n
-She is a kind and intelligent child.
-She dared not eat her parents and was a kind and
-innocent person.
-She's the only innocent person who can make good
-friends.
+เธอเป็นเด็กที่ใจดีและฉลาด
+เธอไม่กล้ากินพ่อแม่ของเธอและเป็นคนใจดีและ
+บริสุทธิ์
+เธอเป็นคนบริสุทธิ์เพียงคนเดียวที่สามารถทำเพื่อนดีๆ
+ได้
 \n
-But she was too late with a good friend,
-and I couldn't make it.
+แต่เธอมาช้าเกินไปกับเพื่อนที่ดี
+และกูไม่สามารถทำได้
 \n
-She will be the last innocent here.
-She can go out, I believe so.
+เธอจะเป็นคนบริสุทธิ์คนสุดท้ายที่นี่
+เธอสามารถออกไปได้ กูเชื่ออย่างนั้น
 \n
-Innocents from the outside, please, take her in.
+คนบริสุทธิ์จากภายนอก โปรด รับเธอไปดูแล

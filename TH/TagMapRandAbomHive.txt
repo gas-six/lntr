@@ -1,35 +1,36 @@
+XXXXXXXX
+
 #Translated by Joko Komodo and reviewed by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 AbomHive/OvermapEnter
-\m[confused]An unknown lair. The outside is covered with the flesh of Abominations... \optB[Leave,Enter]
+\m[confused]รังที่ไม่รู้จัก ด้านนอกปกคลุมด้วยเนื้อของสัตว์ประหลาด... \optB[ออก,เข้า]
 
 ########################################################
 
 Lona/RapeLoopNonCapture
-\m[p5sta_damage]The reeking mounds of flesh dragged Lona deep into their lair...
-\m[p5health_damage]Lona will soon become a new seedbed for the disgusting Flesh Demons...
+\m[p5sta_damage]กองเนื้อที่เหม็นคลุ้มคลั่งลากโลน่าเข้าไปลึกในรังของมัน...
+\m[p5health_damage]โลน่าจะกลายเป็นแปลงปลูกใหม่ของปีศาจเนื้อที่น่าขยะแขยงเร็วๆ นี้...
 
 Lona/RapeLoopCaptured
-\m[p5sta_damage]Various fleshy masses continued to pour semen into Lona's body.
-\m[p5health_damage]They don't care how the seedbed felt, all that mattered was injecting their seeds inside Lona.
-
+\m[p5sta_damage]มวลเนื้อต่างๆ ยังคงปล่อยน้ำอสุจิเข้าไปในร่างของโลน่า
+\m[p5health_damage]พวกมันไม่สนใจว่าแปลงปลูกจะรู้สึกยังไง สิ่งที่สำคัญคือการฉีดเมล็ดพันธุ์เข้าไปในโลน่า
 
 Lona/CaptureWakeUp
-\m[p5pee]\Rshake\c[6]Lona：\c[0]    Unnngh...
-\m[p5shame]\Rshake\c[4]It seems like they're beginning to calm down now?
+\m[p5pee]\Rshake\c[6]โลน่า：\c[0]    อ่าาา...
+\m[p5shame]\Rshake\c[4]ดูเหมือนพวกมันจะเริ่มสงบลงแล้ว?
 
 Lona/CaptureGiveUp
-\m[p5shame]\Rshake\c[4]Impossible... I-I can't do anything...
+\m[p5shame]\Rshake\c[4]เป็นไปไม่ได้... ฉัน... ฉันทำอะไรไม่ได้เลย...
 \narr\..\..\..
 
 Lona/BondageStruggle
-\m[p5defence]\Rshake\C[6]Lona：\C[0]    ......
+\m[p5defence]\Rshake\C[6]โลน่า：\C[0]    ......
 
 Lona/CaptureStruggle
-\m[p5pee]\c[4]What should I do...? \optD[Do nothing<t=10>,Struggle (-10 STA)<r=HiddenOPT0>,Struggle (-30 STA)<r=HiddenOPT1>,Struggle (-50 STA)<r=HiddenOPT2>,Accept your fate...<r=HiddenOPT3>]
+\m[p5pee]\c[4]ฉันควรทำยังไงดี...? \optD[ไม่ทำอะไรเลย<t=10>,ต่อสู้ (-10 STA)<r=HiddenOPT0>,ต่อสู้ (-30 STA)<r=HiddenOPT1>,ต่อสู้ (-50 STA)<r=HiddenOPT2>,ยอมรับชะตากรรม...<r=HiddenOPT3>]
 
 Lona/StruggleWin
-\m[shocked]\Rshake\c[6]Lona：\c[0]    That worked?!
-\m[flirty]\c[6]Lona：\c[0]    I have to hurry and find a way out of here...
+\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ได้ผลเหรอ?!
+\m[flirty]\c[6]โลน่า：\c[0]    ฉันต้องรีบหาทางออกจากที่นี่...
 
 #Translated by Joko Komodo and reviewed by Sugoi Soy Boy. Fuck off MTLing monkeys.

@@ -1,92 +1,94 @@
+XXXXXXXX
+
 ThisMap/OmEnter
-\m[confused]Incubation pool\optB[never mind,Enter]
+\m[confused]อ่างเพาะเชื้อ\optB[ไม่เป็นไร,เข้าไป]
 
 ###################################################################################    main
 
 Qprog3/begin1
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    Corpses?
+\CBct[1]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ศพ?
 
 Qprog3/begin2
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Yes. Are these the \c[4]South Gate Camp\c[0] soldiers?
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    So here it is?
-\CBct[20]\m[confused]\PRF\c[6]Lona：\c[0]    One died here, what about the other two?
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    ใช่ นี่ทหารจาก \c[4]ค่ายประตูใต้\c[0] หรือเปล่า?
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ที่นี่เหรอ?
+\CBct[20]\m[confused]\PRF\c[6]โลน่า：\c[0]    คนหนึ่งตายที่นี่ อีกสองคนเป็นยังไง?
 
 Qprog3/begin3
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    ?!!!
-\CBmp[AbomZombie,8]\prf\c[4]unknown：\c[0]    ......
+\CBct[1]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ?!!!
+\CBmp[AbomZombie,8]\prf\c[4]ไม่ทราบ：\c[0]    ......
 
 Qprog3/begin4
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Well... Who are you?
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    อืม... แกเป็นใคร?
 
 Qprog3/begin5
-\CBct[20]\m[terror]\Rshake\c[6]Lona：\c[0]    Who's there?!
+\CBct[20]\m[terror]\Rshake\c[6]โลน่า：\c[0]    ใครอยู่นั่น?!
 
 Qprog3/begin6
-\CBmp[victim,6]\Rshake\c[4]Soldier：\c[0]    No! Don't come closer!
+\CBmp[victim,6]\Rshake\c[4]ทหาร：\c[0]    ไม่! อย่าเข้ามาใกล้!
 
 Qprog3/begin7
-\CBmp[victim,20]\Rshake\c[4]Soldier：\c[0]    Leave me alone! I don't want to be like that!
+\CBmp[victim,20]\Rshake\c[4]ทหาร：\c[0]    ปล่อยผมไว้! ผมไม่อยากเป็นแบบนั้น!
 
 Qprog3/begin8
-\CBmp[victim,20]\Rshake\c[4]Soldier：\c[0]    \{*sob* ah ah\}
-\CBmp[victim,20]\Rshake\c[4]Soldier：\c[0]    My feet! Melted! Noooo!!!
+\CBmp[victim,20]\Rshake\c[4]ทหาร：\c[0]    \{*สะอึก* อ๊ะ อ๊ะ\}
+\CBmp[victim,20]\Rshake\c[4]ทหาร：\c[0]    เท้าผม! ละลาย! ไม่อ๊า!!!
 
 Qprog3/begin9
-\CBmp[victim,20]\Rshake\c[4]Soldier：\c[0]    My arms.... Nooo! I can't....
+\CBmp[victim,20]\Rshake\c[4]ทหาร：\c[0]    แขนผม.... ไม่อ๊า! ผมทำไม่ได้....
 
 Qprog3/begin10
-\CBmp[victim,20]\Rshake\c[4]Soldier：\c[0]    Guhh... H-help me....
+\CBmp[victim,20]\Rshake\c[4]ทหาร：\c[0]    อ่าห์... ช่วยผมด้วย....
 
 Qprog3/begin11
-\CBct[20]\m[fear]\Rshake\c[6]Lona：\c[0]    No way, are these pieces of meat made out of....
-\CBct[20]\m[terror]\Rshake\c[6]Lona：\c[0]    Our flesh?
+\CBct[20]\m[fear]\Rshake\c[6]โลน่า：\c[0]    ไม่นะ ชิ้นเนื้อเหล่านี้ทำมาจาก....
+\CBct[20]\m[terror]\Rshake\c[6]โลน่า：\c[0]    เนื้อของเรา?
 
 Qprog3/begin12
-\CBct[8]\m[serious]\PRF\c[6]Lona：\c[0]    Hey! We must get out of here.
+\CBct[8]\m[serious]\PRF\c[6]โลน่า：\c[0]    ฮั่นแน่! เราต้องออกจากที่นี่.
 
 Qprog3/begin12_1
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Hey... Sir? Hello? Snap out of it!
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ฮั่น... นายท่าน? สวัสดี? รู้สึกตัวสิ!
 
 Qprog3/begin13
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    \{Ah?!\}
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    \{อ๊ะ?!}
 
 Qprog3/begin14
-\CBct[20]\m[terror]\Rshake\c[6]Lona：\c[0]    \{Huh ah ah ah!\}
+\CBct[20]\m[terror]\Rshake\c[6]โลน่า：\c[0]    \{อ๊ะ อ๊ะ อ๊ะ อ๊ะ!}
 
 Qprog3/begin15
-\CBct[20]\m[fear]\Rshake\c[6]Lona：\c[0]    No, they found me!
-\narr Listen, boy.
-\narr I need your help.
-\narrOFF\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    What? Who? Who needs help?
-\narr Stay here until justice comes.
-\narrOFF\CBct[6]\m[terror]\Rshake\c[6]Lona：\c[0]    Stay here? Are you kidding me?
+\CBct[20]\m[fear]\Rshake\c[6]โลน่า：\c[0]    ไม่ พวกมันเจอหนูแล้ว!
+\narr ฟังนะ หนู.
+\narr หนูต้องช่วยฉัน.
+\narrOFF\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    อะไร? ใคร? ใครต้องการความช่วยเหลือ?
+\narr อยู่ตรงนี้จนกว่าความยุติธรรมจะมาถึง.
+\narrOFF\CBct[6]\m[terror]\Rshake\c[6]โลน่า：\c[0]    อยู่ตรงนี้? แกล้อเล่นหรือเปล่า?
 
 Qprog3/begin16
-\CBct[20]\m[terror]\Rshake\c[6]Lona：\c[0]    What?!??!
-\CBct[5]\m[bereft]\Rshake\c[6]Lona：\c[0]    Whoever you are, this is not funny!
-\narr I need your soul to defy these evils.
-\narr You can do it, boy!
-\narrOFF\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    No! Let me out!
-\narr Hang on! Justice and salvation are coming!
+\CBct[20]\m[terror]\Rshake\c[6]โลน่า：\c[0]    อะไร?!??!
+\CBct[5]\m[bereft]\Rshake\c[6]โลน่า：\c[0]    ไม่ว่าแกจะเป็นใคร นี่ไม่ตลกเลย!
+\narr ฉันต้องการวิญญาณของเธอเพื่อต่อต้านความชั่วร้ายเหล่านี้.
+\narr เธอทำได้ หนู!
+\narrOFF\CBct[6]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ไม่! ปล่อยหนูออกไป!
+\narr อดทนไว้! ความยุติธรรมและการไถ่บาปกำลังมา!
 
 Qprog3/begin17
-\CBct[8]\m[shocked]\PRF\c[6]Lona：\c[0]    What the hell?!
-\CBmp[Cam2,19]\m[serious]\PRF\c[6]Lona：\c[0]    Those bones are gone, I better get out of here, it's too dangerous.
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    How do I explain this to the centurion? Will anyone believe me?
+\CBct[8]\m[shocked]\PRF\c[6]โลน่า：\c[0]    นี่มันอะไรกัน?!
+\CBmp[Cam2,19]\m[serious]\PRF\c[6]โลน่า：\c[0]    กระดูกพวกนั้นหายไปแล้ว หนูต้องออกจากที่นี่ มันอันตรายเกินไป.
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    หนูจะอธิบายยังไงกับเซนทูเรียน? จะมีใครเชื่อหนูไหม?
 
 Qprog3/begin18
 \board[search west]
-Goal： Return to South Gate Camp
-Reward： none
-Client： South Gate Camp
-Quest Term： Single fullfillment
-Everyone is dead, go back to the south gate camp and report to the centurion.
+เป้าหมาย： กลับไปที่ค่ายประตูใต้
+รางวัล： ไม่มี
+ผู้ว่าจ้าง： ค่ายประตูใต้
+เงื่อนไขภารกิจ： ทำครั้งเดียว
+ทุกคนตายหมดแล้ว กลับไปที่ค่ายประตูใต้และรายงานกับเซนทูเรียน.
 
 VC/Qmsg0
-Kill... Kill...
+ฆ่า... ฆ่า...
 
 VC/Qmsg1
-Victory... Most ancient rice card...
+ชัยชนะ... บัตรข้าวโบราณที่สุด...
 
 VC/Qmsg2
-Puppet army... Destroy...
+กองทัพหุ่น... ทำลาย...

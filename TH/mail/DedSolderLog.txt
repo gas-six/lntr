@@ -1,143 +1,135 @@
+XXXXXXXX
+
 #MAIL特殊開頭/使用的Flag/信件編號，避免多封同標題信件混淆，數字，不用補0
 #################################################################################
 
 DedSolderLog1/Sender
-Soldier's Note
+จดหมายทหาร
 
 DedSolderLog1/Title
 1772.1.01
 
 DedSolderLog1/Text
 \}\C[4]1772.1.01\C[0]
-It's the Deepones! They've attacked us again!
-They keep coming from the East,
-all day and night.
+เป็นพวกดีปวัน! พวกมันโจมตีเราอีกแล้ว!
+พวกมันมาจากทางตะวันออกตลอดเวลา
+ทั้งกลางวันและกลางคืน
 \n
 \C[4]1772.1.05\C[0]
-First came the fall of Sybaris.
-Followed by refugees, then the Orkind invasion,
-now Deepones?!
-I haven't been home for a month since the disasters
-began...
+เริ่มต้นด้วยการล่มสลายของไซบาริส
+ตามมาด้วยผู้ลี้ภัย แล้วก็การรุกรานของออร์คินด์
+ตอนนี้เป็นดีปวันเหรอ?!
+ผมไม่ได้กลับบ้านมาเดือนนึงแล้วตั้งแต่เกิดภัยพิบัติ...
 \n
 \C[4]1772.1.09\C[0]
-A little girl named Elise asked me about the Deepones.
-Her parents were killed when they were fleeing.
-Such a tragedy... I felt so sorry for her.
-I don't know much about the Deepones either.
+เด็กผู้หญิงชื่อเอลิสถามผมเกี่ยวกับดีปวัน
+พ่อแม่ของเธอถูกฆ่าตอนที่พวกเขากำลังหนี
+เป็นเรื่องน่าเศร้ามาก... ผมรู้สึกเสียใจให้เธอมาก
+ผมก็ไม่รู้อะไรมากเกี่ยวกับดีปวันเหมือนกัน
 \n
 \C[4]1772.1.13\C[0]
-I'm surrounded... I'm sorry.
-I'm not going to make it.
-To my family, I love you.
+ผมถูกล้อม... ขอโทษ
+ผมคงไม่รอด
+ถึงครอบครัวของผม ผมรักพวกคุณ
 
 ################################################
 
 DedSolderLog2/Sender
-Soldier's journal
+บันทึกทหาร
 
 DedSolderLog2/Title
-Damn Monsters
+สัตว์ประหลาดชั่ว
 
 DedSolderLog2/Text
-\}How strange, I see at least one green
-skinned bastard trying to cross here everyday.
-But recently it's been quiet. Too quiet?
+\}แปลกจัง ผมเห็นอย่างน้อยหนึ่งตัวที่มีผิวสีเขียว
+พยายามข้ามมาที่นี่ทุกวัน
+แต่ช่วงนี้เงียบเหงา มันเงียบเกินไปหรือเปล่า?
 \n
-Whatever, the less I have to
-deal with them the better.
-Tomorrow my shift will end. I'll finally go back
-home and see my boy.
+ไม่ว่ายังไง ยิ่งผมไม่ต้องเจอพวกมันมากเท่าไหร่ยิ่งดี
+พรุ่งนี้กะของผมจะหมด ผมจะได้กลับบ้านและเจอลูกชาย
 \n
-Every time I go home, my son is bigger
-He's growing up so fast.
+ทุกครั้งที่ผมกลับบ้าน ลูกชายผมก็โตขึ้น
+เขาโตเร็วมาก
 \n
-Someday he'll be taller than his own father!
+วันหนึ่งเขาจะสูงกว่าพ่อของเขาเอง!
 
 ################################################
 
 DedSolderLog3/Sender
-Soldier's Note
+จดหมายทหาร
 
 DedSolderLog3/Title
-Overlook Keep
+ป้อมปราการเหนือเขา
 
 DedSolderLog3/Text
 \}\C[4]1772.1.13\C[0]
-I've just been deployed to the South Gate's
-Campsite, this is where I'll finally get to fight
-for honor.
+ผมเพิ่งถูกส่งไปประจำการที่ค่ายทหารประตูใต้
+นี่คือที่ที่ผมจะได้ต่อสู้เพื่อเกียรติ
 \n
-I'll actually be doing something like protecting
-the innocent,
-as well as earning more money and finally getting
-a promotion. I can't wait to be a hero!
+ผมจะได้ทำอะไรที่เป็นการปกป้องผู้บริสุทธิ์
+รวมถึงได้เงินมากขึ้นและได้เลื่อนตำแหน่ง ผมแทบรอไม่ไหวที่จะเป็นวีรบุรุษ!
 \n
 \C[4]1772.2.2\C[0]
-SO MANY FUCKING BUGS... EVERYWHERE!!!
+แมลงสัส! ทั่วไปหมด!!!
 \n
-A few of them even managed to crawl inside
-my dick while I was asleep!
+มีบางตัวยังคลานเข้าไปในควยผมตอนที่ผมหลับอยู่!
 \n
 \C[4]1772.2.8\C[0]
-My stomach's been getting fatter.
-And I'm constantly hungry...
-I can feel the fuckers inside me crawling
-in my intestines...
+ท้องผมอ้วนขึ้นเรื่อยๆ
+และผมหิวตลอดเวลา...
+ผมรู้สึกได้ถึงพวกมันคลานอยู่ในลำไส้ผม...
 \n
 \C[4]1772.2.10\C[0]
-The priests of the Saint told us we need to
-use young girls in order to purify and cure
-our bodies.
+พวกนักบวชของนักบุญบอกเราว่าเราต้องใช้เด็กผู้หญิงเพื่อชำระและรักษาร่างกายของเรา
 \n
 \C[4]1772.2.16\C[0]
-Ss~~o hu~~ngr---y___
+หิว~~มาก---___
 \n
 \n
 \C[4]1772.3.1\C[0]
-I_tc__hy. Ta_s~ty____
+คัน. อร่อย____
 
 ################################################
 
 DedSolderLog4/Sender
-Soldier's Note
+จดหมายทหาร
 
 DedSolderLog4/Title
-Spawn pit 1
+หลุมผสมพันธุ์ 1
 
 DedSolderLog4/Text
-\}I can feel them moving inside my body...
-Every time I fall asleep, they call to me.
-They keep telling me to become a part of
-their "meat wall".
+\}ผมรู้สึกได้ถึงพวกมันเคลื่อนไหวอยู่ในร่างกายผม...
+ทุกครั้งที่ผมหลับ พวกมันเรียกผม
+พวกมันบอกให้ผมเป็นส่วนหนึ่งของ
+"กำแพงเนื้อ" ของพวกมัน
 \n
 \n
-I'm not gonna let that happen to me.
+ผมจะไม่ยอมให้มันเกิดขึ้นกับผม
 
 ################################################
 
 DedSolderLog5/Sender
-Soldier's Note
+จดหมายทหาร
 
 DedSolderLog5/Title
-Spawn pit 2
+หลุมผสมพันธุ์ 2
 
 DedSolderLog5/Text
-\}We've been left behind.
-The others must think
-we're already dead, huh?
+\}เราถูกทิ้งไว้
+คนอื่นๆ คงคิดว่า
+เราตายไปแล้ว ใช่ไหม?
 \n
 \n
-Is my commander really forcing me to go
-find help out there?
-Fine, staying here is a death sentence anyway.
+ผู้บัญชาการของผมจะบังคับให้ผมไป
+หาความช่วยเหลือข้างนอกจริงๆ เหรอ?
+ได้สิ อยู่ที่นี่ก็ตายแน่นอนอยู่แล้ว
 \n
 \n
-We're surrounded!
-We have no food and there's nothing
-but monsters everywhere.
-Mama, I'm sorry. Your son won't be
-coming back home.
+เราถูกล้อม!
+เราไม่มีอาหารและมีแต่สัตว์ประหลาดทั่วไป
+แม่ ขอโทษ ลูกชายของแม่จะไม่ได้กลับบ้าน
 \n
 \n
-So i__-t_c~hy___
+คันมาก___
+
+        

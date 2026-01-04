@@ -1,26 +1,28 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-Twin Peaks Temple\optB[Leave,Enter]
+Twin Peaks Temple\optB[ออก,เข้า]
 
 #################################################################
 
 
 Pepe/Qmsg0
-So dark, so cold, so hungry.
+มืดมาก หนาวมาก หิวมาก
 
 Pepe/Qmsg1
-everyone died...
+ทุกคนตายหมดแล้ว...
 
 Pepe/Qmsg2
-where is this
+ที่นี่คือไหน
 
 Pepe/Qmsg3
-help me...
+ช่วยด้วย...
 
 Pepe/Qmsg4
-freedom cannot come...
+เสรีภาพมันไม่มีวันมา...
 
 Pepe/Qmsg5
-everything is a scam...
+ทุกอย่างมันหลอกลวง...
 
 Pepe/Qmsg6
-no one to help us...
+ไม่มีใครมาช่วยเราเลย...

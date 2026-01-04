@@ -1,106 +1,108 @@
+XXXXXXXX
+
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 ################################ TITLE Unused #################################################
 
 main_stats/title
-Title
+ชื่อเรียก
 
 main_stats/title_pussies
-Bitch
+อีกระหรี่
 
 main_stats/title_strumpet
-Slut
+อีดอก
 
 main_stats/title_public_slut
-Whore
+อีหี
 
 main_stats/title_meathole
-Meat Hole
+รูเนื้อ
 
 main_stats/title_meat_toilet
-Meat Toilet
+ทาสกาม
 
 main_stats/title_seedbed
-Seedbed
+แปลงเพาะพันธุ์
 
 main_stats/title_warrior
-Warrior
+นักรบ
 
 main_stats/title_mage
-Mage
+จอมเวท
 
 main_stats/title_hunter
-Hunter
+นักล่า
 
 main_stats/title_rogue
-Rogue
+โจร
 
 main_stats/title_scout
-Scout
+ลาดตระเวน
 
 main_stats/title_adventurer
-Adventurer
+นักผจญภัย
 
 ############################################## works ###############################################
 
 basic/mercenaryFailed
-Incompetent Mercenary
+ทหารรับจ้างไร้ความสามารถ
 
 basic/mercenary
-Mercenary
+ทหารรับจ้าง
 
 basic/common_people
-Commoner
+ชาวบ้าน
 
 WhoreJob/title_hooker
-Hooker
+โสเภณี
 
 WhoreJob/BoboWife
-Bobo's Piggy Wife
+ภรรยาหมูของโบโบ
 
 Rapeloop/PrisonerMeatToilet
-Fuck-Toy
+ของเล่นเย็ด
 
 Rapeloop/HoboMeatToilet
-Public Toilet
+ห้องน้ำสาธารณะ
 
 Rapeloop/MineingCaveMeatToilet
-Stress Reliever
+ตัวระบายความเครียด
 
 Rapeloop/NoerMobHouse
-Sex Slave
+ทาสเซ็กส์
 
 Rapeloop/DoomFort
-P.O.W.
+เชลยศึก
 
 Rapeloop/OrkindCaveRapeLoop
-Breeding Sow
+แม่พันธุ์ผสมพันธุ์
 
 Rapeloop/FishkindCaveRapeLoop
-Brood Mother
+แม่พันธุ์
 
 Rapeloop/AbomHiveRapeLoop
-Abomination Seedbed
+แปลงเพาะพันธุ์ปีศาจ
 
 Rapeloop/FishTownR
-Mating Hole
+รูผสมพันธุ์
 
 Rapeloop/DoomFarmA
-Bam-Bam's New Toy
+ของเล่นใหม่ของแบมแบม
 
 Arena/Winner
-Gladiator
+นักสู้ในสังเวียน
 
 Arena/SlaveWinner
-Slave Fighter
+นักสู้ทาส
 
 Arena/Loser
-Punching Bag
+กระสอบทราย
 
 WhoreJob/SaintBeliever
-Saint Believer
+ผู้เชื่อในนักบุญ
 
 main_stats/title_secondhand
-Used Goods
+ของมือสอง
 
 #Fully translated and cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

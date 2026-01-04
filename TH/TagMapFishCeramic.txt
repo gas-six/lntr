@@ -1,72 +1,74 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-\m[confused]Crusty Crab Pottery Shop\optB[Leave,Enter]
+\m[confused]ร้านเซรามิกปูน้ำเค็ม\optB[ออก,เข้า]
 
 ################################################################### Qmsg
 
 guard/Qmsg0
-I don't want...To go inside...
+ฉันไม่อยาก...เข้าไปข้างใน...
 
 guard/Qmsg1
-I really dont want... To go in there...
+ฉันจริงๆ ไม่อยาก...เข้าไปตรงนั้น...
 
 guard/Qmsg2
-I don't want to...Get raped by Evilscales...
+ฉันไม่อยาก...ถูกข่มขืนโดย Evilscales...
 
 guardWin/Qmsg0
-I really want to fuck something...
+ฉันอยากจะยัดควยใครสักคนจริงๆ...
 
 guardWin/Qmsg1
-You're a woman...? Let's fuck...!
+แกเป็นผู้หญิง...? มาเย็ดกันเถอะ...!
 
 guardWin/Qmsg2
-Outsider...Go away...
+คนนอก...ไปซะ...!
 
 Detective/Qmsg0
-So this...Is why...Hmm...?
+เพราะฉะนั้น...นี่แหละ...อืม...?
 
 Detective/Qmsg1
-Why...Did they come here...?
+ทำไม...พวกเขาถึงมาที่นี่...?
 
 Detective/Qmsg2
-What...Brought them here...?
+อะไร...ทำให้พวกเขามาที่นี่...?
 
 ################################################################### QUEST
 
 Qu0/KillAll
-\CBct[1]\m[shocked]\Rshake\c[6]Lona：\c[0]    Huh\..\..\..?! I won?!
+\CBct[1]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    อ่าห์\..\..\..?! ฉันชนะแล้วเหรอ?!
 
 Detective/Slave
-\SndLib[FishkindSmSpot]\CBid[-1,5]\prf\c[4]Detective：\c[0]    Slave....Go away...!
+\SndLib[FishkindSmSpot]\CBid[-1,5]\prf\c[4]นักสืบ：\c[0]    ทาส....ไปซะ...!
 
 Detective/NotKilled0_0
-\SndLib[FishkindSmSpot]\CBid[-1,8]\m[confused]\prf\c[4]Detective：\c[0]    Rain... I hate the rain... But we need it....
+\SndLib[FishkindSmSpot]\CBid[-1,8]\m[confused]\prf\c[4]นักสืบ：\c[0]    ฝน...ฉันเกลียดฝน... แต่เราต้องการมัน....
 
 Detective/NotKilled0_1
-\SndLib[FishkindSmSpot]\CBid[-1,8]\m[confused]\prf\c[4]Detective：\c[0]    The rain will cover...The stench...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\m[confused]\prf\c[4]นักสืบ：\c[0]    ฝนจะช่วย...ปกปิดกลิ่นเหม็น...
 
 Detective/NotKilled1
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Um...?\optB[Never mind,What Happened]
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    อืม...?\optB[ไม่เป็นไร,เกิดอะไรขึ้น]
 
 Detective/NotKilled1_about
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Excuse me...What happened here?
-\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]Detective：\c[0]    The fake Sea Witch's servants...Attacked...Here...
-\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]Detective：\c[0]    People are dead... Two people... Have died...
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Oh?
-\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]Detective：\c[0]    We...When we were investigating....The Evilscales... Attacked us as well...
-\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]Detective：\c[0]    There are also... Many traces of the Evilscales...
-\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]Detective：\c[0]    We are....At a standstill...
-\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]Detective：\c[0]    All this... Is suspicious...
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Okay, thank you.
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ขอโทษ...เกิดอะไรขึ้นที่นี่?
+\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]นักสืบ：\c[0]    ลูกน้องของแม่มดทะเลปลอม...โจมตี...ที่นี่...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]นักสืบ：\c[0]    คนตาย...สองคน...ตายไปแล้ว...
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    อ้อ?
+\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]นักสืบ：\c[0]    เรา...ขณะที่เรากำลังสืบสวน....Evilscales...ก็โจมตีเราด้วย...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]นักสืบ：\c[0]    ยังมี...ร่องรอยของ Evilscales...มากมาย...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]นักสืบ：\c[0]    เรา...ติดขัด...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]นักสืบ：\c[0]    ทั้งหมดนี้...น่าสงสัย...
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    โอเค ขอบคุณนะ
 
 Detective/killed0
-\SndLib[FishkindSmSpot]\CBid[-1,8]\m[confused]\prf\c[4]Detective：\c[0]    Outsider...You...Killed them...?
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Um...? I think so，they all look dead to me.
-\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]Detective：\c[0]    Very good...
+\SndLib[FishkindSmSpot]\CBid[-1,8]\m[confused]\prf\c[4]นักสืบ：\c[0]    คนนอก...แก...ฆ่าพวกมัน...?
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม...? ฉันคิดว่าอย่างนั้น，พวกมันดูตายหมดแล้ว
+\SndLib[FishkindSmSpot]\CBid[-1,8]\prf\c[4]นักสืบ：\c[0]    ดีมาก...
 
 Detective/killed1
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    .....
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    .....
 
 Formula/found
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    The Secret Formula? Could this be it?
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    สูตรลับ? นี่มันอาจจะเป็นสิ่งนั้น?
 
 #DOGE + SYNCED

@@ -1,254 +1,256 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-\m[confused]Doom Fort Refugee camp\optB[Leave,Enter]
+\m[confused]ค่ายผู้ลี้ภัย Doom Fort\optB[ออก,เข้า]
 
 ##########################################################################################  DF HERESY QUEST LINE
 
 Df_Heresy/0_0
-\CBmp[WhoreQGiver,6]\c[4]Prostitute：\c[0]    Please! Help us!
-\CBmp[John,5]\c[4]Guard：\c[0]    Not my problem! What the fuck is wrong with you?!
-\CBmp[WhoreQGiver,8]\c[4]Prostitute：\c[0]    But you promised! You said you'd help us....
-\CBmp[John,20]\c[4]Guard：\c[0]    You little moot whore, how dare you ask something from me!
-\CBmp[John,5]\c[4]Guard：\c[0]    The only thing your tongue is good for is cleaning cock!
+\CBmp[WhoreQGiver,6]\c[4]โสเภณี：\c[0]    ช่วยเราหน่อย!
+\CBmp[John,5]\c[4]ยาม：\c[0]    ไม่ใช่ปัญหาของกู! มึงเป็นอะไรกันวะ?!
+\CBmp[WhoreQGiver,8]\c[4]โสเภณี：\c[0]    แต่มึงสัญญาไว้นะ! มึงบอกว่าจะช่วยเรา....
+\CBmp[John,20]\c[4]ยาม：\c[0]    อีโสเภณีน้อยนี่ กล้าขออะไรจากกูได้ยังไง!
+\CBmp[John,5]\c[4]ยาม：\c[0]    ลิ้นมึงมีประโยชน์แค่ล้างควย!
 
 Df_Heresy/0_1
-\CBmp[whore1,20]\c[4]ProstituteB：\c[0]    What should we do now...?
-\CBmp[WhoreQGiver,8]\c[4]Prostitute：\c[0]    Uh\..\..\.. I don't know, ask somebody else.
-\CBmp[WhoreQGiver,8]\c[4]Prostitute：\c[0]    Maybe someone can help us...
+\CBmp[whore1,20]\c[4]โสเภณีB：\c[0]    เราจะทำยังไงต่อ...?
+\CBmp[WhoreQGiver,8]\c[4]โสเภณี：\c[0]    อืม\..\..\.. หนูไม่รู้ ไปถามคนอื่นดีกว่า
+\CBmp[WhoreQGiver,8]\c[4]โสเภณี：\c[0]    อาจจะมีใครช่วยเราได้...
 
 Df_Heresy/0_2
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]    Go Forth! You fools...
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    hmm....?
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]    ไปเถอะ! พวกโง่...
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    อืม....?
 
 Whore/Qmsg0
-We're running out of food.
+อาหารของเราใกล้หมดแล้ว
 
 Whore/Qmsg1
-Sisters we must stand together.
+พี่น้องเราต้องรวมใจกัน
 
 Whore/Qmsg2
-If we unite they'll stop abusing us.
+ถ้าเรารวมใจเขาจะหยุดทำร้ายเรา
 
 WhoreQgiver/Qmsg0
-Have you found her yet?
+มึงเจอเธอหรือยัง?
 
 WhoreQgiver/Qmsg1
-Please save her!
+ช่วยเธอหน่อย!
 
 Df_Heresy/1_0_normal
-\CBid[-1,20]\c[4]Prostitute：\c[0]    You....Are you a mercenary?
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    Uh....I think so?
-\CBid[-1,6]\prf\c[4]Prostitute：\c[0]    Please, please help us...
+\CBid[-1,20]\c[4]โสเภณี：\c[0]    มึง....มึงเป็นทหารรับจ้างหรือเปล่า?
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    อืม....หนูคิดว่าใช่?
+\CBid[-1,6]\prf\c[4]โสเภณี：\c[0]    ช่วยเราหน่อยนะ...
 
 Df_Heresy/1_0_weak
-\CBid[-1,20]\c[4]Prostitute：\c[0]    Are you a whore like us?
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    Uhm....?
+\CBid[-1,20]\c[4]โสเภณี：\c[0]    มึงเป็นโสเภณีเหมือนเราหรือเปล่า?
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    อืม....?
 
 Df_Heresy/1_1
-\CBct[2]\m[flirty]\c[6]Lona：\c[0]    What's wrong?
-\CBid[-1,20]\prf\c[4]Prostitute：\c[0]    My name is \c[6]Momo\c[0], my sister\c[6]Ranran\c[0] was kidnapped by the cultists, I need your help.
-\CBct[20]\m[confused]\c[6]Lona：\c[0]    The cultists?
-\CBid[-1,20]\prf\c[4]Momo：\c[0]    Yes, the cultists, liars!
-\CBid[-1,20]\prf\c[4]Momo：\c[0]    And she's pregnant too, they must be planning to sacrifice her to their dark Gods!
+\CBct[2]\m[flirty]\c[6]โลน่า：\c[0]    เกิดอะไรขึ้น?
+\CBid[-1,20]\prf\c[4]โสเภณี：\c[0]    ชื่อหนู \c[6]โมโมะ\c[0], น้องสาวหนู \c[6]รันรัน\c[0] ถูกลัทธิลักพาตัวไป หนูต้องการความช่วยเหลือจากมึง
+\CBct[20]\m[confused]\c[6]โลน่า：\c[0]    ลัทธิ?
+\CBid[-1,20]\prf\c[4]โมโมะ：\c[0]    ใช่ ลัทธิ พวกมันโกหก!
+\CBid[-1,20]\prf\c[4]โมโมะ：\c[0]    แล้วเธอก็ท้องด้วย พวกมันคงจะวางแผนจะเอาเธอไปบูชาเทพมืด!
 
 Df_Heresy/1_1_Cocona
-\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Liars?! We must get rid of them!
+\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]โคโคน่า：\c[0]    พวกมันโกหก?! เราต้องกำจัดพวกมัน!
 
 Df_Heresy/1_BRD
-\board[A mother in need]
-Goal： Find\c[6]Ranran\c[0] and bring her back to \c[6]Momo\c[0]
-Reward： None
-Client： Camp Prostitutes
-Quest Term： Single
+\board[แม่ที่ต้องการความช่วยเหลือ]
+เป้าหมาย： หา\c[6]รันรัน\c[0] และพามาให้ \c[6]โมโมะ\c[0]
+รางวัล： ไม่มี
+ผู้ว่าจ้าง： โสเภณีในค่าย
+เงื่อนไขภารกิจ： เดี่ยว
 
 Df_Heresy/1_OPT
-\CBct[8]\m[confused]\c[6]Lona：\c[0]    Hmm......\optB[Nope,Sure]
+\CBct[8]\m[confused]\c[6]โลน่า：\c[0]    อืม......\optB[ไม่,ได้]
 
 Df_Heresy/1_agreeEND
-\CBct[2]\m[shocked]\Rshake\plh\c[6]Lona：\c[0]    Pregnant?! They kidnapped a pregnant woman?
-\CBid[-1,2]\prf\c[4]Momo：\c[0]    Kidnapped\..\..\..?
-\CBid[-1,9]\prf\c[4]Momo：\c[0]    Yes! They kidnapped\c[6]Ranran\c[0]! Those evil liars kidnapped my sister!
-\CBct[20]\m[serious]\Rshake\c[6]Lona：\c[0]    Can you tell me more about what happened?
-\CBid[-1,6]\prf\c[4]Momo：\c[0]    They took \c[6]Ranran\c[0] in the middle of the night.
-\CBid[-1,20]\prf\c[4]Momo：\c[0]    Those cultists worship the \c[6]Mother of Fertility\c[0]， They must be using my sister as some sort of evil sacrifice!
-\CBct[20]\m[confused]\c[6]Lona：\c[0]    Did you ask the guards or priests for help?
-\CBid[-1,20]\prf\c[4]Momo：\c[0]    We did, but they wont do anything. They don't care what happens to us.
-\CBct[20]\m[confused]\c[6]Lona：\c[0]    Do you know where they went to?
-\CBid[-1,6]\prf\c[4]Momo：\c[0]    I'm not sure, somewhere to the east?
-\CBct[20]\m[serious]\Rshake\c[6]Lona：\c[0]    Okay! I'll do it! I'll bring your sister back!
+\CBct[2]\m[shocked]\Rshake\plh\c[6]โลน่า：\c[0]    ท้อง?! พวกมันลักพาผู้หญิงท้องไป?
+\CBid[-1,2]\prf\c[4]โมโมะ：\c[0]    ลักพาตัว\..\..\..?
+\CBid[-1,9]\prf\c[4]โมโมะ：\c[0]    ใช่! พวกมันลักพา\c[6]รันรัน\c[0]! พวกมันโกหกชั่วร้ายลักพาน้องสาวหนูไป!
+\CBct[20]\m[serious]\Rshake\c[6]โลน่า：\c[0]    มึงเล่าให้ฟังเพิ่มเติมได้ไหมว่าเกิดอะไรขึ้น?
+\CBid[-1,6]\prf\c[4]โมโมะ：\c[0]    พวกมันพามา\c[6]รันรัน\c[0] ไปตอนกลางคืน
+\CBid[-1,20]\prf\c[4]โมโมะ：\c[0]    พวกลัทธินี้นมัสการ \c[6]แม่แห่งความอุดมสมบูรณ์\c[0]， พวกมันคงจะใช้น้องสาวหนูเป็นเครื่องบูชาชั่วร้าย!
+\CBct[20]\m[confused]\c[6]โลน่า：\c[0]    มึงไปขอความช่วยเหลือจากยามหรือพระไหม?
+\CBid[-1,20]\prf\c[4]โมโมะ：\c[0]    ไปแล้ว แต่พวกมันไม่ทำอะไรเลย พวกมันไม่สนใจว่าจะเกิดอะไรกับเรา
+\CBct[20]\m[confused]\c[6]โลน่า：\c[0]    มึงรู้ไหมว่าพวกมันไปทางไหน?
+\CBid[-1,6]\prf\c[4]โมโมะ：\c[0]    ไม่แน่ใจ ทางตะวันออกมั้ง?
+\CBct[20]\m[serious]\Rshake\c[6]โลน่า：\c[0]    โอเค! หนูจะทำ! หนูจะพาน้องสาวมึงกลับมา!
 
 Df_Heresy/1_agreeEND_Cocona
-\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Sis....
-\CBct[20]\m[flirty]\plf\Rshake\c[6]Lona：\c[0]    What is it?
-\CBfB[20]\SETlpl[cocona_angry]\Lshake\prf\c[4]Cocona：\c[0]    Liars are dangerous! Be careful!
-\CBct[3]\m[triumph]\plf\Rshake\c[6]Lona：\c[0]    Don't worry, Sis will be fine!
-\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    Cocona will protect you sis!
+\CBfB[20]\SETlpl[cocona_sad]\Lshake\prf\c[4]โคโคน่า：\c[0]    พี่สาว....
+\CBct[20]\m[flirty]\plf\Rshake\c[6]โลน่า：\c[0]    อะไรนะ?
+\CBfB[20]\SETlpl[cocona_angry]\Lshake\prf\c[4]โคโคน่า：\c[0]    พวกโกหกอันตรายมาก! ระวังด้วย!
+\CBct[3]\m[triumph]\plf\Rshake\c[6]โลน่า：\c[0]    อย่ากังวล พี่สาวจะปลอดภัย!
+\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]โคโคน่า：\c[0]    โคโคน่าจะปกป้องพี่สาว!
 
 Df_Heresy/1_agreeEND_brd
-\board[A mother in need]
-Goald： Find\c[6]Ranran\c[0] and bring her back to\c[6]Momo\c[0]
-Client： \c[6]Momo\c[0] from the refugee camp
-Investigate the area.
+\board[แม่ที่ต้องการความช่วยเหลือ]
+เป้าหมาย： หา\c[6]รันรัน\c[0] และพามาให้\c[6]โมโมะ\c[0]
+ผู้ว่าจ้าง： \c[6]โมโมะ\c[0] จากค่ายผู้ลี้ภัย
+สืบสวนพื้นที่
 
 Df_Heresy/1_nopeEND
-\CBct[2]\m[flirty]\plh\c[6]Lona：\c[0]    Sorry, I just don't have the time.
+\CBct[2]\m[flirty]\plh\c[6]โลน่า：\c[0]    ขอโทษ หนูไม่มีเวลา
 
 Df_Heresy/4to5_0
-\CBfE[20]\c[4]Ranran：\c[0]    Sister...
-\CBid[-1,1]\c[4]Momo：\c[0]    \c[6]Ranran\c[0] Are you okay?
-\CBfE[6]\c[4]Ranran：\c[0]    I'm sorry.
-\CBid[-1,8]\c[4]Momo：\c[0]    Oh stop that, come here.
+\CBfE[20]\c[4]รันรัน：\c[0]    พี่สาว...
+\CBid[-1,1]\c[4]โมโมะ：\c[0]    \c[6]รันรัน\c[0] มึงเป็นอะไรไหม?
+\CBfE[6]\c[4]รันรัน：\c[0]    ขอโทษ
+\CBid[-1,8]\c[4]โมโมะ：\c[0]    อย่าพูดแบบนั้น มาเถอะ
 
 Df_Heresy/4to5_1
-\CBid[-1,20]\c[4]Momo：\c[0]    Thank you for doing this, but I don't have much to offer you.
-\CBid[-1,20]\c[4]Momo：\c[0]    Take this.
+\CBid[-1,20]\c[4]โมโมะ：\c[0]    ขอบคุณที่ทำแบบนี้ แต่หนูไม่มีอะไรมากจะให้มึง
+\CBid[-1,20]\c[4]โมโมะ：\c[0]    รับนี่ไป
 
 Df_Heresy/4to5_2
-\CBct[2]\m[triumph]\PRF\c[6]Lona：\c[0]    Thank you!
+\CBct[2]\m[triumph]\PRF\c[6]โลน่า：\c[0]    ขอบคุณ!
 
 ################################################################################### rg 2
 
 Df_Heresy/2to3_1
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]    THEY SAID THE SAINT WOULD COME AND RESCUE US FROM THIS CHAOS! WHERE IS HE NOW!? HAS HE DONE ANYTHING?
-\CBmp[Heresy1,20]\c[4]RefugeeA：\c[0]    He's done nothing! He's a coward! The saint is a coward!
-\CBmp[Heresy1,20]\c[4]RefugeeA：\c[0]    He watched as we suffered through all manners of evil! He is a powerless false God!
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]    THE DAY OF JUDGEMENT. I HAVE WITNESSED IT. BUT ON THAT DAY IT WAS NOT THE SAINT THAT I SAW!
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]    IT WAS THE MOTHER OF ALL THINGS!THE \c[6]MOTHER OF FERTILITY\c[0] WHO CAME FOR US!
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]    \c[6]MOTHER OF FERTILITY\c[0] I FOLLOW YOUR GUIDANCE.
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]    TAKE A LOOK AT ME, AND THEN TAKE A GOOD LOOK AT YOURSELVES!
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]    COME AND JOIN THE \c[6]MOTHER OF FERTILITY\c[0] AND SHE WILL PROVIDE YOU WITH BREAD TO QUENCH YOUR HUNGER!
-\CBmp[Heresy2,2]\c[4]RefugeeB：\c[0]    \c[6]Mother of Fertility\c[0]? Who's that?
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]    THE \c[6]MOTHER OF FERTILITY\c[0] FREES US FROM OUR FEARS! SPREADS HOPE IN THESE TIMES OF DARKNESS!
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]    FELLOW COUNTRYMEN! FOLLOW ME AND SEE!
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]   WITNESS WITH YOUR OWN EYES THE GREATNESS OF THE \c[6]MOTHER OF FERTILITY\c[0]!
-\CBmp[Heresy3,2]\c[4]RefugeeC：\c[0]    \c[6]Mother of Fertility\c[0]! I'm impressed!
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]    พวกมันบอกว่านักบุญจะมาช่วยเราจากความวุ่นวายนี้! ตอนนี้มันอยู่ไหน!? มันทำอะไรได้บ้าง?
+\CBmp[Heresy1,20]\c[4]ผู้ลี้ภัยA：\c[0]    มันไม่ได้ทำอะไรเลย! มันเป็นคนขี้ขลาด! นักบุญเป็นคนขี้ขลาด!
+\CBmp[Heresy1,20]\c[4]ผู้ลี้ภัยA：\c[0]    มันดูเราทนทุกข์ทรมานจากความชั่วร้ายทุกรูปแบบ! มันเป็นเทพเท็จที่ไร้อำนาจ!
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]    วันพิพากษา หนูได้เห็นมัน แต่ในวันนั้นหนูไม่ได้เห็นนักบุญ!
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]    มันคือแม่แห่งทุกสิ่ง! \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] ที่มาหาเรา!
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]    \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] หนูขอตามคำแนะนำของท่าน
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]    มองหนู แล้วมองตัวเองดีๆ!
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]    มาเข้าร่วมกับ \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] แล้วท่านจะให้ขนมปังแก่มึงเพื่อดับความหิว!
+\CBmp[Heresy2,2]\c[4]ผู้ลี้ภัยB：\c[0]    \c[6]แม่แห่งความอุดมสมบูรณ์\c[0]? ใครเหรอ?
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]    \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] ปลดปล่อยเราจากความกลัว! สร้างความหวังในยามมืดมน!
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]    พี่น้อง! ตามหนูมา!
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]   มาดูด้วยตาตัวเองถึงความยิ่งใหญ่ของ \c[6]แม่แห่งความอุดมสมบูรณ์\c[0]!
+\CBmp[Heresy3,2]\c[4]ผู้ลี้ภัยC：\c[0]    \c[6]แม่แห่งความอุดมสมบูรณ์\c[0]! หนูประทับใจ!
 
 Df_Heresy/2to3_2
-\CBmp[Heresy2,6]\c[4]RefugeeB：\c[0]    Hey you?! Who's the mother of fertility? How come I've never seen her?
+\CBmp[Heresy2,6]\c[4]ผู้ลี้ภัยB：\c[0]    มึงนี่?! แม่แห่งความอุดมสมบูรณ์คือใคร? ทำไมหนูไม่เคยเห็น?
 
 Df_Heresy/2to3_3
-\CBmp[Heresy1,20]\c[4]RefugeeA：\c[0]    She is real, I witnessed it with my own eyes. She exists!
-\CBmp[Heresy1,20]\c[4]RefugeeA：\c[0]    Come, follow me, I'll tell you all about why the \c[6]Mother of fertility\c[0]is so great.
-\CBmp[Heresy2,6]\c[4]RefugeeB：\c[0]    What? Don't lie! You wouldn't lie to me, right?
+\CBmp[Heresy1,20]\c[4]ผู้ลี้ภัยA：\c[0]    ท่านมีจริง หนูเห็นด้วยตาตัวเอง ท่านมีอยู่จริง!
+\CBmp[Heresy1,20]\c[4]ผู้ลี้ภัยA：\c[0]    มาตามหนูมา หนูจะเล่าให้ฟังทั้งหมดว่าทำไม \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] ถึงยิ่งใหญ่
+\CBmp[Heresy2,6]\c[4]ผู้ลี้ภัยB：\c[0]    อะไรนะ? อย่าโกหก! มึงไม่โกหกหนูใช่ไหม?
 
 Df_Heresy/2to3_4
-\CBmp[Heresy1,4]\c[4]RefugeeA：\c[0]    How could I? Want to discuss the \c[6]Mother of Fertility\c[0] with me\c[6]privately\c[0]?
+\CBmp[Heresy1,4]\c[4]ผู้ลี้ภัยA：\c[0]    หนูจะโกหกได้ยังไง? อยากคุยเรื่อง \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] กับหนู \c[6]เป็นการส่วนตัว\c[0] ไหม?
 
 Df_Heresy/2to3_5
-\CBmp[Heresy2,4]\c[4]RefugeeB：\c[0]    Ohhhh♥
-\CBmp[Heresy3,4]\c[4]RefugeeC：\c[0]    Man! So lucky!
-\CBmp[Heresy3,20]\c[4]RefugeeC：\c[0]    That's it! I'm converting too! The saints aren't real!
+\CBmp[Heresy2,4]\c[4]ผู้ลี้ภัยB：\c[0]    โอ๊ะ♥
+\CBmp[Heresy3,4]\c[4]ผู้ลี้ภัยC：\c[0]    ว้าว! โชคดีจัง!
+\CBmp[Heresy3,20]\c[4]ผู้ลี้ภัยC：\c[0]    นี่แหละ! หนูจะเปลี่ยนศาสนาด้วย! นักบุญไม่มีจริง!
 
 Df_Heresy/2to3_6
-\CBmp[Heresy3,20]\c[4]RefugeeC：\c[0]    I've done it, I've converted!
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]    Keep it up!
-\CBmp[HeresyPriest,20]\c[4]Preacher：\c[0]    If you work hard \c[6]Pighead\c[0] will speak to the \c[6]Mother of Fertility\c[0] on your behalf.
+\CBmp[Heresy3,20]\c[4]ผู้ลี้ภัยC：\c[0]    หนูทำแล้ว หนูเปลี่ยนศาสนาแล้ว!
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]    ทำต่อไป!
+\CBmp[HeresyPriest,20]\c[4]นักเทศน์：\c[0]    ถ้ามึงทำงานหนัก \c[6]หัวหมู\c[0] จะพูดกับ \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] แทนมึง
 
 ########################################################################################## Priest 3 to 4
 
 Df_Heresy/3to4_1
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uh....Sir....
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    My lost lamb, what is it you need?
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Uhm...\optB[Nothing,Mother of Fertility?<r=HiddenOPT0>,Bribe,Join<r=HiddenOPT1>,Attack<r=HiddenOPT2>]
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม....คุณ....
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    แกะหลงทางของหนู มึงต้องการอะไร?
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    อืม...\optB[ไม่มีอะไร,แม่แห่งความอุดมสมบูรณ์?<r=HiddenOPT0>,ติดสินบน,เข้าร่วม<r=HiddenOPT1>,โจมตี<r=HiddenOPT2>]
 
 Df_Heresy/3to4Mother
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Just...Who exactly is the \c[4]Mother of Fertility\c[0]?
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    What?!You've never heard of the great\c[6]Mother of Fertility\c[0]?
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    I don't think so.....
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    She was born in the black mist, she came here to guide and save us, the neglected refugees!
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    The Saints have forsaken us! But she will guide us to a better life!
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    Praise her!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Oh?
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    เพียงแค่... \c[4]แม่แห่งความอุดมสมบูรณ์\c[0] คือใครกันแน่?
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    อะไรนะ?! มึงไม่เคยได้ยินเรื่อง \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] ที่ยิ่งใหญ่เลยหรือ?
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    หนูคิดว่าไม่เคย....
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    ท่านเกิดในหมอกดำ ท่านมาที่นี่เพื่อชี้นำและช่วยเหลือเรา ผู้ลี้ภัยที่ถูกทอดทิ้ง!
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    นักบุญทิ้งเราไปแล้ว! แต่ท่านจะนำทางเราไปสู่ชีวิตที่ดีกว่า!
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    สรรเสริญท่าน!
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อ๋อ?
 
 Df_Heresy/3to4_cancel
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Nevermind，it's fine...
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ไม่เป็นไร เดี๋ยวก่อน...
 
 Df_Heresy/3to4_pay0
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    I want to see the \c[4]Mother of Fertility\c[0], Can you show me where she is?
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    You want to join our church?
-\CBct[20]\m[confused]\PRF\c[6]Lona：\c[0]    I'm not interested in that,I just want to see if the \c[4]Mother of Fertility\c[0] is real or not.
-\cg[event_Coins]\SND[SE/Chain_move01.ogg]\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Look, I have money, you need donations right?
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    หนูอยากเห็น \c[4]แม่แห่งความอุดมสมบูรณ์\c[0], มึงจะพาไปได้ไหม?
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    มึงอยากเข้าร่วมกับคริสตจักรของเรา?
+\CBct[20]\m[confused]\PRF\c[6]โลน่า：\c[0]    หนูไม่สนใจเรื่องนั้น หนูแค่อยากรู้ว่า \c[4]แม่แห่งความอุดมสมบูรณ์\c[0] มีจริงหรือเปล่า
+\cg[event_Coins]\SND[SE/Chain_move01.ogg]\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ดูสิ หนูมีเงิน มึงต้องการบริจาคใช่ไหม?
 
 Df_Heresy/3to4_pay1
-\CBmp[HeresyPriest,8]\prf\c[4]Preacher：\c[0]    Well....
-\CBmp[HeresyPriest,8]\prf\c[4]Preacher：\c[0]    Give me \c[6] #{$story_stats["HiddenOPT4"]}p \c[0] worth of goods, and I'll tell you.
+\CBmp[HeresyPriest,8]\prf\c[4]นักเทศน์：\c[0]    อืม....
+\CBmp[HeresyPriest,8]\prf\c[4]นักเทศน์：\c[0]    ให้หนู \c[6] #{$story_stats["HiddenOPT4"]}p \c[0] ค่าสินค้า แล้วหนูจะบอกมึง
 
 Df_Heresy/3to4_pay2
-\CBmp[HeresyPriest,8]\prf\c[4]Preacher：\c[0]    Hey! I get to live another month.
-\CBmp[HeresyPriest,8]\prf\c[4]Preacher：\c[0]    shh...Keep your voice down.
-\CBmp[HeresyPriest,8]\prf\c[4]Preacher：\c[0]    I'm telling you, they're in the east \c[6]Water Cave\c[0].
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Will they just let me go in?
-\CBmp[HeresyPriest,8]\prf\c[4]Preacher：\c[0]    \..\..\..
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    The password is... \c[6]Nicholas\c[0].
-\CBmp[HeresyPriest,8]\prf\c[4]Preacher：\c[0]    Don't tell anyone I said that, I'm just trying to get something to eat.
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Oh...?
+\CBmp[HeresyPriest,8]\prf\c[4]นักเทศน์：\c[0]    เฮ้! หนูได้มีชีวิตต่ออีกเดือน
+\CBmp[HeresyPriest,8]\prf\c[4]นักเทศน์：\c[0]    ชช...เบาๆ หน่อย
+\CBmp[HeresyPriest,8]\prf\c[4]นักเทศน์：\c[0]    หนูบอกมึงนะ พวกมันอยู่ทางตะวันออก \c[6]ถ้ำน้ำ\c[0]
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    พวกมันจะปล่อยให้หนูเข้าไปได้เลยหรือ?
+\CBmp[HeresyPriest,8]\prf\c[4]นักเทศน์：\c[0]    \..\..\..
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    รหัสผ่านคือ... \c[6]นิโคลัส\c[0]
+\CBmp[HeresyPriest,8]\prf\c[4]นักเทศน์：\c[0]    อย่าบอกใครว่าหนูบอก หนูแค่อยากได้อะไรกิน
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อ๋อ...?
 
 Df_Heresy/3to4_join0
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uh....The \c[6]Mother of Fertility\c[0] Sounds powerful and I want to join.
-\CBmp[HeresyPriest,3]\prf\c[4]Preacher：\c[0]    Good! Were you also sent here by the \c[6]Mother of Fertility\c[0]?
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    It's almost time for the ceremoney, we're heading east towards the \c[6]Water Cave\c[0].
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    There you'll forget all your fears!
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    They'll just let me in?
-\CBmp[HeresyPriest,8]\prf\c[4]Preacher：\c[0]    \..\..\..
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    Psst...Keep it down....  the password is... \c[6]Nicholas\c[0]
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    That's the \c[6]Mother of Fertility's\c[0] real name, and it serves as our password.
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม.... \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] ฟังดูทรงพลัง หนูอยากเข้าร่วม
+\CBmp[HeresyPriest,3]\prf\c[4]นักเทศน์：\c[0]    ดี! มึงก็ถูกส่งมาที่นี่โดย \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] เหรอ?
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    เกือบถึงเวลาพิธีแล้ว เราจะไปทางตะวันออกไปที่ \c[6]ถ้ำน้ำ\c[0]
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    ที่นั่นมึงจะลืมความกลัวทั้งหมด!
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    พวกมันจะปล่อยให้หนูเข้าไปได้เลยหรือ?
+\CBmp[HeresyPriest,8]\prf\c[4]นักเทศน์：\c[0]    \..\..\..
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    ชช...เบาๆ หน่อย.... รหัสผ่านคือ... \c[6]นิโคลัส\c[0]
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    นั่นคือชื่อจริงของ \c[6]แม่แห่งความอุดมสมบูรณ์\c[0] และใช้เป็นรหัสผ่านของเรา
 
 Df_Heresy/3to4_atk0
-\CBct[5]\m[serious]\PRF\c[6]Lona：\c[0]    .......
-\CBmp[HeresyPriest,2]\prf\c[4]Preacher：\c[0]    What do you want?
+\CBct[5]\m[serious]\PRF\c[6]โลน่า：\c[0]    .......
+\CBmp[HeresyPriest,2]\prf\c[4]นักเทศน์：\c[0]    มึงต้องการอะไร?
 
 Df_Heresy/3to4_atk1
-\CBmp[HeresyPriest,6]\prf\c[4]Preacher：\c[0]    NO! DON'T KILL ME!
-\CBmp[HeresyPriest,6]\prf\c[4]Preacher：\c[0]    I'M NOT A TRUE CULTISTS! I'M JUST TRYING TO SURVIVE!
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    THEY'RE IN THE EAST \c[6]WATER CAVE\c[0]. 
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    THE PASSWORD IS  \c[6]Nicholas\c[0]! PLEASE DON'T KILL ME!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Wha... but I haven't even asked him anything yet...
+\CBmp[HeresyPriest,6]\prf\c[4]นักเทศน์：\c[0]    ไม่! อย่าฆ่าหนู!
+\CBmp[HeresyPriest,6]\prf\c[4]นักเทศน์：\c[0]    หนูไม่ใช่ลัทธิจริงๆ! หนูแค่พยายามเอาตัวรอด!
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    พวกมันอยู่ทางตะวันออก \c[6]ถ้ำน้ำ\c[0]
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    รหัสผ่านคือ \c[6]นิโคลัส\c[0]! อย่าฆ่าหนู!
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อะไรนะ... แต่หนูยังไม่ได้ถามอะไรเลย...
 
 Df_Heresy/3to4_1_cocona0
-\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]Cocona：\c[0]    He is a liar! He is trying to trick you sis!
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Don't be afraid, sis knows. He can't fool me.
-\CBfB[6]\SETlpl[cocona_sad]\Lshake\prf\c[4]Cocona：\c[0]    Cocona is not afraid, but cocona must protect her sister.
-\CBfB[20]\SETlpl[cocona_angry]\Lshake\prf\c[4]Cocona：\c[0]    Evil liars and desperates must be eaten! Eaten clean!
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Uh\..\..\..What?!\{\m[shocked]\Rshake Eaten?!
+\CBfB[20]\SETlpl[cocona_shocked]\Lshake\prf\c[4]โคโคน่า：\c[0]    มันโกหก! มันพยายามหลอกมึงพี่สาว!
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อย่ากลัว พี่สาวรู้ มันหลอกหนูไม่ได้
+\CBfB[6]\SETlpl[cocona_sad]\Lshake\prf\c[4]โคโคน่า：\c[0]    โคโคน่าไม่กลัว แต่โคโคน่าต้องปกป้องพี่สาว
+\CBfB[20]\SETlpl[cocona_angry]\Lshake\prf\c[4]โคโคน่า：\c[0]    พวกโกหกและพวกสิ้นหวังต้องถูกกิน! กินให้สะอาด!
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม\..\..\..อะไรนะ?!\{\m[shocked]\Rshake กิน?!
 
 Df_Heresy/3to4_failed
-\CBmp[HeresyPriest,20]\prf\c[4]Preacher：\c[0]    Leave! Go away!
+\CBmp[HeresyPriest,20]\prf\c[4]นักเทศน์：\c[0]    ไป! ไปให้พ้น!
 
 Df_Heresy/3to4_1BRD
-\board[A mother in need]
-Goal： Find\c[6]Ranran\c[0]
-Client： Refugee camp's prostitutes
-Go to the east and investigate the water cave
+\board[แม่ที่ต้องการความช่วยเหลือ]
+เป้าหมาย： หา\c[6]รันรัน\c[0]
+ผู้ว่าจ้าง： โสเภณีในค่ายผู้ลี้ภัย
+ไปทางตะวันออกและสืบสวนถ้ำน้ำ
 
 Df_Heresy/3to4_1BRD2
-\board[Disciples of the Mother of Fertility]
-Goal： Kill the cult priest\c[6]Pighead\c[0]
-Client： The suspicious Fortune Teller from Noer
-Investigate the Water Cave to the east.
+\board[สาวกของแม่แห่งความอุดมสมบูรณ์]
+เป้าหมาย： ฆ่านักบวชลัทธิ\c[6]หัวหมู\c[0]
+ผู้ว่าจ้าง： นักทำนายที่น่าสงสัยจาก Noer
+สืบสวนถ้ำน้ำทางตะวันออก
 
 ########################################################################################## Common
 
 HeresyPriest/RnG0
-\CBid[-1,20]\c[4]Preacher：\c[0]    THE MOTHER OF FERTILITY IS WATCHING!
+\CBid[-1,20]\c[4]นักเทศน์：\c[0]    แม่แห่งความอุดมสมบูรณ์กำลังจับตามอง!
 
 HeresyPriest/RnG1
-\CBid[-1,20]\c[4]Preacher：\c[0]    How would you know?
-\CBid[-1,20]\c[4]Preacher：\c[0]    Have you ever been to a temple? 
-\CBid[-1,20]\c[4]Preacher：\c[0]    Have you ever even seen the saints?
-\CBid[-1,20]\c[4]Preacher：\c[0]    No?! Then how can you be so sure about that?
-\CBid[-1,20]\c[4]Preacher：\c[0]    How can you say the Saints are real if you've never seen them?
+\CBid[-1,20]\c[4]นักเทศน์：\c[0]    มึงจะรู้ได้ยังไง?
+\CBid[-1,20]\c[4]นักเทศน์：\c[0]    มึงเคยไปวัดไหม?
+\CBid[-1,20]\c[4]นักเทศน์：\c[0]    มึงเคยเห็นนักบุญไหม?
+\CBid[-1,20]\c[4]นักเทศน์：\c[0]    ไม่?! แล้วมึงจะมั่นใจได้ยังไง?
+\CBid[-1,20]\c[4]นักเทศน์：\c[0]    มึงจะบอกว่านักบุญมีจริงได้ยังไงถ้ามึงไม่เคยเห็น?
 
 HeresyPriest/RnG2
-\CBid[-1,20]\c[4]Preacher：\c[0]    Don't be fooled! The saint's don't exist!
+\CBid[-1,20]\c[4]นักเทศน์：\c[0]    อย่าหลงเชื่อ! นักบุญไม่มีจริง!
 
 ThatKid/RNG0
-\CBid[-1,20]\c[4]kid：\c[0]    So hungry....
+\CBid[-1,20]\c[4]เด็ก：\c[0]    หิวมาก....
 
 ThatKid/RNG1
-\CBid[-1,20]\c[4]kid：\c[0]    My parents are in this cart...
-\CBid[-1,20]\c[4]kid：\c[0]    They said that as long as I follow them, everything will be fine, so I'll follow them.
+\CBid[-1,20]\c[4]เด็ก：\c[0]    พ่อแม่หนูอยู่ในรถเข็นนี้...
+\CBid[-1,20]\c[4]เด็ก：\c[0]    พวกท่านบอกว่าตราบใดที่หนูตามพวกท่านไป ทุกอย่างจะดี ดังนั้นหนูจะตามพวกท่าน
 
 ThatKid/RNG2
-\CBid[-1,20]\c[4]kid：\c[0]    One night my mother was attacked by a large group of people. She kept telling me to run.
-\CBid[-1,20]\c[4]kid：\c[0]    By the time I got back she wasn't moving.
+\CBid[-1,20]\c[4]เด็ก：\c[0]    คืนหนึ่งแม่หนูถูกกลุ่มคนใหญ่โจมตี เธอบอกให้หนูวิ่งหนี
+\CBid[-1,20]\c[4]เด็ก：\c[0]    พอหนูกลับมา เธอไม่ขยับแล้ว
 
 #DOGE + SYNC

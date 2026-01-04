@@ -1,23 +1,24 @@
-thisMap/OvermapEnter
-\m[confused]Mass Grave \optB[Leave,Enter]
+XXXXXXXX
 
-#WIS夠高可以免除戰鬥
-#不然需與他交手30秒
+thisMap/OvermapEnter
+\m[confused]สุสานรวมศพ \optB[ออก,เข้า]
+
+#WISสูงพอสามารถหลีกเลี่ยงการต่อสู้ได้
+#ไม่งั้นต้องต่อสู้กับเขา 30 วินาที
 
 Keeper/QuProgPB_MassGrave1
-\m[confused]\c[6]Lona：\c[0]    Ugh...
-\m[flirty]\c[6]Lona：\c[0]    I'm on a mission from the guild, and I hear there's something evil here to get rid of?
-\SETpl[AnonMale2]\Lshake\prf\c[4]Gravekeeper：\c[0]    Can someone like you handle it? Where are the saints!
-\SETpl[AnonMale2]\Lshake\prf\c[4]Gravekeeper：\c[0]    Nevermind.... Obviously it's the liar who worship false gods.
-\SETpl[AnonMale2]\Lshake\prf\c[4]Gravekeeper：\c[0]    He's sneaking in here \c[4]every night\c[0]!
-\SETpl[AnonMale2]\Lshake\prf\c[4]Gravekeeper：\c[0]    Might be using the dead to perform the rituals of defilement.
+\m[confused]\c[6]โลน่า：\c[0]    อ่าห์...
+\m[flirty]\c[6]โลน่า：\c[0]    หนูมาตามภารกิจของสมาคม ได้ยินว่ามีอะไรชั่วร้ายที่นี่ที่ต้องกำจัด?
+\SETpl[AnonMale2]\Lshake\prf\c[4]ผู้ดูแลสุสาน：\c[0]    คนอย่างเธอจะจัดการได้เหรอ? นักบุญอยู่ไหน!
+\SETpl[AnonMale2]\Lshake\prf\c[4]ผู้ดูแลสุสาน：\c[0]    ไม่ต้องหรอก.... ชัดเจนว่าเป็นคนโกหกที่นับถือเทพเท็จ
+\SETpl[AnonMale2]\Lshake\prf\c[4]ผู้ดูแลสุสาน：\c[0]    เขาแอบเข้ามาที่นี่ \c[4]ทุกคืน\c[0]!
+\SETpl[AnonMale2]\Lshake\prf\c[4]ผู้ดูแลสุสาน：\c[0]    อาจจะใช้ศพทำพิธีกรรมลบหลู่
 
 Keeper/rand0
-\SETpl[AnonMale2]\Lshake\prf\c[4]Gravekeeper：\c[0]    Don't fall asleep, you'll die!
+\SETpl[AnonMale2]\Lshake\prf\c[4]ผู้ดูแลสุสาน：\c[0]    อย่าหลับนะ มึงจะตาย!
 
 Keeper/rand1
-\SETpl[AnonMale2]\Lshake\prf\c[4]Gravekeeper：\c[0]    They love to eat brains!
+\SETpl[AnonMale2]\Lshake\prf\c[4]ผู้ดูแลสุสาน：\c[0]    พวกมันชอบกินสมอง!
 
 Keeper/rand2
-\SETpl[AnonMale2]\Lshake\prf\c[4]Gravekeeper：\c[0]    Do you have faith? Those that have faith have nothing to fear!
-
+\SETpl[AnonMale2]\Lshake\prf\c[4]ผู้ดูแลสุสาน：\c[0]    เธอมีความเชื่อไหม? คนที่มีความเชื่อไม่ต้องกลัวอะไร!

@@ -1,64 +1,66 @@
+XXXXXXXX
+
 #Translated by Rrezzolution, cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.
 
 FishkindCave1/OvermapEnter
-\m[confused] A damp cave. The stench of rotting fish wafts out from the entrance. \optB[Leave,Enter]
+\m[confused] ถ้ำที่ชื้นแฉะ กลิ่นคาวปลาเน่าลอยออกมาจากทางเข้า \optB[ออก,เข้า]
 
 FishkindCave3/OvermapEnter
-\m[confused] Harvest Sanctuary \optB[Leave,Enter]
+\m[confused] ที่ลี้ภัยการเก็บเกี่ยว \optB[ออก,เข้า]
 
 Lona/TimerStart
-\narr The roars of incoming monsters echo around the damp cave.
-\narrOff\m[fear]\c[6]Lona：\c[0]    I have to hurry up...
+\narr เสียงคำรามของปีศาจที่กำลังเข้ามาใกล้ดังก้องไปทั่วถ้ำที่ชื้นแฉะ
+\narrOff\m[fear]\c[6]โลน่า：\c[0]    ฉันต้องรีบ...
 
 #############################################################################
 
 Lona/RapeLoopNonCapture
-\m[fear] The Deepones captured Lona. They also confiscated her equipment and items.
-\m[terror] They were very happy to have found a new brood mother for their nests.
+\m[fear] ดีปวันจับโลน่าได้ พวกมันยังยึดอุปกรณ์และของใช้ของเธอไปด้วย
+\m[terror] พวกมันดีใจมากที่ได้แม่พันธุ์ใหม่สำหรับรังของพวกมัน
 
 Lona/RapeLoopCaptured
-\m[terror] The Deepones haven't had enough fun, they weren't going to allow Lona rest just yet.
-\m[fear] They exposed their disgusting and hardened genitals. For today they'll have to make sure this brood mother is covered with their semen...
+\m[terror] ดีปวันยังไม่สนุกพอ พวกมันจะไม่ยอมให้โลน่าพักผ่อนง่ายๆ
+\m[fear] พวกมันเปิดเผยอวัยวะเพศที่น่าขยะแขยงและแข็งตัวของพวกมัน วันนี้พวกมันจะต้องทำให้แม่พันธุ์คนนี้เต็มไปด้วยน้ำอสุจิของพวกมัน...
 
 #-----------------------------
 
 Lona/RapeLoopDragOut
-\m[hurt] The Deepones dragged Lona out as they were planning to have a celebratory orgy.
+\m[hurt] ดีปวันลากโลน่าออกมาเพราะพวกมันวางแผนจะจัดงานฉลองออร์กี้
 
 Lona/RapeLoopTorture
-\m[fear] The Deepones were angry at Lona’s attempt to escape. They will be teaching Lona a lesson to show what happens to the brood mothers that try to flee...
+\m[fear] ดีปวันโกรธที่โลน่าพยายามหนี พวกมันจะสอนบทเรียนโลน่าให้รู้ว่าจะเกิดอะไรขึ้นกับแม่พันธุ์ที่พยายามหลบหนี...
 
 #-----------------------------
 
 Exit/Triggered
-Is something happening?
+มีอะไรเกิดขึ้นหรือเปล่า?
 
 ########################### QUEST FishkindHunt2
 
 CommonConvoyTarget/CommonConvoyTarget
-\prf\c[4]Female Mercenary：\c[0]    What do we do now?
+\prf\c[4]นักรบหญิง：\c[0]    เราจะทำยังไงต่อ?
 
 CommonConvoyTarget/beginOPT
-\plf\c[4]Female Mercenary：\c[0]    Guuuh... W-Who are... you...? \optB[Just someone passing by...,I've come here to save you!]
+\plf\c[4]นักรบหญิง：\c[0]    อ่าห์... ค-คุณ... เป็นใคร...? \optB[แค่คนผ่านทาง...,ฉันมาช่วยคุณ!]
 
 CommonConvoyTarget/begin0
-\prf\c[4]Female Mercenary：\c[0]    He-Help... me...
-\m[serious]\PRF\c[6]Lona：\c[0]    Are you okay?
-\prf\c[4]Female Mercenary：\c[0]    Unnngh...
+\prf\c[4]นักรบหญิง：\c[0]    ช่วย... ฉัน...
+\m[serious]\PRF\c[6]โลน่า：\c[0]    คุณโอเคไหม?
+\prf\c[4]นักรบหญิง：\c[0]    อ่าาา...
 
 victim/Convoy_start
-\board[Escort to the designated campsite]
-Goal： Escort the Female Mercenary to the Wetlands Camp.
-The target must not die during the escort.
+\board[คุ้มกันไปยังแคมป์ที่กำหนด]
+เป้าหมาย： คุ้มกันนักรบหญิงไปยังแคมป์ในพื้นที่ชุ่มน้ำ
+เป้าหมายต้องไม่ตายระหว่างการคุ้มกัน
 
 CommonConvoyTarget/Hev0
-\SETpr[FishCaveRBQ]A broken woman laid on top of the pile of various sea creatures and corpses, surrounded by the smell of rotting fish.
-It seems the Deepones had no desire to kill her. Rather, they planned to keep her alive and made sure she was fed.
-In order to make intercourse easier with their large genitals, the Deepones use their fist and arms to expand a female's vagina.
-The Deepones cared not about the suffering and pain this caused to the woman.
-To them, only the strongest female, who can tolerate such barbaric practices was seen fit as a brood mother for their offspring.
-Her loose vagina, gaping anus, and bloody pelvis were covered in bruises and lacerations...
-She was a mercenary and an adventurer. Her sturdy and experienced body allowed her to survive all this torture.
-But eventually, she won't be able to endure it any longer......
+\SETpr[FishCaveRBQ]ผู้หญิงที่แตกสลายนอนอยู่บนกองสัตว์ทะเลและศพต่างๆ ล้อมรอบด้วยกลิ่นคาวปลาเน่า
+ดูเหมือนว่าดีปวันไม่ต้องการฆ่าเธอ แต่พวกมันวางแผนจะให้เธอมีชีวิตอยู่และให้อาหารเธอ
+เพื่อให้การร่วมเพศกับอวัยวะเพศขนาดใหญ่ของพวกมันง่ายขึ้น ดีปวันใช้กำปั้นและแขนขยายช่องคลอดของผู้หญิง
+ดีปวันไม่สนใจความทรมานและความเจ็บปวดที่เกิดขึ้นกับผู้หญิงคนนี้
+สำหรับพวกมัน ผู้หญิงที่แข็งแกร่งที่สุดที่สามารถทนต่อการปฏิบัติที่ป่าเถื่อนเช่นนี้เท่านั้นที่เหมาะสมเป็นแม่พันธุ์สำหรับลูกหลานของพวกมัน
+ช่องคลอดที่หลวม รูทวารที่กว้าง และกระดูกเชิงกรานที่เปื้อนเลือดของเธอเต็มไปด้วยรอยฟกช้ำและรอยแผล...
+เธอเป็นนักรบรับจ้างและนักผจญภัย ร่างกายที่แข็งแรงและมีประสบการณ์ของเธอทำให้เธอสามารถอยู่รอดจากการทรมานทั้งหมดนี้ได้
+แต่สุดท้าย เธอก็จะไม่สามารถทนได้อีกต่อไป......
 
 #Translated by Rrezzolution, cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys.

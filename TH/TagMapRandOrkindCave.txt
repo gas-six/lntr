@@ -1,90 +1,90 @@
+XXXXXXXX
+
 OrkindCave1/OvermapEnter
-\m[confused] This cave seems to be a home for monsters. \optB[Leave,Enter]
+\m[confused] ถ้ำนี้ดูเหมือนจะเป็นที่อยู่ของปีศาจ \optB[ออก,เข้า]
 
 OrkindCave2/OvermapEnter
-\m[confused] The North Gate Tower. It seems to have been taken over by monsters. \optB[Leave,Enter]
+\m[confused] หอประตูทิศเหนือ ดูเหมือนจะถูกปีศาจยึดครองไปแล้ว \optB[ออก,เข้า]
 
 OrkindCave3/OvermapEnter
-\m[confused] This cave seems to be a home for monsters. \optB[Leave,Enter]
+\m[confused] ถ้ำนี้ดูเหมือนจะเป็นที่อยู่ของปีศาจ \optB[ออก,เข้า]
 
 OrkindCamp1/OvermapEnter
-\m[confused] A small hut, now occupied by monsters. \optB[Leave,Enter]
+\m[confused] กระท่อมเล็กๆ ตอนนี้ถูกปีศาจยึดครอง \optB[ออก,เข้า]
 
 NFL_OrkCamp1/OvermapEnter
-\m[confused]The 12th Southern Grain Warehouse, now occupied by monsters. \optB[Leave,Enter]
+\m[confused] โกดังเก็บเมล็ดพืชทิศใต้หมายเลข 12 ตอนนี้ถูกปีศาจยึดครอง \optB[ออก,เข้า]
 
 ############################################################################# QUEST NFL Burn DOC
 
 RecQuestNorthFL_Main3/FirstTouch
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Is this it\..\..\..? So\..\..\.. What exactly is this?
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    \..\..\..\CBct[20]\m[flirty]Seems to be some sort of corrupt bill of sale from some nobles?
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    \..\..\..\CBct[20]\m[triumph]\Rshake Has nothing to do with me. ♥
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    นี่มันอะไร\..\..\..? แล้ว\..\..\.. นี่มันอะไรกันแน่?
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    \..\..\..\CBct[20]\m[flirty]ดูเหมือนจะเป็นใบเสร็จที่ถูกทำให้เสียหายจากเหล่าขุนนาง?
+\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    \..\..\..\CBct[20]\m[triumph]\Rshake ไม่เกี่ยวกับหนูเลย ♥
 
 RecQuestNorthFL_Main3/Cecily0
-\CBfB[2]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    Wait a second! Let me see these documents!
+\CBfB[2]\SETpl[CecilyAngryAr]\Lshake\prf\C[4]Cecily：\C[0]    รอแป๊บ! ให้หนูดูเอกสารพวกนี้หน่อย!
 
 RecQuestNorthFL_Main3/Cecily1
-\CBfB[1]\SETpl[CecilyShockedAr]\Lshake\prf\C[4]Cecily：\C[0]    \c[6]EAGLEMORE\c[0]?! Isn't this my house surname?!
-\CBct[2]\m[flirty]\PRF\plf\c[6]Lona：\c[0]    Ummm......?
-\CBfB[6]\SETpl[CecilyFailedAr]\Lshake\prf\C[4]Cecily：\C[0]    This is impossible... H-How could father...
-\CBct[3]\m[confused]\PRF\plf\c[6]Lona：\c[0]    Well\..\..\..\CBct[3]\m[triumph]\Rshake It'll all be destroyed soon anyways, no one will ever know about this in the future.
+\CBfB[1]\SETpl[CecilyShockedAr]\Lshake\prf\C[4]Cecily：\C[0]    \c[6]EAGLEMORE\c[0]?! นี่มันไม่ใช่นามสกุลบ้านของหนูหรอกเหรอ?!
+\CBct[2]\m[flirty]\PRF\plf\c[6]Lona：\c[0]    อืมมม......?
+\CBfB[6]\SETpl[CecilyFailedAr]\Lshake\prf\C[4]Cecily：\C[0]    เป็นไปไม่ได้... พ่อ... ทำไมถึง...
+\CBct[3]\m[confused]\PRF\plf\c[6]Lona：\c[0]    อืม\..\..\..\CBct[3]\m[triumph]\Rshake อีกไม่นานก็จะถูกทำลายหมดแล้ว ไม่มีใครรู้เรื่องนี้ในอนาคตหรอก
 \CBfB[8]\SETpl[CecilyFailedAr]\PLF\prf\C[4]Cecily：\C[0]    ......
 \CBfF[8]\SETpr[GrayRatConfusedAr]\plf\PRF\c[4]Gray Rat：\c[0]    .........
 
 RecQuestNorthFL_Main3/Done
-\CBct[3]\m[pleased]\Rshake\c[6]Lona：\c[0]    Alright! All done now!
-\CBct[20]\m[normal]\PRF\c[6]Lona：\c[0]    I should head back soon and collect my reward.
+\CBct[3]\m[pleased]\Rshake\c[6]Lona：\c[0]    สำเร็จแล้ว!
+\CBct[20]\m[normal]\PRF\c[6]Lona：\c[0]    หนูควรกลับไปรับรางวัลเร็วๆ นี้
 
 ############################################################################# QUEST 2
 
 OrkindCave2/OvermapEnter_enter
-\m[flirty]\c[6]Lona：\c[0]    This is the place.
-\m[shy]\c[6]Lona：\c[0]    ...Am I really ready for this?
-\m[serious]\c[6]Lona：\c[0]    I mustn't fail. If I do, I might end up becoming one of their breeding slaves...
+\m[flirty]\c[6]Lona：\c[0]    นี่แหละที่ที่หนูต้องมา
+\m[shy]\c[6]Lona：\c[0]    ...หนูพร้อมจริงๆ หรือเปล่า?
+\m[serious]\c[6]Lona：\c[0]    หนูต้องไม่ล้มเหลว ถ้าหนูล้มเหลว หนูอาจจะกลายเป็นทาสเพศของพวกมัน...
 
 OrkindCave2/OvermapEnter_done
-\m[triumph]\c[6]Lona：\c[0]    It's finished. All those disgusting, green-skinned monsters are now gone.
-\m[pleased]\c[6]Lona：\c[0]    I need to hurry back and report about the mission.
+\m[triumph]\c[6]Lona：\c[0]    เสร็จแล้ว พวกปีศาจผิวเขียวน่าเกลียดพวกนั้นหายไปหมดแล้ว
+\m[pleased]\c[6]Lona：\c[0]    หนูต้องรีบกลับไปรายงานภารกิจ
 
 #############################################################################
 
 Lona/ExitCave
-\CBct[2]\m[confused]\c[6]Lona：\c[0]    Should I leave now? \optB[Not yet,Leave]
+\CBct[2]\m[confused]\c[6]Lona：\c[0]    หนูควรจะออกไปตอนนี้เลยไหม? \optB[ยังไม่,ออก]
 
 Lona/SmallHole
-\narr A tiny hole. It's not big enough for anyone to fit through.
+\narr รูเล็กๆ ไม่ใหญ่พอที่ใครจะลอดผ่านได้
 
 Lona/CheckFlag
-\narr An Orkind banner painted with an unknown symbol. The material seems to be made with a mysterious, leathery skin.
+\narr ธงของ Orkind ที่มีสัญลักษณ์ที่ไม่รู้จัก วัสดุดูเหมือนจะทำจากหนังที่ลึกลับ
 
 Lona/CheckCropseEnd
-\CBct[6]\m[serious]\c[6]Lona：\c[0]    ...If they kill me, will I become like this too?
+\CBct[6]\m[serious]\c[6]Lona：\c[0]    ...ถ้าพวกมันฆ่าหนู หนูจะกลายเป็นแบบนี้เหมือนกันไหม?
 
 Lona/TimerStart
-\narr The sound of footsteps can be heard from outside the cave.
-\CBct[6]\m[fear]\c[6]Lona：\c[0]    I have to be quick...
+\narr เสียงฝีเท้าดังมาจากข้างนอกถ้ำ
+\CBct[6]\m[fear]\c[6]Lona：\c[0]    หนูต้องรีบ...
 
 Lona/RapeLoopNonCapture
-\m[fear]\narr The Orkinds grabbed Lona. They also looted all of her equipment and items.
-\m[terror]\narr They were very happy to have found a new meat toilet. 
+\m[fear]\narr พวก Orkind จับตัว Lona ได้ พวกมันยังปล้นทรัพย์สินและอุปกรณ์ทั้งหมดของเธอไปด้วย
+\m[terror]\narr พวกมันดีใจมากที่ได้ทาสกามคนใหม่
 
 Lona/RapeLoopBondage
-\m[pain]\narr They pinned Lona to the ground and bound her with restraints.
+\m[pain]\narr พวกมันกด Lona ลงพื้นและมัดเธอด้วยโซ่
 
 Lona/RapeLoopCaptured
-\m[terror]\narr The Orkinds haven't had enough fun, they refused to let Lona rest so easily.
-\m[fear]\narr They had perverted grins and began stroking their foul-smelling genitals. How will they play with their meat toilet today? 
+\m[terror]\narr พวก Orkind ยังไม่สนุกพอ พวกมันไม่ยอมให้ Lona พักผ่อนง่ายๆ
+\m[fear]\narr พวกมันยิ้มแย้มด้วยความตื่นเต้นและเริ่มลูบไล้อวัยวะเพศที่เหม็นของพวกมัน วันนี้พวกมันจะเล่นกับทาสกามของพวกมันยังไง?
 
 Lona/RapeLoopDragOut
-\m[hurt]\narr The Orkinds dragged Lona out as they were planning to have a celebratory orgy.
+\m[hurt]\narr พวก Orkind ลาก Lona ออกไปเพราะพวกมันวางแผนจะจัดงานเลี้ยงรื่นเริง
 
 Lona/RapeLoopTorture
-\m[fear]\narr The Orkinds were furious at Lona's attempts to escape. They will be teaching Lona a lesson while showing her what happens to disobedient meat toilets...
+\m[fear]\narr พวก Orkind โกรธมากที่ Lona พยายามหนี พวกมันจะสอนบทเรียน Lona และแสดงให้เธอเห็นว่าจะเกิดอะไรขึ้นกับทาสกามที่ไม่เชื่อฟัง...
 
 ######################################## MAP TRANS
 
 Lona/ToOrkindCave1
-\cg[map_region_hole] A small, narrow hole. It seems like monsters may be able to invade the Town of Noer from here.
-\CBct[2]\m[confused]\c[6]Lona：\c[0]    Should I go inside?  \optB[Leave,Enter]
-
-#Translated by Rrezzolution, cleaned up by Sugoi Soy Boy. Fuck off MTLing monkeys, you guys are not translators.
+\cg[map_region_hole] รูเล็กๆ แคบๆ ดูเหมือนปีศาจอาจจะบุกเข้ามาในเมือง Noer ได้จากที่นี่
+\CBct[2]\m[confused]\c[6]Lona：\c[0]    หนูควรจะเข้าไปไหม?  \optB[ออก,เข้า]

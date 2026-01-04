@@ -1,50 +1,50 @@
 thisMap/OvermapEnter
-\m[confused]In the forest occupied by orc-like people, the grisly stench of monsters can be smelled from a distance.\optB[Leave,Enter]
+\m[confused]ในป่าที่ถูกยึดครองโดยคนที่ดูเหมือนออร์ค กลิ่นเหม็นของปีศาจสามารถได้กลิ่นมาจากระยะไกล\optB[ออกไป,เข้าไป]
 
 rg2/Begin_0
-\CBct[20]\m[confused]\Rshake\c[6]Lona：\c[0]    Um\..\..\..
-\CBct[6]\m[fear]\Rshake\c[6]Lona：\c[0]    This place stinks like those monsters...
+\CBct[20]\m[confused]\Rshake\c[6]โลน่า：\c[0]    อืม\..\..\..
+\CBct[6]\m[fear]\Rshake\c[6]โลน่า：\c[0]    ที่นี่มันเหม็นเหมือนปีศาจเลย...
 
 rg2/Begin_2
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    \{Who's there?
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    \{ใครอยู่ตรงนั้น?
 
 rg2/Begin_3
-\CBct[6]\m[terror]\Rshake\c[6]Lona：\c[0]    !!!!!!!!
+\CBct[6]\m[terror]\Rshake\c[6]โลน่า：\c[0]    !!!!!!!!
 
 rg2/Begin_4
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    .........
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Huh? It ran away?! Is it afraid of me?
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    .........
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    หือ? มันหนีไปเหรอ?! มันกลัวหนูเหรอ?
 
 rg3/begin0
-\CBct[20]\m[confused]\PRF\c[6]Lona：\c[0]    Um\..\..\..
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Why are there so many corpses of orcs and deepones?! Are these monsters killing each other?
+\CBct[20]\m[confused]\PRF\c[6]โลน่า：\c[0]    อืม\..\..\..
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ทำไมถึงมีศพของออร์คและดีปวันมากมายขนาดนี้?! ปีศาจพวกนี้ฆ่ากันเองหรือเปล่า?
 
 Daughter/begin0
-\CBid[-1,6]\prf\c[4]refugee：\c[0]    Father... Mother.... I am so hungry...
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Are you \c[4]Mary\c[0]?
-\CBid[-1,8]\prf\c[4]refugee：\c[0]    I am, yes... Will you give me something to eat?
-\CBct[20]\m[tired]\PRF\c[6]Lona：\c[0]    Well.... I'm here to tell on your father's behalf that your family is waiting for you in Noer Town.
-\CBid[-1,2]\prf\c[4]refugee：\c[0]    Noer Town? Where is that? Can I eat there?
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Well.... Don't you know?\optB[Leave her,Help her]
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    พ่อ... แม่.... หนูหิวมาก...
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    แกคือ \c[4]แมรี่\c[0] ใช่ไหม?
+\CBid[-1,8]\prf\c[4]ผู้ลี้ภัย：\c[0]    ใช่ค่ะ... แกจะให้อะไรหนูกินได้ไหม?
+\CBct[20]\m[tired]\PRF\c[6]โลน่า：\c[0]    อืม.... หนูมาบอกแทนพ่อของแกว่าครอบครัวของแกรออยู่ที่เมืองโนเออร์
+\CBid[-1,2]\prf\c[4]ผู้ลี้ภัย：\c[0]    เมืองโนเออร์? อยู่ที่ไหน? หนูจะได้กินที่นั่นได้ไหม?
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    อืม.... แกไม่รู้เหรอ?\optB[ทิ้งเธอไว้,ช่วยเธอ]
 
 Daughter/opt_nope
-\CBct[6]\m[flirty]\PRF\c[6]Lona：\c[0]    In short.\..\..Go west past East Sentry point..\..\..And follow that road.\...\....
-\CBct[20]\m[tired]\PRF\c[6]Lona：\c[0]    Hurry up to Noer Town, your family is still alive and well.
-\CBid[-1,8]\prf\c[4]refugee：\c[0]    \..\..\..
-\CBid[-1,6]\prf\c[4]refugee：\c[0]    Very hungry... Very hungry....
+\CBct[6]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ก็คือว่า\..\..ไปทางตะวันตกผ่านจุดตรวจการ์ดตะวันออก..\..\..แล้วตามถนนนั้นไป\...\....
+\CBct[20]\m[tired]\PRF\c[6]โลน่า：\c[0]    รีบไปเมืองโนเออร์เลย ครอบครัวของแกยังมีชีวิตอยู่ดี
+\CBid[-1,8]\prf\c[4]ผู้ลี้ภัย：\c[0]    \..\..\..
+\CBid[-1,6]\prf\c[4]ผู้ลี้ภัย：\c[0]    หิวมาก... หิวมาก....
 
 Daughter/opt_give
-\narr Lona rummages through her belongings...
+\narr โลน่าค้นของในกระเป๋า...
 
 Daughter/opt_give100
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Take these things, I can only help you so much.
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    รับของพวกนี้ไป หนูช่วยแกได้แค่นี้แหละ
 
 Daughter/opt_give2000
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Take these things, it doesn't matter if you want to go to Noer or buy food.
-\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    I can only help you so much.....
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    รับของพวกนี้ไป ไม่ว่าแกจะไปโนเออร์หรือซื้ออาหารก็ได้
+\CBct[8]\m[tired]\PRF\c[6]โลน่า：\c[0]    หนูช่วยแกได้แค่นี้แหละ.....
 
 Daughter/opt_giveTY
-\CBid[-1,8]\prf\c[4]refugee：\c[0]    Thanks...\...\...\...
+\CBid[-1,8]\prf\c[4]ผู้ลี้ภัย：\c[0]    ขอบคุณ...\...\...\...
 
 Daughter/END
-\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    Well...\...\...\...
+\CBct[8]\m[tired]\PRF\c[6]โลน่า：\c[0]    อืม...\...\...\...

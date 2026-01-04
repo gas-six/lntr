@@ -1,76 +1,76 @@
+XXXXXXXX
+
 #trans by SaintZ
 #################################################################################
 
 DoomFarmA1/Title
-Suicide Note
+จดหมายลาตาย
 
 DoomFarmA1/Sender
-Midst of forest
+กลางป่า
 
 DoomFarmA1/Text
-\}This is my suicide note...
-but it's also a warning
-to those who find it.
+\}นี่คือจดหมายลาตายของกู...
+แต่มันก็เป็นคำเตือน
+สำหรับคนที่เจอมันด้วย
 \n
-When I first got lost in this forest, I was terrified.
-I prayed to the Saints for help and guidance.
-And then I found this place.
-I was so grateful to the Saints!
-My prayers had been answered!
-But I had no idea the kind of hell that was waiting for me.
-At first they seemed to be very friendly, provided me with a warm meal, Offered me a place to sleep.
-I trusted them and let my guard down.
-And that's when they DRUGGED ME...
-THAT OLD HAG lured me with sweets.
-By the time I had woken up, It was already too late
-I was in chains and there was nothing I could do.
+ตอนที่กูหลงป่านี้ครั้งแรก กูกลัวมาก
+กูขอพรจากนักบุญให้ช่วยเหลือและนำทาง
+แล้วกูก็เจอที่นี่
+กูขอบคุณนักบุญมาก!
+คำอธิษฐานของกูได้รับการตอบสนอง!
+แต่กูไม่รู้เลยว่านรกแบบไหนกำลังรอกูอยู่
+ตอนแรกพวกมันดูเป็นมิตรมาก ให้อาหารอุ่นๆ ให้ที่นอน
+กูเชื่อใจและปล่อยตัวเอง
+แล้วนั่นแหละพวกมันก็ใส่ยา...
+อีแก่นั่นล่อกูด้วยขนม
+พอกูตื่นมา มันก็สายเกินไปแล้ว
+กูถูกล่ามโซ่และไม่มีทางทำอะไรได้
 \n
-*The handwriting begins to change and become crooked,
-There are clear visible teardrops on the
-paper that make further reading difficult.
+*ลายมือเริ่มเปลี่ยนและเอียง
+มีรอยน้ำตาที่เห็นได้ชัดบน
+กระดาษที่ทำให้อ่านต่อได้ยาก
 \n
-But the worst was yet to come... they let that THING! THAT DISGUSTING MONSTER,
-RAPE ME... AND RAPE ME... AND RAPE ME...
-DAY AFTER DAY...
-I CAN'T LIVE LIKE THIS ANYMORE...
-IF YOU FIND THIS NOTE I AM PROBABLY
-DEAD... THIS IS MY ONLY WAY OUT
+แต่สิ่งที่แย่ที่สุดยังมาไม่ถึง... พวกมันปล่อยสิ่งนั้น! ปีศาจน่าขยะแขยงนั้น
+ข่มขืนกู... ข่มขืนกู... ข่มขืนกู...
+วันแล้ววันเล่า...
+กูอยู่แบบนี้ไม่ได้อีกต่อไป...
+ถ้าแกเจอจดหมายนี้ กูคงตายไปแล้ว... นี่คือทางออกเดียวของกู
 \n
 \n
-please don't let this happen to you...
-do not STAY HERE!!!
-\{DON'T BELIEVE THEM!!!
-DON'T LET THEM DECEIVE YOU!!!
+โปรดอย่าให้เรื่องแบบนี้เกิดกับแก...
+อย่าพักที่นี่!!!
+\{อย่าเชื่อพวกมัน!!!
+อย่าให้พวกมันหลอกแก!!!
 
 #################################################################################
 
 DoomFarmA2/Title
-Jim Woodson
+จิม วูดสัน
 
 DoomFarmA2/Sender
-Midst of forest
+กลางป่า
 
 DoomFarmA2/Text
-\}They thought they had caught me？
-They were wrong！My brothers! Believe me！
-They only captured our bodies！
-The Saints will not forgive those who lie！
-My people will follow me and I will guide them!
-We shall meet in the temple of the Saints! And my
-anger will burn those who lie!
-Jim Woodson 1755.8.6
+\}พวกมันคิดว่าจับกูได้เหรอ？
+พวกมันผิด！พี่น้องของกู！เชื่อกู！
+พวกมันจับได้แค่ร่างกายของเรา！
+นักบุญจะไม่ให้อภัยคนที่โกหก！
+คนของกูจะตามกูมา และกูจะนำทางพวกเขา!
+เราจะมาเจอกันที่วิหารของนักบุญ! และความโกรธของกูจะเผาผลาญคนที่โกหก!
+จิม วูดสัน 1755.8.6
 \n
 \n
 \n
 \n
 \n
 \n
-To my only love
-How could things become like this？
-I think I have no other choice but to die.
-But you have to live. Not only for me,
-but for our children.
-Go meet little Joey,
-he will watch over you and our children,
-He's the only person you can trust.
-Jim Woodson 1755.9.1
+ถึงคนรักเดียวของกู
+ทำไมมันถึงกลายเป็นแบบนี้？
+กูคิดว่ากูไม่มีทางเลือกอื่นนอกจากตาย
+แต่แกต้องมีชีวิตต่อไป ไม่ใช่แค่เพื่อกู
+แต่เพื่อลูกๆ ของเรา
+ไปเจอลูกชายน้อยโจอี้
+เขาจะดูแลแกและลูกๆ ของเรา
+เขาเป็นคนเดียวที่แกไว้ใจได้
+จิม วูดสัน 1755.9.1

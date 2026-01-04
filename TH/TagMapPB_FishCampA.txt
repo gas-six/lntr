@@ -1,296 +1,298 @@
+XXXXXXXX
+
 thisMap/OvermapEnter
-Fish Camp\optB[Leave,Enter]
+Fish Camp\optB[ออก,เข้า]
 
 ###############################################################################   Common dialog
 
 Commoner0/rng0
-\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]Warrior：\c[0]    Can't trust humans....
+\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]นักรบ：\c[0]    ไม่ไว้ใจมนุษย์หรอก...
 
 Commoner0/rng1
-\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]Warrior：\c[0]    You...Woman...?
+\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]นักรบ：\c[0]    แก...ผู้หญิง...?
 
 Commoner0/rng2
-\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]Warrior：\c[0]    Go away...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]นักรบ：\c[0]    ไปซะ...
 
 ###############################################################################   Comp Fish Dude Explorer
 
 ConvoyTar/begin0
-\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]Fishman：\c[0]    What's...up...?
+\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]คนปลา：\c[0]    เกิดอะไรขึ้น...?
 
 ConvoyTar/begin1
-\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]Fishman：\c[0]    Thank you... Thank you Sea Witch...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]คนปลา：\c[0]    ขอบคุณ... ขอบคุณแม่มดทะเล...
 
 ConvoyTar/begin2
-\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]Fishman：\c[0]    Go to... the camp...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\c[4]คนปลา：\c[0]    ไปที่... ค่าย...
 
 ConvoyTar/About_opt
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Uhm...Excuse me...
-\SndLib[FishkindSmSpot]\CBid[-1,2]\prf\c[4]Fishman：\c[0]    What...is it...?
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม...ขอโทษนะ...
+\SndLib[FishkindSmSpot]\CBid[-1,2]\prf\c[4]คนปลา：\c[0]    เกิดอะไรขึ้น...?
 
 ConvoyTar/OPT_WhyFishHereAise
-Sunrise Village
+หมู่บ้านพระอาทิตย์ขึ้น
 
 ConvoyTar/OPT_OutControll
-Ancestors are out of control
+บรรพบุรุษควบคุมไม่ได้
 
 ConvoyTar/OPT_CaveExplore
-Explore the cave
+สำรวจถ้ำ
 
 ConvoyTar/OPT_OutControll0
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Ancestors out of control? What does that mean?
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    Our elders... The ancestors... They've returned from the water...
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    Followed by the evil... scales... who started attacking us...
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    Lord Shaman... Needs us to investigate... Why...
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Uhm... I don't understand.
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    บรรพบุรุษควบคุมไม่ได้? มันหมายความว่ายังไง?
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    ผู้ใหญ่ของเรา... บรรพบุรุษ... พวกเขากลับมาจากน้ำ...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    ตามมาด้วยความชั่วร้าย... เกล็ด... ที่เริ่มโจมตีเรา...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    ลอร์ดชาแมน... ต้องการให้เราสืบสวน... ว่าทำไม...
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม... หนูไม่เข้าใจ.
 
 ConvoyTar/WhyFishHereAise0
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    So why did you come to \c[4]Sunrise Village\c[0] don't fishmen stay in the city?
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    To... Investigate... Why the ancestors are out of control.... For the shaman...
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    We came to the island... to investigate... but humans attacked us...
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    My brother... Is dead...
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    I'm sorry...
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    แล้วทำไมแกถึงมาที่ \c[4]หมู่บ้านพระอาทิตย์ขึ้น\c[0] คนปลาไม่อยู่ในเมืองหรอกเหรอ?
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    เพื่อ... สืบสวน... ว่าทำไมบรรพบุรุษถึงควบคุมไม่ได้... เพื่อชาแมน...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    เรามาที่เกาะ... เพื่อสืบสวน... แต่มนุษย์โจมตีเรา...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    พี่ชายของผม... ตายแล้ว...
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ขอโทษนะ...
 
 ####################################################   Explore the cave
 
 ConvoyTar/TooWeak
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    Women... To breed...
-\CBct[20]\m[tired]\PRF\c[6]Lona：\c[0]    ........
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    ผู้หญิง... เพื่อผสมพันธุ์...
+\CBct[20]\m[tired]\PRF\c[6]โลน่า：\c[0]    .........
 
 ConvoyTar/OPT_CaveExplore0
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    I did \c[6]Yun Bei\c[0]... I got it! I rolled it!!
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    All three times \c[6]Sacred\c[0] roll...
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    The Sea With wants me to go the ruins...to discover the truth...!
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Uhm...\c[6]Sacred\c[0] roll?
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    The truth... Is in the ruins...
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    The Shaman in the village... can confirm...!
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    What?
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    But these are... human lands... it's too dangerous...
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    Such a shame... Our slave ran away...
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    I need your help... come with me to the ruins...
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    To find the truth...!
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    ผมทำ \c[6]ยุน เปย์\c[0]... ผมได้มัน! ผมกลิ้งมัน!!
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    ทั้งสามครั้ง \c[6]ศักดิ์สิทธิ์\c[0] กลิ้ง...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    แม่มดทะเลต้องการให้ผมไปที่ซากปรักหักพัง... เพื่อค้นหาความจริง...!
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม...\c[6]ศักดิ์สิทธิ์\c[0] กลิ้ง?
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    ความจริง... อยู่ในซากปรักหักพัง...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    ชาแมนในหมู่บ้าน... สามารถยืนยันได้...!
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    อะไรนะ?
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    แต่นี่คือ... ดินแดนของมนุษย์... มันอันตรายเกินไป...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    น่าเสียดาย... ทาสของเราหนีไป...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    ผมต้องการความช่วยเหลือจากคุณ... มากับผมไปที่ซากปรักหักพัง...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    เพื่อค้นหาความจริง...!
 
 ConvoyTar/OPT_CaveExplore_BRD
-\CamCT\board[Explore the cave]
-Goal： Search the nearby cave
-Reward： 4 Large Copper Coins
-Client： Fishman
-Quest Term： 5 days
-Assist the Fishman in exploring the ancient ruins.
+\CamCT\board[สำรวจถ้ำ]
+เป้าหมาย： ค้นหาถ้ำใกล้เคียง
+รางวัล： 4 เหรียญทองแดงขนาดใหญ่
+ผู้ว่าจ้าง： คนปลา
+ระยะเวลาภารกิจ： 5 วัน
+ช่วยคนปลาในการสำรวจซากปรักหักพังโบราณ
 
 ConvoyTar/OPT_CaveExplore_N
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uhm... I can't do that right now...
-\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]Fishman：\c[0]    A shame...
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม... ตอนนี้หนูทำไม่ได้...
+\SndLib[FishkindSmSpot]\CBid[-1,6]\prf\c[4]คนปลา：\c[0]    น่าเสียดาย...
 
 ConvoyTar/OPT_CaveExplore_Y
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Fine, I'll help you.
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    Praise the Sea Witch....!
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    Human Woman... be careful...
-\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]Fishman：\c[0]    Ancestors are out of control... eager... to breed...
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    What? Breed?
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ได้เลย หนูจะช่วยแก
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    สรรเสริญแม่มดทะเล....!
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    ผู้หญิงมนุษย์... ระวังตัว...
+\SndLib[FishkindSmSpot]\CBid[-1,20]\prf\c[4]คนปลา：\c[0]    บรรพบุรุษควบคุมไม่ได้... กระหาย... ที่จะผสมพันธุ์...
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    อะไรนะ? ผสมพันธุ์?
 
 ####################################################   Explore the cave2
 
 AriseVillageFish/2to3_0
-\SndLib[FishkindSmSpot]\CBfE[20]\c[4]Fishman：\c[0]    Right here... let me... recite the spell...
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Ugh... Okay?
+\SndLib[FishkindSmSpot]\CBfE[20]\c[4]คนปลา：\c[0]    ตรงนี้... ปล่อยให้ผม... ท่องคาถา...
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    อ๊าก... ได้เลย?
 
 AriseVillageFish/2to3_1
-\SndLib[FishkindSmSpot]\CBfE[8]\c[4]Fishman：\c[0]    Kagoon Karo KaGoon Ma......
-\SndLib[FishkindSmSpot]\CBfE[20]\c[4]Fishman：\c[0]    KaGoon Ma...... KaGoon Ma......
+\SndLib[FishkindSmSpot]\CBfE[8]\c[4]คนปลา：\c[0]    คาโกน คาโร คาโกน มา......
+\SndLib[FishkindSmSpot]\CBfE[20]\c[4]คนปลา：\c[0]    คาโกน มา...... คาโกน มา......
 
 AriseVillageFish/2to3_2
-\SndLib[FishkindSmSpot]\CBfE[20]\c[4]Fishman：\c[0]    \{ShaTeaTen.....!
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Ugh?
+\SndLib[FishkindSmSpot]\CBfE[20]\c[4]คนปลา：\c[0]    \{ชาเทียน.....!
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อ๊าก?
 
 AriseVillageFish/2to3_3
-\CBct[20]\c[6]Lona：\c[0]    \{Ehhhhhhh!?
+\CBct[20]\c[6]โลน่า：\c[0]    \{เอ๊ะ!?
 
 AriseVillageFish/2to3_4
-\CBct[5]\m[serious]\c[6]Lona：\c[0]    \{What are you doing!?
-\CBfE[8]\prf\c[4]Fishman：\c[0]    .....
+\CBct[5]\m[serious]\c[6]โลน่า：\c[0]    \{แกทำอะไร!?
+\CBfE[8]\prf\c[4]คนปลา：\c[0]    .....
 
 AriseVillageFish/2to3_5
-\SndLib[FishkindSmSpot]\CBfE[8]\c[4]Fishman：\c[0]    It's done.....
+\SndLib[FishkindSmSpot]\CBfE[8]\c[4]คนปลา：\c[0]    เสร็จแล้ว.....
 
 AriseVillageFish/2to3_6
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    \..\..\..
-\CBct[2]\m[confused]\PRF\c[6]Lona：\c[0]    Okay... B-but why are you touching my breasts?
-\SndLib[FishkindSmSpot]\prf\CBfE[20]\c[4]Fishman：\c[0]    Human women... Or slave boobs... Dedicated to the Sea Witch...
-\SndLib[FishkindSmSpot]\prf\CBfE[20]\c[4]Fishman：\c[0]    The Sea Witch... Doesn't like slaves with big boobs...
-\SndLib[FishkindSmSpot]\prf\CBfE[20]\c[4]Fishman：\c[0]    We're lucky... You're a Warrior... without boobs...
-\SndLib[FishkindSmSpot]\prf\CBfE[20]\c[4]Fishman：\c[0]    The gates of the Sea Witch... are open to you...
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    What\..\..\..\CBct[6]\m[tired]\prf They aren't small, they are just fine\..\..\..
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    \..\..\..
+\CBct[2]\m[confused]\PRF\c[6]โลน่า：\c[0]    โอเค... แต่ทำไมแกถึงจับหน้าอกหนู?
+\SndLib[FishkindSmSpot]\prf\CBfE[20]\c[4]คนปลา：\c[0]    ผู้หญิงมนุษย์... หรือหน้าอกทาส... ถวายให้แม่มดทะเล...
+\SndLib[FishkindSmSpot]\prf\CBfE[20]\c[4]คนปลา：\c[0]    แม่มดทะเล... ไม่ชอบทาสที่มีหน้าอกใหญ่...
+\SndLib[FishkindSmSpot]\prf\CBfE[20]\c[4]คนปลา：\c[0]    เราโชคดี... แกเป็นนักรบ... ไม่มีหน้าอก...
+\SndLib[FishkindSmSpot]\prf\CBfE[20]\c[4]คนปลา：\c[0]    ประตูของแม่มดทะเล... เปิดให้แก...
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อะไร\..\..\..\CBct[6]\m[tired]\prf มันไม่เล็ก มันพอดี\..\..\..
 
 ####################################################   Explore the cave3 #update
 
 AriseVillageFish/3to4_0
-\SndLib[FishkindSmSpot]\CBfE[20]\c[4]Fishman：\c[0]    Praise the Sea Witch... What the Shaman said is true...!
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uhm... Good?
+\SndLib[FishkindSmSpot]\CBfE[20]\c[4]คนปลา：\c[0]    สรรเสริญแม่มดทะเล... สิ่งที่ชาแมนพูดเป็นความจริง...!
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อืม... ดี?
 
 AriseVillageFish/3to4_1
-\CBct[20]\m[shocked]\Rshake\c[6]Lona：\c[0]    The door's closed?!
+\CBct[20]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    ประตูปิดแล้ว!?
 
 AriseVillageFish/3to4_2
-\SndLib[FishkindSmSpot]\CBfE[20]\c[4]Fishman：\c[0]    Don't be scared... The Shaman said... There are other ways in...
-\CBct[20]\m[flirty]\PRF\c[6]Lona：\c[0]    Is that so?
+\SndLib[FishkindSmSpot]\CBfE[20]\c[4]คนปลา：\c[0]    อย่ากลัว... ชาแมนบอกว่า... มีวิธีอื่นเข้าไป...
+\CBct[20]\m[flirty]\PRF\c[6]โลน่า：\c[0]    จริงเหรอ?
 
 AriseVillageFish/4to5_0
-\SndLib[FishkindSmSpot]\CBfE[20]\c[4]Fishman：\c[0]    Human Warrior... Look at this...
+\SndLib[FishkindSmSpot]\CBfE[20]\c[4]คนปลา：\c[0]    นักรบมนุษย์... ดูนี่...
 
 AriseVillageFish/4to5_1
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    In the war... Many years ago... The humans destroyed this place...
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    They destroyed our temple... took our slaves...
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Everything was looted... Humans are hateful beings...
-\m[confused]\PRF\c[6]Lona：\c[0]    Uhm... I'm sorry...?
-\prf\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    It's in the past... I forgive...
+\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    ในสงคราม... หลายปีก่อน... มนุษย์ทำลายที่นี่...
+\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    พวกเขาทำลายวัดของเรา... พาทาสของเราไป...
+\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    ทุกอย่างถูกปล้น... มนุษย์เป็นสิ่งที่น่ารังเกียจ...
+\m[confused]\PRF\c[6]โลน่า：\c[0]    อืม... ขอโทษนะ...?
+\prf\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    มันเป็นเรื่องในอดีต... ผมให้อภัย...
 
 AriseVillageFish/4to5_2
-\BonMP[EXIT,19]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Look at that... It's the exit...
-\m[flirty]\PRF\c[6]Lona：\c[0]    Oh?
-\BonMP[fishF1,19]\BonMP[fishF2,19]\prf\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    But there are \c[6]Evilscales\c[0]....
-\prf\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Before we leave... we must find the Sea Witch's icon...
-\prf\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Then beat these... \c[6]Evilscales\c[0]...
+\BonMP[EXIT,19]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    ดูนั่น... นั่นคือทางออก...
+\m[flirty]\PRF\c[6]โลน่า：\c[0]    อ๋อ?
+\BonMP[fishF1,19]\BonMP[fishF2,19]\prf\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    แต่มี \c[6]เกล็ดชั่วร้าย\c[0]....
+\prf\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    ก่อนที่เราจะออก... เราต้องหารูปปั้นของแม่มดทะเล...
+\prf\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    แล้วต่อสู้กับ... \c[6]เกล็ดชั่วร้าย\c[0]...
 
 AriseVillageFish/4to5_3
-\BonMP[Ca2,19]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Maybe... We... should go here?...
-\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    This way you can bypass those.... \c[6]Evilscales\c[0]...?
+\BonMP[Ca2,19]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    บางที... เรา... ควรจะไปที่นี่?...
+\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    แบบนี้คุณจะสามารถหลีกเลี่ยง... \c[6]เกล็ดชั่วร้าย\c[0]...?
 
 AriseVillageFish/4to5_4
-\CBfE[20]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Female warrior... I rely on you...
+\CBfE[20]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    นักรบหญิง... ผมพึ่งพาคุณ...
 
 AriseVillageFish/5to6_0
-\CBfE[20]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Here... It's here...
+\CBfE[20]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    ตรงนี้... อยู่ตรงนี้...
 
 AriseVillageFish/5to6_1_1
-\CBfE[20]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    The great Sea Witch... We're back...
+\CBfE[20]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    แม่มดทะเลยิ่งใหญ่... เรากลับมาแล้ว...
 
 AriseVillageFish/5to6_1_2
-\CBfE[20]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    We're back...
+\CBfE[20]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    เรากลับมาแล้ว...
 
 AriseVillageFish/5to6_1_3
-\CBfE[20]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Why are out of control... Why did the evilscales go crazy...
+\CBfE[20]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    ทำไมถึงควบคุมไม่ได้... ทำไมเกล็ดชั่วร้ายถึงบ้า...
 
 AriseVillageFish/5to6_1_4
-\CBfE[20]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    Tell me... The truth...
+\CBfE[20]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    บอกผม... ความจริง...
 
 AriseVillageFish/5to6_2
-\CBmp[Justice,5]\SETpl[DedOne_angry]\Lshake\c[4]Unknown：\c[0]    Who's there?! Is that you?!
-\CBmp[Justice,5]\SETpl[DedOne_angry]\Lshake\c[4]Unknown：\c[0]    Don't hide! I heard someone calling you!
+\CBmp[Justice,5]\SETpl[DedOne_angry]\Lshake\c[4]ไม่ทราบ：\c[0]    ใครอยู่นั่น?! เป็นแกหรือเปล่า?!
+\CBmp[Justice,5]\SETpl[DedOne_angry]\Lshake\c[4]ไม่ทราบ：\c[0]    อย่าซ่อน! ผมได้ยินใครเรียกแก!
 
 AriseVillageFish/5to6_3
-\CBmp[Justice,5]\SETpl[DedOne_angry]\Lshake\c[4]Unknown：\c[0]    There?! That big titty retard is hiding again!!
+\CBmp[Justice,5]\SETpl[DedOne_angry]\Lshake\c[4]ไม่ทราบ：\c[0]    ตรงนั้น?! อีกระหรี่หน้าอกใหญ่ซ่อนอีกแล้ว!!
 
 AriseVillageFish/5to6_3_KnowLona
-\CBmp[Justice,8]\SETpl[DedOne_normal]\Lshake\c[4]Justice：\c[0]    Oh, it's you...
-\CBct[8]\m[flirty]\PRF\c[6]Lona：\c[0]    Uh... you are.... ugh... Who are you?
+\CBmp[Justice,8]\SETpl[DedOne_normal]\Lshake\c[4]จัสติซ：\c[0]    โอ้ เป็นแกนี่...
+\CBct[8]\m[flirty]\PRF\c[6]โลน่า：\c[0]    อ๊ะ... แกคือ... อ๊าก... แกเป็นใคร?
 
 AriseVillageFish/5to6_4
-\CBfE[5]\SndLib[FishkindSmSpot]\plf\prh\c[4]Fishman：\c[0]    You... Aren't a Sea Witch...!
-\CBfE[5]\SndLib[FishkindSmSpot]\plf\prh\c[4]Fishman：\c[0]    You're evil... FALSE GOD...!!!
+\CBfE[5]\SndLib[FishkindSmSpot]\plf\prh\c[4]คนปลา：\c[0]    แก... ไม่ใช่แม่มดทะเล...!
+\CBfE[5]\SndLib[FishkindSmSpot]\plf\prh\c[4]คนปลา：\c[0]    แกเป็นความชั่วร้าย... เทพเท็จ...!!!
 
 AriseVillageFish/5to6_5
-\CBmp[Justice,5]\SETpl[DedOne_angry]\Lshake\c[4]Justice：\c[0]    No, you're evil! Your whole family's evil!
-\CBmp[Justice,20]\SETpl[DedOne_angry]\Lshake\c[4]Justice：\c[0]    I'm justice, A warrior for justice!!!!
-\CBmp[Justice,20]\SETpl[DedOne_angry]\Lshake\c[4]Justice：\c[0]    Let me tell you the truth! I'll tell you who's evil!
+\CBmp[Justice,5]\SETpl[DedOne_angry]\Lshake\c[4]จัสติซ：\c[0]    ไม่ แกต่างหากที่ชั่วร้าย! ครอบครัวแกทั้งหมดชั่วร้าย!
+\CBmp[Justice,20]\SETpl[DedOne_angry]\Lshake\c[4]จัสติซ：\c[0]    ผมคือความยุติธรรม นักรบเพื่อความยุติธรรม!!!!
+\CBmp[Justice,20]\SETpl[DedOne_angry]\Lshake\c[4]จัสติซ：\c[0]    ผมจะบอกความจริง! ผมจะบอกว่าใครชั่วร้าย!
 
 AriseVillageFish/5to6_6
-\BonMP[Table,6]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    \{Ugh... Ribbit!
+\BonMP[Table,6]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    \{อ๊าก... กร๊อก!
 
 AriseVillageFish/5to6_7
-\BonMP[Table,6]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    \{No... This isn't true...!
+\BonMP[Table,6]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    \{ไม่... นี่ไม่ใช่ความจริง...!
 
 AriseVillageFish/5to6_8
-\BonMP[Table,20]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    \{Liar...! Liar...!
+\BonMP[Table,20]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    \{โกหก...! โกหก...!
 
 AriseVillageFish/5to6_9
-\BonMP[Table,20]\SndLib[FishkindSmSpot]\c[4]Fishman：\c[0]    \{Ribbiiiiiit!
+\BonMP[Table,20]\SndLib[FishkindSmSpot]\c[4]คนปลา：\c[0]    \{กร๊อกกกก!
 
 AriseVillageFish/5to6_10_1
-\CBct[20]\m[terror]\Rshake\c[6]Lona：\c[0]    \{Ehhhhh!!!
+\CBct[20]\m[terror]\Rshake\c[6]โลน่า：\c[0]    \{เอ๊ะ!!!
 
 AriseVillageFish/5to6_10_2
-\CBct[20]\m[bereft]\Rshake\c[6]Lona：\c[0]    No... Stay back!
+\CBct[20]\m[bereft]\Rshake\c[6]โลน่า：\c[0]    ไม่... อย่าเข้ามา!
 
 AriseVillageFish/5to6_11
-\CBct[20]\m[confused]\PRF\c[6]Lona：\c[0]    What... What happened?
+\CBct[20]\m[confused]\PRF\c[6]โลน่า：\c[0]    อะไร... เกิดอะไรขึ้น?
 
 AriseVillageFish/5to6_12
-\CBct[6]\m[shocked]\Rshake\c[6]Lona：\c[0]    He's dead!?
-\CBct[6]\m[terror]\Rshake\c[6]Lona：\c[0]    But he was alive just now!
-\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    How am I gonna explain it to his friends?
-\CBct[8]\m[sad]\PRF\c[6]Lona：\c[0]    *Sigh*... I'll just... take his money and leave...
+\CBct[6]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    แกตายแล้ว!?
+\CBct[6]\m[terror]\Rshake\c[6]โลน่า：\c[0]    แต่เมื่อกี้แกยังมีชีวิตอยู่!
+\CBct[8]\m[tired]\PRF\c[6]โลน่า：\c[0]    หนูจะอธิบายกับเพื่อนแกยังไงดี?
+\CBct[8]\m[sad]\PRF\c[6]โลน่า：\c[0]    *ถอนหายใจ*... หนูจะ... เอาเงินแกแล้วไป...
 
 AriseVillageFish/6to7
-\CBct[8]\m[tired]\PRF\c[6]Lona：\c[0]    ....
+\CBct[8]\m[tired]\PRF\c[6]โลน่า：\c[0]    ....
 
 CampHumWatcher/6and7_0
-\CBid[-1,20]\c[4]Militia：\c[0]    We're the Sunrise Village militia, you're safe now.
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    เราคือกองกำลังป้องกันหมู่บ้านพระอาทิตย์ขึ้น แกปลอดภัยแล้ว
 
 CampHumWatcher/6and7_1
-\CBid[-1,20]\c[4]Militia：\c[0]    Don't be scared, the evil fishmen are dead.
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    อย่ากลัว คนปลาชั่วร้ายตายหมดแล้ว
 
 CampHumLooter/6and7_0
-\CBid[-1,20]\c[4]Militia：\c[0]    The city guards told us not to touch these bastards.
-\CBid[-1,20]\c[4]Militia：\c[0]    They also said we have to escort the fishmen and protect them, so they can return to Noer Town safely.
-\CBid[-1,20]\c[4]Militia：\c[0]    People in the city are a joke.
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    ทหารเมืองบอกเราไม่ให้แตะพวกนี้
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    พวกเขายังบอกว่าเราต้องคุ้มกันคนปลาและปกป้องพวกเขา เพื่อให้พวกเขากลับไปที่เมืองโนเออร์ได้อย่างปลอดภัย
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    คนในเมืองเป็นตัวตลก
 
 CampHumLooter/6and7_1
-\CBid[-1,20]\c[4]Militia：\c[0]    These hybrids carry a lot of fish. We'll feed the village for a long time.
-\CBid[-1,20]\c[4]Militia：\c[0]    They brought two female slaves, I took one for myself.
-\CBid[-1,20]\c[4]Militia：\c[0]    Her tits are so big, and her screams in bed sound so good.
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    พวกลูกผสมพวกนี้มีปลาเยอะ เราจะเลี้ยงหมู่บ้านได้นาน
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    พวกเขานำทาสผู้หญิงมาสองคน ผมเอาหนึ่งคนไว้
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    หน้าอกเธอใหญ่มาก และเสียงร้องของเธอในเตียงฟังดีมาก
 
 CampHumLooter/6and7_2
-\CBid[-1,20]\c[4]Militia：\c[0]    If you don't tell, I won't tell, those in the city won't know.
-\CBid[-1,20]\c[4]Militia：\c[0]    We were under attack by \c[6]Deepones\c[0], but they didn't help us when they attacked.
-\CBid[-1,20]\c[4]Militia：\c[0]    Why would you listen to them?
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    ถ้าแกไม่บอก ผมก็ไม่บอก คนในเมืองจะไม่รู้
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    เราถูกโจมตีโดย \c[6]ดีปวัน\c[0] แต่พวกเขาไม่ช่วยเราเมื่อพวกเขาโจมตี
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    ทำไมแกต้องฟังพวกเขา?
 
 CampHumGuard/6and7_0
-\CBid[-1,20]\c[4]Militia：\c[0]    Before they died, these bastards cried and said that their ancestor's madness had nothing to do with them.
-\CBid[-1,20]\c[4]Militia：\c[0]    I don't understand, nor do I care, they're dead anyway.
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    ก่อนที่พวกมันจะตาย พวกมันร้องไห้และบอกว่าความบ้าของบรรพบุรุษไม่เกี่ยวกับพวกมัน
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    ผมไม่เข้าใจ และไม่สนใจ พวกมันตายไปแล้ว
 
 CampHumGuard/6and7_1
-\CBid[-1,20]\c[4]Militia：\c[0]    Does anyone believe what this scum say? They're more disgusting than the moots.
+\CBid[-1,20]\c[4]กองกำลังป้องกัน：\c[0]    มีใครเชื่อสิ่งที่พวกนี้พูดไหม? พวกมันน่ารังเกียจกว่าพวกมูท
 
 CampHumGuard/6and7_2
-\CBid[-1,5]\c[4]Militia：\c[0]    They stink! They smell worse than death!
+\CBid[-1,5]\c[4]กองกำลังป้องกัน：\c[0]    พวกมันเหม็น! เหม็นกว่าความตาย!
 
 ##############################################################################################################
 
 AriseVillage/1to2_rg5_0
-\Bon[8]\m[shocked]\Rshake\c[6]Lona：\c[0]    Is this... A corpse?...
-\SndLib[FishkindSmSpot]\BonMP[FishExplorer,20]\prf\c[4]Fishman：\c[0]    The camp... Was also attacked by humans...?
-\SndLib[FishkindSmSpot]\BonMP[FishExplorer,20]\prf\c[4]Fishman：\c[0]    We must... Hurry up...
+\Bon[8]\m[shocked]\Rshake\c[6]โลน่า：\c[0]    นี่... ศพ...?
+\SndLib[FishkindSmSpot]\BonMP[FishExplorer,20]\prf\c[4]คนปลา：\c[0]    ค่าย... ก็ถูกมนุษย์โจมตีเหรอ...?
+\SndLib[FishkindSmSpot]\BonMP[FishExplorer,20]\prf\c[4]คนปลา：\c[0]    เราต้อง... รีบ...
 
 AriseVillage/1to2_rg5_1
-\SndLib[FishkindSmSpot]\BonMP[QuTar,20]\prf\c[4]Warrior：\c[0]    HUMANS...!　Humans... Have found us out...! Kill them...!
-\CBct[6]\m[terror]\Rshake\c[6]Lona：\c[0]    What!? Do they want to kill me?!
+\SndLib[FishkindSmSpot]\BonMP[QuTar,20]\prf\c[4]นักรบ：\c[0]    มนุษย์...!　มนุษย์... รู้ตัวเราแล้ว...! ฆ่าพวกมัน...!
+\CBct[6]\m[terror]\Rshake\c[6]โลน่า：\c[0]    อะไร!? พวกมันจะฆ่าหนูเหรอ?!
 
 AriseVillage/1to2_rg5_2
-\SndLib[FishkindSmSpot]\CBmp[FishExplorer,20]\c[4]Fishman：\c[0]    Bro! stop...! He saved me...!
+\SndLib[FishkindSmSpot]\CBmp[FishExplorer,20]\c[4]คนปลา：\c[0]    พี่! หยุด...! เขาช่วยผม...!
 
 AriseVillage/1to2_rg5_3
-\SndLib[FishkindSmSpot]\CBmp[QuTar,20]\c[4]Warrior：\c[0]    Bro... You're alive...!
-\SndLib[FishkindSmSpot]\CBmp[FishExplorer,20]\c[4]Fishman：\c[0]    Yes bro... I'm alive...!
+\SndLib[FishkindSmSpot]\CBmp[QuTar,20]\c[4]นักรบ：\c[0]    พี่... แกยังมีชีวิตอยู่...!
+\SndLib[FishkindSmSpot]\CBmp[FishExplorer,20]\c[4]คนปลา：\c[0]    ใช่พี่... ผมยังมีชีวิตอยู่...!
 
 AriseVillage/1to2_rg5_4
-\SndLib[FishkindSmSpot]\CBmp[QuTar,4]\c[4]Warrior：\c[0]    Praise the Sea Witch...!
-\SndLib[FishkindSmSpot]\CBmp[FishExplorer,4]\c[4]Fishman：\c[0]    Worship the Sea Witch...!
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    Ugh...
+\SndLib[FishkindSmSpot]\CBmp[QuTar,4]\c[4]นักรบ：\c[0]    สรรเสริญแม่มดทะเล...!
+\SndLib[FishkindSmSpot]\CBmp[FishExplorer,4]\c[4]คนปลา：\c[0]    บูชาแม่มดทะเล...!
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    อ๊าก...
 
 AriseVillage/1to2_rg5_5
-\SndLib[FishkindSmSpot]\CBmp[FishExplorer,20]\c[4]Fishman：\c[0]    Thank you... Human warrior...
-\SndLib[FishkindSmSpot]\CBmp[FishExplorer,20]\c[4]Fishman：\c[0]    This is a gift for you...
+\SndLib[FishkindSmSpot]\CBmp[FishExplorer,20]\c[4]คนปลา：\c[0]    ขอบคุณ... นักรบมนุษย์...
+\SndLib[FishkindSmSpot]\CBmp[FishExplorer,20]\c[4]คนปลา：\c[0]    นี่เป็นของขวัญสำหรับแก...
 
 AriseVillage/1to2_rg5_6
-\CBct[4]\m[triumph]\Rshake\c[6]Lona：\c[0]    Thank you!
+\CBct[4]\m[triumph]\Rshake\c[6]โลน่า：\c[0]    ขอบคุณ!
 
 AriseVillage/1to2_rg5_7
-\SndLib[FishkindSmSpot]\prf\CBmp[QuTar,20]\c[4]Warrior：\c[0]    Bro... You were saved... By a woman...?
-\SndLib[FishkindSmSpot]\prf\CBmp[FishExplorer,20]\c[4]Fishman：\c[0]    Woman...? She's a woman...?
-\SndLib[FishkindSmSpot]\prf\CBmp[QuTar,20]\c[4]Warrior：\c[0]    Yes... Bro...
+\SndLib[FishkindSmSpot]\prf\CBmp[QuTar,20]\c[4]นักรบ：\c[0]    พี่... แกถูกช่วย... โดยผู้หญิง...?
+\SndLib[FishkindSmSpot]\prf\CBmp[FishExplorer,20]\c[4]คนปลา：\c[0]    ผู้หญิง...? เธอเป็นผู้หญิง...?
+\SndLib[FishkindSmSpot]\prf\CBmp[QuTar,20]\c[4]นักรบ：\c[0]    ใช่... พี่...
 
 AriseVillage/1to2_rg5_8
-\SndLib[FishkindSmSpot]\prf\CBmp[FishExplorer,20]\c[4]Fishman：\c[0]    Are you a woman...?!
-\CBct[2]\m[flirty]\PRF\c[6]Lona：\c[0]    Yes...? What's wrong?
-\prf\CBmp[FishExplorer,8]\c[4]Fishman：\c[0]    .....
-\CBct[8]\m[confused]\PRF\c[6]Lona：\c[0]    ...Weirdo.
+\SndLib[FishkindSmSpot]\prf\CBmp[FishExplorer,20]\c[4]คนปลา：\c[0]    แกเป็นผู้หญิง...?!
+\CBct[2]\m[flirty]\PRF\c[6]โลน่า：\c[0]    ใช่...? เป็นอะไร?
+\prf\CBmp[FishExplorer,8]\c[4]คนปลา：\c[0]    .....
+\CBct[8]\m[confused]\PRF\c[6]โลน่า：\c[0]    ...คนแปลกๆ.

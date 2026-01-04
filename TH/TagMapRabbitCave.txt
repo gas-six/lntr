@@ -1,103 +1,103 @@
+XXXXXXXX
+
 overmap/OvermapEnter
-\m[confused]Abandoned Copper Mine\optB[Leave,Enter]
+\m[confused]เหมืองทองแดงร้าง\optB[ออก,เข้า]
 
 ################################# OP
 
 yeller/start
-\CamMP[MerA]\BonMP[MerA,20]\c[4]Mercenary：\c[0]    RUN! RUN AWAY!
-\CamMP[Runner]\BonMP[Runner,20]\c[4]Mercenary：\c[0]    NO! I-I DON'T WANNA DIE! SAVE MEEE!
-\CamMP[KillerRabbit]\BonMP[KillerRabbit,5]\SND[SE/RatDed1.ogg]\c[0]Really Big Bunny：\c[0]    Squeak! Squuueak!
+\CamMP[MerA]\BonMP[MerA,20]\c[4]ทหารรับจ้าง：\c[0]    วิ่ง! วิ่งหนี!
+\CamMP[Runner]\BonMP[Runner,20]\c[4]ทหารรับจ้าง：\c[0]    ไม่! กูไม่อยากตาย! ช่วยกูด้วย!
+\CamMP[KillerRabbit]\BonMP[KillerRabbit,5]\SND[SE/RatDed1.ogg]\c[0]กระต่ายตัวใหญ่มาก：\c[0]    จิ๊ก! จิ๊กจ๊อก!
 
 yeller/start1
-\CamMP[Runner]\BonMP[Runner,20]\c[4]Mercenary：\c[0]    N-NOOO! GET AWAY FROM MEEE!
+\CamMP[Runner]\BonMP[Runner,20]\c[4]ทหารรับจ้าง：\c[0]    ไม่! อย่ามาหากู!
 
 yeller/start2
-\CamMP[MerA]\BonMP[MerA,20]\c[4]Mercenary：\c[0]    Oh shit! It killed Barney!
-\CamMP[MerB]\BonMP[MerB,5]\c[4]Mercenary：\c[0]    Fuck! YOU MONSTER!!!
-\CamMP[KillerRabbit]\BonMP[KillerRabbit,5]\SND[SE/RatDed2.ogg]\c[0]Really Big Bunny：\c[0]    SQUEAK! SQUEAAAK!!!
+\CamMP[MerA]\BonMP[MerA,20]\c[4]ทหารรับจ้าง：\c[0]    โอ้ ควย! มันฆ่าเบอร์นีย์!
+\CamMP[MerB]\BonMP[MerB,5]\c[4]ทหารรับจ้าง：\c[0]    ควย! อีปีศาจ!!!
+\CamMP[KillerRabbit]\BonMP[KillerRabbit,5]\SND[SE/RatDed2.ogg]\c[0]กระต่ายตัวใหญ่มาก：\c[0]    จิ๊ก! จิ๊กจ๊อก!
 
 yeller/start3
-\CamMP[KillerRabbit]\BonMP[KillerRabbit,5]\SND[SE/RatDed1.ogg]\c[0]Really Big Bunny：\c[0]    Squeak! Squeak!
-\CamCT\m[flirty]\C[0]\C[6]Lona：\C[0]    Huh?! Is that a rabbit...?
+\CamMP[KillerRabbit]\BonMP[KillerRabbit,5]\SND[SE/RatDed1.ogg]\c[0]กระต่ายตัวใหญ่มาก：\c[0]    จิ๊ก! จิ๊ก!
+\CamCT\m[flirty]\C[0]\C[6]โลน่า：\C[0]    อะไรนะ?! นี่มันกระต่าย...?
 
 ################################# OP
 
 priest/begin0
-\prf\BonMP[Priest,8]\c[4]Mercenary：\c[0]    I know this monster! I've read about it in the Caerbannog scriptures!
-\prf\BonMP[Priest,8]\c[4]Mercenary：\c[0]    By the Saint! This is The Dark Gluttonous One!\optB[Leave,Ask about what's happening,Give Holy Water<r=HiddenOPT0>]
+\prf\BonMP[Priest,8]\c[4]ทหารรับจ้าง：\c[0]    กูรู้จักปีศาจตัวนี้! กูอ่านเจอในคัมภีร์แคร์บันน็อก!
+\prf\BonMP[Priest,8]\c[4]ทหารรับจ้าง：\c[0]    ขอพระนักบุญ! นี่คือผู้กินมืด!\optB[ออก,ถามเรื่องที่เกิดขึ้น,ให้น้ำศักดิ์สิทธิ์<r=HiddenOPT0>]
 
 priest/win
-\prf\BonMP[Priest,20]\c[4]Mercenary：\c[0]    Success! Evil is eliminated! The treasure is all mine!
+\prf\BonMP[Priest,20]\c[4]ทหารรับจ้าง：\c[0]    สำเร็จแล้ว! ความชั่วร้ายถูกกำจัด! สมบัติเป็นของกูทั้งหมด!
 
 priest/about
-\CamCT\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Can you tell me what's happening here?
-\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]Mercenary：\c[0]    We took on a quest of killing an abnormal animal of some sort, but inside this place awaiting us was no mere animal!
-\CamMP[Priest]\BonMP[Priest,6]\prf\c[4]Mercenary：\c[0]    It's The Dark Gluttonous One!
-\CamMP[KillerRabbit]\BonMP[Priest,20]\prf\c[4]Mercenary：\c[0]    The Gluttons will arrive with The Darkness and follow the Footsteps of Lies. They will devour everything in their way. 
-\CamMP[KillerRabbit]\BonMP[Priest,20]\prf\c[4]Mercenary：\c[0]    Now, which chapter and section mentioned this...? Gah, I can't remember!
-\CamMP[KillerRabbit]\BonMP[Priest,15]\prf\c[4]Mercenary：\c[0]    Look at its red eyes and white fur! This is a symbol of Sin!
-\CamMP[Priest]\BonMP[Priest,6]\prf\c[4]Mercenary：\c[0]    We'll need \c[2] Holy Water\c[0]!\n \c[2]Holy Water\c[0] has the power to purify all evil,\n but I was kicked out of the church by the Saint's Association!
-\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]Mercenary：\c[0]   Help me get some\n \c[2]Holy Water\c[0]! With it, I'll be able to defeat the monster!
-\CamCT\m[serious]\Rshake\C[0]\C[6]Lona：\C[0]    No problem!
+\CamCT\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    หนูอยากรู้ว่าที่นี่เกิดอะไรขึ้น?
+\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]ทหารรับจ้าง：\c[0]    เรารับภารกิจฆ่าสัตว์ประหลาดบางอย่าง แต่ที่นี่ไม่ใช่สัตว์ธรรมดา!
+\CamMP[Priest]\BonMP[Priest,6]\prf\c[4]ทหารรับจ้าง：\c[0]    มันคือผู้กินมืด!
+\CamMP[KillerRabbit]\BonMP[Priest,20]\prf\c[4]ทหารรับจ้าง：\c[0]    พวกกินมืดจะมาพร้อมกับความมืดและตามรอยเท้าของความเท็จ พวกมันจะกินทุกอย่างที่ขวางหน้า
+\CamMP[KillerRabbit]\BonMP[Priest,20]\prf\c[4]ทหารรับจ้าง：\c[0]    ตอนนี้บทและหัวข้อไหนที่กล่าวถึงนี่...? อ๊ะ กูจำไม่ได้!
+\CamMP[KillerRabbit]\BonMP[Priest,15]\prf\c[4]ทหารรับจ้าง：\c[0]    ดูตาสีแดงและขนสีขาวของมันสิ! นี่คือสัญลักษณ์ของบาป!
+\CamMP[Priest]\BonMP[Priest,6]\prf\c[4]ทหารรับจ้าง：\c[0]    เราต้องการ \c[2]น้ำศักดิ์สิทธิ์\c[0]!\n \c[2]น้ำศักดิ์สิทธิ์\c[0]มีพลังชำระล้างความชั่วร้ายทั้งหมด,\n แต่กูถูกไล่ออกจากโบสถ์โดยสมาคมนักบุญ!
+\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]ทหารรับจ้าง：\c[0]   ช่วยกูหาน้ำศักดิ์สิทธิ์มาหน่อย! ถ้ามีมัน กูจะสามารถเอาชนะปีศาจได้!
+\CamCT\m[serious]\Rshake\C[0]\C[6]โลน่า：\C[0]    ไม่มีปัญหา!
 
 priest/HolyWater0
-\CamCT\m[shocked]\Rshake\C[0]\C[6]Lona：\C[0]    I've got the Holy Water!
+\CamCT\m[shocked]\Rshake\C[0]\C[6]โลน่า：\C[0]    หนูเอาน้ำศักดิ์สิทธิ์มาแล้ว!
 
 priest/HolyWater1
-\CamMP[Priest]\BonMP[Priest,3]\prf\c[4]Mercenary：\c[0]    Great!
+\CamMP[Priest]\BonMP[Priest,3]\prf\c[4]ทหารรับจ้าง：\c[0]    ดีมาก!
 
 priest/HolyWater2
-\CamMP[Priest]\BonMP[Priest,8]\prf\c[4]Mercenary：\c[0]    Oh Saint in heaven, bless the innocent with your grace!
-\CamMP[Priest]\BonMP[Priest,8]\prf\c[4]Mercenary：\c[0]    Oh Saint in heaven, I pray for you to eliminate all Lies and Evil!
-\CamMP[Priest]\BonMP[Priest,8]\prf\c[4]Mercenary：\c[0]    Praise the Saint!
-\CamCT\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    So, just sprinkling some over here should be enough?
-\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]Mercenary：\c[0]    Don't worry, this is now already a sanctuary of the Saint. Any evil beings or Lies that come here will be smited by the Saint!
-\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]Mercenary：\c[0]    Now then, we will need someone to distract the monster and lead it into the sanctuary.
-\CamCT\m[wtf]\PRF\C[0]\C[6]Lona：\C[0]    ...Huh?
-\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]Mercenary：\c[0]    Little girl, it shall be you! GO! Follow in the footsteps of the Saint and lead evil to its demise!
-\CamCT\m[shocked]\Rshake\C[0]\C[6]Lona：\C[0]    E-EHHH?! Me?!
+\CamMP[Priest]\BonMP[Priest,8]\prf\c[4]ทหารรับจ้าง：\c[0]    โอ้ พระนักบุญในสวรรค์ ขอพรให้ผู้บริสุทธิ์ด้วยความเมตตาของท่าน!
+\CamMP[Priest]\BonMP[Priest,8]\prf\c[4]ทหารรับจ้าง：\c[0]    โอ้ พระนักบุญในสวรรค์ กูขอให้ท่านกำจัดความเท็จและความชั่วร้ายทั้งหมด!
+\CamMP[Priest]\BonMP[Priest,8]\prf\c[4]ทหารรับจ้าง：\c[0]    สรรเสริญพระนักบุญ!
+\CamCT\m[confused]\PRF\C[0]\C[6]โลน่า：\C[0]    แล้วแค่โรยน้ำนิดหน่อยก็พอใช่ไหม?
+\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]ทหารรับจ้าง：\c[0]    อย่ากังวล ที่นี่ตอนนี้เป็นที่พักพิงของพระนักบุญแล้ว สิ่งชั่วร้ายหรือความเท็จที่มาที่นี่จะถูกพระนักบุญทำลาย!
+\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]ทหารรับจ้าง：\c[0]    ตอนนี้ เราต้องการใครสักคนมาล่อปีศาจและนำมันเข้ามาในที่พักพิง
+\CamCT\m[wtf]\PRF\C[0]\C[6]โลน่า：\C[0]    ...อะไรนะ?
+\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]ทหารรับจ้าง：\c[0]    เด็กน้อย มันต้องเป็นเธอ! ไป! ตามรอยเท้าของพระนักบุญและนำความชั่วร้ายไปสู่ความตาย!
+\CamCT\m[shocked]\Rshake\C[0]\C[6]โลน่า：\C[0]    อะ-อะไรนะ?! หนูเหรอ?!
 
 priest/HolyWater3
-\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]Mercenary：\c[0]    Don't be afraid, go on! The Saint will protect you!
-\CamCT\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    Ummm?
-
+\CamMP[Priest]\BonMP[Priest,20]\prf\c[4]ทหารรับจ้าง：\c[0]    อย่ากลัว ไปเถอะ! พระนักบุญจะคุ้มครองเธอ!
+\CamCT\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    อืมม?
 
 Lona/RabbitDed0
-\CamMP[KillerRabbit]\narr The Saint's Holy Water was slippery and sour.
-It made the rabbit tumble like a bag of flour.
-The lil' bunny fell and bumped its head.
-Not a moment later, it now lay dead...
+\CamMP[KillerRabbit]\narr น้ำศักดิ์สิทธิ์ของพระนักบุญมันลื่นและเปรี้ยว
+มันทำให้กระต่ายล้มลงเหมือนถุงแป้ง
+กระต่ายตัวเล็กล้มและกระแทกหัว
+ไม่นานหลังจากนั้น มันก็ตาย...
 
 Lona/RabbitDed1
-\CamCT\m[flirty]\PRF\C[0]\C[6]Lona：\C[0]    No way! Did that really work?
-
+\CamCT\m[flirty]\PRF\C[0]\C[6]โลน่า：\C[0]    ไม่น่าเชื่อ! มันได้ผลจริงๆ เหรอ?
 
 ################################# advanture common
 MerA/Common
-\prf\c[4]Mercenary：\c[0]    Like I've said before, rabbits aren't cute at all!
+\prf\c[4]ทหารรับจ้าง：\c[0]    อย่างที่กูบอกไว้ กระต่ายไม่น่ารักเลย!
 
 MerB/Common
-\prf\c[4]Mercenary：\c[0]    If a little rabbit can turn into this when exposed to the Black Mist, what about humans?
+\prf\c[4]ทหารรับจ้าง：\c[0]    ถ้ากระต่ายตัวเล็กสัมผัสกับหมอกดำแล้วกลายเป็นแบบนี้ แล้วมนุษย์ล่ะ?
 
 MerB/Win
-\prf\c[4]Mercenary：\c[0]    Thanks kid, but we ain't got nothin' to give you. Go back and grab something to eat on your own.
+\prf\c[4]ทหารรับจ้าง：\c[0]    ขอบคุณนะเด็กน้อย แต่กูไม่มีอะไรให้เธอ กลับไปหาอะไรกินเองเถอะ
 
 MerA/Win
-\prf\c[4]Mercenary：\c[0]    Holy shit! The treasure is mine now! ALL MINE!
+\prf\c[4]ทหารรับจ้าง：\c[0]    ควย! สมบัติเป็นของกูแล้ว! ของกูทั้งหมด!
 
 Box/MerAnyAlive0
-\prf\c[4]Mercenaries：\c[0]    \{HEY!!!
-\CamCT\m[shocked]\Rshake\C[0]\C[6]Lona：\C[0]    Eh?! Y-Yes...?
+\prf\c[4]ทหารรับจ้าง：\c[0]    \{เฮ้!!!
+\CamCT\m[shocked]\Rshake\C[0]\C[6]โลน่า：\C[0]    อะไรนะ?! อ-อะไรคะ...?
 
 Box/MerAnyAlive1
-\prf\c[4]Mercenary：\c[0]    The treasure is ours! Fuck off you little runt!
-\CamCT\m[confused]\PRF\C[0]\C[6]Lona：\C[0]    But I helped you guys out...
+\prf\c[4]ทหารรับจ้าง：\c[0]    สมบัติเป็นของพวกกู! ไปให้พ้นๆ อีหนู!
+\CamCT\m[confused]\PRF\C[0]\C[6]โลน่า：\c[0]    แต่หนูช่วยพวกคุณนะ...
 
 Box/MerAnyAlive2
-\prf\c[4]Mercenary：\c[0]    FUCK! You stupid bitch! Are you deaf?!
+\prf\c[4]ทหารรับจ้าง：\c[0]    ควย! อีบ้า! หูหนวกรึไง?!
 
 Box/MerAnyAlive3
-\prf\c[4]Mercenaries：\c[0]    \{KILL HER!!!
-\CamCT\m[shocked]\Rshake\C[0]\C[6]Lona：\C[0]    \{EEEP!
+\prf\c[4]ทหารรับจ้าง：\c[0]    \{ฆ่ามัน!!!
+\CamCT\m[shocked]\Rshake\C[0]\C[6]โลน่า：\C[0]    \{อี๊บ!
 
 #Translation by Joko Komodo. Full clean-up by Sugoi Soy Boy. Fuck off MTLing monkeys.
